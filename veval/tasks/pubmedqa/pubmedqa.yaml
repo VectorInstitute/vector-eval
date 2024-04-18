@@ -1,0 +1,26 @@
+task_name: pubmedqa
+dataset_path: bigbio/pubmed_qa
+dataset_name: pubmed_qa_labeled_fold0_source
+dataset_kwargs:
+  trust_remote_code: True
+validation_split: validation
+docs_path: veval/tasks/pubmedqa/doc_store
+data_instance_map: 
+  query: QUESTION
+  gt_answer: LONG_ANSWER
+  gt_context: CONTEXTS
+metric_list:
+  - metric: relevance_query_answer
+    args: 
+      - query
+      - context
+      - answer
+  - metric: groundedness_context_answer
+    args:
+      - query 
+      - context
+      - answer
+  - metric: relevance_query_context
+    args:
+      - query
+      - context
