@@ -16,10 +16,11 @@ from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.vector_stores.faiss import FaissVectorStore
-from models.utils import trim_predictions_to_max_token_length
 from transformers import (
-    BitsAndBytesConfig,
+    BitsAndBytesConfig, LlamaTokenizerFast
 )
+
+from veval.utils.model_utils import trim_predictions_to_max_token_length
 
 from .template import System, SystemResponse
 
@@ -33,6 +34,8 @@ class BasicRag(System):
     def __init__(self):
         super().__init__()
 
+        self.artifact_dir = "/fs01/projects/opt_test/meta-comphrehensive-rag-benchmark-project"
+
         # Define chunking vars for node parser
         self.chunk_size = 256
         self.chunk_overlap = 0
@@ -45,6 +48,7 @@ class BasicRag(System):
 
         # Load embedding model
         embed_model_name='models/embedding-model/bge-small-en-v1.5'
+        embed_model_name = os.path.join(self.artifact_dir, embed_model_name)
         self.embed_model = HuggingFaceEmbedding(
             model_name=embed_model_name
         )
@@ -52,6 +56,7 @@ class BasicRag(System):
         # Load LLM
         # Specify the large language model to be used.
         model_name = "models/meta-llama/Llama-2-7b-chat-hf"
+        model_name = os.path.join(self.artifact_dir, model_name)
         # Configuration for model quantization to improve performance, using 4-bit precision.
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
@@ -60,6 +65,7 @@ class BasicRag(System):
             bnb_4bit_use_double_quant=False,
         )
         # Load the large language model with the specified quantization configuration.
+        self.tokenizer = LlamaTokenizerFast.from_pretrained(model_name)
         self.llm = HuggingFaceLLM(
             model_name=model_name,
             tokenizer_name=model_name,
@@ -147,8 +153,10 @@ class BasicRag(System):
             # If the model fails to generate an answer, return a default response.
             answer = "I don't know"
                                 
-        # Trim the prediction to a maximum of 75 tokens (this function needs to be defined).
-        trimmed_answer = trim_predictions_to_max_token_length(answer)
+        # Trim the prediction to a maximum of 128 (default) tokens.
+        trimmed_answer = trim_predictions_to_max_token_length(
+            tokenizer=self.tokenizer, prediction=answer
+        )
 
         sys_response = SystemResponse(
             query=query,
