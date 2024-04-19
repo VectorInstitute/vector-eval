@@ -126,8 +126,9 @@ class Task(abc.ABC):
         instances = []
         for elm_idx, elm in tqdm(enumerate(eval_data), desc="Building instances"):
             instances.append(self.construct_instance(elm))
+        self.instances = instances
         if self.limit is not None:
-            self.instances = instances[:self.limit]
+            self.instances = self.instances[:self.limit]
 
     # Code borrowed from: 
     # https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/api/task.py#L870C5-L875C10
