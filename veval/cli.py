@@ -24,9 +24,9 @@ def main(args):
     task_obj.build()
     
     if system == "basic_rag":
-        rag_sys_obj = BasicRag()
+        rag_sys_obj = BasicRag(openai=True)
     elif system == "rerank_rag":
-        rag_sys_obj = RerankRag()
+        rag_sys_obj = RerankRag(openai=True)
     else:
         raise ValueError(f"System {system} not supported.")
 

@@ -36,6 +36,7 @@ class Evaluator():
             sys_resp = self._system.invoke(
                 query=instance.query, docs=task_docs)
             resps.append(sys_resp)
+        self._system.cleanup()
 
         result = self._task.process_results(
             insts=self._task.instances,

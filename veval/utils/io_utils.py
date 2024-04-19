@@ -1,4 +1,5 @@
 import json
+import shutil
 import yaml
 
 
@@ -20,3 +21,7 @@ def read_from_json(file_path):
         data = json.load(f)
     
     return data
+
+def delete_directory(directory_path):
+    """Deletes a directory and its contents."""
+    shutil.rmtree(directory_path)
