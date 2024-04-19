@@ -8,24 +8,21 @@
 [![codecov](https://codecov.io/gh/VectorInstitute/aieng-template/branch/main/graph/badge.svg)](https://codecov.io/gh/VectorInstitute/aieng-template)
 [![license](https://img.shields.io/github/license/VectorInstitute/aieng-template.svg)](https://github.com/VectorInstitute/aieng-template/blob/main/LICENSE)
 
-A template repo for AI Engineering projects (using ``python``)
+A repo for evaluating RAG systems.
 
 ## 🧑🏿‍💻 Developing
 
 ### Installing dependencies
 
-The development environment can be set up using
-[poetry](https://python-poetry.org/docs/#installation). Hence, make sure it is
-installed and then run:
-
+Create a new env and install the required packages:
 ```bash
-python3 -m poetry install
-source $(poetry env info --path)/bin/activate
+python3 -m venv env
+source env/bin/activate
+python -m pip install --upgrade pip
+python3 -m pip install -r requirements.txt
 ```
 
-In order to install dependencies for testing (codestyle, unit tests, integration tests),
-run:
-
+Run evaluation for task <task> using system <system>:
 ```bash
-python3 -m poetry install --with test
+python3 veval/cli.py --task <task> --sys <system>
 ```
