@@ -22,7 +22,7 @@ python -m pip install --upgrade pip
 python3 -m pip install -r requirements.txt
 ```
 
-Run evaluation for task <task> using system <system>:
+Run evaluation for TASK (for e.g. pubmedqa) using SYSTEM (for e.g. basic_rag):
 ```bash
-python3 veval/cli.py --task <task> --sys <system>
+python3 veval/cli.py --task <TASK> --sys <SYSTEM>
 ```
