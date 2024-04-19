@@ -1,6 +1,5 @@
 from typing import List
 
-
 from llama_index.core import (
     Document, VectorStoreIndex, PromptTemplate, 
     get_response_synthesizer,
@@ -10,13 +9,14 @@ from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.llms.openai import OpenAI
 
+from veval.utils.model_utils import trim_predictions_to_max_token_length
+
 from .basic_rag import BasicRag
 from .template import SystemResponse
 
-from veval.utils.model_utils import trim_predictions_to_max_token_length
-
 
 class RerankRag(BasicRag):
+    """A linear RAG system using a reranker model."""
     def __init__(self):
         super().__init__()
 
@@ -58,12 +58,14 @@ class RerankRag(BasicRag):
 
         try:
             result = query_engine.query(query)
+            # Obtain raw retrieved context
             retrieved_context = query_engine.retriever.retrieve(query)
+            # Obtain re-ranked context
             reranked_context = [elm.node.get_content() for elm in result.source_nodes]
             result = result.response
         except Exception as e:
             print(f"Cannot obtain response: {e}")
-            result = ''
+            result = "I don't know"
             retrieved_context = ['']
             reranked_context = ['']
         

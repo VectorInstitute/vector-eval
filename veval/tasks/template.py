@@ -15,6 +15,16 @@ from veval.systems.template import SystemResponse
 
 @dataclass
 class Instance:
+    """
+    A class to represents an instance of a query and its 
+    corresponding ground truth answer and context (if available).
+    
+    Attributes:
+        query (str): The query string.
+        gt_answer (str): The ground truth answer string.
+        gt_context (Optional[List[str]]): The ground truth context 
+            as a list of strings, or None if not available.
+    """
     query: str
     gt_answer: str
     gt_context: Optional[List[str]]
@@ -22,12 +32,36 @@ class Instance:
 
 @dataclass
 class DocumentStore:
+    """
+    A class representing a document store.
+
+    Attributes:
+        documents (List[str]): A list of documents stored in the document store.
+        docs_path (str): The path to the document store.
+    """
     documents: List[str]
     docs_path: str
 
 
 @dataclass
 class TaskConfig(dict):
+    """
+    Represents the configuration for a task.
+
+    Attributes:
+        task_name (Optional[str]): The name of the task.
+        dataset_path (Optional[str]): The path to the dataset.
+        dataset_name (Optional[str]): The name of a specific subset of the dataset.
+        dataset_kwargs (Optional[Dict[str, Any]]): Additional keyword arguments for the dataset.
+        validation_split (Optional[str]): The validation split alias for the dataset.
+        data_instance_map (Optional[Dict[str, Any]]): A mapping of fields for the data instance.
+        docs_path (Optional[str]): The path to the document store for the dataset.
+        metric_list (Optional[list]): A list of metrics to be computed.
+
+    Methods:
+        __getitem__(self, key: Any) -> Any: Returns the value of the specified attribute.
+        __setitem__(self, key: Any, value: Any) -> None: Sets the value of the specified attribute.
+    """
     task_name: Optional[str] = None
     dataset_path: Optional[str] = None
     dataset_name: Optional[str] = None
@@ -45,7 +79,18 @@ class TaskConfig(dict):
     
 
 class Task(abc.ABC):
-    def __init__(self, config: Optional[dict] = None):
+    """
+    Class to represent a task. Implements an interface for loading 
+    dataset and documents as well as calculating metrics.
+    """
+    def __init__(self, config: Optional[dict] = None) -> None:
+        """
+        Initializes a Task object.
+
+        Args:
+            config (Optional[dict]): A dictionary containing the configuration 
+                for the task. If None, a ValueError is raised.
+        """
         if config is None:
             raise ValueError("Task configuration must be provided in `config` kwarg.")
         self.config = TaskConfig(**config)
@@ -65,7 +110,8 @@ class Task(abc.ABC):
 
         self.limit = 2
 
-    def build(self):
+    def build(self) -> None:
+        """Loads the dataset and constructs the documents store."""
         eval_data = self.validation_dataset()
 
         if not os.path.exists(self.config.docs_path):
@@ -84,13 +130,29 @@ class Task(abc.ABC):
     # Code borrowed from: 
     # https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/api/task.py#L870C5-L875C10
     def download(self, dataset_kwargs: Optional[Dict[str, Any]] = None) -> None:
+        """
+        Downloads the dataset from the specified path.
+
+        Args:
+            dataset_kwargs (Optional[Dict[str, Any]]): 
+                Additional keyword arguments to be passed.
+        """
         self.dataset = datasets.load_dataset(
             path=self.config.dataset_path,
             name=self.config.dataset_name,
             **dataset_kwargs if dataset_kwargs is not None else {},
         )
 
-    def construct_instance(self, elm) -> Instance:
+    def construct_instance(self, elm: Dict) -> Instance:
+        """
+        Constructs an instance of the `Instance` class using the provided input.
+
+        Args:
+            elm (dict): The input dictionary containing an element of the dataset.
+
+        Returns:
+            Instance: An instance of the `Instance` class.
+        """
         return Instance(
             query=elm[self.data_instance_map.get("query")],
             gt_answer=elm[self.data_instance_map.get("gt_answer")],
@@ -102,6 +164,13 @@ class Task(abc.ABC):
 
     # TODO - How to generalize this? Needs more brainstorming.
     def _create_doc_store(self, data: datasets.Dataset) -> None:
+        """
+        Creates a document store by writing the ground truth context 
+        of each element in the given dataset to separate text files.
+
+        Args:
+            data (datasets.Dataset): The dataset containing the elements.
+        """
         os.makedirs(self.config.docs_path, exist_ok=True)
         for idx, elm in tqdm(enumerate(data), desc="Creating document store"):
             filepath = os.path.join(self.config.docs_path, f'doc_{idx+1}.txt')
@@ -112,6 +181,12 @@ class Task(abc.ABC):
                 f.write(context)
 
     def read_docs(self) -> List[str]:
+        """
+        Reads and returns a list of documents from the document store.
+
+        Returns:
+            List[str]: A list of document strings.
+        """
         docs = []
         for filename in tqdm(
             os.listdir(self.config.docs_path), 
@@ -124,7 +199,17 @@ class Task(abc.ABC):
         return docs
 
     def process_results(self, insts: List[Instance], resps: List[SystemResponse]):
+        """
+        Calculate metrics associated with the task.
 
+        Args:
+            insts (List[Instance]): A list of instances representing the evaluation queries.
+            resps (List[SystemResponse]): A list of system responses corresponding to the evaluation queries.
+
+        Returns:
+            dict: A dictionary containing the evaluation results, 
+                where the keys are the metric names and the values are the computed metric scores.
+        """
         inputs = {
             "query": [inst.query for inst in insts],
             "context": [resp.context for resp in resps],

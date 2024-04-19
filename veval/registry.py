@@ -8,6 +8,7 @@ from veval.metrics.template import (
 )
 
 
+# TODO - Remove hardcoding of available metrics.
 METRIC_REGISTRY = {
     "relevance_query_answer": relevance_query_answer,
     "groundedness_context_answer": groundedness_context_answer,

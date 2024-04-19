@@ -1,32 +1,16 @@
-import os
-from pathlib import Path
-from typing import Dict, List, Optional
+from typing import List, Optional
 
 from datasets import Dataset
 from langchain_openai import ChatOpenAI
 from ragas import evaluate
 from ragas.metrics import (
-    answer_relevancy, faithfulness, context_relevancy, 
-    answer_correctness, answer_similarity,
+    answer_relevancy, 
+    faithfulness, 
+    context_relevancy, 
+    answer_correctness,
 )
 
-# from veval.registry import register_metric
 
-
-# Read OpenAI API key
-try:
-    f = open(Path.home() / ".openai.key", "r")
-    os.environ["OPENAI_API_KEY"] = f.read().rstrip("\n")
-    f.close()
-except Exception as err:
-    print(f"Could not read your OpenAI API key: {err}")
-
-
-# @register_metric(
-#     metric="relevance_query_answer",
-#     higher_is_better=True,
-#     requires_ground_truth=False,
-# )
 def relevance_query_answer(
         query: List[str], 
         context: List[List[str]], 
@@ -72,6 +56,7 @@ def answer_correctness(
 
 # Define class for metrics which use LLM as a judge
 class LLMJudgeMetrics:
+    """Class for metrics which use LLM as a judge."""
     def __init__(self, openai_model: str = "gpt-3.5-turbo-0125") -> None:
         self._openai_model = ChatOpenAI(
             model_name=openai_model, 
@@ -95,7 +80,7 @@ class LLMJudgeMetrics:
             answer (List[str]): List of answer, one for each sample.
 
         Returns:
-            Dict[str, float]: A single element dict with the query-answer relevancy score.
+            float: The query-answer relevancy score.
         """
         data = Dataset.from_dict({
             "question": query,
@@ -125,7 +110,7 @@ class LLMJudgeMetrics:
             answer (List[str]): List of answer, one for each sample.
 
         Returns:
-            Dict[str, float]: A single element dict with the context-answer groundedness score.
+            float: The context-answer groundedness score.
         """
         data = Dataset.from_dict({
             "question": query,
@@ -153,7 +138,7 @@ class LLMJudgeMetrics:
             context (List[List[str]]): List of retrieved contexts, one/many for each sample.
 
         Returns:
-            Dict[str, float]: A single element dict with the query-context relevancy score.
+            float: The query-context relevancy score.
         """
         data = Dataset.from_dict({
             "question": query,
@@ -184,7 +169,7 @@ class LLMJudgeMetrics:
             gt_answer (List[str]): List of ground truth answer, one for each sample.
 
         Returns:
-            Dict[str, float]: A single element dict with the query-context relevancy score.
+            float: The answer correctness score.
         """
         data = Dataset.from_dict({
             "question": query,

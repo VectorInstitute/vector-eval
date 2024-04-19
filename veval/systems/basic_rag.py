@@ -2,10 +2,8 @@ import os
 from typing import List
 
 import faiss
-import numpy as np
 import torch
 
-from bs4 import BeautifulSoup
 from llama_index.core import (
     Document, ServiceContext, StorageContext, VectorStoreIndex, PromptTemplate, 
     get_response_synthesizer,
@@ -31,6 +29,7 @@ def get_embed_model_dim(embed_model):
 
 
 class BasicRag(System):
+    """A basic RAG system with a linear pipeline."""
     def __init__(self):
         super().__init__()
 
@@ -143,7 +142,7 @@ class BasicRag(System):
             result = result.response
         except Exception as e:
             print(f"Cannot obtain response: {e}")
-            result = ''
+            result = "I don't know"
             retrieved_context = ['']
         
         try:
