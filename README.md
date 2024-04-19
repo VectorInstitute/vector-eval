@@ -1,4 +1,4 @@
-# AI Engineering template
+# Vector-Eval
 
 ----------------------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 [![codecov](https://codecov.io/gh/VectorInstitute/aieng-template/branch/main/graph/badge.svg)](https://codecov.io/gh/VectorInstitute/aieng-template)
 [![license](https://img.shields.io/github/license/VectorInstitute/aieng-template.svg)](https://github.com/VectorInstitute/aieng-template/blob/main/LICENSE)
 
-A repo for evaluating RAG systems.
+A repository for evaluating RAG systems.
 
 ## 🧑🏿‍💻 Developing
 
