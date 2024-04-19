@@ -6,12 +6,13 @@ from veval.evaluate import Evaluator
 from veval.systems.basic_rag import BasicRag
 from veval.systems.rerank_rag import RerankRag
 from veval.tasks.template import Task
-from veval.utils.io_utils import load_from_yaml
+from veval.utils.io_utils import load_from_yaml, write_to_json, read_from_json
 
 
 def main(args):
     task = args.task
     system = args.sys
+    limit = int(args.limit) if args.limit != -1 else None
 
     try:
         cfg_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"tasks/{task}/{task}.yaml")
@@ -19,7 +20,7 @@ def main(args):
     except FileNotFoundError:
         raise Exception(f"Task {task} not supported or the configuration file does not exists.")
         
-    task_obj = Task(config=cfg)
+    task_obj = Task(config=cfg, limit=limit)
     task_obj.build()
     
     if system == "basic_rag":
@@ -31,8 +32,17 @@ def main(args):
 
     eval_obj = Evaluator(system=rag_sys_obj, task=task_obj)
     output = eval_obj.evaluate()
+    output = {
+        f"{system}": output
+    }
 
-    print(output)
+    out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"tasks/{task}/results.json")
+    if os.path.exists(out_path):
+        results = read_from_json(out_path)
+        results.update(output)
+    else:
+        results = output
+    write_to_json(results, out_path)
 
 
 if __name__ == "__main__":
@@ -41,6 +51,7 @@ if __name__ == "__main__":
 
     parser.add_argument("--task", type=str, default="pubmedqa", help="Specify the task.")
     parser.add_argument("--sys", type=str, default="basic_rag", help="Specify the system.")
+    parser.add_argument("--limit", type=int, default=-1, help="Limit the number of instances.")
 
     args = parser.parse_args()
 

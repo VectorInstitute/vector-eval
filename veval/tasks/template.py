@@ -2,6 +2,7 @@ import abc
 import datasets
 import os
 
+from collections import defaultdict
 from dataclasses import dataclass
 from inspect import getsource
 from tqdm import tqdm
@@ -83,7 +84,7 @@ class Task(abc.ABC):
     Class to represent a task. Implements an interface for loading 
     dataset and documents as well as calculating metrics.
     """
-    def __init__(self, config: Optional[dict] = None) -> None:
+    def __init__(self, config: Optional[dict] = None, **kwargs) -> None:
         """
         Initializes a Task object.
 
@@ -108,7 +109,7 @@ class Task(abc.ABC):
         self.instances: List[Instance] = None
         self.doc_store: DocumentStore = None
 
-        self.limit = 2
+        self.limit = kwargs.get("limit", None)
 
     def build(self) -> None:
         """Loads the dataset and constructs the documents store."""
@@ -125,7 +126,8 @@ class Task(abc.ABC):
         instances = []
         for elm_idx, elm in tqdm(enumerate(eval_data), desc="Building instances"):
             instances.append(self.construct_instance(elm))
-        self.instances = instances[:self.limit]
+        if self.limit is not None:
+            self.instances = instances[:self.limit]
 
     # Code borrowed from: 
     # https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/api/task.py#L870C5-L875C10
@@ -210,19 +212,34 @@ class Task(abc.ABC):
             dict: A dictionary containing the evaluation results, 
                 where the keys are the metric names and the values are the computed metric scores.
         """
-        inputs = {
-            "query": [inst.query for inst in insts],
-            "context": [resp.context for resp in resps],
-            "answer": [resp.answer for resp in resps],
-            "gt_answer": [inst.gt_answer for inst in insts],
-            "gt_context": [inst.gt_context for inst in insts],
-        }
+        assert len(insts) == len(resps), f"Mismatch between number of instances ({len(insts)}) and responses ({len(resps)})."
 
-        result_dict = {}
-        for metric_name, metric_fn in self._metric_fn_list.items():
-            result_dict[metric_name] = metric_fn(
-                **{k: v for k, v in inputs.items() if k in self._metric_fn_args_list[metric_name]}
-            )
+        # Handle multiple intermediate contexts from the system. Evaluate all metrics for all contexts.
+        # TODO: Think of a less redundant logic.
+        context_keys = resps[0].context.keys()
+        inputs = defaultdict()
+        for ctx_k in context_keys:
+            inputs[ctx_k] = {
+                "query": [],
+                "context": [],
+                "answer": [],
+                "gt_answer": [],
+                "gt_context": [],
+            }
+        for inst, resp in zip(insts, resps):
+            for ctx_k in context_keys:
+                inputs[ctx_k]["query"].append(inst.query)
+                inputs[ctx_k]["context"].append(resp.context[ctx_k])
+                inputs[ctx_k]["answer"].append(resp.answer)
+                inputs[ctx_k]["gt_answer"].append(inst.gt_answer)
+                inputs[ctx_k]["gt_context"].append(inst.gt_context)
+
+        result_dict = {k: defaultdict() for k in context_keys}
+        for ctx_k in context_keys:
+            for metric_name, metric_fn in self._metric_fn_list.items():
+                result_dict[ctx_k][metric_name] = metric_fn(
+                    **{k: v for k, v in inputs[ctx_k].items() if k in self._metric_fn_args_list[metric_name]}
+                )
 
         return result_dict
     
