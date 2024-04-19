@@ -23,7 +23,8 @@ class Evaluator():
         ):
             sys_resp = self._system.invoke(
                 query=instance.query, docs=task_docs)
-            sys_resp.context = sys_resp.context["vector_retriever"]
+            # sys_resp.context = sys_resp.context["vector_retriever"]
+            sys_resp.context = sys_resp.context["reranker"]
             resps.append(sys_resp)
 
         result = self._task.process_results(

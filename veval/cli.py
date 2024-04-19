@@ -3,6 +3,7 @@ import os
 
 from veval.evaluate import Evaluator
 from veval.systems.basic_rag import BasicRag
+from veval.systems.rerank_rag import RerankRag
 from veval.tasks.template import Task
 from veval.utils.io_utils import load_from_yaml
 
@@ -15,7 +16,8 @@ def main(args):
     task_obj = Task(config=cfg)
     task_obj.build()
     
-    rag_sys_obj = BasicRag()
+    # rag_sys_obj = BasicRag()
+    rag_sys_obj = RerankRag()
 
     eval_obj = Evaluator(system=rag_sys_obj, task=task_obj)
     output = eval_obj.evaluate()
