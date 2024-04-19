@@ -1,0 +1,42 @@
+The JUpiter ICy moons Explorer (Juice, formerly JUICE) is an interplanetary spacecraft that was launched on 14 April 2023 from Guiana Space Centre in the French Guiana by the European Space Agency (ESA) with Airbus Defence and Space as the main contractor. The mission is planned to study Ganymede, Callisto, and Europa, three of Jupiter's Galilean moons. They are thought to have significant bodies of liquid water beneath their icy surfaces which would make them potentially habitable environments.The spacecraft was launched on 14 April 2023 at 12:14:36 UTC and is expected to reach Jupiter in July 2031 after four gravity assists and eight years of travel. In December 2034, the spacecraft will enter orbit around Ganymede for its close-up science mission. Its period of operations will overlap with NASA's Europa Clipper mission, launching in 2024.
+
+Background
+The mission started as a reformulation of the Jupiter Ganymede Orbiter proposal, which was to be ESA's component of the cancelled Europa Jupiter System Mission – Laplace (EJSM-Laplace). It became a candidate for the first L-class mission (L1) of the ESA Cosmic Vision Programme, and its selection was announced on 2 May 2012.In April 2012, JUICE was recommended over the proposed Advanced Telescope for High Energy Astrophysics (ATHENA) X-ray telescope and a gravitational wave observatory (New Gravitational wave Observatory (NGO)).In July 2015, Airbus Defence and Space was selected as the prime contractor to design and build the probe, to be assembled in Toulouse, France.
+
+Spacecraft
+The main spacecraft design drivers are related to the large distance to the Sun, the use of solar power, and Jupiter's harsh radiation environment. The orbit insertions at Jupiter and Ganymede and the large number of flyby manoeuvres (more than 25 gravity assists, and two Europa flybys) require the spacecraft to carry about 3,000 kg (6,600 lb) of chemical propellant.JUICE has a fixed 2.5 meter diameter high-gain antenna and a steerable medium-gain antenna, both X- and K-band will be used. Downlink rates of 2 Gb/day are possible with ground-based Deep Space Antennas. On-board data storage capability is 1.25 Tb.The JUICE main engine is a hypergolic bi-propellant (mono-methyl hydrazine and mixed oxides of nitrogen) 425 N thruster. A 100 kg multilayer insulation provides thermal control. The spacecraft is 3-axis stabilized using momentum wheels. Radiation shielding is used to protect onboard electronics from the Jovian environment.The JUICE science payload has a mass of 280 kg and includes the JANUS camera system, the MAJIS visible and infrared imaging spectrometer, the UVS ultraviolet imaging spectrograph, RIME radar sounder, GALA laser altimeter, SWI submillimetre wave instrument, J-MAG magnetometer, PEP particle and plasma package, RPWI radio and plasma wave investigation, 3GM radio science package, the PRIDE radio science instrument, and the RADEM radiation monitor. A 10.6-meter deployable boom will hold J-MAG and RPWI, a 16-meter-long deployable antenna will be used for RIME. Four 3-meter booms carry parts of the RPWI instrument. The other instruments are mounted on the spacecraft body, or for 3GM, within the spacecraft bus.
+
+Timeline
+Launch
+JUICE was launched into space on 14 April 2023 from the Guiana Space Centre on an Ariane 5 rocket. This was the final launch of an ESA science mission using the Ariane 5 vehicle, and was the second to last launch of the rocket overall.The launch was originally scheduled for 13 April 2023, but due to poor weather the launch was postponed. The next day a second launch attempt succeeded, with liftoff occurring at 12:14:36 UTC. After the spacecraft separated from the rocket, it established a successful radio signal connection with the ground at 13:04 UTC. JUICE's solar arrays were deployed about half an hour later, prompting ESA to deem the launch a success.
+
+Trajectory
+Following the launch, there will be multiple planned gravity assists to put JUICE on a trajectory to Jupiter: a flyby of the Earth–Moon system in August 2024, Venus in August 2025, second flyby of Earth in September 2026, and a third and final flyby of Earth in January 2029.JUICE will pass through the asteroid belt twice. A flyby of the asteroid 223 Rosa has been proposed, and could occur in October 2029.Gravity assists include:
+Interplanetary transfer (Earth, Venus, Earth, Earth)
+Jupiter orbit insertion and apocentre reduction with multiple Ganymede gravity assists
+Reduction of velocity with Ganymede–Callisto assists
+Increase inclination with 10–12 Callisto gravity assists
+
+Arrival at the Jovian system
+When it arrives in Jupiter's system in July 2031, JUICE will first perform a flyby of Ganymede in preparation for Jupiter orbital insertion about 7.5 hours later. The first orbit will be elongated, with subsequent orbits gradually lowered over time, resulting in a circular orbit around Jupiter.The first Europa flyby will take place in July 2032. JUICE will enter a high inclination orbit to allow exploration of Jupiter's polar regions and to study Jupiter's magnetosphere.
+
+Orbital insertion on Ganymede
+In December 2034, JUICE will enter an elliptical orbit around Ganymede. The first orbit will be at a distance of 5,000 km (3,100 mi). In 2035, JUICE will enter a circular orbit 500 km (310 mi) above the surface of Ganymede. JUICE will study Ganymede's composition and magnetosphere among other things.
+
+Planned deorbit on Ganymede
+When the spacecraft consumes its remaining propellant, JUICE is planned to be deorbited and impact Ganymede at the end of 2035.
+
+Science objectives
+The JUICE orbiter will perform detailed investigations on Ganymede and evaluate its potential to support life. Investigations of Europa and Callisto will complete a comparative picture of these Galilean moons. The three moons are thought to harbour internal liquid water oceans, and so are central to understanding the habitability of icy worlds.
+The main science objectives for Ganymede, and to a lesser extent for Callisto, are:
+Characterisation of the ocean layers and detection of putative subsurface water reservoirs
+Topographical, geological and compositional mapping of the surface
+Study of the physical properties of the icy crusts
+Characterisation of the internal mass distribution, dynamics and evolution of the interiors
+Investigation of Ganymede's tenuous atmosphere
+Study of Ganymede's intrinsic magnetic field and its interactions with the Jovian magnetosphere.For Europa, the focus is on the chemistry essential to life, including organic molecules, and on understanding the formation of surface features and the composition of the non-water-ice material. Furthermore, JUICE will provide the first subsurface sounding of the moon, including the first determination of the minimal thickness of the icy crust over the most recently volcanically active regions.
+More distant spatially resolved observations will also be carried out for several minor irregular satellites and the volcanically active moon Io.
+
+Science instruments
+On 21 February 2013, after a competition, 11 science instruments were selected by ESA, which were developed by science and engineering teams from all over Europe, with participation from the US. Japan also contributed several components for SWI, RPWI, GALA, PEP, JANUS and J-MAG instruments, and will facilitate testing.
+Jovis, Amorum ac Natorum Undique Scrutator (JANUS)The name is Latin for "comprehensive observation of Jupiter, his love affairs and descendants." A camera system to image Ganymede and interesting parts of the surface of Callisto at better than 400 m/pixel (resolution limited by mission data volume). Selected targets will be investigated in high-resolution with a spatial resolution from 25 m/pixel down to 2.4 m/pixel with a 1.3° field of view. The camera system has 13 panchromatic, broad and narrow-band filters in the 0.36 µm to 1.1 µm range, and provides stereo imaging capabilities. JANUS will also allow relating spectral, laser a

@@ -105,7 +105,7 @@ class Task(abc.ABC):
         os.makedirs(self.config.docs_path, exist_ok=True)
         for idx, elm in tqdm(enumerate(data), desc="Creating document store"):
             filepath = os.path.join(self.config.docs_path, f'doc_{idx+1}.txt')
-            context = elm["CONTEXTS"]
+            context = elm[self.data_instance_map.get("gt_context")]
             if isinstance(context, list):
                 context = "\n".join(context)
             with open(filepath, 'w') as f:

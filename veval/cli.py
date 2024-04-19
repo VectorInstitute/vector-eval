@@ -16,8 +16,8 @@ def main(args):
     task_obj = Task(config=cfg)
     task_obj.build()
     
-    # rag_sys_obj = BasicRag()
-    rag_sys_obj = RerankRag()
+    rag_sys_obj = BasicRag()
+    # rag_sys_obj = RerankRag()
 
     eval_obj = Evaluator(system=rag_sys_obj, task=task_obj)
     output = eval_obj.evaluate()

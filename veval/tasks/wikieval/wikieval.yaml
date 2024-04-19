@@ -1,0 +1,25 @@
+task_name: wikieval
+dataset_path: explodinggradients/WikiEval
+dataset_kwargs:
+  trust_remote_code: True
+validation_split: train
+docs_path: veval/tasks/wikieval/doc_store
+data_instance_map: 
+  query: question
+  gt_answer: answer
+  gt_context: context_v1
+metric_list:
+  - metric: relevance_query_answer
+    args: 
+      - query
+      - context
+      - answer
+  - metric: groundedness_context_answer
+    args:
+      - query 
+      - context
+      - answer
+  - metric: relevance_query_context
+    args:
+      - query
+      - context
