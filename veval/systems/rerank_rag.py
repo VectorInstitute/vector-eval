@@ -11,7 +11,7 @@ from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.llms.openai import OpenAI
 
-from veval.utils.model_utils import trim_predictions_to_max_token_length
+from veval.utils.io_utils import delete_directory
 
 from .basic_rag import BasicRag
 from .template import SystemResponse
@@ -73,17 +73,19 @@ class RerankRag(BasicRag):
             response_synthesizer=response_synthesizer,
         )
 
-        result = query_engine.query(query)
-        # Obtain raw retrieved context
-        retrieved_context = query_engine.retriever.retrieve(query)
-        # Obtain re-ranked context
-        reranked_context = [elm.node.get_content() for elm in result.source_nodes]
-        result = result.response
-        # except Exception as e:
-        #     print(f"Cannot obtain response: {e}")
-        #     result = "I don't know"
-        #     retrieved_context = ['']
-        #     reranked_context = ['']
+        try:
+            result = query_engine.query(query)
+            # Obtain raw retrieved context
+            retrieved_context = query_engine.retriever.retrieve(query)
+            retrieved_context = [elm.node.get_content() for elm in retrieved_context]
+            # Obtain re-ranked context
+            reranked_context = [elm.node.get_content() for elm in result.source_nodes]
+            result = result.response
+        except IndexError as e:
+            print(f"Cannot obtain response: {e}")
+            result = "I don't know"
+            retrieved_context = ['']
+            reranked_context = ['']
         
         try:
             # Extract the answer from the generated text.
@@ -91,11 +93,6 @@ class RerankRag(BasicRag):
         except IndexError:
             # If the model fails to generate an answer, return a default response.
             answer = "I don't know"
-                                
-        # # Trim the prediction to a maximum of 128 (default) tokens.
-        # trimmed_answer = trim_predictions_to_max_token_length(
-        #     tokenizer=self.tokenizer, prediction=answer
-        # )
 
         sys_response = SystemResponse(
             query=query,
@@ -107,3 +104,8 @@ class RerankRag(BasicRag):
         )
         
         return sys_response
+    
+    def cleanup(self):
+        # Delete index store
+        if os.path.exists(self._index_dir):
+            delete_directory(self._index_dir)

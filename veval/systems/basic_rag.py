@@ -158,9 +158,14 @@ class BasicRag(System):
             response_synthesizer=response_synthesizer,
         )
         
-        result = query_engine.query(query)
-        retrieved_context = [elm.node.get_content() for elm in result.source_nodes]
-        result = result.response
+        try:
+            result = query_engine.query(query)
+            retrieved_context = [elm.node.get_content() for elm in result.source_nodes]
+            result = result.response
+        except IndexError as e:
+            print(f"Cannot obtain response: {e}")
+            result = "I don't know"
+            retrieved_context = ['']
 
         try:
             # Extract the answer from the generated text.
