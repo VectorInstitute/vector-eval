@@ -1,1 +1,21 @@
-{"basic_rag": {"vector_retriever": {"relevance_query_answer": 0.7927767474040405, "groundedness_context_answer": 0.3, "relevance_query_context": 0.034626632490707715}}}
+{
+    "basic_rag": {
+        "vector_retriever": {
+            "relevance_query_answer": 0.7927767474040405,
+            "groundedness_context_answer": 0.3,
+            "relevance_query_context": 0.034626632490707715
+        }
+    },
+    "rerank_rag": {
+        "vector_retriever": {
+            "relevance_query_answer": 0.1906669029753638,
+            "groundedness_context_answer": 0.7,
+            "relevance_query_context": 0.025259509118086262
+        },
+        "reranker": {
+            "relevance_query_answer": 0.19066759578754763,
+            "groundedness_context_answer": 0.3333333333333333,
+            "relevance_query_context": 0.04587373737373737
+        }
+    }
+}
