@@ -1,6 +1,7 @@
 import abc
 import datasets
 import os
+import time
 
 from collections import defaultdict
 from dataclasses import dataclass
@@ -235,12 +236,15 @@ class Task(abc.ABC):
                 inputs[ctx_k]["gt_answer"].append(inst.gt_answer)
                 inputs[ctx_k]["gt_context"].append(inst.gt_context)
 
+        num_wait_secs = 60
         result_dict = {k: defaultdict() for k in context_keys}
         for ctx_k in context_keys:
             for metric_name, metric_fn in self._metric_fn_list.items():
                 result_dict[ctx_k][metric_name] = metric_fn(
                     **{k: v for k, v in inputs[ctx_k].items() if k in self._metric_fn_args_list[metric_name]}
                 )
+                print("Waiting for {} seconds to avoid rate limiting.".format(num_wait_secs))
+                time.sleep(num_wait_secs)
 
         return result_dict
     
