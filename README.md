@@ -15,8 +15,8 @@
 The Vector RAG Evaluation framework is designed to be an intuitive and flexible tool for benchmarking the performance of RAG systems. The framework exposes an Evaluator that is configured using three components: Systems, Tasks, and Metrics.
 
 - **Systems** encapsulate a RAG system. Systems must adhere to a common interface but can be implemented by users with arbitrary complexity. Several simple baseline systems are implemented within the framework.
-- **Tasks** represent RAG datasets (inspired by the lm-eval-harness implementation). A Task is composed of a set of Documents and a set of Task Instances for evaluation.
-- **Metrics** measure various aspects of the RAG systems, including accuracy, relevance, groundedness, and hallucination detection. Metrics can be user-defined or imported from existing frameworks such as RAGAS, TruLens, DeepEval and Rageval.
+- **Tasks** represent RAG datasets (inspired by the [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) implementation). A Task is composed of a set of Documents and a set of Task Instances for evaluation.
+- **Metrics** measure various aspects of the RAG systems, including accuracy, relevance, groundedness, and hallucination detection. Metrics can be user-defined or imported from existing frameworks such as [RAGAS](https://docs.ragas.io/en/stable/), [TruLens](https://www.trulens.org/), [Rageval](https://github.com/gomate-community/rageval) and [DeepEval](https://docs.confident-ai.com/).
 
 ### Evaluation
 
@@ -28,7 +28,7 @@ RAG systems evaluation is a difficult task, there are many variables and hyper-p
 - **C\*** - Ground Truth Context
 - **A\*** - Ground Truth Answer
 
-Not all of the elements will necessarily be available. Some evaluation can be performed without ground truth context, C\*, or ground truth answers, A\*. Evaluation without ground truth is relevant when monitoring a system deployed in production. Ultimately, this is a somewhat simplistic view of system elements. A complex system may have many elements of intermediate state that should be evaluated. For example, a re-ranking system should evaluate the context before and after re-ranking to rigorously evaluate the impact of the re-ranking model.
+Not all of the elements will necessarily be available. Some evaluation can be performed without ground truth context (**C\***), or ground truth answers (**A\***). Evaluation without ground truth is relevant when monitoring a system deployed in production. Ultimately, this is a somewhat simplistic view of system elements. A complex system may have many elements of intermediate state that should be evaluated. For example, a re-ranking system should evaluate the context before and after re-ranking to rigorously evaluate the impact of the re-ranking model.
 
 #### Evaluation Without Ground Truth
 
