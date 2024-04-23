@@ -4,7 +4,7 @@ from veval.metrics.template import (
     relevance_query_answer,
     groundedness_context_answer,
     relevance_query_context,
-    answer_correctness,
+    correctness_answer,
 )
 
 
@@ -13,7 +13,7 @@ METRIC_REGISTRY = {
     "relevance_query_answer": relevance_query_answer,
     "groundedness_context_answer": groundedness_context_answer,
     "relevance_query_context": relevance_query_context,
-    "answer_correctness": answer_correctness,
+    "correctness_answer": correctness_answer,
 }
 HIGHER_IS_BETTER_REGISTRY = {}
 REQUIRES_GROUND_TRUTH = {}
