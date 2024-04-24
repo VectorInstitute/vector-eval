@@ -236,7 +236,7 @@ class Task(abc.ABC):
                 inputs[ctx_k]["gt_answer"].append(inst.gt_answer)
                 inputs[ctx_k]["gt_context"].append(inst.gt_context)
 
-        num_wait_secs = 10
+        num_wait_secs = 60
         result_dict = {k: defaultdict() for k in context_keys}
         for ctx_k in context_keys:
             for metric_name, metric_fn in self._metric_fn_list.items():
