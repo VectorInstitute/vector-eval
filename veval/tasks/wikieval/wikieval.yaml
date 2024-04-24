@@ -23,3 +23,8 @@ metric_list:
     args:
       - query
       - context
+  - metric: correctness_answer
+    args:
+      - query
+      - answer
+      - gt_answer
