@@ -42,12 +42,12 @@ def relevance_query_context(
             context=context,
         )
 
-def answer_correctness(
+def correctness_answer(
         query: List[str],
         answer: List[str],
         gt_answer: List[str],
     ) -> float:
-    return LLMJudgeMetrics().answer_correctness(
+    return LLMJudgeMetrics().correctness_answer(
             query=query,
             answer=answer,
             gt_answer=gt_answer
@@ -151,7 +151,7 @@ class LLMJudgeMetrics:
         )
         return score.get("context_relevancy")
     
-    def answer_correctness(
+    def correctness_answer(
             self, 
             query: List[str], 
             answer: List[str], 

@@ -1,21 +1,24 @@
 {
     "basic_rag": {
         "vector_retriever": {
-            "relevance_query_answer": 0.7927767474040405,
-            "groundedness_context_answer": 0.3,
-            "relevance_query_context": 0.034626632490707715
+            "relevance_query_answer": 0.8297511377816242,
+            "groundedness_context_answer": 0.4166666666666667,
+            "relevance_query_context": 0.03485995336918988,
+            "correctness_answer": 0.5439944340161982
         }
     },
     "rerank_rag": {
         "vector_retriever": {
-            "relevance_query_answer": 0.1906669029753638,
-            "groundedness_context_answer": 0.7,
-            "relevance_query_context": 0.025259509118086262
+            "relevance_query_answer": 0.16941168246296598,
+            "groundedness_context_answer": 0.7777777777777778,
+            "relevance_query_context": 0.02237391283031606,
+            "correctness_answer": 0.23251316837266248
         },
         "reranker": {
-            "relevance_query_answer": 0.19066759578754763,
-            "groundedness_context_answer": 0.3333333333333333,
-            "relevance_query_context": 0.04587373737373737
+            "relevance_query_answer": 0.16962720707322923,
+            "groundedness_context_answer": 0.5,
+            "relevance_query_context": 0.040923122199437986,
+            "correctness_answer": 0.21998312295164335
         }
     }
 }

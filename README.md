@@ -38,7 +38,7 @@ Not all of the elements will necessarily be available. Some evaluation can be pe
 
 #### Evaluation With Ground Truth
 
-- Compare Generated and GT Answers (*answer_correctness*): Many evaluation techniques compare the generated answer (**A**) with the GT answer (**A\***).
+- Compare Generated and GT Answers (*correctness_answer*): Many evaluation techniques compare the generated answer (**A**) with the GT answer (**A\***).
 
 
 ## 🧑🏿‍💻 Developing
