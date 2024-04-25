@@ -19,6 +19,9 @@ class SystemResponse:
     context: Dict[str, List[str]]
 
 
+# TODO: 
+# 1. Make system configurable for swapping models and other parameters.
+# 2. Replace local models with API calls.
 class System(abc.ABC):
     """
     Abstract base class for RAG systems. Implements an interface that accepts a query 
