@@ -2,6 +2,7 @@ accelerate
 beautifulsoup4
 bitsandbytes
 blingfire
+cohere
 datasets==2.19.0
 faiss-gpu
 hf-transfer

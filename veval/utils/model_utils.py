@@ -1,8 +1,7 @@
+import cohere
+
 from typing import Any, Dict, Optional
 
-from openai import OpenAI
-
-from llama_index.core.bridge.pydantic import Field
 from llama_index.core.llms import (
    CustomLLM,
    CompletionResponse,
@@ -10,6 +9,7 @@ from llama_index.core.llms import (
    LLMMetadata,
 )
 from llama_index.core.llms.callbacks import llm_completion_callback
+from openai import OpenAI
 
 
 DEFAULT_SYSTEM_PROMPT = "You are a helpful assistant."
@@ -21,10 +21,13 @@ DEFAULT_SEED = 37
 LM_MODEL_CONFIG = {
    "gpt-3.5-turbo": {
       "context_window": 16385,
-      },
+   },
    "gpt-4": {
       "context_window": 8192,
-      },
+   },
+   "command": {
+      "context_window": 4096,
+   },
    }
 
 
@@ -70,10 +73,14 @@ class LlamaIndexLLM(CustomLLM):
 
       if self.lm_type == "openai":
          self.lm_client = OpenAI()
+      elif self.lm_type == "cohere":
+         self.lm_client = cohere.Client()
+      else:
+         raise NotImplementedError(f"Only supports `openai` and `cohere` LLMs. `{self.lm_type}` is not supported.")
 
       # lm model config
       self.context_window = LM_MODEL_CONFIG.get(self.lm_name, {}).get("context_window", DEFAULT_CONTEXT_WINDOW)
-      self.is_chat_model = True if self.lm_type == "openai" else False
+      self.is_chat_model = True if self.lm_type in ["openai", "cohere"] else False
 
       # lm generation config
       self.temperature = temperature
@@ -86,7 +93,7 @@ class LlamaIndexLLM(CustomLLM):
 
    @property
    def metadata(self) -> LLMMetadata:
-      if self.lm_type == "openai":
+      if self.lm_type in ["openai", "cohere"]:
          # TODO: What about system_role?
          return LLMMetadata(
             model_name=self.lm_name,
@@ -110,8 +117,20 @@ class LlamaIndexLLM(CustomLLM):
             **self.additional_gen_kwargs,
          )
          response_text = response.choices[0].message.content
+      elif self.lm_type == "cohere":
+         # TODO: Use preamble?
+         response = self.lm_client.chat(
+            model=self.lm_name,
+            chat_history=[],
+            message=prompt,
+            temperature=self.temperature,
+            max_tokens=self.max_tokens,
+            seed=self.random_seed,
+            **self.additional_gen_kwargs,
+         )
+         response_text = response.text
       else:
-         raise NotImplementedError("Only OpenAI models are supported")
+         raise NotImplementedError(f"Only supports `openai` and `cohere` LLMs. `{self.lm_type}` is not supported.")
 
       return CompletionResponse(
          text=response_text
@@ -133,14 +152,34 @@ class LlamaIndexLLM(CustomLLM):
             seed=self.random_seed,
             **self.additional_gen_kwargs,
          )
+      elif self.lm_type == "cohere":
+         # TODO: Use preamble?
+         response = self.lm_client.chat_stream(
+            model=self.lm_name,
+            chat_history=[],
+            message=prompt,
+            temperature=self.temperature,
+            max_tokens=self.max_tokens,
+            seed=self.random_seed,
+            **self.additional_gen_kwargs,
+         )
       else:
-         raise NotImplementedError("Only OpenAI models are supported")
+         raise NotImplementedError(f"Only supports `openai` and `cohere` LLMs. `{self.lm_type}` is not supported.")
 
       response_text = ""
       for chunk in response:
-         chunk_text = chunk.choices[0].delta.content
-         response_text += chunk_text
-         return CompletionResponse(
-            text=response_text,
-            delta=chunk_text,
-         )
+         
+         if self.lm_type == "openai":
+            chunk_text = chunk.choices[0].delta.content
+         elif self.lm_type == "cohere":
+            if chunk.event_type == "text-generation":
+               chunk_text = chunk.text
+            elif chunk.event_type == "stream-end":
+               chunk_text = None
+         
+         if chunk_text is not None:
+            response_text += chunk_text
+            yield CompletionResponse(
+               text=response_text,
+               delta=chunk_text,
+            )
