@@ -12,6 +12,7 @@ from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.llms.openai import OpenAI
 
 from veval.utils.io_utils import delete_directory
+from veval.utils.model_utils import LlamaIndexLLM
 
 from .basic_rag import BasicRag
 from .template import SystemResponse
@@ -19,13 +20,13 @@ from .template import SystemResponse
 
 class RerankRag(BasicRag):
     """A linear RAG system using a reranker model."""
-    def __init__(self, openai: bool = True):
-        super().__init__(openai=openai)
+    def __init__(self, llm_name: str, local_llm: bool = False):
+        super().__init__(llm_name=llm_name, local_llm=local_llm)
 
-        self.rerank_llm = OpenAI(
+        self.rerank_llm = LlamaIndexLLM(
+            lm_name="openai-gpt-3.5-turbo", 
             temperature=0, 
-            model="gpt-3.5-turbo", 
-            reuse_client=False
+            max_tokens=128,
         )
         self.rerank_top_k = 3 
 

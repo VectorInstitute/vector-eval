@@ -21,6 +21,7 @@ from transformers import (
 )
 
 from veval.utils.io_utils import delete_directory
+from veval.utils.model_utils import LlamaIndexLLM
 
 from .template import System, SystemResponse
 
@@ -32,10 +33,11 @@ def get_embed_model_dim(embed_model):
 
 class BasicRag(System):
     """A basic RAG system with a linear pipeline."""
-    def __init__(self, openai: bool = True):
+    def __init__(self, llm_name: str, local_llm: bool = False):
         super().__init__()
 
-        self.use_openai = openai 
+        model_name = llm_name
+        self.local_llm = local_llm 
         self.artifact_dir = "/fs01/projects/opt_test/meta-comphrehensive-rag-benchmark-project"
 
         # Define chunking vars for node parser
@@ -49,7 +51,7 @@ class BasicRag(System):
         )
 
         # Load embedding model
-        if self.use_openai:
+        if not self.local_llm:
             embed_model_name = "text-embedding-3-small"
             self.embed_model = OpenAIEmbedding(model=embed_model_name)
         else:
@@ -61,9 +63,8 @@ class BasicRag(System):
         
         # Load LLM
         # Specify the large language model to be used.
-        if self.use_openai:
-            model_name = "gpt-3.5-turbo"
-            self.llm = OpenAI(model=model_name, reuse_client=False)
+        if not self.local_llm:
+            self.llm = LlamaIndexLLM(lm_name=llm_name, temperature=0, max_tokens=128)
         else:
             model_name = "models/meta-llama/Llama-2-7b-chat-hf"
             model_name = os.path.join(self.artifact_dir, model_name)
