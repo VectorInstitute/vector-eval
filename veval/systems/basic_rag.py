@@ -2,7 +2,6 @@ import os
 from typing import List
 
 import faiss
-import torch
 
 from llama_index.core import (
     Document, ServiceContext, StorageContext, VectorStoreIndex, PromptTemplate, 
@@ -11,17 +10,10 @@ from llama_index.core import (
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.retrievers import VectorIndexRetriever
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.embeddings.openai import OpenAIEmbedding
-from llama_index.llms.huggingface import HuggingFaceLLM
-from llama_index.llms.openai import OpenAI
 from llama_index.vector_stores.faiss import FaissVectorStore
-from transformers import (
-    BitsAndBytesConfig, LlamaTokenizerFast
-)
 
 from veval.utils.io_utils import delete_directory
-from veval.utils.model_utils import LlamaIndexLLM
+from veval.utils.model_utils import LlamaIndexLLM, get_embedding_model
 
 from .template import System, SystemResponse
 
@@ -33,12 +25,8 @@ def get_embed_model_dim(embed_model):
 
 class BasicRag(System):
     """A basic RAG system with a linear pipeline."""
-    def __init__(self, llm_name: str, local_llm: bool = False):
+    def __init__(self, llm_name: str):
         super().__init__()
-
-        model_name = llm_name
-        self.local_llm = local_llm 
-        self.artifact_dir = "/fs01/projects/opt_test/meta-comphrehensive-rag-benchmark-project"
 
         # Define chunking vars for node parser
         self.chunk_size = 256
@@ -51,43 +39,14 @@ class BasicRag(System):
         )
 
         # Load embedding model
-        if not self.local_llm:
-            embed_model_name = "text-embedding-3-small"
-            self.embed_model = OpenAIEmbedding(model=embed_model_name)
-        else:
-            embed_model_name='models/embedding-model/bge-small-en-v1.5'
-            embed_model_name = os.path.join(self.artifact_dir, embed_model_name)
-            self.embed_model = HuggingFaceEmbedding(
-                model_name=embed_model_name
-            )
+        embed_model_name = "openai-text-embedding-3-small" 
+        # "openai-text-embedding-3-small" # "cohere-embed-english-v3.0" # "bge-small-en-v1.5"
+        # TODO: Debug dimension mismatch issue for local and cohere embeddings in FAISS
+        self.embed_model = get_embedding_model(embed_model_name)
         
         # Load LLM
         # Specify the large language model to be used.
-        if not self.local_llm:
-            self.llm = LlamaIndexLLM(lm_name=llm_name, temperature=0, max_tokens=128)
-        else:
-            model_name = "models/meta-llama/Llama-2-7b-chat-hf"
-            model_name = os.path.join(self.artifact_dir, model_name)
-            # Configuration for model quantization to improve performance, using 4-bit precision.
-            bnb_config = BitsAndBytesConfig(
-                load_in_4bit=True,
-                bnb_4bit_compute_dtype=torch.float16,
-                bnb_4bit_quant_type="nf4",
-                bnb_4bit_use_double_quant=False,
-            )
-            # Load the large language model with the specified quantization configuration.
-            self.tokenizer = LlamaTokenizerFast.from_pretrained(model_name)
-            self.llm = HuggingFaceLLM(
-                model_name=model_name,
-                tokenizer_name=model_name,
-                context_window=4096,
-                max_new_tokens=75,
-                model_kwargs={
-                    "quantization_config": bnb_config, 
-                    "torch_dtype": torch.float16
-                },
-                device_map='auto',
-            )
+        self.llm = LlamaIndexLLM(lm_name=llm_name, temperature=0, max_tokens=128)
 
         # Configure service context
         self.service_context = ServiceContext.from_defaults(

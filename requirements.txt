@@ -9,6 +9,7 @@ hf-transfer
 huggingface-hub
 langchain
 llama-index
+llama-index-embeddings-cohere
 llama-index-embeddings-huggingface
 llama-index-llms-huggingface
 llama-index-vector-stores-faiss
