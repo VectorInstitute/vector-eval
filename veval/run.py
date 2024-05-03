@@ -24,7 +24,7 @@ def main(args):
     task_obj.build()
     
     if system == "basic_rag":
-        rag_sys_obj = BasicRag(llm_name="openai-gpt-3.5-turbo")
+        rag_sys_obj = BasicRag(llm_name="mixtral-8x7b-instruct")
     elif system == "rerank_rag":
         rag_sys_obj = RerankRag(llm_name="openai-gpt-3.5-turbo")
     else:
