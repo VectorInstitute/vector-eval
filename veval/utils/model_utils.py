@@ -5,9 +5,13 @@ import time
 
 from functools import wraps
 from typing import (
-   Any, Callable, Dict, Optional, Tuple, Union
+   Any, Callable, Dict, Iterator, 
+   List, Optional, Tuple, Union
 )
 
+from langchain_core.callbacks.manager import CallbackManagerForLLMRun
+from langchain_core.language_models.llms import LLM
+from langchain_core.outputs import GenerationChunk
 from llama_index.core.llms import (
    CustomLLM,
    CompletionResponse,
@@ -329,6 +333,20 @@ def call_api(
       return response
 
 
+def get_text_chunk(
+   lm_type: str,
+   chunk: Any,
+) -> Optional[str]:
+   if lm_type == "openai":
+      chunk_text = chunk.choices[0].delta.content
+   elif lm_type == "cohere":
+      if chunk.event_type == "text-generation":
+         chunk_text = chunk.text
+      elif chunk.event_type == "stream-end":
+         chunk_text = None
+   return chunk_text
+
+
 class LlamaIndexLLM(CustomLLM):
    lm_type: str = None
    lm_name: str = None
@@ -399,7 +417,11 @@ class LlamaIndexLLM(CustomLLM):
       interval=DEFAULT_RL_INTERVAL,
    )
    @llm_completion_callback()
-   def complete(self, prompt: str, **kwargs: Any) -> CompletionResponse:
+   def complete(
+      self,
+      prompt: str,
+      **kwargs: Any
+   ) -> CompletionResponse:
       
       response_text = call_api(
          lm_client=self.lm_client,
@@ -422,7 +444,11 @@ class LlamaIndexLLM(CustomLLM):
       )
 
    @llm_completion_callback()
-   def stream_complete(self, prompt: str, **kwargs: Any) -> CompletionResponseGen:
+   def stream_complete(
+      self,
+      prompt: str,
+      **kwargs: Any
+   ) -> CompletionResponseGen:
       
       response = call_api(
          lm_client=self.lm_client,
@@ -442,18 +468,134 @@ class LlamaIndexLLM(CustomLLM):
 
       response_text = ""
       for chunk in response:
-         
-         if self.lm_type == "openai":
-            chunk_text = chunk.choices[0].delta.content
-         elif self.lm_type == "cohere":
-            if chunk.event_type == "text-generation":
-               chunk_text = chunk.text
-            elif chunk.event_type == "stream-end":
-               chunk_text = None
-         
+         chunk_text = get_text_chunk(
+            lm_type=self.lm_type,
+            chunk=chunk,
+         )
          if chunk_text is not None:
             response_text += chunk_text
             yield CompletionResponse(
                text=response_text,
                delta=chunk_text,
             )
+
+
+class LangChainLLM(LLM):
+   lm_type: str = None
+   lm_name: str = None
+   lm_alias: str = None
+
+   lm_client: Union[OpenAI, cohere.Client] = None
+   is_chat_model: bool = None
+   temperature: float = None
+   max_tokens: Optional[int] = None
+   random_seed: int = None
+   additional_gen_kwargs: Dict[str, Any] = None
+
+   sys_prompt: str = None
+
+   def __init__(
+      self, 
+      lm_name: str = DEFAULT_MODEL,
+      temperature: float = DEFAULT_TEMPERATURE,
+      seed: int = DEFAULT_SEED,
+      max_tokens: Optional[int] = None,
+      additional_kwargs: Optional[Dict[str, Any]] = None,
+   ) -> None:
+      super().__init__()
+      
+      _lm_type = lm_name.split("-")[0]
+      if _lm_type in ["openai", "cohere"]:
+         self.lm_type = _lm_type
+         self.lm_name = lm_name.split(f"{_lm_type}-")[-1]
+      else:
+         self.lm_type = "local"
+         self.lm_name = lm_name
+
+      if self.lm_type == "openai":
+         self.lm_client = OpenAI()
+
+      elif self.lm_type == "cohere":
+         self.lm_client = cohere.Client()
+
+      elif self.lm_type == "local":
+         self.lm_alias, local_endpoint = launch_local_lm(self.lm_name)
+         self.lm_client = OpenAI(base_url=local_endpoint, api_key="LOCAL")
+
+      # TODO: Make configurable
+      self.sys_prompt = DEFAULT_SYSTEM_PROMPT
+
+      # lm generation config
+      self.temperature = temperature
+      self.max_tokens = max_tokens
+      self.random_seed = seed
+      self.additional_gen_kwargs = additional_kwargs or {}
+
+   @property
+   def _llm_type(self) -> str:
+      return f"custom_{self.lm_type}"
+   
+   @rate_limiter(
+      limit=DEFAULT_RL_LIMIT, 
+      interval=DEFAULT_RL_INTERVAL,
+   )
+   def _call(
+      self,
+      prompt: str,
+      stop: Optional[List[str]] = None,
+      run_manager: Optional[CallbackManagerForLLMRun] = None,
+      **kwargs: Any,
+   ) -> str:
+      
+      response_text = call_api(
+         lm_client=self.lm_client,
+         lm_type=self.lm_type,
+         lm_name=self.lm_name,
+         lm_alias=self.lm_alias,
+         prompt=prompt,
+         sys_prompt=self.sys_prompt,
+         gen_params={
+            "temperature": self.temperature,
+            "max_tokens": self.max_tokens,
+            "seed": self.random_seed,
+            **self.additional_gen_kwargs,
+         },
+         stream=False,
+      )
+
+      return response_text
+   
+   def _stream(
+      self,
+      prompt: str,
+      stop: Optional[List[str]] = None,
+      run_manager: Optional[CallbackManagerForLLMRun] = None,
+      **kwargs: Any,
+   ) -> Iterator[GenerationChunk]:
+      
+      response = call_api(
+         lm_client=self.lm_client,
+         lm_type=self.lm_type,
+         lm_name=self.lm_name,
+         lm_alias=self.lm_alias,
+         prompt=prompt,
+         sys_prompt=self.sys_prompt,
+         gen_params={
+            "temperature": self.temperature,
+            "max_tokens": self.max_tokens,
+            "seed": self.random_seed,
+            **self.additional_gen_kwargs,
+         },
+         stream=True,
+      )
+
+      for chunk in response:
+         chunk_text = get_text_chunk(
+            lm_type=self.lm_type,
+            chunk=chunk,
+         )
+         chunk = GenerationChunk(text=chunk_text)
+         if run_manager:
+            run_manager.on_llm_new_token(chunk.text, chunk=chunk)
+
+         yield chunk

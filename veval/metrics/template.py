@@ -1,7 +1,6 @@
 from typing import List, Optional
 
 from datasets import Dataset
-from langchain_openai import ChatOpenAI
 from ragas import evaluate
 from ragas.metrics import (
     answer_relevancy, 
@@ -9,6 +8,8 @@ from ragas.metrics import (
     context_relevancy, 
     answer_correctness,
 )
+
+from utils.model_utils import LangChainLLM
 
 
 def relevance_query_answer(
@@ -57,11 +58,9 @@ def correctness_answer(
 # Define class for metrics which use LLM as a judge
 class LLMJudgeMetrics:
     """Class for metrics which use LLM as a judge."""
-    def __init__(self, openai_model: str = "gpt-3.5-turbo-0125") -> None:
-        self._openai_model = ChatOpenAI(
-            model_name=openai_model, 
-            temperature=0.0,
-            max_tokens=128
+    def __init__(self, llm_name: str = "openai-gpt-3.5-turbo") -> None:
+        self._judge_llm = LangChainLLM(
+            lm_name=llm_name,
         )
 
     def relevance_query_answer(
@@ -90,7 +89,7 @@ class LLMJudgeMetrics:
         score = evaluate(
             dataset=data,
             metrics=[answer_relevancy],
-            llm=self._openai_model,
+            llm=self._judge_llm,
         )
         return score.get("answer_relevancy")
     
@@ -120,7 +119,7 @@ class LLMJudgeMetrics:
         score = evaluate(
             dataset=data,
             metrics=[faithfulness],
-            llm=self._openai_model,
+            llm=self._judge_llm,
         )
         return score.get("faithfulness")
     
@@ -147,7 +146,7 @@ class LLMJudgeMetrics:
         score = evaluate(
             dataset=data,
             metrics=[context_relevancy],
-            llm=self._openai_model,
+            llm=self._judge_llm,
         )
         return score.get("context_relevancy")
     
@@ -179,6 +178,6 @@ class LLMJudgeMetrics:
         score = evaluate(
             dataset=data,
             metrics=[answer_correctness],
-            llm=self._openai_model,
+            llm=self._judge_llm,
         )
         return score.get("answer_correctness")
