@@ -24,9 +24,9 @@ def main(args):
     task_obj.build()
     
     if system == "basic_rag":
-        rag_sys_obj = BasicRag(llm_name="cohere-command")
+        rag_sys_obj = BasicRag(llm_name="openai-gpt-3.5-turbo")
     elif system == "rerank_rag":
-        rag_sys_obj = RerankRag(llm_name="cohere-command")
+        rag_sys_obj = RerankRag(llm_name="openai-gpt-3.5-turbo")
     else:
         raise ValueError(f"System {system} not supported.")
 
