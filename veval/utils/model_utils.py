@@ -4,6 +4,7 @@ import subprocess
 import time
 
 from functools import wraps
+from tenacity import retry, wait_fixed, retry_if_exception_type
 from typing import (
    Any, Callable, Dict, Iterator, 
    List, Optional, Tuple, Union
@@ -19,7 +20,7 @@ from llama_index.core.llms import (
    LLMMetadata,
 )
 from llama_index.core.llms.callbacks import llm_completion_callback
-from openai import OpenAI
+from openai import OpenAI, APIConnectionError
 
 
 DEFAULT_SYSTEM_PROMPT = "You are a helpful assistant."
@@ -416,6 +417,10 @@ class LlamaIndexLLM(CustomLLM):
       limit=DEFAULT_RL_LIMIT, 
       interval=DEFAULT_RL_INTERVAL,
    )
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    @llm_completion_callback()
    def complete(
       self,
@@ -443,6 +448,10 @@ class LlamaIndexLLM(CustomLLM):
          text=response_text
       )
 
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    @llm_completion_callback()
    def stream_complete(
       self,
@@ -539,6 +548,10 @@ class LangChainLLM(LLM):
       limit=DEFAULT_RL_LIMIT, 
       interval=DEFAULT_RL_INTERVAL,
    )
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    def _call(
       self,
       prompt: str,
@@ -565,6 +578,10 @@ class LangChainLLM(LLM):
 
       return response_text
    
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    def _stream(
       self,
       prompt: str,
