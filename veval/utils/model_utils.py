@@ -1,9 +1,12 @@
 import cohere
+import os
 import subprocess
 import time
 
 from functools import wraps
-from typing import Any, Dict, Optional, Callable
+from typing import (
+   Any, Callable, Dict, Optional, Tuple, Union
+)
 
 from llama_index.core.llms import (
    CustomLLM,
@@ -13,8 +16,6 @@ from llama_index.core.llms import (
 )
 from llama_index.core.llms.callbacks import llm_completion_callback
 from openai import OpenAI
-import os
-import os
 
 
 DEFAULT_SYSTEM_PROMPT = "You are a helpful assistant."
@@ -171,13 +172,170 @@ def trim_predictions_to_max_token_length(tokenizer, prediction, max_token_length
    return trimmed_prediction
 
 
+def launch_local_lm(lm_name: str) -> Tuple[str, str]:
+   """
+   Launches a local language model instance on the Vector cluster through 
+   vector-inference and returns the model alias and endpoint URL.
+
+   Args:
+      lm_name (str): The name of the language model.
+
+   Returns:
+      Tuple[str, str]: A tuple containing the model alias and 
+         endpoint URL of the launched server.
+   """
+   if not os.path.exists("veval/utils/vector-inference"):
+      error_msg = "Directory not found: veval/utils/vector-inference." + \
+         " Ensure you are on the Vector cluster to use local models and" + \
+         " clone the `vector-inference` repo under `veval/utils`."
+      raise FileNotFoundError(error_msg)
+
+   lm_family = lm_name.split("-")[0]
+   lm_variant = lm_name.split(f"{lm_family}-")[-1]
+
+   if lm_family == "llama2":
+      lm_alias = f"Llama-2-{lm_variant}"
+   elif lm_family == "llama3":
+      if "instruct" in lm_variant:
+         lm_variant = lm_variant.split("-")
+         lm_variant = "-".join([lm_variant[0].upper(), lm_variant[-1].capitalize()])
+      else:
+         lm_variant = lm_variant.upper()
+      lm_alias = f"Meta-Llama-3-{lm_variant}"
+   elif lm_family == "mixtral":
+      if "instruct" in lm_variant:
+         lm_variant = lm_variant.split("-")
+         lm_variant = "-".join([
+            ("x".join([elm.upper() for elm in lm_variant[0].split("x")])), 
+            lm_variant[-1].capitalize()
+         ])
+      else:
+         lm_variant = lm_variant.upper()
+      lm_variant += "-v0.1"
+      lm_alias_head = "Mixtral" if LM_MODEL_CONFIG.get(lm_name, {}).get("moe", False) else "Mistral"
+      lm_alias = f"{lm_alias_head}-{lm_variant}"
+   else:
+      raise ValueError(f"Local model family {lm_family} not supported.")
+
+   url_file = f"veval/utils/vector-inference/models/{lm_family}/.vLLM_{lm_alias}_url"
+   # TODO: Use different signal for checking whether server is up, instead of presence of the url file
+   if not os.path.exists(url_file):
+      # Start a new instance if not already running
+      gpu_partition = LM_MODEL_CONFIG.get(lm_name, {}).get("gpu_partition", "a40")
+      num_gpus = LM_MODEL_CONFIG.get(lm_name, {}).get("num_gpus", 1)
+      # qos = LM_MODEL_CONFIG.get(self.lm_name, {}).get("qos", "m3")
+      print(f"Starting local {lm_name} server...")
+      launch_cmd = f"bash veval/utils/vector-inference/models/{lm_family}/launch_server.sh" + \
+         f" -v {lm_variant}" + \
+         f" -p {gpu_partition}" + \
+         f" -n {num_gpus}"
+         # f" -q {qos}"
+      if lm_family == "mixtral":
+         num_nodes = LM_MODEL_CONFIG.get(lm_name, {}).get("num_nodes", 1)
+         launch_cmd += f" -N {num_nodes}"
+      try:
+         result = subprocess.run(
+            launch_cmd,
+            shell=True,
+            capture_output=True,
+            text=True,
+         )
+      except Exception as e:
+         print(f"Failed to launch local {lm_name} server: {e}")
+
+      while not os.path.exists(url_file):
+         time.sleep(5)
+
+   # Fetch endpoint url from file, keep trying until its populated
+   local_endpoint = ""
+   while local_endpoint == "":
+      with open(url_file, "r") as f:
+         local_endpoint = f.read().strip()
+      time.sleep(1)
+
+   return (lm_alias, local_endpoint)
+
+
+def call_api(
+   lm_client: Union[OpenAI, cohere.Client],
+   lm_type: str, 
+   lm_name: str,
+   lm_alias: str,
+   prompt: str,
+   sys_prompt: str,
+   gen_params: Dict[str, Any],
+   stream: bool = False,
+) -> Any:
+   """
+   Calls the API of the language model based on the specified parameters.
+
+   Args:
+      lm_client (Union[OpenAI, cohere.Client]): The language model API client.
+      lm_type (str): The type of the language model. Can be "openai", "cohere", or "local".
+      lm_name (str): The name of the language model.
+      lm_alias (str): The alias of the language model, used to refer to model weights.
+      prompt (str): The user prompt for the language model.
+      sys_prompt (str): The system prompt for the language model.
+      gen_params (Dict[str, Any]): Additional generation parameters for the language model.
+      stream (bool, optional): Whether to use streaming for the API call. Defaults to False.
+
+   Returns:
+      Any: The response from the language model API call. Returns the response object 
+         if streaming, else returns the text completion.
+   """
+   if lm_type in ["openai", "local"]:
+      model_name = lm_name
+      if lm_type == "local":
+         model_name = f"/model-weights/{lm_alias}"
+         if "Llama-2" in lm_alias:
+            model_name += "-hf"
+      response = lm_client.chat.completions.create(
+         model=model_name,
+         messages=[
+            {"role": "system", "content": sys_prompt},
+            {"role": "user", "content": prompt},
+         ],
+         stream=stream,
+         **gen_params,
+      )
+   elif lm_type == "cohere":
+      # TODO: Use preamble?
+      if not stream:
+         response = lm_client.chat(
+            model=lm_name,
+            chat_history=[],
+            message=prompt,
+            **gen_params,
+         )
+      else:
+         response = lm_client.chat_stream(
+            model=lm_name,
+            chat_history=[],
+            message=prompt,
+            **gen_params,
+         )
+   else:
+      error_msg = "Only supports `openai`, `cohere` and `local` LLMs. " + \
+         f"`{lm_type}` is not supported."
+      raise ValueError(error_msg)
+   
+   if not stream:
+      if lm_type in ["openai", "local"]:
+         response_text = response.choices[0].message.content
+      elif lm_type == "cohere":
+         response_text = response.text
+      return response_text
+   else:
+      return response
+
+
 class LlamaIndexLLM(CustomLLM):
    lm_type: str = None
    lm_name: str = None
    lm_alias: str = None
    context_window: int = None
 
-   lm_client: OpenAI = None # TODO: Generalize
+   lm_client: Union[OpenAI, cohere.Client] = None
    is_chat_model: bool = None
    temperature: float = None
    max_tokens: Optional[int] = None
@@ -211,88 +369,21 @@ class LlamaIndexLLM(CustomLLM):
          self.lm_client = cohere.Client()
 
       elif self.lm_type == "local":
-         if not os.path.exists("veval/utils/vector-inference"):
-            error_msg = "Directory not found: veval/utils/vector-inference." + \
-               " Ensure you are on the Vector cluster to use local models and" + \
-               " clone the `vector-inference` repo under `veval/utils`."
-            raise FileNotFoundError(error_msg)
-
-         lm_family = self.lm_name.split("-")[0]
-         lm_variant = self.lm_name.split(f"{lm_family}-")[-1]
-
-         if lm_family == "llama2":
-            self.lm_alias = f"Llama-2-{lm_variant}"
-         elif lm_family == "llama3":
-            if "instruct" in lm_variant:
-               lm_variant = lm_variant.split("-")
-               lm_variant = "-".join([lm_variant[0].upper(), lm_variant[-1].capitalize()])
-            else:
-               lm_variant = lm_variant.upper()
-            self.lm_alias = f"Meta-Llama-3-{lm_variant}"
-         elif lm_family == "mixtral":
-            if "instruct" in lm_variant:
-               lm_variant = lm_variant.split("-")
-               lm_variant = "-".join([lm_variant[0].upper(), lm_variant[-1].capitalize()])
-            else:
-               lm_variant = lm_variant.upper()
-            lm_variant += "-v0.1"
-            lm_alias_head = "Mixtral" if LM_MODEL_CONFIG.get(self.lm_name, {}).get("moe", False) else "Mistral"
-            self.lm_alias = f"{lm_alias_head}-{lm_variant}"
-         else:
-            raise ValueError(f"Local model family {lm_family} not supported.")
-
-         url_file = f"veval/utils/vector-inference/models/{lm_family}/.vLLM_{self.lm_alias}_url"
-         # TODO: Use different signal for checking whether server is up, instead of presence of the url file
-         if not os.path.exists(url_file):
-            # Start a new instance if not already running
-            gpu_partition = LM_MODEL_CONFIG.get(self.lm_name, {}).get("gpu_partition", "a40")
-            num_gpus = LM_MODEL_CONFIG.get(self.lm_name, {}).get("num_gpus", 1)
-            # qos = LM_MODEL_CONFIG.get(self.lm_name, {}).get("qos", "m3")
-            print(f"Starting local {lm_name} server...")
-            launch_cmd = f"bash veval/utils/vector-inference/models/{lm_family}/launch_server.sh" + \
-               f" -v {lm_variant}" + \
-               f" -p {gpu_partition}" + \
-               f" -n {num_gpus}"
-               # f" -q {qos}"
-            if lm_family == "mixtral":
-               num_nodes = LM_MODEL_CONFIG.get(self.lm_name, {}).get("num_nodes", 1)
-               launch_cmd += f" -N {num_nodes}"
-            try:
-               result = subprocess.run(
-                  launch_cmd,
-                  shell=True,
-                  capture_output=True,
-                  text=True,
-               )
-               print(result.stdout)
-               print(result.stderr)
-            except Exception as e:
-               print(f"Failed to launch local {lm_name} server: {e}")
-
-            while not os.path.exists(url_file):
-               time.sleep(5)
-
-         # Fetch endpoint url from file, keep trying until its populated
-         local_endpoint = ""
-         while local_endpoint == "":
-            with open(url_file, "r") as f:
-               local_endpoint = f.read().strip()
-            time.sleep(1)
-
+         self.lm_alias, local_endpoint = launch_local_lm(self.lm_name)
          self.lm_client = OpenAI(base_url=local_endpoint, api_key="LOCAL")
 
       # lm model config
       self.context_window = LM_MODEL_CONFIG.get(self.lm_name, {}).get("context_window", DEFAULT_CONTEXT_WINDOW)
       self.is_chat_model = True if self.lm_type in ["openai", "cohere"] else False
 
+      # TODO: Make configurable
+      self.sys_prompt = DEFAULT_SYSTEM_PROMPT
+
       # lm generation config
       self.temperature = temperature
       self.max_tokens = max_tokens
       self.random_seed = seed
       self.additional_gen_kwargs = additional_kwargs or {}
-
-      # TODO: Make configurable
-      self.sys_prompt = DEFAULT_SYSTEM_PROMPT
 
    @property
    def metadata(self) -> LLMMetadata:
@@ -310,38 +401,21 @@ class LlamaIndexLLM(CustomLLM):
    @llm_completion_callback()
    def complete(self, prompt: str, **kwargs: Any) -> CompletionResponse:
       
-      if self.lm_type in ["openai", "local"]:
-         model_name = self.lm_name
-         if self.lm_type == "local":
-            model_name = f"/model-weights/{self.lm_alias}"
-            if "Llama-2" in self.lm_alias:
-               model_name += "-hf"
-         response = self.lm_client.chat.completions.create(
-            model=model_name,
-            messages=[
-               {"role": "system", "content": self.sys_prompt},
-               {"role": "user", "content": prompt},
-            ],
-            temperature=self.temperature,
-            max_tokens=self.max_tokens,
-            seed=self.random_seed,
+      response_text = call_api(
+         lm_client=self.lm_client,
+         lm_type=self.lm_type,
+         lm_name=self.lm_name,
+         lm_alias=self.lm_alias,
+         prompt=prompt,
+         sys_prompt=self.sys_prompt,
+         gen_params={
+            "temperature": self.temperature,
+            "max_tokens": self.max_tokens,
+            "seed": self.random_seed,
             **self.additional_gen_kwargs,
-         )
-         response_text = response.choices[0].message.content
-      elif self.lm_type == "cohere":
-         # TODO: Use preamble?
-         response = self.lm_client.chat(
-            model=self.lm_name,
-            chat_history=[],
-            message=prompt,
-            temperature=self.temperature,
-            max_tokens=self.max_tokens,
-            seed=self.random_seed,
-            **self.additional_gen_kwargs,
-         )
-         response_text = response.text
-      else:
-         raise NotImplementedError(f"Only supports `openai` and `cohere` LLMs. `{self.lm_type}` is not supported.")
+         },
+         stream=False,
+      )
 
       return CompletionResponse(
          text=response_text
@@ -350,32 +424,21 @@ class LlamaIndexLLM(CustomLLM):
    @llm_completion_callback()
    def stream_complete(self, prompt: str, **kwargs: Any) -> CompletionResponseGen:
       
-      if self.lm_type == "openai":
-         response = self.lm_client.chat.completions.create(
-            model=self.lm_name,
-            messages=[
-               {"role": "system", "content": self.sys_prompt},
-               {"role": "user", "content": prompt},
-            ],
-            stream=True,
-            temperature=self.temperature,
-            max_tokens=self.max_tokens,
-            seed=self.random_seed,
+      response = call_api(
+         lm_client=self.lm_client,
+         lm_type=self.lm_type,
+         lm_name=self.lm_name,
+         lm_alias=self.lm_alias,
+         prompt=prompt,
+         sys_prompt=self.sys_prompt,
+         gen_params={
+            "temperature": self.temperature,
+            "max_tokens": self.max_tokens,
+            "seed": self.random_seed,
             **self.additional_gen_kwargs,
-         )
-      elif self.lm_type == "cohere":
-         # TODO: Use preamble?
-         response = self.lm_client.chat_stream(
-            model=self.lm_name,
-            chat_history=[],
-            message=prompt,
-            temperature=self.temperature,
-            max_tokens=self.max_tokens,
-            seed=self.random_seed,
-            **self.additional_gen_kwargs,
-         )
-      else:
-         raise NotImplementedError(f"Only supports `openai` and `cohere` LLMs. `{self.lm_type}` is not supported.")
+         },
+         stream=True,
+      )
 
       response_text = ""
       for chunk in response:
