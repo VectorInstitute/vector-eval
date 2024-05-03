@@ -214,7 +214,7 @@ def launch_local_lm(lm_name: str) -> Tuple[str, str]:
             lm_variant[-1].capitalize()
          ])
       else:
-         lm_variant = lm_variant.upper()
+         lm_variant = ("x".join([elm.upper() for elm in lm_variant.split("x")]))
       lm_variant += "-v0.1"
       lm_alias_head = "Mixtral" if LM_MODEL_CONFIG.get(lm_name, {}).get("moe", False) else "Mistral"
       lm_alias = f"{lm_alias_head}-{lm_variant}"
