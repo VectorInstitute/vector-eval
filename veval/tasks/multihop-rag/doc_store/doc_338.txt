@@ -1,0 +1,51 @@
+Uber reported third-quarter earnings on Tuesday that show a profitable ride-hail and delivery company that’s chugging along in spite of slowing growth in some sectors.
+
+The company reported revenue of $9.3 billion, an 11% increase year over year. Investors had expected Uber to report revenues of around $9.5 billion (FactSet, Refinitiv), meaning that despite the company’s growth, it fell short of estimates. Turning to profitability, Uber reported net income of $221 million in the third quarter, or 10 cents per share, compared with a net loss of $1.2 billion, or 61 cents per share, in the same quarter last year. Again, the company fell short of expectations that it would generate 12 cents in per-share profit.
+
+Looking ahead, Uber anticipates gross bookings of $36.5 billion to $37.5 billion, up just 6% at the top-end from its Q3 result.
+
+After reporting, shares of Uber are up 1.6% in trading, after an up-and-down morning of shares exchange.
+
+Against a backdrop of macroeconomic uncertainty, the former startup darling’s results can be viewed as an indication that its business model has matured and is now in a stable, profitable and cash-generating position. On the other hand, under-performing demand results from a company as global as Uber could indicate that consumer spend is coming in lighter than anticipated.
+
+For startups in the transport and on-demand sectors, Uber’s earnings are a regular informational zeitgeist. So let’s work to understand where Uber’s revenue came from in the third quarter, and how each of its top-line sources converted — or not — to bottom-line results.
+
+Where did the money come from?
+
+In the third quarter, Uber saw total bookings rise from $29.1 billion to $35.3 billion, a gain of around 21%. In business segment terms, Uber generated $17.9 billion in ride-hailing bookings (+31% year over year), and $16.1 billion worth of delivery bookings (+18%). Those key business groups at the company generated $5.1 billion and $2.9 billion in revenue, respectively, during the September quarter.
+
+There’s nuance to the revenue figures that we need to consider as the rule-changes in question do affect startups that operate in related categories. On the ride-hailing front, Uber told its investors that its Q3 2023 revenue was “negatively impacted by business model changes in some countries that classified certain sales and marketing costs as contra revenue by $161 million.” That was not the only legal change that led to Uber’s results changing shape. Under its delivery business results, the company added that its revenue result was “negatively impacted by business model changes that classified certain sales and marketing costs as contra revenue by $360 million.”
+
+The combined impact of those two items was 8 percentage points of growth.
+
+The profit perspective
+
+From bookings to revenues to profits: How did the main portions of Uber’s business generate black ink?
+
+Turning to what Uber calls “segment adjusted EBITDA,” it’s not hard to see how the company managed to rack up more income in its most recent quarter. Ride-hailing adjusted profit rose to $1.29 billion, up 43% from $898 million in the year-ago quarter, while delivery saw its own profitability skyrocket from $181 million in Q3 2022 to $413 million in its most recent fiscal period.
+
+Uber did spend more during Q3 2023 when compared to its Q3 2022 result, but the 5% gain in “Corporate G&A and Platform R&D” costs to $595 million was far less than the gains we saw above. So, Uber’s adjusted EBITDA rose from $516 million in aggregate to $1.09 billion in the third quarter of this year.
+
+Of course, adjusted EBITDA is to profit as hidden heels in men’s shoes are to height, so we’ll want some harder figures as well. In the third quarter, Uber generated $394 million in operating income and $219 million worth of net income. Mix in $966 million worth of positive operating cash flow, and Uber looks very healthy, given that all of the figures in this paragraph were improvements on its year-ago results.
+
+But while food delivery and scooting humans about town were profitable for Uber in the quarter, the final major portion of its business had a more lackluster quarter.
+
+Freight falls
+
+One area that continues to drag on Uber is its freight business.
+
+While Uber’s ride-hailing and delivery business saw an uptick in gross bookings in the third quarter, Uber Freight experienced a 27% drop year-over-year. Revenue, as a result, had a similar fall.
+
+The business unit reported revenue of $1.3 billion in the third quarter, a 27% drop from the same period last year. On a quarter-over-quarter basis, Uber Freight had a 1% gain in revenue.
+
+The results don’t get any better once we turn to net income. On an adjusted basis, Uber Freight lost $13 million in the third quarter compared to a $1 million profit in the same quarter last year.
+
+Uber said the dismal year-over-year revenue results for its freight business was driven by lower revenue per load and volume. Both are consequences of the challenging freight market cycle.
+
+Uber Freight isn’t alone. Other more recent entrants to the freight and logistics industry such as Flexport and Convoy have struggled this year. In Convoy’s case, the business was forced to shut down with its assets gobbled up by Flexport.
+
+Uber Freight continues to plug along, despite these economic headwinds. The question is whether Uber believes in the long-term income potential of freight.
+
+So what?
+
+When discussing Uber’s results internally, our vibe was that it is a very profitable and healthy company today, albeit one that is not growing as fast as the market had hoped. The fact that Uber’s share price is up as we write this indicates that investors are content thus far to excuse the small Q3 misses and keep their eyes more focused on its year-over-year improvements and forward guidance. More when we get Lyft’s numbers.

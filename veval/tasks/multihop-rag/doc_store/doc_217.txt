@@ -1,0 +1,55 @@
+Why Gogoro picked India as its new go-to market The Taiwanese company aims to put billions of dollars into the world's biggest two-wheeler market
+
+Gogoro co-founder and CEO Horace Luke wants to “go big” in India even as the Taiwanese company faces challenges in its home country.
+
+The potential of India, it seems, is simply too ripe to ignore and not just because it’s the world’s biggest two-wheeler market, where 15 million to 20 million new two-wheelers hit the road every year. Luke also sees the world’s most populous country as a launch pad that will accelerate its global expansion in other markets. It’s not a bad tactic, considering India is already on a spree to become a competitive manufacturing hub for all major international brands and products, from smartphones to satellites.
+
+Earlier this month, Gogoro made its first commercial entry into India with the introduction of its battery-swapping network and smartscooters after running pilots and investing millions of dollars in the country. Talking on the sidelines with Luke at the company’s event, it’s clear his ambitions stretch beyond this initial debut.
+
+Founded in 2011 by former HTC executives Luke and Matt Taylor, Gogoro considers itself the Android of all EVs. It offers its proprietary technology to other automobile manufacturers alongside selling its own branded scooters with swappable batteries. The company already operates in markets in China, Indonesia, Singapore, Israel and the Philippines — alongside its hometown in Taiwan.
+
+The company has picked India as a strategic market from where it can reach a number of new users and enter new markets, starting with neighboring country Nepal, Luke said at the company’s launch in New Delhi.
+
+The new developments are on the heels of Gogoro’s earlier India announcements, including the early battery-swapping pilot in Delhi, a partnership with Belrise Industries to invest a total of $2.5 billion in Maharashtra to build its battery-swapping infrastructure and network in the western peninsular state and $25 million investment in electric fleet management startup Zypp Electric.
+
+Gogoro is in talks with various local and global players to expand its business and presence in India, Luke stated without sharing any names. The company is already working with domestic manufacturers to produce its components locally, which it currently assembles at a facility in Maharashtra in partnership with Foxconn. It is also looking to partner with Indian and global automobile manufacturers who can deploy its technology, helping to grow its business in the country.
+
+The company has about 11 vehicle manufacturers in Taiwan that are building vehicles of different sizes and configurations based on its standard battery size, the executive said. These include the likes of Suzuki, Yamaha, and Aeon Motor, among others. He indicated that some of these may come to India along with Gogoro’s swappable battery technology over time.
+
+“Everybody’s waiting for me to bring the network,” Luke said without divulging specific details. “Once the network goes live, [the partners will] bring in their capacity and capability.”
+
+In April 2021, Gogoro partnered with Indian two-wheeler giant Hero MotoCorp to roll out its battery-swapping network in the country. However, that deal has not yielded any results.
+
+When asked how Gogoro will utilize its partnership with Hero MotoCorp and why it did not choose the local automobile player for its debut and instead introduced its own range of smartscooters in the country, Luke shared a sketchy response and said the top management of Hero MotoCorp did wish him success before the launch.
+
+“[Hero MotoCorp’s] brand and company as a whole is very B2C focused . . . As we launch with a B2B focus first, we keep them abreast of all the stuff that’s happening,” he said. “We’re an open platform. One day, they’ll be ready [to] launch a vehicle using our system. But it’s really a chicken and egg [situation]. I need to prove that there is a platform that is ready before they actually can go in, come in and do that.”
+
+Mimicking Taiwan model
+
+Gogoro plans to simulate its Taiwan growth in India by launching 30 stations in Delhi by the first quarter of 2024. The company began its journey in Taipei with the same number of stations but has since expanded to 12,500 stations that serve around 600,000 vehicles throughout Taiwan. It is open to making many more investments in India to reach that level and even grow bigger over time.
+
+“If you think about Pan India, we are talking about several billion dollars easily by 2030–2032,” Luke asserted.
+
+He informed reporters at the launch that Gogoro’s battery-swapping system captures 93% of all electric vehicles in Taiwan — of which about 80% use its own branded vehicles. The company is not limited to two-wheelers in its home country but also offers its swapping-battery technology to players that run auto-rickshaws.
+
+Nonetheless, the growth of Gogoro is stagnant and is even dropping in Taiwan, as Luke admitted to TechCrunch.
+
+In its recent earnings report, the Nasdaq-listed company mentioned a 10.2% year-on-year drop in its revenue of $91.8 million, resulting in a net loss of $3.1 million, down from a net income of $56.4 million in the same quarter last year.
+
+He underlined there were a couple of reasons for seeing a decline in its financials and dropping its business in Taiwan. First, he said, it was due to a lobbying effort against the speed of electric vehicle adoption after the 2020 elections. Second, the country took some time to return from the COVID-19 pandemic.
+
+“Taiwan has always been a pilot for us,” Luke stated. “It has always been a market where we used to develop the technology, develop the system so that when we do come to India, we’re ready. And so that’s where the pivot point now is.”
+
+He compared that gasoline in Taiwan has been subsidized to the level that it is available at an average price of 0.85 cents per liter, significantly less than the average price of $1.4 per liter in India, above the global price of $1.22.
+
+Although Gogoro is optimistic about its India launch, the country has a relatively small market for EVs, accounting for only 3.7% of the country’s total automotive market. Electric scooters in the country capture 90% of the total EV sales, but that is just about 5% of the overall two-wheeler market. The Indian government has allocated billions of dollars in subsidies and discounts to attract manufacturers and commuters for EVs. However, these benefits only remain in place for a short time, and some disruption due to the changes in their structure has recently been seen in the electric two-wheeler market.
+
+Yet, Gogoro — similar to other players in the EV market — is bullish since the Indian government has targeted 30% EV adoption by 2030. Gogoro’s approach to considering India as a manufacturing hub will also likely appeal to the government and help the company shift some of its production from China and enter new markets.
+
+It’s important to note that although Gogoro’s revenue dropped significantly in the last quarter, its battery-swapping service continued to grow, with a revenue of $33.6 million, up 10.4% year-on-year. As the company looks to collaborate with other vehicle manufacturers in India for its battery-swapping technology, it could be a mutually beneficial move for both Gogoro and automobile players. Indian automotive players actively seek solutions to reduce charging time and offer efficient alternatives to ICE (internal combustion engine) vehicles. By providing its technology to vehicle manufacturers, Gogoro can tap into this need and increase its battery-swapping service revenues.
+
+A recent report jointly created by Bain & Company and Blume Ventures forecast that electric two-wheelers without batteries can reduce the upfront cost of vehicles by 40% to 50%, attracting price-sensitive Indian customers. However, it also warned that building a battery-swapping ecosystem in India will be challenging in the near term and suggested maintaining a battery-swapping inventory for top SKUs across manufacturers, identifying customer segments to target, and establishing “walled-garden” partnerships to support swappable-battery systems.
+
+An investor told TechCrunch that to really succeed, the market needs interoperability and standardization in battery swapping, similar to how we have USB-C in phones nowadays. But for Gogoro, it is just a start to explore how big of a dent it can make in the overall EV market with its available battery-swapping solution.
+
+“I got an entire ecosystem I need to bring in. It took us a little while to get ready, and it will take us a little while to ramp up. And I’m not fooling anybody that this thing is going to [happen] overnight,” Luke said. “India’s a huge place. There’s a lot of different use cases. The price-performance people ask for is very high . . . So, through making more of the components and making more parts in India, with our Indian suppliers, we’ll definitely start, and then more and more localization would certainly help.”

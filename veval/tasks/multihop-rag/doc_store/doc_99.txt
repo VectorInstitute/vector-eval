@@ -1,0 +1,33 @@
+The Biden administration announced the details of a long-awaited executive order on AI today, ahead of an international summit on AI safety being held in the U.K. But as with all such orders, what the president can dictate without legislative support is limited, as numerous experts and stakeholders emphasized in response.
+
+The order comes as governments across the globe continue their attempts to address the opportunities and risks of AI, which has so far proved too fast a moving target for regulators. Facing twin risks of premature action chilling innovation and dilatory action permitting abuse or exploitation, the U.S. and EU have avoided the first but due to lengthy argument and drafting processes are rolling headlong toward the second.
+
+Biden’s EO operates as a stopgap that props up the “voluntary” practices many companies are already choosing to implement. The limits on what a president can do with a wave of their hand means it’s a lot of sharing results, developing best practices and providing clear guidance.
+
+That’s because right now there is no legislative remedy to potential AI risks and abuses outside of those that can be applied to tech companies in general — which many have argued over the years are also inadequate. Federal action on social media and de facto monopolies like Amazon and Google has been sporadic, though a hawkish new FTC may change that trend.
+
+Meanwhile, a comprehensive law defining and limiting the use of AI seems as far off now as it was years ago. The industry and technology have evolved so quickly that any rule would likely be outdated by the time it was passed. It’s not even really clear what ought to be legislatively limited, as opposed to being left to state law or expert agencies.
+
+Perhaps the wisest approach is to set up a new federal agency dedicated to regulating AI and technology, but this cannot be accomplished by fiat. In the meantime, the EO at least instructs several AI-focused groups, like one in the Department of Health and Human Services dedicated to handling and assessing reports of AI-related harms in healthcare.
+
+Senator Mark Warner of Virginia said he was “impressed by the breadth” of the order, though, he implies, not the depth.
+
+“I am also happy to see a number of sections that closely align with my efforts around AI safety and security and federal government’s use of AI,” he said in a statement. “At the same time, many of these just scratch the surface – particularly in areas like health care and competition policy. While this is a good step forward, we need additional legislative measures, and I will continue to work diligently…” etc.
+
+Given the state of the legislature and the fact that an incredibly contentious election period is upcoming, it will be a miracle if any substantive law whatsoever is passed in the near future, let alone a potentially divisive and complex bill like AI rules.
+
+Paul Barrett, deputy director of the NYU Stern Center for Business and Human Rights, acknowledged both sides of the issue.
+
+“President Biden is sending a valuable message that certain AI systems create immediate risks that demand immediate attention. The administration is moving in the right direction,” he wrote. “But today is just the beginning of a regulatory process that will be long and arduous–and ultimately must require that the companies profiting from AI bear the burden of proving that their products are safe and effective, just as the manufacturers of pharmaceuticals or industrial chemicals or airplanes must demonstrate that their products are safe and effective. Without fresh resources provided by Congress, it’s not clear that the federal government has the resources to assess the vastly complicated training process or the adequacy of red-teaming and other necessary testing.”
+
+Sheila Gulati, co-founder of Tola Capital, said the EO showed a “clear intention to walk the line of promoting innovation while protecting citizens.”
+
+“It is most essential that we don’t prevent agile innovation by startups. Putting AI explainability at the forefront, taking a risk-based approach with more focus on areas where harm or bias could be at play, and bringing security and privacy to the center of focus are all sensible steps,” she told TechCrunch. “With this executive order and the standards implications through NIST, we would anticipate leadership from standards bodies versus legislators in the near term.”
+
+It is worth mentioning as well that the federal government is a major customer of today’s AI and tech products, and any company that intends to keep them as a customer will want to color inside the lines for the immediate future.
+
+Bob Cattanach, partner at legal mega-firm Dorsey and Whitney, added that the timing feels slightly off.
+
+“…The Executive Order awkwardly preempts the voice of Vice President Harris at a U.K.-hosted Summit on AI later this week, signaling that White House concerns over the largely unregulated space were so grave that Biden was prepared to alienate key allies by taking unilateral action rather than accept the delays inherent in the more collaborative process currently underway in the EU.”
+
+Alienate is perhaps a strong word for it. And of course, the U.K. is not the EU. And that “more collaborative process” will likely take a few more years, and it’s unlikely the administration wants to wait until then. But it might indeed have been more coherent and ally-like to have Harris discuss the EO at the summit. Her remarks (which will no doubt suggest the need for international harmony in AI regulation, with the U.S. modestly taking the lead) will be streamed on November 1, and you should be able to tune in here.

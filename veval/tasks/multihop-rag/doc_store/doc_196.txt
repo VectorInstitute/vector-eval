@@ -1,0 +1,37 @@
+X plans to use payment, phone and ID verification to stop bots, in addition to the new $1/yr fee
+
+It’s official: X is charging users to use its service — a move X owner Elon Musk said would help the company combat bots and spam, something he’s repeatedly complained about even before acquiring the social network. But while critics, including WordPress founder Matt Mullenweg, have suggested that fees alone will not stymie the efforts of determined spammers, an X engineer took to the platform to explain that the nominal $1 per year fee was not the only tool X planned to use to deal with its bot problem. Instead, it’s only one piece of a broader plan to stop bots that may also include payment, phone and ID verification, in addition to traditional bot-catching methods involving heuristics.
+
+On X, director of engineering Eric Farraro wrote, “I’ve read a lot of cynical takes about the $1 ‘Not a Bot’ feature and the verification program in general.” He said he understood the skepticism but noted that, in a matter of years, AI will be able to mimic human interactions by doing things like solving CAPTCHAs and generating photos and videos that will be “undetectable by human or AI countermeasures.” That means current methods of catching bots will need to evolve.
+
+“If you can avoid getting identified as a bot, why can’t an intelligent AI do the same?,” Farraro asked.
+
+I've read a lot of cynical takes about the $1 'Not a Bot' feature and the verification program in general. I understand why people are skeptical, but consider a thought experiment: Are you sophisticated enough to evade X's bot detection? The answer is of course, yes, because… — Eric Farraro (@EFarraro) October 18, 2023
+
+However, critics have pointed out that a small fee like $1 or even $8 won’t stop all bots. For instance, Mullenweg argued that spammers buy domains to use at a cost that’s “usually a lot more than a dollar per year,” and that “millions are used for spam or nefarious purposes.” In addition, he said spammers may also use stolen credit cards and identities to conduct their transactions.
+
+“Charging may cause a short-term drop in bots while the bad guys update their scripts, but the value of manipulating X/Twitter is so high I imagine there is already millions of dollars being spent on it,” Mullenweg wrote on his blog.
+
+Farraro seemed to largely agree with this assessment, admitting that X’s goal was “to make it difficult and expensive enough that it’s less and less viable,” as opposed to stopping the bot problem outright. “Right now, the cost to have a human or script create accounts is pennies. Increasing the cost to even $1 starts to make this process much more expensive,” he explained. But, he added, fees were not the only tool X planned to use.
+
+“At X, we’re exploring using payment & phone verification, as well as ID verification, as part of a larger strategy to fight bots. We of course use more traditional heuristics and models to detect fake accounts [and] engagement on the platform. These two things are not mutually exclusive,” Farraro said, concluding that other networks would likely follow suit in the years ahead.
+
+His statements mirrored comments recently made by Elon Musk, who said X would be “moving to a small monthly payment” for use of the X system. “It’s the only way I can think of to combat vast armies of bots,” he remarked during a conversation with Israeli Prime Minister Benjamin Netanyahu last month, which had largely focused on AI tech, regulation and hate speech in the wake of Musk’s recent spat with the Anti-Defamation League, which had accused both Musk and X of being antisemitic.
+
+“Because a bot costs a fraction of a penny — call it a tenth of a penny — but even if it has to pay…a few dollars or something, the effective cost of bots is very high,” Musk said at the time. Plus, every time a bot creator wanted to make another bot, they would need another new payment method, he explained. Today, he added that the fee “won’t stop bots completely, but it will be 1000x harder to manipulate the platform.”
+
+Correct, read for free, but $1/year to write. It’s the only way to fight bots without blocking real users. This won’t stop bots completely, but it will be 1000X harder to manipulate the platform. — Elon Musk (@elonmusk) October 18, 2023
+
+The plan to charge X new users $1 per year, currently only live in test markets of New Zealand and the Philippines, is the latest significant change to the network formerly known as Twitter since its acquisition by Elon Musk, who has revamped its subscription offering, refocused efforts on supporting creators and rebranded the network as “X,” as part of his broader plan to turn the social network into an everything app encompassing text, live and recorded, audio and video calling, payments and more.
+
+However, the timing of the bot-countering measure comes at a time when X is facing more competition than ever before. As Musk’s chaotic product and policy changes have taken root, some X users abandoned the platform for rivals or decreased their posting. A report this week from market intelligence firm Similarweb, for example, found that X’s web traffic and monthly active users on mobile had declined post-acquisition.
+
+Users today have far more options for microblogging and public discourse, thanks to products from Twitter-like startups and tech companies such as Spill, Bluesky, Pebble, Countersocial, Spoutible, Hive and the open source platform Mastodon, as well as efforts from tech giants, like Meta’s new app Threads. Few of the other social apps currently charge a fee, unless it’s for premium features, like some of the third-party Mastodon apps do.
+
+In addition to presenting friction at sign-up, other critics have argued a fee could exclude genuine users and increase the digital divide.
+
+“Even the differences in the cost of living in the Philippines and New Zealand, the ability to afford $1 is not the same in the two countries,” said Aditya Vashistha, an assistant professor of information science at Cornell University, who studies computing systems in the Global South. “Even if the rationale behind creating a paywall is right, such policies would broaden the digital divide, making it difficult for people in the Philippines to be part of a global community on X compared to those in New Zealand,” he said.
+
+Still, the idea of charging users a small fee to use a social platform is not a new idea. WhatsApp for years charged users a $1 annual fee up until 2016, as a means of monetization ahead of its creation of commercial services.
+
+Given that X’s current tests are only an experiment, it’s not clear that the $1 fee will be a permanent requirement when the new subscription policy rolls out more broadly to other markets.

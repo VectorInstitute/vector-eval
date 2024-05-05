@@ -1,0 +1,49 @@
+Meta, on an open source tear, wants to spread its influence in the ongoing battle for AI mindshare.
+
+This morning, the social network announced that it’s teaming up with IBM, whose audience is decidedly more corporate and enterprise, to launch the AI Alliance, an industry body to support “open innovation” and “open science” in AI.
+
+So what will the AI Alliance do exactly — and how will its work differ from the quite similar (at least in terms of its overarching mission, members and tenets) Partnership on AI? The Partnership on AI years ago promised to publish research using open source licenses and minutes from its meetings to, as the AI Alliance purportedly seeks to do, educate the public on pressing AI issues of the day.
+
+Well — confusingly — the Partnership on AI is in fact a member of the AI Alliance. The Alliance says that it plans to “utilize pre-existing collaborations” (including the Partnership on AI’s, presumably) to “identify opportunities that develop open AI resources that meet the needs of business and society equally and responsibly,” a press release shared last week with TechCrunch reads.
+
+The AI Alliance’s members will first form working groups, a governing board and a technical oversight committee dedicated to advancing areas like AI “trust and validation” metrics, hardware and infrastructure that supports AI training and open source AI models and frameworks. They’ll also establish project standards and guidelines, and then partner with “important existing initiatives” — initiatives conspicuously not named in the press release — from government, nonprofit and civil society organizations “who are doing valuable and aligned work in the AI space.”
+
+If that sounds a lot like what the inaugural members of the Alliance were already doing independently, you’re not wrong. But in the release, the AI Alliance stresses that its work — whatever form it ultimately takes — is intended to be complementary and additive rather than needlessly duplicative.
+
+“[M]ore collaboration and information sharing will help the community innovate faster and more inclusively, and identify specific risks and mitigate those risks before putting a product into the world,” the release reads. “This stands in contrast to a vision that aims to relegate AI innovation and value creation to a small number of companies with a closed, proprietary vision for the AI industry.”
+
+Key subtext
+
+That jab at the end says a lot about Meta’s ulterior motives, here.
+
+Google, OpenAI and Microsoft, a close OpenAI partner and investor, have been among the chief critics of Meta’s open source AI approach, arguing that it’s potentially dangerous and disinformation-encouraging. (Unsurprisingly, none are members of the AI Alliance despite being longtime members of the Partnership on AI.) Now, those companies have a clear horse in the race and perhaps regulatory capture on the mind… but they’re not wrong entirely. Meta continues to take calculated open sourcing risks (within the bounds of regulators’ tolerances), releasing text-generating models like Llama that bad actors have gone on to abuse but which plenty of developers have built useful apps upon.
+
+“The platform that will win will be the open one,” Yann LeCun, Meta’s chief AI scientist, was quoted as saying in an interview with The New York Times — and who’s among the more than 70 influential signers of a letter calling for more openness in AI development. LeCun has a point; according to one estimate, Stability AI’s open source AI-powered image generator, Stable Diffusion, released last August, is now responsible for 80% of all AI-generated imagery.
+
+But wait, you might say — what does IBM gain from the AI Alliance? It’s a co-founder with Meta after all. I’d venture to guess more exposure for its burgeoning generative AI platform. IBM’s most recent earnings were boosted by enterprises’ interest in generative AI, but the company has stiff competition in Microsoft and OpenAI (and to a lesser extent Google), which are jointly developing enterprise-focused AI services that directly compete with IBM’s.
+
+I’ve asked IBM’s PR, which first informed me of the AI Alliance’s founding, about the curious omissions from the early membership, like Stanford (which has a prominent AI research lab, Stanford HAI), MIT (which is at the forefront of robotics research) and high-profile AI startups like Anthropic, Cohere and Adept. A press rep didn’t respond as of publication time. But the same philosophical differences that kept Google and Microsoft away likely were at play; I’d wager it’s no accident that Anthropic, Cohere and Adept have relatively few open source AI projects to their names.
+
+I’ll note that Nvidia isn’t a member of the AI Alliance, either — a suspect absence given that the company is by far the dominant provider of AI chips and a maintainer of many open source models in its own right. Perhaps the chipmaker perceived a conflict of interest in collaborating with Intel and AMD. Or perhaps it decided to cast its lot with Microsoft, Google and the rest of the tech giants opting out of the Alliance for strategic reasons. Who can say?
+
+Sriram Raghavan, VP of IBM’s research AI division, told me via email that the Alliance is, for now, focused on “members that are strongly committed to open innovation and open source AI” — implying that those who aren’t participating aren’t as strongly committed. I’m not sure they’d agree.
+
+“This of course is just the starting point,” he added. “We welcome and expect more organizations to join in the future.”
+
+A broad assembly
+
+Counting around 45 organizations among its membership, including AMD and Intel, the research lab CERN, universities like Yale and the Imperial College London and AI startups Stability AI and Hugging Face, the AI Alliance will focus on fostering an “open” community and enabling developers and researchers to “accelerate responsible innovation in AI” while “ensuring scientific rigor, trust, safety, security, diversity and economic competitiveness,” according to the release.
+
+“By bringing together leading developers, scientists, academic institutions, companies and other innovators, we’ll pool resources and knowledge to address safety concerns while providing a platform for sharing and developing solutions that fit the needs of researchers, developers and adopters around the world,” the release reads.
+
+The AI Alliance’s initial cohort is exceptionally broad — sitting at the intersection of not just AI and enterprise but healthcare, silicon and software-as-a-service as well. In addition to academic partners such as the University of Tokyo, UC Berkeley, the University of Illinois, Cornell and the aforementioned Imperial College London and Yale, Sony, ServiceNow, the National Science Foundation, NASA, Oracle, the Cleveland Clinic and Dell have pledged their participation in some form.
+
+MLCommons, the engineering consortium behind MLPerf, the benchmarking suite used by major chip manufacturers to evaluate their hardware’s AI performance, is also a founding AI Alliance member. So are LangChain and LlamaIndex, two creators behind some of the more widely used tools and frameworks for building apps powered by text-generating AI models.
+
+But without the participation of so many major AI industry players — and lacking deadlines or even concrete objectives — can the AI Alliance succeed? What would success look like, even?
+
+Beats me.
+
+The vast number of competing interests — from healthcare networks (Cleveland Clinic) to insurance providers (Roadzen) — won’t make it easy for the Alliance’s members to coalesce around a single, united front. And for all their talk of openness, IBM and Meta aren’t exactly the poster children for the future that the Alliance’s release depicts — casting doubt on their sincerity.
+
+Perhaps I’m wrong and the AI Alliance will be a smash success. Or perhaps it’ll crumble under mistrust and its own bureaucracy. We’ll see; time will tell.

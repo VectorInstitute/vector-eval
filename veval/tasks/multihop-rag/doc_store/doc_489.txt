@@ -1,0 +1,39 @@
+At midnight last Friday, Alphonzo Terrell held up a glass of Dom Pérignon and toasted his one-year anniversary of being laid off at Twitter.
+
+If it weren’t for that moment, he wouldn’t be in Austin at an AfroTech after-party, surrounded by thousands of people who now know his name and his social media app, Spill. As a competitor to the platform now known as X, Spill hails itself as a safer place for Black Americans and the LGBTQ community and has amassed around 200,000 users, he said. This past year, the app, which is still in beta mode, has raised a total of $5 million in pre-seed funding, including a recent $2 million extension round led by Collide Capital.
+
+“We put an invite-only beta in June, and within three weeks, it went viral,” Terrell told TechCrunch. “Suddenly, we’re supporting a city, we have data costs, we have infrastructure, we have to accelerate our building times, so we really needed an extension to do that effectively.”
+
+His journey with Spill started last year at AfroTech. He arrived at the conference just days after being laid off from what was then Twitter, along with about 3,000 others amid Elon Musk’s acquisition. Terrell hopped on a call with former Twitter colleague DeVaris Brown about a business idea and spent three days in an Airbnb creating the pitch deck for what became Spill. At AfroTech, he went around taking last-minute coffee meetings, seeing who would give his company a chance. Flash-forward to this year and Spill is the cool kid in town.
+
+So many apps have sprung up over the last year in an attempt to become “the new Twitter,” but no app has emerged as the dominant refuge for disillusioned Twitter users. Threads, Instagram’s supposed “Twitter killer,” got 100 million sign-ups within five days; the decentralized platform Mastodon has 1.8 million monthly active users; and the smaller upstart Bluesky hit 1 million users in September. Though still in beta, Spill’s community of 200,000 users may seem small in comparison, but Spill’s rise has shown that quality matters just as much as quantity — that building a strong core community is just as valuable as high-speed growth, even if the traditional venture model may not always incentivize thoughtful product development.
+
+“If you have a great experience, you’re going to grow,” Terrell said. “Especially in a world where you have so many networks — there are all these choices that people conceivably have — you’re gonna go to the one where you have the greatest experience and want to invest your time.”
+
+Another app that spun out from laid-off former Twitter employees, Pebble (formerly T2), recently shut down after a year, growing to just 20,000 registered users. Its CEO, Gabor Cselle, previously had exits to Google and Twitter, but accepted that Pebble simply wasn’t competitive enough to stay afloat. But while Pebble sought to essentially clone Twitter, Spill’s team is building something that looks very little like it.
+
+“People are looking for something new,” Terrell said. “I think things that have really defined, unique value propositions are going to win over the long term — it might not be like there’s one winner-take-all.”
+
+Earlier this year, TechCrunch covered the founding of Spill, piquing the interest of Kapor Capital, which ended up writing the company its first check.
+
+“We had over 25,000 people join our waiting list in less than 24 hours from that article,” Terrell said.
+
+This weekend, as CEO, Terrell took the AfroTech stage twice: once to interview Mitch and Freida Kapor, the founders of Kapor Capital, and a second to reveal a new app feature: Tea Party, which is similar to Instagram Live. The first user to host a Tea Party was actress Kerry Washington. Terrell’s next dream Tea Party host? Keke Palmer, who is already on Spill. So are other cultural icons like Questlove, Ava DuVernay and Janelle Monáe.
+
+“Tea Parties reflect the communities that we have always spoken very clearly that we are here to center,” Kenya Parham, Spill’s Global VP of Community and Partnerships, told TechCrunch. “Black communities, queer communities, women, non-binary and femme stories are all the way at the forefront, and the community is just eating it up.”
+
+Anne Griffin can attest to that. She’s a product manager based in New York and signed up for Bluesky, Spill and Threads last year. Out of those three, Spill is the only one she is still consistently using. “It feels much more rooted in authentic connection,” she told us about the app, praising its product features. “In a world where many social media algorithms focus on engagement at any cost, it’s refreshing to have an app that is focused on engagement around community in culture.”
+
+Washington, meanwhile, joined the platform organically; Spill has “not paid for a single acquisition to date,” Parham said, which speaks to the influence and respect that the app’s leadership has established in the entertainment and tech industries. Before Spill, Terrell led marketing teams at HBO and Showtime; Parham ran her own strategic communications consultancy, working with a laundry list of major production studios. So, already, Spill has wooed advertising partners like Netflix, Lionsgate, VH1, Showtime and Sony Pictures.
+
+Spill has come to be a bright spot in the post-Twitter era. Users are organizing in-person meetups in Atlanta, New York and “Spillicon Valley.” At AfroTech, Spill gave out customized tea bags created with the help of Nigerian-American tea sommeliers while lines formed to use a Spill-branded 360 camera at a house party, inspired by an actual trend on the app where people share photos of themselves on Fridays.
+
+The app is set to exit beta and open to the public next year. As Terrell previously discussed with TechCrunch, the app has plans to pay creators for their cultural contributions to the app, which is especially important for Black creators in the creator economy.
+
+“We don’t get credit for all the contributions that we make,” Terrell said of Black artists in the space.
+
+Despite the robust year, however, the story for Spill is just beginning, with AfroTech reminding Terrell of how far they’ve come, but also how far they have to go.
+
+“To be able to make something for the community, it’s just really beautiful,” he said.
+
+Update, November 7, 2:20 PM: Spill’s seed extension is $2 million, not $2.75 million.

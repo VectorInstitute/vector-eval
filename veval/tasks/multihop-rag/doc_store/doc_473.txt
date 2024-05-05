@@ -1,0 +1,53 @@
+Scientists have been experimenting with how to use CRISPR to treat and potentially cure HIV since the gene-editing tool was developed.
+
+In an ongoing clinical trial , researchers are testing whether just one dose of a new gene therapy that might effectively cure human immunodeficiency virus ( HIV ) infections is safe in humans.
+
+The therapy, named EBT-101, involves using CRISPR-Cas9 gene editing to treat HIV. This potential treatment strategy has been studied in animal models since the development of CRISPR-Cas9 in 2012. However, this is the first time such a gene-editing treatment for HIV has been tried in humans. The latest data from the trial suggest that EBT-101 is safe at the doses tested, but we don't yet know if it cures HIV.
+
+According to the United Nations Programme on HIV/AIDS (UNAIDS) , approximately 39 million people globally were living with HIV in 2022, and there were about 630,000 AIDS-related deaths that year, making HIV a continued public health burden. There is no vaccine or easily accessible cure for HIV, although a handful of people have been effectively cured through intensive stem-cell transplants.
+
+The EBT-101 trial "is an important step forward in the development of this technology to treat human disease and infection, including HIV," Thomas Hope , a professor of cell and developmental biology at Northwestern University who was not involved in the work, told Live Science in an email.
+
+But how likely is it, really, that we could use CRISPR to cure HIV someday?
+
+Related: We could end the AIDS epidemic in less than a decade. Here's how.
+
+How CRISPR could (theoretically) cure HIV
+
+HIV infects immune cells that are normally used to fight infection in the virus's host. The virus uses an immune cell's machinery to insert its own DNA into the host's genome, allowing the virus to replicate. If an HIV infection is not treated, it can lead to acquired immunodeficiency syndrome (AIDS), which results in a severely weakened immune system and leaves the infected person highly vulnerable to other infections, cancers and early death.
+
+Combination antiretroviral therapies (cARTs) are the mainstay in HIV treatment and limit the virus' replication, thus extending people's lives to near-normal lengths and cutting their chance of spreading HIV . However, these therapies must be taken for a lifetime and fall short of being a cure .
+
+"The existing challenge in HIV treatment lies in the virus creating resilient genetic reservoirs within human cells," Elena Herrera-Carrillo , an associate professor of infectious disease at Amsterdam University Medical Centers, told Live Science. Herrera-Carrillo's lab focuses on using CRISPR to edit cells that harbor HIV reservoirs, despite ongoing cART therapy. This phenomenon is known as "latent HIV" and occurs when the virus infects a type of immune cell called CD4+ memory T cells, which can persist for decades .
+
+cART therapies can suppress viral replication, but if the treatment is interrupted, "the dormant proviruses can reactivate, making a cure elusive," Herrera-Carrillo told Live Science.
+
+CRISPR works by targeting and cleaving specific sequences of DNA from the genome; a "guide" leads CRISPR's famous "molecular scissors" to the targeted gene. This either deactivates the gene or allows it to be removed and swapped for different DNA. Research groups believe this strategy could be effective in removing latent HIV infections, because it can target the viral DNA embedded in the genome, rather than only stopping replication.
+
+Using CRISPR for HIV gene therapy has shown promise in several test-tube studies, a 2020 review in The Journal of Clinical Investigation notes. Various groups have been working to bring the therapies from test tubes to human patients — and that brings us to EBT-101.
+
+Related: The world's 1st CRISPR therapy has just been approved. Here's everything you need to know
+
+HIV infects immune cells in the body. (Image credit: KATERYNA KON/SCIENCE PHOTO LIBRARY via Getty Images)
+
+All about EBT-101
+
+According to a recent presentation at the annual meeting of the European Society for Gene and Cell Therapy in Brussels, EBT-101 uses multiple guides to target multiple sites in the genome and snip out large sections of latently integrated HIV DNA. This stops HIV from replicating.
+
+Kamel Kahlili , a professor of neurovirology and gene editing at Temple University and co-founder of Excision BioTherapeutics , has been working with the company to develop EBT-101 for a decade. In 2020 and 2023 , Khalili and his team published reports that showed that EBT-100, a precursor to EBT-101, safely targeted and removed HIV DNA in infected primates.
+
+Now, they're testing their EBT-101 targeting strategy in humans in an early-stage clinical trial that primarily focuses on the safety of the treatment. Initial results from three treated patients showed no toxic effects or serious adverse events. All of the patients' HIV is currently suppressed with cART.
+
+"The initial safety results are promising because no adverse outcomes have been observed to date," said Hope, whose lab studies the mechanisms behind HIV infections. "But more time is needed to be sure because of the way genetic off-target mutations can take years to manifest into complications," he added.
+
+Off-target effects of CRISPR refer to when the CRISPR molecule alters DNA at sites other than those targeted. These unintended snips have long been a worry for researchers designing CRISPR treatments, so they'll be something to watch for with EBT-101, especially since the treatment targets multiple sites in the genome .
+
+Additionally, experts told Live Science that even though the ongoing trial hints that the therapy has a positive safety profile, we still don't know whether one dose can effectively target latent HIV cells and whether it can control HIV in humans.
+
+"It is crucial to approach this with caution," Herrera-Carrillo said. "While optimism about being on the right track is justified, it's important to recognize the substantial work that still needs to be done."
+
+The clinical trial will next test additional doses of EBT-101 for safety and then determine whether the virus stays suppressed when patients are taken off cART. cART therapies pump the brakes on HIV replication, so the only way to determine whether the latent cell reservoirs have been disabled is to temporarily lift those brakes.
+
+Interruptions to HIV treatment are necessary to determine whether a patient is in remission — as has occurred in the few people cured of HIV — but in general, purposeful treatment interruptions have been debated due to their inherent risks.
+
+Following these tests, EBT-101 trial participants will be enrolled in a long-term follow-up study for 15 years following their initial dose to check for long-term adverse effects. So the data is on its way, but will take years to arrive.

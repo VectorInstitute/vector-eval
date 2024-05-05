@@ -1,0 +1,47 @@
+Let’s say I am the owner of a hedge fund, and one fine June day, my employees come to me and say, “Hey, Liz, we have an accounting problem. We are missing several billion dollars.” How would I react?
+
+I have been wondering this since Danielle Sassoon walked Sam Bankman-Fried through his reaction to the FTX software bug fixed by Adam Yedidia. In my case, there would probably be shouting? Like, a lot of shouting. I would also probably have my assistant figure out which law enforcement agency to call immediately. Misplacing $900 million is a five-alarm fire even for Citibank; misplacing several billion is kicking over a lantern in Chicago in 1871.
+
+Obviously, this is not how Bankman-Fried reacted to the software bug that overestimated the amount Alameda owed to FTX by about $8 billion. Nor is it how he reacted to finding out that even after fixing the bug, Alameda still owed FTX about $8 billion. Instead, Bankman-Fried directed alleged co-conspirator Caroline Ellison to repay third-party loans and went on making investments.
+
+Bankman-Fried said that he found out about the fiat@ftx account — that’s the one that tracked how much Alameda owed FTX — in June 2022 while his senior staff was focused on fixing the software bug. He did not, however, discover what the account was for until October. I know this sounds unbelievable, but this is his actual testimony.
+
+His employees told him “they were busy and I should stop asking questions because it was distracting.”
+
+Simple questions nailed Bankman-Fried to the wall. Had he given his employees at Alameda the direction not to spend FTX customer deposits? Had he put in any policies to prevent Alameda employees from spending FTX customer money? Did he put in place any measures at Alameda to protect the FTX customer money? No, no, and no. Oh, but he was testifying to Congress about keeping customer funds safe.
+
+Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, is on trial for seven counts of wire fraud and conspiracy. FTX was a fraud “from the start,” the Securities and Exchange Commission alleges — with a “multi-billion-dollar deficiency caused by his own misappropriation of customer funds.” Follow along for all the latest news and regular updates from the trial.
+
+Who was making decisions to spend $8 billion of customer funds? Bankman-Fried couldn’t recall knowing anything about it. Were there rules or requirements for how money borrowed from FTX would be returned? Were there rules for risk management? “I was concerned with overall risk management,” Bankman-Fried said.
+
+But it was the testimony about June 2022 that resonated the most to me. Didn’t Bankman-Fried ask what “fiat@ftx” was? He did. But — I did hear these words uttered aloud in a court of law this morning, I am not creative enough to make this kind of thing up — his employees told him “they were busy and I should stop asking questions because it was distracting.”
+
+Yedidia — Bankman-Fried’s college friend, Bahamas roommate, and employee at FTX — had testified that he’d asked Bankman-Fried about the $8 billion hole on a padel tennis court in their luxury complex in June or July. Today, in testimony, Bankman-Fried seemed to be trying to deny that conversation had ever taken place. It was not until Judge Lewis Kaplan intervened to ask if Bankman-Fried had ever been told by Yedidia about that money, in words or in substance, that Bankman-Fried admitted he’d been told.
+
+I have come to believe that if you know the meaning of the word “epistemology,” you absolutely should not testify in your own defense
+
+“So it’s your testimony that your supervisees told you to stop asking questions?” Sassoon asked. She could have been filing her nails, her tone was so level. Had Bankman-Fried called anyone in to ask who spent $8 billion? “I wasn’t trying to build out blame for it,” he said. He was focused on solutions! Did he fire anyone? Nope!
+
+We also saw an Alameda balance sheet from June 13th, 2022, that included the money it was borrowing from FTX as “ftx borrows.” Bankman-Fried seemed pretty hazy on this, too.
+
+If you are wondering how Bankman-Fried’s parents reacted to this, I can’t tell you — they weren’t there. I couldn’t really blame them. I wouldn’t want to watch my child be vivisected, either. The jurors, however, watched the operation attentively. I suppose for most of us, $8 billion has a way of focusing the mind.
+
+Look, uttering phrases like “hole isn’t really the word I would use” and responding to a question by saying you wanted “a few more qualifiers and scoping on it” do not, as a general rule, bode well for your believability. Yes, this will win certain kinds of nerd arguments. But this is a courtroom, and I have come to believe that if you know the meaning of the word “epistemology,” you absolutely should not testify in your own defense.
+
+“His name is Ryan Salame :p”
+
+Bankman-Fried, like Theranos’ Elizabeth Holmes before him, got on the stand to speak directly to his state of mind in a way no other witness can. But telling your side of the story opens you to a great many questions you might not want to answer on cross-examination. I have watched a lot of crosses. This was the nastiest I think I’ve ever seen.
+
+The charges in this case hinge on conspiracy and intentional deceit. Just losing $8 billion is not a crime, though it is very embarrassing. (Even losing $900 million is very embarrassing because people will make jokes about it forever!) But if Bankman-Fried lied to customers and lenders about what he was doing and how safe FTX was, that’s a crime.
+
+Establishing that would have been enough, but Sassoon also managed to get in some flourishes about Bankman-Fried’s relationships to Bahamian power. For instance, she asked him if he’d made comments about paying off the Bahamian national debt. (You will be shocked, shocked to discover he didn’t recall.) We then saw an internal FTX group chat called “Project Chinchilla Chatter” in which another member asked who in the Bahamian government they needed to talk to for the project. “His name is Ryan Salame :p,” Bankman-Fried replied. Salame was one of FTX’s executives.
+
+In another part of the chat, Bankman-Fried noted that the Bahamian prime minister was at the FTX arena in FTX seats with his wife.
+
+We then saw a November 9th email from Bankman-Fried to Ryan Pinder, attorney general of the Bahamas, that said “we are deeply grateful” for what the Bahamas had done for FTX. As a token of that gratitude, Bankman-Fried wrote:
+
+We would be more than happy to open up withdrawals for all Bahamian customers on FTX, so that they can, tomorrow, fully withdraw all of their assets, making them fully whole. It’s your call whether you want us to do this, but we are more than happy to and would consider it the very least of our duty to the country, and could open it up immediately if you reply saying you want us to. If we don’t hear back from you, we are going to go ahead and do it tomorrow.
+
+Bankman-Fried did indeed open withdrawals for Bahamian customers. The upshot of this testimony seemed to be that Bankman-Fried had a cozy, perhaps even inappropriately cozy, relationship with the Bahamian government — which isn’t what he’s on trial for but probably doesn’t make him look any better to a jury.
+
+Sassoon successfully established yesterday that Bankman-Fried has a long history of dishonesty. Today, through a set of questions about what Bankman-Fried did and didn’t do, she established that the story he told on direct examination was absurd. After a brief redirect examination by Bankman-Fried’s own lawyers, which was resplendent with word salad, Bankman-Fried stepped down, and the defense rested their case.

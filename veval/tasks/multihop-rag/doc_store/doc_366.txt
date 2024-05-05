@@ -1,0 +1,73 @@
+8 predictions for AI in 2024 How will AI impact the US primary elections? What's next for OpenAI? Here are our predictions for AI in 2024.
+
+This last year was a banger for AI as the technology went from niche to mainstream about as fast as anything ever has. 2024, however, will be the year when the hype runs full-steam into reality as people reckon with the capabilities and limitations of AI at large. Here are a few ways we think that’s going to play out.
+
+OpenAI becomes a product company
+
+After the leadership shake-up in November, OpenAI is going to be a changed company — perhaps not outwardly, but the trickle-down effect of Sam Altman being more fully in charge will be felt at every level. And one of the ways we expect that to manifest is in “ship it” mindset.
+
+We’ll see that with the GPT store, originally planned for launch in December but understandably delayed due to the C-suite fracas. The “app store for AI” will be pushed hard as the platform to get your AI toys and tools from, and never mind Hugging Face or any open source models. They have an excellent model to work from, Apple’s, and will follow it all the way to the bank.
+
+Expect more moves like that from 2024’s OpenAI as the caution and academic reserve that the previous board exerted gives way to an unseemly lust for markets and customers.
+
+Other major companies with AI efforts will also follow this trend (for instance, expect Gemini/Bard to horn in on a ton of Google products), but I suspect it will be more pronounced in this case.
+
+Agents, generated video and generated music graduate from quaint to experimental
+
+Some niche applications of AI models will grow beyond “eh” status in 2024, including agent-based models and generative multimedia.
+
+If AI is going to help you do more than summarize or make lists of things, it’ll need access to things like your spreadsheets, ticket buying interfaces, transportation apps and so on. 2023 saw a few tentative attempts at this “agent” approach, but none really caught on. We don’t really expect any to really take off in 2024, either, but agent-based models will show their stuff a little more convincingly than they did last year, and a few clutch use cases will show up for famously tedious processes like submitting insurance claims.
+
+Video and audio will also find niches where their shortcomings aren’t quite so visible. In the hands of skilled creators, a lack of photorealism isn’t a problem, and we’ll see AI video used in fun and interesting ways. Likewise, generative music models will likely make it into a few major productions like games, again where professional musicians can leverage the tools to create an unending soundtrack.
+
+The limits of monolithic LLMs become clearer
+
+So far there has been great optimism about the capabilities of large language models, which have indeed proved more capable than anyone expected, and have grown correspondingly more so as more compute is added. But 2024 will be the year something gives. Where exactly it is impossible to predict, as research is active at the frontiers of this field.
+
+The seemingly magical “emergent” capabilities of LLMs will be better studied and understood in 2024, and things like their inability to multiply large numbers will make more sense.
+
+In parallel, we will begin to see diminishing returns on parameter counts, to the point where training a 500-billion-parameter model may technically produce better results, but the compute required to do so could provably be deployed more effectively. A single monolithic model is unwieldy and expensive, while a mixture of experts — a collection of smaller, more specific models and likely multimodal ones — may prove almost as effective while being much easier to update piecemeal.
+
+Marketing meets reality
+
+The simple fact is that the hype built up in 2023 is going to be very hard for companies to follow through on. Marketing claims made for machine learning systems that companies adopted in order to not fall behind will receive their quarterly and yearly reviews… and it’s very likely they will be found wanting.
+
+Expect a considerable customer withdrawal from AI tools as the benefits fail to justify the costs and risks. On the far end of this spectrum, we are likely to see lawsuits and regulatory action with AI service providers that failed to back up their claims.
+
+While capabilities will continue to grow and advance, 2023’s products will not all survive by a long shot, and there will be a round of consolidation as the wobblier riders of the wave fall and are consumed.
+
+Apple jumps in
+
+Apple has an established pattern of waiting, watching and learning from other companies’ failures, then blowing in with a refined and polished take that puts others to shame. The timing is right for Apple to do this in AI, not just because if it waits too long its competition may eat up the market, but because the tech is ripe for their kind of improvement.
+
+I would expect an AI that focuses on practical applications of users’ own data, using Apple’s increasingly central position in their lives to integrate the many signals and ecosystems the company is privy to. There will likely also be a clever and elegant way to handle problematic or dangerous prompts, and although it will almost certainly have multimodal understanding (primarily to handle user images), I imagine they’ll totally skip media generation. Expect some narrowly tailored but impressive agent capabilities as well: “Siri, get a table for 4 at a sushi place downtown around 7 and book a car to take us” sort of thing.
+
+What’s hard to say is whether they will bill it as an improved Siri or as a whole new service, Apple AI, with a name you can choose yourself. They may feel the old brand is freighted with years of being comparatively incapable, but millions already say “hey Siri” every 10 seconds so it’s more likely they’ll opt to keep that momentum.
+
+Legal cases build and break
+
+We saw a fair number of lawsuits filed in 2023, but few saw any real movement, let alone success. Most suits over copyright and other missteps in the AI industry are still pending. 2024 will see a lot of them fall by the wayside, as companies stonewall critical information like training data and methods, making allegations like the use of thousands of copyrighted books difficult to prove in court.
+
+This was only the beginning, however, and many of these lawsuits were filed essentially on principle. Though they may not succeed, they may crack the process open far enough during testimony and discovery that companies would rather settle than have certain information come to light. 2024 will bring new lawsuits as well, ones pertaining to misuse and abuse of AI, such as wrongful termination, bias in hiring and lending, and other areas where AI is being put to work without a lot of thought.
+
+But while a few egregious examples of misuse will be punished, a lack of relevant laws specific to it means that it will necessarily only haphazardly be brought to court. On that note…
+
+Early adopters take new rules by the horns
+
+Big moves like the EU’s AI Act could change how the industry works, but they tend to be slow to take effect. That’s by design, so companies don’t have to adjust to new rules overnight, but it also means that we won’t see the effect of these big laws for a good while except among those willing to make changes preemptively and voluntarily. There will be a lot of “we are beginning the process of…” talk. (Also expect a few quiet lawsuits challenging various parts of laws.)
+
+To that end we can expect a newly flourishing AI compliance industry as the billions going into the technology prompt matching investments (at a smaller scale, but still considerable) in making sure the tools and processes meet international and local standards.
+
+Unfortunately for anyone hoping for substantive federal regulation in the U.S., 2024 is not the year to expect movement on that front. Though it will be a year for AI and everyone will be asking for new laws, the U.S. government and electorate will be too busy with the trash fire that will be the 2024 election.
+
+The 2024 election is a trash fire and AI makes it worse
+
+How the 2024 presidential election will play out is, really, anyone’s guess right now. Too many things are up in the air to make any real predictions except that, as before, the influence mongers will use every tool in the box to move the needle, including AI in whatever form is convenient.
+
+For instance, expect bot accounts and fake blogs to spout generated nonsense 24/7. A few people working full time with a text and image generator can cover a lot of ground, generating hundreds of social media and blog posts with totally fabricated images and news. “Flooding the zone” has always been an effective tactic and now AI acts as a labor multiplier, allowing more voluminous yet also targeted campaigns. Expect both false positives and false negatives in a concerted effort to confuse the narrative and make people distrust everything they see and read. That’s a win state for those politicians who thrive in chaos.
+
+Organizations will tout “AI-powered” analyses to back up purges of voter rolls, challenges to vote counts and other efforts to suppress or interfere with existing processes.
+
+Generated video and audio will join the fray, and though neither are perfect, they’re good enough to be believable given a bit of fuzzing: The clip doesn’t have to be perfect, because it will be presented as a grainy zoomed-in cellphone capture in a dark room, or a hot mic at a private event, or what have you. Then it becomes a matter of “who are you going to believe, me or him?” And that’s all some people need.
+
+Likely there will be some half-hearted efforts to block generated content from being used in this way, but these posts can’t be taken down fast enough by the likes of Meta and Google, and the idea that X can (or will) effectively monitor and take down such content is implausible. It’s gonna be a bad time!

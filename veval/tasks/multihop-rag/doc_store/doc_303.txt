@@ -1,0 +1,69 @@
+How Do Intestinal Stem Cells Know Their Destiny? What Triggers Stem Cells to Repair Our Intestines? New Research Offers Answers
+
+What Tells Intestinal Stem Cells to Regenerate? New Study Explains
+
+Stem cells have the remarkable ability to transform and replenish dying or injured cells. Yet, the process by which they select their cellular identity in particular scenarios remains a puzzle.
+
+The research team led by Bon-Kyoung Koo at IMBA, in collaboration with the Institute for Basic Science, has pinpointed a previously unknown gene, Daam1. This gene is critical for activating the formation of secretory cells in the intestines.
+
+This breakthrough, documented in the November 24 issue of Science Advances, heralds a new chapter in the understanding of cancer.
+
+Much like automobiles that require constant maintenance to remain operational, our bodies rely on the continual renewal of cells to sustain organ function. Such regeneration is made possible by adult stem cells native to the tissues, which, unlike their embryonic counterparts that can become any cell type, are programmed to only replace the specific types of cells in their respective tissues.
+
+Determining how these cells are guided to develop into specific tissue cells has been a key question. Gabriele Colozza, a postdoctoral researcher with Bon-Kyoung Koo at IMBA—currently directing at the Center for Genome Engineering at the Institute for Basic Science in South Korea—took on this challenge by delving into the mechanisms that direct intestinal stem cells.
+
+Intestinal stem cells
+
+“In our intestines, cells are exposed to extreme conditions,” comments Colozza.
+
+Here, cells face harsh conditions due to factors like mechanical stress, digestive enzymes, and fluctuating pH levels. To counteract this, stem cells within the intestinal lining constantly evolve into new cells to replace those that are damaged.
+
+“Uncontrolled stem cell proliferation may lead to tumor formation; on the other hand, if too many stem cells differentiate, the tissue will be depleted of stem cells and ultimately unable to self-renew.”
+
+This intricate balance is maintained through a complex network of signaling pathways and regulatory feedback loops that enable intercellular communication. A crucial player in this process is the Wnt signaling pathway, a well-established mechanism in embryonic growth.
+
+However, without proper regulation, an overstimulated Wnt pathway may result in abnormal cell proliferation and, consequently, tumor development.
+
+How Is the Fate of Intestinal Stem Cells Determined?
+
+Rnf43 is a known regulator that tempers the activity of the Wnt signaling pathway, a role initially discovered by Bon-Kyoung Koo. Previously, Rnf43 was recognized for its ability to flag the Wnt receptor Frizzled for destruction.
+
+“We wanted to know how Rnf43 works, and also what – in turn – controls Rnf43 and helps it to regulate Wnt signalling,” explains the research team.
+
+It was understood from past studies that Rnf43 could not effectively degrade Frizzled by itself, which is embedded in the cell’s plasma membrane.
+
+“In our project, we used biochemical assays to identify which proteins interact with Rnf43.”
+
+They discovered that the protein Daam1 is a crucial collaborator with Rnf43.
+
+To probe the influence of Daam1 on Rnf43 and the tissue systems they influence, Colozza utilized intestinal organoids.
+
+“We found that Daam1 is required for Rnf43 to be active, so for Rnf43 to regulate Wnt signaling at all. Further work in cells showed Rnf43 needs Daam1 to move the Wnt receptor Frizzled into vesicles called endosomes. From the endosomes, Frizzled is shuttled to the lysosomes where it is degraded, dampening Wnt signaling,” Colozza elaborates.
+
+Intestinal organoids, which are three-dimensional cultures derived from adult stem cells, replicate the environment of the intestinal lining. For Colozza, these organoids were a window into how Rnf43 and Daam1 influence the intricate interplay between the renewal and differentiation of stem cells in the gut.
+
+“We found that when we knock-out Rnf43 or Daam1, the organoids grow into tumor-like structures. These tumor-like organoids keep on growing, even if we withdraw the growth factors they usually depend on, such as R-spondin,” Colozza notes.
+
+What Tells Intestinal Stem Cells to Regenerate? Here’s What a New Study Says
+
+Activating Paneth Cell Development
+
+Upon delving deeper into this research using mouse models, Colozza and team found something unexpected.
+
+“When Rnf43 was missing, the intestines grew tumors – as expected. But when Daam1 was missing, no tumors grew. We were puzzled by this striking difference: how can the loss of factors in the same pathway, that behave similarly in organoids, lead to such different outcomes?”
+
+Upon closer inspection of the intestinal samples, the team observed a proliferation of Paneth cells—secretory cells known for producing growth factors like Wnt that prompt cell division—in the intestines without Rnf43. Conversely, intestines deficient in Daam1 showed no such increase in Paneth cells.
+
+“Daam1 is required for the efficient formation of Paneth cells. When Daam1 is active, stem cells differentiate to form Paneth cells. When Daam1 is not active, the stem cells differentiate into another cell type.”
+
+Tumor Growth Influenced by Cellular Environment
+
+This finding helps to explain the contrasting outcomes observed in intestines and organoids.
+
+“In organoid culture, we scientists provide growth factors, so the knockout of both Rnf43 and Daam1 lead to tumor-like organoids. But in the intestine, there is no little scientist providing growth factors. Instead, Paneth cells provide growth factors, like Wnt, and create the right conditions for stem cells to survive and divide. When Paneth cells are lacking – such as when Daam1 is not active to drive cells into becoming Paneth cells – stem cells will not divide much. But when there are too many Paneth cells – such as in intestines lacking Rnf43 – the excessive growth factors can contribute to the formation of tumors.”
+
+The findings from Colozza and his team mark the first genetic evidence that Daam1, associated with the non-canonical Wnt pathway, plays a critical role in designating Paneth cell fate and the evolution of this key secretory cell type.
+
+“We show that tumor cells modify their microenvironment, and influence their supporting environment so that they can grow better.”
+
+Image Credit: iStock

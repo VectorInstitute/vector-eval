@@ -1,0 +1,99 @@
+Meet Alliance DAO’s latest accelerator cohort of startups building in crypto winter The demo day focuses on an array of crypto subsectors like NFTs, security and wallets
+
+While media attention remains largely fixed on crypto’s best-known players, there are a host of startups in the web3 industry trying to make a name for themselves despite bear-market conditions.
+
+TechCrunch+ got to see a number of those startups during web3 accelerator Alliance DAO’s latest demo day for All11 program participants, which we’re covering exclusively.
+
+(Check out the previous Alliance DAO demo days we covered in July 2022, in November 2022, and in May 2023.)
+
+The three-month-long accelerator program brings in web3 founders for at least 10 hours per week twice a year. “Each startup in our latest cohort received an average of over 50 intro requests after demo day,” from major VC firms like Paradigm and Multicoin, according to Alliance’s website. Alliance also invests $250,000 in startups that take part in the program.
+
+The most recent cohort had 1,083 applications, down 36% from its previous batch, All10, which had a record 1,692 applicants. Of that number, only six teams made it through and are graduating from the program, and two startups from All10 are presenting too (the last cohort had 16 graduating projects). “This is the most exclusive cohort in our history,” Qiao Wang, a core contributor at Alliance DAO, said during Alliance’s demo day.
+
+Mentors for the All11 cohort include Kain Warwick, founder of Synthetix; Jason Yanowitz, co-founder of Blockworks; Anatoly Yakovenko, co-founder of Solana; Ilja Moisejevs, co-founder and CEO of Tensor (from Alliance’s ALL9 cohort); and David Vorick, co-founder of Sia and lead developer of Glow.
+
+Here’s a breakdown of the eight startups:
+
+Company name: Kravata
+
+What it does: Fiat to crypto on and off-ramp for LatAm
+
+Founders: Felipe Montes, Juliana Montes
+
+Stage: Seed
+
+The pitch: Kravata is a Colombia-based platform that aims to connect traditional financial infrastructure and fiat currencies with cryptocurrencies for businesses wanting to get into web3 in Latin America. Its services include on- and off-ramps to convert fiat to crypto (and vice versa), as well as market making and cross-border transfer systems. Its investors include Circle Ventures, Framework Ventures, Alliance DAO and others. It’s raising a seed round.
+
+Company name: Thunder
+
+What it does: Onchain trading terminal
+
+Founders: Jackson Denka
+
+Stage: Seed
+
+The pitch: Thunder, which is a product of Eversify, is an onchain “intent-based” trading terminal that aims to give users “an unfair advantage in every way possible,” according to its website. The platform aims to provide users with support for major blockchains and exchanges like OpenSea, Uniswap, Base, Polygon, Blur and Solana, to name a few. It’s currently looking for strategic investors for its seed round.
+
+Company name: Sleepagotchi
+
+What it does: NFT-powered Sleep Game
+
+Founders: Anton Kraminkin
+
+Stage: Seed
+
+The pitch: Sleepagotchi is a mobile app game that aims to help people develop healthy sleep habits through gamifying sleep with NFTs. The application is currently available on Apple’s App Store. Its game rewards users daily for hitting sleep goals and also provides the ability to collect items in an effort to motivate people to sleep better. The game has 14,000 monthly active users and a 41% one-year retention rate, its founder Anton Kraminkin said during demo day. According to its website, 60.2% of users reported improved sleep since using its game. In January, it raised $3.5 million from investors, including 6th Man Ventures, Sfermion, 1kx and Shima Capital. It’s currently raising from strategic investors.
+
+Company name: Blockcast
+
+What it does: Decentralized broadcast delivery network
+
+Founders: Omar Ramadan, Lisa Li
+
+Stage: Seed
+
+The pitch: Blockcast is a decentralized content delivery network and marketplace that aims to help broadcasters have more traffic and reach wider audiences. The Berkeley-based content delivery platform aims to help broadcasters by bridging the gap between television and online streaming through tokenizing un-utilized TV spectrum to deliver content, its co-founder, CEO, and CTO Omar Ramadan said during the demo day. The cost of streaming a 4K movie to 10,000 viewers is typically about $1,000 through servers like Cloudflare, but with Blockcast it can reduce the cost by 96%, Ramadan said. It’s currently raising a seed round.
+
+Company name: Tailwind
+
+What it does: Cosmos-based smart wallet
+
+Founders: Bao Mai
+
+Stage: Seed
+
+The pitch: Tailwind is a crypto wallet focused on the Cosmos ecosystem. It aims to help users focus on decentralized applications by abstracting away from chains and allowing users to pick a single gas token for transactions. Bao Mai, the founder of Tailwind, previously was a founding engineer at JunoSwap, an automated market maker. It’s raising a seed round.
+
+Company name: Tazz
+
+What it does: Debt market for protocols
+
+Founders: Mark Cinali, Alan Hampton, Anthony Fahden
+
+Stage: Seed
+
+The pitch: Tazz is a decentralized lending protocol that aims to make buying and selling debt tied to digital assets more efficient. It allows users to trade debt through decentralized exchange Uniswap V3. It accepts any type of crypto collateral, according to its website. The company is in “discussions with a very large protocol to issue $5 million in debt,” Alan Hampton, CEO and co-founder of Tazz, said during his demo day presentation. It’s raising a seed round.
+
+Company name: Upshield
+
+What it does: Web3 security platform
+
+Founders: Paul Vijender, Preston Thornburg
+
+Stage: Seed
+
+The pitch: Upshield is a full-stack security platform for web3 protocols, assets and communities. It aims to be user friendly for people building applications that are non-security experts. The startup launched two weeks ago after being in beta mode for two months and currently has an ARR of $120,000, Paul Vijender, co-founder and CEO of Upshield said during his presentation. Its engine has over 100 web3 threat detectors as well as on-chain and off-chain coverage for projects across smart contracts, application front ends and social channels, to name a few. It can work with web3 applications built on eight blockchains and networks like Coinbase’s Base, Ethereum, Avalanche, Binance and Polygon. It is raising a seed round.
+
+Company name: Inco
+
+What it does: Encrypted Ethereum virtual machine
+
+Founders: Remi Gai
+
+Stage: Seed
+
+The pitch: Inco Network is an encrypted Ethereum virtual machine (EVM) layer-1 protocol that aims to help decentralized applications (dApps) operate on-chain. Its technology is fully homomorphic encryption (FHE), which is jargon for encryption that allows computations to be performed on encrypted data, without having to decrypt it — meaning its confidentiality is maintained throughout the computation. With that said, the FHE helps users write private smart contracts and perform computations. The network can be used for a number of different use cases like card games and private voting and is live on DevNet (developer network) with its mainnet launching in 2024, founder Remi Gai said during his demo day presentation. Inco is currently raising a seed round.
+
+Building in bad times
+
+These eight companies are not building in the most winsome conditions. “The crypto industry is likely near the bottom of the cycle in terms of venture funding and developer activity,” Wang told TechCrunch. Despite a chilly market, there were a number of novel startup ideas among Alliance startups. And if history is an indication, the winners of the next cycle are likely being built now.

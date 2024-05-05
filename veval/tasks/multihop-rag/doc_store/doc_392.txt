@@ -1,0 +1,45 @@
+When thinking about treatments for conditions like autism spectrum disorder, diet is likely not high on the list. But clues from an eyeless species of cave-dwelling fish point to a link between a trendy weight loss diet, the brain, social behavior, and autism.
+
+The ketogenic diet is designed to induce a physiological state called ketosis. This happens when the body no longer has enough carbohydrates to burn for energy and switches to fat as an energy source. Breaking down fat for energy produces a group of molecules called ketones, which travel throughout the body.
+
+High in protein and fat but low in carbs, the ketogenic diet is popular for its weight loss effects but also appears to have some neuroprotective and anti-inflammatory effects too. Children with epilepsy are sometimes placed on this diet because it helps reduce the frequency of seizures.
+
+The exact mechanism behind these neurological effects is still a mystery and there have been reports of long-term side effects in people trying the diet outside of clinical settings. But experiments published in BMC Biology with the Mexican cavefish, Astyanax mexicanus, may help reveal the link between diet and the brain.
+
+Cavefish, an unexpected research model
+
+For Masato Yoshizawa, geneticist and neuroscientist at the School of Life Sciences at The University of Hawai‘i Mānoa, the cavefish is a fascinating model system. While these fish have unique adaptions for the harsh, lightless living conditions of limestone caves in northern Mexico — such as the loss of their eyes — they also share several basic features with vertebrates, making experimental results with these fish applicable to other species. These features include the brain region involved in memory and emotion, as well as many genes and the signalling pathways used to control them.
+
+Humans and other vertebrates have more complexity in these systems, and experiments with the cavefish offer a way to strip it away to investigate fundamental questions of biology. While working with cavefish, Yoshizawa noticed similarities in their behavior and that of patients with autism. The fish avoid their peers and engage in repetitive behavior, such as swimming in circles.
+
+“Many people first doubted that the fish have an autism-like state; I also doubted it at first,” said Yoshizawa. But as he soon found out, even patterns of gene regulation resembled autistic patients.
+
+Believing that cavefish might be useful for the study of autism, Yoshizawa approached his colleague Ryan Lee, a physician working with autism patients at Shriners Hospital for Children Honolulu. “When I showed him the video of the cavefish he immediately said, ‘yes, that is very similar to what I observe in my patients’,” recounted Yoshizawa.
+
+Lee, who has experimented with ketogenic diets to improve autism symptoms with some success suggested they try it with the fish. In humans, not all patients receiving the ketogenic diet improve, but some do. If it worked with the fish, they might then be able to figure out how the diet effects behavior and improve the effectiveness of the treatment for humans.
+
+Surprisingly effective
+
+Again, Yoshizawa was a bit skeptical. “I doubted it at first,” he said. “I didn’t think it was going to work, but it did.”
+
+In the experiment, cavefish where fed the same ketogenic milk provided to human patients, albeit with a few modifications for fish consumption, and their behavior was monitored. As a comparison, a type of A. mexicanus fish that lives in rivers and not caves were also tested.
+
+The surface fish do not display the same autism like behaviors as their cave dwelling relatives. In the presence of other surface fish, individuals will begin to follow each other and swim together, something rarely seen in cavefish, Yoshizawa said. The surface fish also do not do the repetitive behavior of swimming in circles.
+
+Using these fish as a comparison, Yoshizawa and his students watched and waited. Amazingly, after a month of the ketogenic diet, the cavefish began to act like the more social surface fish. They would follow each other in groups and ceased going round in circles. There were some other behaviors, such as attention to a specific task and sleeping, that were unaffected, but overall the results were promising and according to Yoshizawa, suggest dopamine could be key to how the diet affects behavior.
+
+“We suspect that due to this behavior variation, probably the target of the ketogenic diet is the dopaminergic system,” he said. The challenge now is teasing out all the complex factors that may be involved.
+
+Diet, environment, and genes – a complex recipe
+
+According to Yoshizawa, there are two plausible ideas as to how the ketones produced by a ketogenic diet are acting on behavior. The first involves the mitochondria, which use either carbs or fat to produce energy in our cells, and the other involves epigenetics, which simple refers to any non-genetic influence which turns genes on and off.
+
+Ketones are known to create detectable increases in gene expression in cells. Pulling apart exactly how things like, diet, environment, genes and neurotransmitters are linked is incredibly difficult but could reveal which pathways are best to target for autism treatments or could identify a specific ketone which works more efficiently than others.
+
+While the cavefish are not an exact model for human autism this work shows how these experiments shine light on the biology and evolution of these behavioral conditions and offer new directions for researchers to follow.
+
+Reference: Motoko Iwashita, et al. Metabolic shift toward ketosis in asocial cavefish increases social-like affinity, BMC Biology (2023), DOI: 10.1186/s12915-023-01725-9
+
+Feature image credit: Masato Yoshizawa
+
+Correction: This article was edited on November 2, 2023. Ryan Lee was originally described as working at the University of Hawai‘i Mānoa. This was incorrect, and has now been corrected to say he works at Shriners Hospital for Children Honolulu.

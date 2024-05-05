@@ -1,0 +1,173 @@
+Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more about how we evaluate products.
+
+Virtual private networks (VPNs) have been having a moment recently. Massive marketing budgets and influencer collaborations have convinced consumers that a VPN’s functionality and privacy features will solve all of their security woes. However, it’s not as cut-and-dry as that. VPNs are just one part of a robust online security routine, but given the number of VPN services out there today, it can be hard to figure out which one will be right for you. Not to mention that you often have to dig through claims of attributes that aren’t always totally accurate to get to that answer. We tested out nine of the best VPN services available now and landed on five top picks that should suit most people's needs.
+
+What is a VPN?
+
+VPNs, or virtual private networks, mask your IP address and the identity of your computer or mobile device on the network and creating an encrypted "tunnel" that prevents your internet service provider (ISP) from accessing data about your browsing history. VPNs are not a one-size-fits-all security solution, though.
+
+Instead, they’re just one part of keeping your data private and secure. Roya Ensafi, assistant professor of computer science and engineering at the University of Michigan, told Engadget that VPNs don’t protect against common threats like phishing attacks, nor do they protect your data from being stolen. Much of the data or information is stored with the VPN provider instead of your ISP, which means that using a poorly designed or unprotected network can still undermine your security. But they do come in handy for online privacy when you’re connecting to an untrusted network somewhere public because they tunnel and encrypt your traffic to the next hop.
+
+That means sweeping claims that seem promising, like military-grade encryption or total digital invisibility, may not be totally accurate. Instead, Yael Grauer, program manager of Consumer Reports’ online security guide, recommends looking for security features like open-source software with reproducible builds, up-to-date support for industry-standard protocols like WireGuard (CR's preferred protocol) or IPsec, and the ability to defend against attack vectors like brute force.
+
+Understand your VPN needs
+
+Before considering a VPN, make sure your online security is up to date in other ways. That means complex passwords, multifactor authentication methods and locking down your data sharing preferences. Even then, you probably don’t need to be using a VPN all the time.
+
+“If you're just worried about somebody sitting there passively and looking at your data then a VPN is great,” Jed Crandall, an associate professor at Arizona State University, told Engadget.
+
+If you use public WiFi networks a lot, like while working at a coffee shop, then VPN usage can help give you private internet access. They’re also helpful for hiding information from other people on your ISP if you don’t want members of your household to know what you’re up to online.
+
+Geoblocking has also become a popular use case as it helps you reach services in other parts of the world. For example, you can access shows that are only available on streaming services, like Netflix, Hulu or Amazon Prime, in other countries, or play online games with people located all over the globe.
+
+Are VPNs worth it?
+
+Whether or not VPNs are worth it depends how often you could use it for the above use cases. If you travel a lot and rely on public WiFi or hotspots, are looking to browse outside of your home country or want to keep your traffic hidden from your ISP, then investing in a VPN will be useful. But, keep in mind that even the best VPN services often slow down your internet connection speed, so they may not be ideal all the time.
+
+In today's world, we recommend not relying on a VPN connection as your main cybersecurity tool. VPN use can provide a false sense of security, leaving you vulnerable to attack. Plus, if you choose just any VPN, it may not be as secure as just relying on your ISP. That’s because the VPN could be based in a country with weaker data privacy regulation, obligated to hand information over to law enforcement or linked to weak user data protection policies.
+
+For VPN users working in professions like activism or journalism that want to really strengthen their internet security, options like the Tor browser may be a worthwhile alternative, according to Crandall. Tor is free, and while it's less user-friendly, it’s built for anonymity and privacy.
+
+How we tested
+
+To test the security specs of different VPNs and name our top picks, we relied on pre-existing academic work through Consumer Reports, VPNalyzer and other sources. We referenced privacy policies, transparency reports and security audits made available to the public. We also considered past security incidents like data breaches.
+
+We looked at price, usage limits, effects on internet speed, possible use cases, ease of use, general functionality and additional “extra” VPN features like multihop. The VPNs were tested across iOS, Android and Mac devices so we could see the state of the mobile apps across various platforms (Windows devices are also supported in most cases). We used the “quick connect” feature on the VPN apps to connect to the “fastest” provider available when testing internet speed, access to IP address data and DNS and WebRTC leaks or when a fault in the encrypted tunnel reveals requests to an ISP.
+
+Otherwise, we conducted a test of geoblocking content by accessing Canada-exclusive Netflix releases, a streaming test by watching a news livestream on YouTube via a Hong Kong-based VPN and a gaming test by playing on servers in the United Kingdom. By performing these tests at the same time, it also allowed us to test claims about simultaneous device use. Here are the VPN services we tested:
+
+Read more: The best password managers for 2023
+
+Best VPN overall: ProtonVPN
+
+Proton Proton VPN Best VPN overall Simultaneous connections : 10
+
+Number of devices : 10
+
+Platforms : Windows, Mac, Android, iOS, and Linux
+
+Browser extensions : Chrome, Firefox
+
+Dedicated IP addresses: Yes, for business users only
+
+Trial/Money-back guarantee: None/30-day money-back guarantee $4.99/month at ProtonVPN
+
+The VPNs we tried out ranked pretty consistently across all of our tests, but ProtonVPN stood out as a strong option because of its overall security and usability. The Proton Technologies suite of services includes mail, calendar, drive and a VPN known for its end-to-end encryption. This makes it a strong contender for overall security, but its VPN specifically came across as a well-rounded independent service.
+
+ProtonVPN’s no-logs policy has passed audits, and the company has proven not to comply with law enforcement requests. Because it is based in Switzerland, there are no forced logging obligations, according to the company. Plus, it’s based on an open-source framework, and has an official vulnerability disclosure program along with clear definitions on what it does with personal information.
+
+While ProtonVPN offers a free version, it’s limited compared to other options, with access to server networks in just three countries. Its paid version, starting at about $5.39 per month, includes access to VPN server locations in more than 65 countries on 10 devices at a time. For dedicated Proton Technologies users, they can pay closer to $8.63 for a monthly plan to access the entire suite.
+
+ProtonVPN passed our geoblock, streaming and gaming tests with only a very small toll on connection speeds. It also comes with malware-, ad- and tracker-blocking as an additional service, plus it has a kill switch feature on macOS, Windows, Linux, iOS and the latest version of Android. It’s available on most major operating systems, routers, TV services and more including Firefox, Linux and Android TV. For dedicated Linux users, ProtonVPN added a new Linux-specific app to support its services in August.
+
+Read our full VPN review of ProtonVPN
+
+Best free VPN: Windscribe
+
+Windscribe Windscribe Best free VPN Simultaneous connections : Unlimited
+
+Number of devices : Unlimited
+
+Platforms : Windows, Mac, Android, iOS, and Linux
+
+Browser extensions : Chrome, Firefox
+
+Dedicated IP addresses: No
+
+Trial/Money-back guarantee: None/None $0 at Windscribe
+
+By signing up for Windscribe's free plan with your email, users can access 10GB per month of data, unlimited connections and access to more than 10 countries. We selected it as the best free VPN because of its high security and wide range of server locations compared to other free VPNs. It has over 500 servers in over 60 countries, according to the company, and can be configured to routers, smart TVs and more on top of the usual operating systems.
+
+Windscribe doesn’t have a recent independent security audit, but it does publish a transparency report showing that it has complied with zero requests for its data, runs a vulnerability disclosure program encouraging researchers to report flaws and offers multiple protocols for users to connect with.
+
+On top of that, it’s easy to use. The set up is intuitive and it passed our geoblock, streaming and gaming tests. The paid version costs $5.75 to $9 each month, depending on the plan you choose, and includes unlimited data, access to all servers and an ad/tracker/malware blocker. Or, for $1 per location per month, users can build a plan tailored to the VPNs they want to access. Windscribe is still expanding its reach, adding Japan to its list of available spots.
+
+Best VPN for streaming services, frequent travel and gaming: ExpressVPN
+
+We picked the best VPN service for travel, gaming and streaming based on which one had access to the most locations with high speed connections and no lag. ExpressVPN met all those criteria and was one of the fastest VPNs we tried. Now, it even comes with an in-house password manager, ExpressVPN Keys, to manage and autofill logins across sites included with the subscription. That will make it easier to toggle between streaming and gaming accounts while browsing securely.
+
+An internet speed test measured faster upload and download speed compared to using no VPN, practically unheard of compared to the other VPNs tested. But being this fast is likely a fluke due to the VPN service circumventing traffic shaping by the ISP or another disparity because even top VPNs will in some way slow down speeds. With 2,000 servers in 160 cities, according to the company, it had one of the broadest global reaches. It also passed our geoblock, streaming and gaming tests, and it does regular security audits. Plus, Network Lock is its kill switch feature, which keeps your data safe even if you lose connection to the VPN. Subscription costs range from $8.32 to $12.95 per month depending on the term of the plan, and include a password manager.
+
+With ExpressVPN, users can connect to up to five devices at once, which is on the lower side compared to other services. That said, it works on a bunch of devices from smart TVs to game consoles, unlike some other services that lack support beyond the usual suspects like smartphones and laptops.
+
+Read our full VPN review of Express VPN
+
+Best VPN for cross-platform accessibility: CyberGhost
+
+CyberGhost CyberGhost Best VPN for cross-platform accessibility Simultaneous connections : 7
+
+Number of devices : 7
+
+Platforms : Windows, Mac, Android, iOS, and Linux
+
+Browser extensions : Chrome, Firefox
+
+Dedicated IP addresses: Yes, additional purchase required
+
+Trial/Money-back guarantee: 2 free months/45-day money-back guarantee $2.11/month at CyberGhost
+
+Because several of the best VPN services connect to routers, cross-platform accessibility isn’t always necessary. By connecting a VPN to your home router, you can actually connect to unlimited devices in your household, as long as they all access the internet through that router.
+
+But if you use VPNs on the go, and across several devices, being able to connect to a wide range of platforms will be indispensable. CyberGhost offers simultaneous connectivity on up to seven devices for $2.11 to $12.99 per month depending on subscription term. It supports several types of gadgets like routers, computers, smart TVs and more. It’s similar to the support that ExpressVPN offers, but CyberGhost provides detailed instructions on how to set up the cross-platform connections, making it a bit more user-friendly for those purposes. Plus, it just expanded its network of servers from 91 to 100 countries, adding Bolivia, Ecuador, Peru, Uruguay, Laos, Myanmar, Nepal, Guatemala and the Dominican Republic to its available locations.
+
+From a security perspective, CyberGhost completed an independent security audit by Deloitte earlier this year, runs a vulnerability disclosure program and provides access to a transparency report explaining requests for its data. An updated version of its transparency report went live in August. While it did pass all of our tests, it’s worth noting that we had trouble connecting to servers in the United Kingdom and had to opt to run our gaming test through an Ireland-based server instead.
+
+Best VPN for multiple devices: Surfshark
+
+Surfshark Surfshark Best VPN for multiple devices Simultaneous connections : Unlimited
+
+Number of devices : Unlimited
+
+Platforms : Windows, Mac, Android, iOS, and Linux
+
+Browser extensions : Chrome, Firefox, Edge
+
+Dedicated IP addresses: Yes, additional purchase required
+
+Trial/Money-back guarantee: 1 free month/30-day money-back guarantee $2.49/month at Surfshark
+
+As we mentioned before, connecting to a router can provide nearly unlimited access to devices in a single household. But Surfshark VPN is one of few VPN services that offer use on an unlimited number of devices without bandwidth restrictions, according to the company. And you get that convenience without a significant increase in price: Surfshark subscriptions cost about $2.49 to $12.95 for a monthly subscription, and the company recently conducted its first independent audit. It added QR-code-enabled login across devices and expanded support for alternative ID profiles since our initial review, a feature that some of its competitors already had.
+
+We ran into some trouble connecting to Surfshark’s WireGuard protocol, but tested on an IKEv2 protocol instead. The VPN speed was a bit slow and struggled to connect for our geoblock test at first, but ultimately passed. What makes it different from other VPNs with unlimited connection options is that it has access to a larger number of servers and is available on more types of devices.
+
+Read our full VPN review of Surfshark VPN
+
+Other VPN services our experts tested
+
+NordVPN
+
+NordVPN didn’t quite make the cut because it’s overhyped, and underwhelming. As I've written in our full review of NordVPN, the pricing, up to $14.49 for a “complete” subscription, seemed high compared to other services, and its free or lower cost plans just didn’t have the same wide variety of features as its competitors.
+
+TunnelBear
+
+Despite the cute graphics and user friendliness, TunnelBear wasn’t a top choice. It failed numerous basic security tests from Consumer Reports, and had limited availability across platforms like Linux. It did, however, get a major security boost in July when it updated to support WireGuard protocol across more of its platforms.
+
+Bitdefender VPN
+
+Bitdefender doesn’t offer support for devices like routers, which limits its cross-platform accessibility. It also lacked a transparency report or third-party audit to confirm security specs.
+
+Atlas VPN
+
+Atlas ranked lower on our speed tests compared to the other VPNs tested, with a notably slower difference on web browsing and streaming tests. It was a good option otherwise, but could easily cause headaches for those chasing high speed connections. Security-wise, an Atlas VPN vulnerability leaked Linux users’ real IP addresses.
+
+FAQs
+
+What are some things VPNs are used for?
+
+VPNs are traditionally used to protect your internet traffic. If you’re connected to an untrusted network like public WiFi in a cafe, using a VPN hides what you do from the internet service provider. Then, the owner of the WiFi or hackers trying to get into the system can’t see the identity of your computer or your browsing history.
+
+A common non-textbook use case for VPNs has been accessing geographically restricted content. VPNs can mask your location, so even if you’re based in the United States, they can make it appear as if you’re browsing abroad and unblock access. This is especially useful for streaming content that’s often limited to certain countries, like if you want to watch Canadian Netflix from the US.
+
+What information does a VPN hide?
+
+A VPN doesn’t hide all of your data. It only hides information like your IP address, location and browser history. A common misconception is that VPNs can make you totally invisible online. But keep in mind that the VPN provider often still has access to all of this information, so it doesn’t grant you total anonymity. You’re also still vulnerable to phishing attacks, hacking and other cyberthreats that you should be mindful of by implementing strong passwords and multi-factor authentication.
+
+Are VPNs safe?
+
+Generally, yes. VPNs are a safe and reliable way to encrypt and protect your internet data. But like most online services, the safety specifics vary from provider to provider. You can use resources like third-party audits, Consumer Reports reviews, transparency reports and privacy policies to understand the specifics of your chosen provider.
+
+What about Google’s One VPN?
+
+As of early 2023, Google One subscriptions include access to the company’s VPN. It works similarly to other VPNs on our list, hiding your online activity from network operators. Google One subscribers can access the VPN in 22 countries on Android, iOS, Windows and Mac devices, and they can share VPN access with up to five people who are on their One plans. We have not fully tested the Google One VPN yet, but we will add it to this list if we feel it is.
+
+Update November 10, 2024: This story was updated after publishing to remove mention of PPTP, a protocol that Consumer Reports' Yael Grauer notes "has serious security flaws."

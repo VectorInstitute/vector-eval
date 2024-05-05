@@ -1,0 +1,33 @@
+OpenAI is expanding its internal safety processes to fend off the threat of harmful AI. A new “safety advisory group” will sit above the technical teams and make recommendations to leadership, and the board has been granted veto power — of course, whether it will actually use it is another question entirely.
+
+Normally the ins and outs of policies like these don’t necessitate coverage, as in practice they amount to a lot of closed-door meetings with obscure functions and responsibility flows that outsiders will seldom be privy to. Though that’s likely also true in this case, the recent leadership fracas and evolving AI risk discussion warrant taking a look at how the world’s leading AI development company is approaching safety considerations.
+
+In a new document and blog post, OpenAI discusses their updated “Preparedness Framework,” which one imagines got a bit of a retool after November’s shake-up that removed the board’s two most “decelerationist” members: Ilya Sutskever (still at the company in a somewhat changed role) and Helen Toner (totally gone).
+
+The main purpose of the update appears to be to show a clear path for identifying, analyzing, and deciding what do to about “catastrophic” risks inherent to models they are developing. As they define it:
+
+By catastrophic risk, we mean any risk which could result in hundreds of billions of dollars in economic damage or lead to the severe harm or death of many individuals — this includes, but is not limited to, existential risk.
+
+(Existential risk is the “rise of the machines” type stuff.)
+
+In-production models are governed by a “safety systems” team; this is for, say, systematic abuses of ChatGPT that can be mitigated with API restrictions or tuning. Frontier models in development get the “preparedness” team, which tries to identify and quantify risks before the model is released. And then there’s the “superalignment” team, which is working on theoretical guide rails for “superintelligent” models, which we may or may not be anywhere near.
+
+The first two categories, being real and not fictional, have a relatively easy-to-understand rubric. Their teams rate each model on four risk categories: cybersecurity, “persuasion” (e.g., disinfo), model autonomy (i.e., acting on its own), and CBRN (chemical, biological, radiological, and nuclear threats; e.g., the ability to create novel pathogens).
+
+Various mitigations are assumed: For instance, a reasonable reticence to describe the process of making napalm or pipe bombs. After taking into account known mitigations, if a model is still evaluated as having a “high” risk, it cannot be deployed, and if a model has any “critical” risks, it will not be developed further.
+
+These risk levels are actually documented in the framework, in case you were wondering if they are to be left to the discretion of some engineer or product manager.
+
+For example, in the cybersecurity section, which is the most practical of them, it is a “medium” risk to “increase the productivity of operators . . . on key cyber operation tasks” by a certain factor. A high-risk model, on the other hand, would “identify and develop proofs-of-concept for high-value exploits against hardened targets without human intervention.” Critical is “model can devise and execute end-to-end novel strategies for cyberattacks against hardened targets given only a high level desired goal.” Obviously we don’t want that out there (though it would sell for quite a sum).
+
+I’ve asked OpenAI for more information on how these categories are defined and refined — for instance, if a new risk like photorealistic fake video of people goes under “persuasion” or a new category — and will update this post if I hear back.
+
+So, only medium and high risks are to be tolerated one way or another. But the people making those models aren’t necessarily the best ones to evaluate them and make recommendations. For that reason, OpenAI is making a “cross-functional Safety Advisory Group” that will sit on top of the technical side, reviewing the boffins’ reports and making recommendations inclusive of a higher vantage. Hopefully (they say) this will uncover some “unknown unknowns,” though by their nature those are fairly difficult to catch.
+
+The process requires these recommendations to be sent simultaneously to the board and leadership, which we understand to mean CEO Sam Altman and CTO Mira Murati, plus their lieutenants. Leadership will make the decision on whether to ship it or fridge it, but the board will be able to reverse those decisions.
+
+This will hopefully short-circuit anything like what was rumored to have happened before the big drama, a high-risk product or process getting greenlit without the board’s awareness or approval. Of course, the result of said drama was the sidelining of two of the more critical voices and the appointment of some money-minded guys (Bret Taylor and Larry Summers), who are sharp but not AI experts by a long shot.
+
+If a panel of experts makes a recommendation, and the CEO makes decisions based on that information, will this friendly board really feel empowered to contradict them and hit the brakes? And if they do, will we hear about it? Transparency is not really addressed outside a promise that OpenAI will solicit audits from independent third parties.
+
+Say a model is developed that warrants a “critical” risk category. OpenAI hasn’t been shy about tooting its horn about this kind of thing in the past — talking about how wildly powerful their models are, to the point where they decline to release them, is great advertising. But do we have any kind of guarantee this will happen, if the risks are so real and OpenAI is so concerned about them? Maybe it’s a bad idea. But either way it isn’t really mentioned.

@@ -1,0 +1,169 @@
+Barbarians are a relatively simple class in Diablo 4: They smash stuff. However, Diablo 4 is underscored by math that’s so complex that even the simple act of smashing stuff becomes a dizzying equation. That’s where we come in, with our suggestions of the best Barbarian builds for Diablo 4 season 2.
+
+Barbarians are big, muscular, and powerful. They excel at using Bleed to kill their enemies over time. And their unique weapon-swapping system means they get to have more Legendary powers at their disposal than any other class.
+
+In this Diablo 4 guide, we’ve gathered and simplified the best Diablo 4 Barbarian builds for season 2. If you need even more information on item affixes or other more complex ideas, we’ve been sure to link out to the more detailed versions of these builds, as well as where to find their original creators.
+
+Best Barbarian leveling build
+
+This build is based off Lexyu’s Barbarian leveling guide at IcyVeins, and is purely for leveling: i.e., allocating your 58 skill points between levels 1 and 50. If you want more detailed information about the item affixes you want to look for on your gear, or which other Legendary powers are great for your build, check out the original IcyVeins guide.
+
+Best skills for leveling
+
+Most Barbarian leveling guides you’ll find make use of Hammer of the Ancients as your primary skill, as it deals massive damage while remaining very cheap to cast. In this build, you’ll also use Frenzy, Death Blow, Rallying Cry, Leap, and Wrath of the Berserker.
+
+Here are the best skills for a Barbarian leveling build, organized by the exact order you should purchase them in — bearing in mind that some skills require you to allocate a number of skill points in the tree in order to unlock them. As such, you’ll need to unlock new skills before enhancing existing ones:
+
+Frenzy / Enhanced Frenzy Hammer of the Ancients / Enhanced Hammer of the Ancients / Furious Hammer of the Ancients Combat Frenzy Rallying Cry / Enhanced Rallying Cry / Tactical Rallying Cry Hammer of the Ancients (ranks 2-3) Leap / Enhanced Leap / Power Leap Hammer of the Ancients (ranks 4-5) Death Blow / Enhanced Death Blow / Warrior’s Death Blow / Death Blow (rank 2-5) Wrath of the Berserker / Prime Wrath of the Berserker / Supreme Wrath of the Berserker Pit Fighter (ranks 1-3) Tempered Fury Furious Impulse (ranks 1-3) Walking Arsenal Hamstring No Mercy Expose Vulnerability (ranks 1-3) No Mercy (ranks 2-3) Swiftness (ranks 1-3) Thick Skin (ranks 1-3) Counteroffensive (ranks 1-3) Defensive Stance (ranks 1-3) Slaying Strike (ranks 1-3) Aggressive Resistance Prolific Fury
+
+Best Weapon Expertise setup for leveling
+
+Once you unlock the Weapon Expertise system for your Barbarian, you’ll want to place the two-handed sword in your Technique slot. This will cause all of your Hammer of the Ancients damage to make enemies Bleed.
+
+Best Legendary Aspects for Barbarian leveling build
+
+When you first start your new character, complete these three dungeons first in order to collect their Aspects. Then place them on a piece of gear (ideally jewelry, when possible). Just keep in mind that you should replace these Legendaries with new versions using the imprint system every few levels.
+
+Aspect of Ancestral Force (Sunken Ruins dungeon in Scosglen) — Hammer of the Ancients quakes outwards, dealing X% of its damage to enemies
+
+(Sunken Ruins dungeon in Scosglen) — Hammer of the Ancients quakes outwards, dealing X% of its damage to enemies Aspect of the Expectant (Underroot dungeon in Scosglen) — Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by X% up to X%
+
+(Underroot dungeon in Scosglen) — Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by X% up to X% Edgemaster’s Aspect (Oldstones dungeon in Scosglen) — Skills deal X% increased damage based on Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource
+
+Barbarian Season 2 endgame build — Double Swing
+
+This build is based off of AaronActionRPG’s Double Swing Barbarian endgame guide at IcyVeins, and is a general endgame guide capable of finding success in all activities. This guide assumes that you’re over level 50, have access to all 58 skill points, and are making progress on your Paragon Boards. If you want more detailed information about the item affixes you want to look for on your gear, or why these Legendary powers are great for your build, check out the original IcyVeins guide.
+
+Best skill points for Double Swing Barbarian endgame build
+
+This build utilizes Double Swing as its core skill. It also uses Steel Grasp, Ground Stomp, Iron Maelstrom, Charge, and Lunging Strike.
+
+Since you need all 58 points for this build, the order you select these skills in doesn’t matter as long as you have the pre-requisite points in the earlier Skill Tree tiers. Here is how you should spend your Skill Points for this build:
+
+Lunging Strike / Enhanced Lunging Strike / Combat Lunging Strike
+
+Double Swing (rank 1-5) / Enhanced Double Swing / Furious Double Swing
+
+Endless Fury
+
+Ground Stomp (rank 1-5) / Enhanced Ground Stomp / Strategic Ground Stomp
+
+Charge (rank 1-5) / Enhanced Charge / Power Charge
+
+Aggressive Resistance (rank 1-3)
+
+Prolific Fury (rank 1-3)
+
+Steel Grasp / Enhanced Steel Grasp / Fighter’s Steel Grasp
+
+Thick Skin
+
+Defensive Stance (rank 1-3)
+
+Counteroffensive (rank 1-3)
+
+Pit Fighter (rank 1-3)
+
+No Mercy (rank 1-3)
+
+Iron Maelstrom / Prime Iron Maelstrom / Supreme Iron Maelstrom
+
+Duelist (rank 1-3)
+
+Wallop
+
+Concussion (rank 1-3)
+
+Walking Arsenal
+
+Arsenal System for the Double Swing Barbarian build
+
+For this build, you’ll want to take One-Handed Mace in your Technique.
+
+Vampiric Powers for Double Swing Barbarian build
+
+Season 2 adds the new Vampiric Powers, which allow you to slot five additional abilities into your character to give you new effects. There are 22 total Vampiric Powers, and each are class agnostic, meaning they’re not unique to any one class.
+
+AaronActionRPG recommends these five Vampiric Powers:
+
+Anticipation
+
+Prey on the Weak
+
+Ravenous
+
+Domination
+
+Metamorphosis
+
+To insert those powers you’ll need to have these Pacts available on your armor:
+
+8 Ferocity
+
+3 Divinity
+
+2 Eternity
+
+Legendary Powers and Uniques for Double Swing Barbarian build
+
+To make this build work, you’re going to need powerful Legendary Powers and Unique items to augment your build.
+
+AaronActionRPG recommends these items:
+
+Helm : Weapon Master’s Aspect
+
+: Weapon Master’s Aspect Chest : Aspect of Numbing Wrath (dungeon drop)
+
+: Aspect of Numbing Wrath (dungeon drop) Gloves : Aspect of Anemia (dungeon drop)
+
+: Aspect of Anemia (dungeon drop) Pants : Aspect of Might (dungeon drop)
+
+: Aspect of Might (dungeon drop) Boots : Exploiter’s Aspect
+
+: Exploiter’s Aspect Two-handed Bludgeoning : Aspect of Retribution (dungeon drop)
+
+: Aspect of Retribution (dungeon drop) Two-handed Slashing : Accelerating Aspect
+
+: Accelerating Aspect Dual Wield 1 : Edgemaster’s (dungeon drop)
+
+: Edgemaster’s (dungeon drop) Dual Wield 2 : Aspect of Berserk Ripping (dungeon drop)
+
+: Aspect of Berserk Ripping (dungeon drop) Amulet : Earthquake Aspect
+
+: Earthquake Aspect Ring 1 : Aspect of Berserk Fury
+
+: Aspect of Berserk Fury Ring 2: Aspect of Limitless Rage
+
+If you want to get into the nitty gritty of stat priorities, refer to AaronActionRPG’s original guide.
+
+Paragon Boards for Double Swing Barbarian build
+
+The Paragon Board system is very complex, and you’ll want to carefully pair your Glyphs with specific boards for your class:
+
+Starter Board / Bloodfeeder Glyph Decimator / Ambidextrous Glyph Carnage / Might Glyph Flawless Technique / Ire Glyph Weapon Master / Territorial Glyph Bone Breaker / Exploit Glyph Warbringer / Wrath Glyph
+
+You should level your Glyphs to 15 in this specific order:
+
+Exploit Territorial Ambidextrous Might Wrath Bloodfeeder Ire
+
+You can path your own way through the Paragon Boards following these basic guidelines. However, for the best results, follow AaronActionRPG’s path exactly.
+
+How to make a great Barbarian build
+
+Barbarians are Diablo 4’s only pure melee class, with the other classes having hybrid builds for multiple ranges. There are four main ideas that all Barbarian builds stem from:
+
+Fury dumping (most popular in Diablo 4’s pre-season)
+
+Weapon swapping
+
+Bleed
+
+Berserk
+
+Fury dump builds make use of the Unbridled Rage Key Passive, which causes your Fury spenders to cost double the Fury but deal more than double the damage. These kinds of builds obviously require very steady Fury generation, as it’s easy to starve yourself. Berserk builds that use the Unconstrained Key Passive are all about keeping your Barbarian in the Berserk stage at all times, which nets you a hefty bonus. All Barbarian builds will likely use some skills that make them go Berserk, the Unconstrained Key Passive just enhances the effect.
+
+Bleed builds use the Gushing Wounds Key Passive to create a critical strike heavy build that’s great for whittling down groups of enemies with damage over time and explosions. Weapon swapping builds offer what is almost certainly the most unique playstyle for Barbarians and takes advantage of the Walking Arsenal Key Passive. The idea here is that you’re constantly swapping between your skills and weapons to give yourself massive damage buffs.
+
+When making a build, you want to have one of these Key Passives in mind and choose your skills accordingly. Thankfully skills that share certain aspects (like Bleed) are color-coded on the skill tree, and you can even use the in-game search function to find them all. Other Barbarian builds let you take advantage of mechanics like Thorns or Shouts. But they still typically end with one of these Key Passives.
+
+Looking for other Diablo 4 builds? We have explainers on the Sorcerer, Rogue, Druid, and Necromancer classes.

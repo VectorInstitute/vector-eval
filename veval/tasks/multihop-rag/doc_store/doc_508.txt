@@ -1,0 +1,35 @@
+Instagram Threads isn’t the only app joining the decentralized social web, which includes Twitter/X rival Mastodon and other apps, with its newly added support for the networking protocol ActivityPub. Today, the social magazine app Flipboard is announcing it has also now integrated with ActityPub. In its initial phase, select Flipboard accounts will be discoverable and can be followed by the millions of users of decentralized social apps, including Mastodon. Over time, all profiles on Flipboard will be available in the fediverse, as this network of decentralized social apps is known.
+
+The company announced its intention earlier this year to participate in the fediverse. It began by integrating its app with Mastodon via an API and setting up its own Mastodon server, flipboard.social, ahead of full ActivityPub integration. This allowed Flipboard to get a feel for the world of decentralized social media, and learn how its users would respond. It also gave Flipboard a way to stay connected to social media after Twitter/X increased its API fees for third-party developers, making it unsustainable for many developers to continue to work with the company.
+
+The Flipboard app’s primary purpose has been to curate into social “magazines” news and information found on the web, including links to articles, photos and other social posts. As a result, it had relied on Twitter as one of its sources of information. That changed this year, when Flipboard shifted its Twitter integration over to Mastodon and another alternative social app, Bluesky. It also set up its own Mastodon server and began curating news across the fediverse via editorial “desks” focused on improving the discovery of news on Mastodon.
+
+All this was in the lead-up to making Flipboard itself a federated social app, a process that’s kicking off today.
+
+Initially, Flipboard is testing the integration with select accounts, including publishers like Semafor, Pitchfork, Fast Company, Medium, LGBTQ Nation, Refinery 29, Digiday, Polygon, SPIN, Kotaku, Frommer’s, The Verge, Smithsonian Magazine, Refinery 29, The Root, ScienceAlert, AFAR Media and others. While many are focused on news, there are also some nonprofits like The News Literacy Project and education-focused news site The 74, in this debut list.
+
+“As we said in the earlier part of this year, we will be embracing ActivityPub into Flipboard and effectively reworking our whole backend to that,” explained Flipboard CEO Mike McCue, in a conversation with TechCrunch about the coming changes. He says the company had first integrated with Mastodon at the API level, so users could log into their Mastodon accounts, see those posts and interact with others in the fediverse from Flipboard. “But you had to have an account on all those platforms,” McCue noted.
+
+“What we’re announcing on Monday is basically our roadmap for how we will be rolling out ActivityPub, and effectively tearing down the walls around our own walled garden,” he added.
+
+With the changes, when Flipboard users curate an article or post into one of their social magazines on Flipboard’s app, with an optional comment, that “flip,” as it’s called, will also appear as a post on their new flipboard.com Mastodon account. This is not the same server as Flipboard had set up before (flipboard.social), which was a place to experiment with decentralized social media. Instead, it’s the Flipboard app itself that’s now connected to the fediverse. Users’ posts on Mastodon will include a link both to the article being flipped and to the user’s Flipboard magazine, while the user profile will point to their Flipboard profile page.
+
+As this rolls out, all Flipboard users will have one Flipboard.com account connected to the fediverse, even if they host numerous Flipboard magazines. That’s not ideal as their magazines may focus on different topics. But McCue believes that Mastodon could one day support a notion of sub-feeds that would allow more differentiation.
+
+Users will be able to opt out of having their “flips” posted on Mastodon, but being opted-in will be the default experience. The company expects to have all its user accounts connected to the fediverse by the end of January. (This won’t impact any magazines set to “private” on Flipboard. Those will remain private, McCue notes.)
+
+Today, Flipboard has over 10,000 publishers of social magazines on its app and over a quarter million individuals who are curating content using Flipboard’s app. Given that Mastodon today has around 1.5 million monthly active users, this could be a notable bump for the fediverse when Flipboard’s integration fully rolls out, assuming Flipboard’s users don’t opt out.
+
+Flipboard is only one of now several companies that has embraced decentralized social media. In addition to X rival Instagram Threads, which began testing ActivityPub last week, other tech companies are moving in this direction, as well. Automattic made it possible for all WordPress.org and WordPress.com blogs to become federated, and said it’s working on doing the same with Tumblr next year. Medium and Mozilla have also set up their own servers, and the latter backed a Mastodon client called Mammoth, too.
+
+For Flipboard, after integrating its back end with the fediverse, the company may reconsider what its front end should look like, too, for this new age of social media.
+
+“The front end was built at a time pre-federation,” noted McCue. “What are the implications of federation in the front end? How do we think about curation and all the things, all the capabilities and tools that we’ve created over the years? How does that work in a world that’s federated, and from a user experience point of view? That is a great question,” he said.
+
+Despite all the changes, Flipboard is not in need of raising funds to support its new developments. It’s running off the profits of its own business as it moves in this direction.
+
+The company is also betting on the fact that federated social media may only be the beginning of what’s to come for the web overall.
+
+“I saw what was happening with ActivityPub and it became very clear to me that this is the future of the web, period,” McCue said. “The social web is people linking to pages and people linking to people. So it’s a much more intricate web.”
+
+He sees Flipboard as a part of that opportunity. “There needs to be a way to do discovery and search and have it be beautiful and simple and easy to use. That is what we’re focused on,” McCue added.

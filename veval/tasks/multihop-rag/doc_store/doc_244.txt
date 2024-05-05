@@ -1,0 +1,69 @@
+8 authors and their 8 gift book picks for this holiday season TechCrunch talked to eight authors with ties to the startup community to see which books they would gift this year
+
+Book blurbs have become a central part of the publishing industry: Who better to endorse a book than other authors and thought leaders? In that same spirit, we asked several writers to recommend books that you and other TechCrunch readers may want to gift this holiday season.
+
+Read on for recommendations from:
+
+The responses have been lightly edited for length and clarity. This article contains links to affiliate partners where available. When you buy through these links, TechCrunch may earn an affiliate commission.
+
+Jon Evans
+
+You may know Jon Evans as a former TechCrunch columnist or from his engineering and CTO roles, but he is also a novelist. Most of his books are technothrillers painting travelers caught in tricky situations in exotic locations. “Exadelic” is different, and not just because it’s his first novel in over a decade: It is set in Silicon Valley, where a tech exec gets threatened by a rogue AI.
+
+Book recommendation: “The Steerswoman,” by Rosemary Kirstein
+
+I love books which turn out to be far deeper, richer, and more thought-provoking than they originally seem, and the series of novels which begin with The Steerswoman are my go-to example of just that. Read just the first few chapters, and you’ll think you “know” you’re reading a clichéd fantasy novel, albeit better-written and more feminist than most; two adventurer women meet in a medieval-ish tavern, in a land plagued by dragons, and commence a quest to discover the source of mysterious – some say magical – gems. You might be a bit surprised by the asides in which they begin to discuss math and physics, but still, clearly a fairly forgettable genre fantasy story … right? …Wrong. Very, very wrong. Instead (and I’m sorry for spoilering this, but it’s impossible to write about this series without either doing so or being maddeningly elliptic) these books are some of the least fantastic, most meticulously thought-out science fiction you will ever read. More, they are a meditation on science itself, on how and why we acquire knowledge, on the repercussions of that knowledge being hoarded rather than shared … and on the inevitable(?) inequities, oppressions, and breakdowns between communities that result. They’re also a whole lot of fun! Not just an ongoing puzzle to be solved, but a series of genuinely thrilling, funny, and wrenching adventures, populated by great characters, to experience from the edge of your seat. Read the first, and if you like it — and I bet you will — lucky you; the sequels are even better.
+
+Kashmir Hill
+
+Kashmir Hill’s book “Your Face Belong to Us” is the story of a “small AI company that gave facial recognition to law enforcement, billionaires and businesses, threatening to end privacy as we know it.” But she doesn’t need to resort to (science) fiction to make it chilling; the company in question is Clearview AI, which very much exists, and its Dutch publisher describes the book as a “real-life thriller.”
+
+Book recommendation: “The Listeners: A History of Wiretapping in the United States,” by Brian Hochman
+
+I’m fascinated by the intersection of privacy and technology and how we navigate the clashes between the two. Hochman, a professor of American Studies at Georgetown, looks back to a historical moment when society was confronted with an intrusive new technology—tiny recording devices and wiretaps—and how new norms and laws developed to address it. To the extent that past is prologue, I found it very compelling for framing my expectations for what’s to come with the newest and most shocking forms of mass data collection and use.
+
+Jerry Neumann
+
+“Founder vs Investor,” a recently published non-fiction book, crosses two perspectives on venture-backed startups; entrepreneur Elizabeth Zalman is the founder, and veteran VC Jerry Neumann is the investor. Together, they share insights on how both sides can best work with one another.
+
+Book recommendation: “How Data Happened: A History from the Age of Reason to the Age of Algorithms,” by Chris Wiggins and Matthew L. Jones
+
+Ten years ago data was “the new oil”. Now it’s something more… read the tech news and you have to wonder if anything else even matters. As a humanist, I hope so, but I don’t think you can reason about that unless you know the history. “How Data Happened” is that history. Wiggins and Jones cover the idea of data from the advent of statistics through today. The book is well-researched, as you’d expect from a couple of Columbia’s top professors, but it’s also an interesting and engaging read. It’s a perfect gift for anyone who wants to know how our data-driven society got to where we are today and where it might take us tomorrow.
+
+Barr Moses
+
+Barr Moses is the CEO and co-founder of Monte Carlo, a data observability startup. She also co-wrote a technical book on the topic: O’Reilly’s “Data Quality Fundamentals: A Practitioner’s Guide to Building Trustworthy Data Pipelines,” sharing advice on achieving reliable data at scale.
+
+Book recommendation: “Dare to Lead: Brave Work. Tough Conversations. Whole Hearts,” by Brené Brown
+
+Reading a Brené Brown book is like tackling the Sunday crossword puzzle – equal parts challenging and rejuvenating – and Dare to Lead is no different. Dare to Lead pulls on Brown’s decades of research, interviews, and experience as a professor at the University of Houston speaking with CEOs, founders, and other executives to understand what great leadership looks like and how to achieve it. She distills four key skill sets great leaders possess and highlights ways to empower employees to be courageous in the face of adversity and change. Published in 2018 before the Gen AI wave hit, Dare to Lead also addresses what human leaders have to bring to the table that AI and ML currently don’t – empathy and connection. Bonus: the book also provides helpful resources to assess leadership strengths and growth opportunities that can make for a fun and informative team building activity.
+
+Polina Marinova Pompliano
+
+It’s her newsletter The Profile that led Polina Marinova Pompliano to become an author. “After years of profiling hundreds of fascinating people, I asked myself: What distinguishes the great from the truly exceptional?” This led to her first book, “Hidden Genius: The Secret Ways of Thinking That Power the World’s Most Successful People.”
+
+Book recommendation: “It’s What I Do: A Photographer’s Life of Love and War,” by Lynsey Addario
+
+War photojournalist Lynsey Addario has covered every major conflict and humanitarian crisis on the planet. As she sees the destruction and the pain through the lens of her camera, her images translate that intense emotion to people across the globe. Her memoir ‘It’s What I Do’ is the story of how she risks her life to tell the stories of ordinary people living in extraordinarily dangerous places. In the chaotic times we’re living through right now, it’s a memoir that documents the human cost of war. Despite witnessing so much tragedy and brutality, she has never lost her ability to see the good in humanity. My favorite quote from the book is: “I choose to live in peace and witness war—to experience the worst in people but to remember the beauty.”
+
+Georgiana Laudi
+
+Georgiana (Gia) Laudi helps SaaS businesses grow through her agency, Forget the Funnel. This is also the title of the book she co-wrote with her co-founder Claire Suellentrop, and whose premise is to present readers with a “a customer-led approach for driving predictable, recurring revenue.”
+
+Book recommendation: “Loved: How to Rethink Marketing for Tech Products,” by Martina Lauchengco
+
+Product Marketing, particularly in tech, is one of the most foundational and yet also somehow wildly misunderstood disciplines. “Loved” by Martina Lauchengco is exactly the comprehensive guide the startup scene so desperately needed. She manages to strike the perfect blend of accessible and comprehensive so that everyone from founders to practitioners understand the critical role product marketing plays in successful companies and what good looks like at every stage of growth. Though I think what I appreciate the most about this book is that when it comes to marketing and driving product adoption, even though she introduces four fundamentals of product marketing, the first and most critical to get right is customer insight. This is almost unheard of given the target market for this book is an industry where engineering and scale reign supreme.
+
+Scott Hurff
+
+As a writer, Scott Hurff doesn’t always write about product design; but when he does he is able to share his perspective as someone who’s also a product maker and designer. It is also this intersection that nurtured his book, “Designing Products People Love: How Great Designers Create Successful Products.”
+
+Book recommendation: “Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application,” by Jason Fried, David Heinemeier Hansson and Matthew Linderman
+
+“Getting Real” is an absolute treasure from 2006 and it’s still teaching me things. It was the first time anyone building in modern tech put together a practical, straightforward, all-encompassing guide for conceiving, building, shipping, and marketing web apps. Jason and David’s words are efficient when they need to be, detailed when it matters, and packed full of nuance that’s both unique and endearing. The book feels like it started as an internal series of posts or a handbook to help scale 37signals beyond the core team (from what I remember, Basecamp launched in 2004 and had quickly found success). Whatever the format, what lends “Getting Real” authenticity is the fact that 37signals used these exact techniques to ship Basecamp and find its customer base. To this day, I’ve never read anything like it. It’s one of those books that you can finish in an afternoon but stays with you for far longer, morphing into a reference book for the times when you need some extra perspective.
+
+James Wise
+
+You may know James Wise as a partner at VC firm Balderton Capital; but this London-based VC also wrote his first book, “Start-up Century: Why We’re All Becoming Entrepreneurs – and How to Make It Work for Everyone.” Launched in the U.K. on November 23, it should make a great gift for aspiring entrepreneurs around you.
+
+Book recommendation: “The Coming Wave: Technology, Power, and the 21st Century’s Greatest Dilemma,” by Mustafa Suleyman with Michael Bhaskar

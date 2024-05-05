@@ -1,0 +1,49 @@
+Amazon’s Echo devices will now allow kids to have interactive conversations with an AI-powered Alexa via a new feature called “Explore with Alexa.” First announced in September, the addition to the Amazon Kids+ content subscription allows children to have kid-friendly conversations with Alexa, powered by generative AI, but in a protected fashion designed to ensure the experience remains safe and appropriate.
+
+Though there are already some AI experiences that cater to younger users, like the AI chatbots from Character.ai and other companies, including Meta, Amazon is among the first to specifically look to generative AI to develop a conversational experience for kids under the age of 13.
+
+That also comes with constraints, however, as generative AI can be led astray or “hallucinate” answers, while kids could ask inappropriate questions. To address these potential problems, Amazon has put guardrails into place around its use of gen AI for kids.
+
+For starters, the Alexa Kids science team narrowed down the new experience, which leverages Alexa’s LLM (large language model) technology, to include only kid-friendly fun facts and trivia questions. Initially, the content will come from just two partners, the World Wildlife Fund and A-Z animals. In time, the team would like to expand the AI to include other areas of interest to kids, like space, music, video games and sports.
+
+In addition, and perhaps most importantly, the generative AI experience is not happening in real time on the device.
+
+“We want to go slow and be intentional and be measured with how we’re introducing this new tech, as well as any new tech for kids, which is why we’re not just hooking the experience up to an LLM at runtime and kind of letting kids go at it,” explains Arjun Venkataswamy, senior product manager for Alexa Kids, in an interview with TechCrunch. “The way that we’ve integrated an LLM here is we use it to generate content at scale offline, and then go through a review process that includes both humans, as well as AI, and then take that reviewed content and then put it into our experience,” he says.
+
+In other words, kids aren’t using generative AI on the fly when conversing with Alexa, and the content is pre-reviewed and comes from a small dataset of just animal facts and sources.
+
+However, because the AI can generate tens of thousands of potential responses, not every answer can be reviewed by a human before being added to the experience. To that end, Amazon is also using AI to help it review the materials it’s using for “Explore with Alexa.”
+
+“What our AI is doing is taking trusted content and then figuring out what’s fun, looking at what’s fun, turning them into a trivia question — so it is doing useful things for us at scale that we wouldn’t have been able to do without this tooling…but we feel really good about the safety guardrails that are in place right now in terms of content,” says Venkataswamy.
+
+To access the new experience, kids can trigger the AI-generated facts or trivia in one of two ways. They can either utter a particular phrase that kicks off “Explore with Alexa,” like “Alexa, let’s explore animals” or “Alexa, tell me an animal fact.” But the more interesting way to use this feature is to have kids engage in organic conversations with Alexa where this topic could come up. For instance, a kid might ask “What does a lion’s roar sound like?” or “How fast can a cheetah run?” This would also allow kids to enter the more conversational Q&A experience.
+
+Plus, over the next few months, Alexa will also prompt kids on some occasions, asking if they want to hear something interesting about animals.
+
+Unlike more traditional conversations with Alexa, the AI experience works two ways. That is, it’s not just kids asking Alexa a question and receiving a response.
+
+“One of the things we think is really cool about this paradigm is kids aren’t just asking Alexa questions and getting the answers — Alexa is now asking kids questions,” says Venkataswamy. That is, Alexa could ask the kids a trivia question like “What’s the fastest animal on Earth?”
+
+As any teacher will tell you, by having the kids try to think of the answer first, the answer will stick in their minds better when they hear the response.
+
+“Right now it’s, it’s narrow. Alexa is asking kids trivia questions,” Venkataswamy continues. “But we want to continue expanding on that and making it more interactive.”
+
+Eventually, Amazon wants to have this generative AI experience integrated at runtime for both kids and adults, but it knows it needs to proceed carefully, especially with the former.
+
+“We do want to integrate an LLM in runtime in a more protected way than we would integrate it for adults…However, this approach lets us iterate and figure out the right ways to get both safe and delightful content outputted from the LLM for kids,” says Venkataswamy.
+
+Amazon is also preparing to launch an AI-powered “Let’s Chat” Alexa experience for adults later this year, he says.
+
+In terms of privacy, the company notes it’s not training its LLM on kids’ answers. In addition, the “Explore with Alexa” experience and any future LLM-backed features will continue to follow the same data handling policies of “classic Alexa” (non-AI Alexa). That means the Alexa app will include a list of the questions asked by kids in the household (those with a kids’ profile) and the response Alexa provided. That history can be stored or deleted either manually or automatically, depending on your settings.
+
+Alongside the launch of “Explore with Alexa,” the new Echo Pop Kids speakers will also now be available for purchase, starting at $49.99 in the U.S.
+
+The Echo Pop Kids will come in two new designs: Marvel’s Avengers and Disney Princess, which feature corresponding character themes. Kids can use the devices to hear a greeting, fun fact or joke about an Avenger or Disney Princess, in keeping with the theme. Both also include six months of access to the Amazon Kids+ subscription service, which, in addition to “Explore with Alexa,” also offers a range of kid-friendly games, apps, books, videos and more, including custom Alexa themes.
+
+However, you don’t need a specific “Kids” device to use “Explore with Alexa.” The feature works on any device set to kids mode or any communal family device, if parents have set up their kids’ voice ID.
+
+Initially, “Explore with Alexa” will be available in English only but internationalization is further down the road.
+
+It’s harder for Amazon to estimate when such an AI feature will become available at runtime for kids, though.
+
+“I can’t give you a timeline, because we don’t have a concrete answer for what exactly we’re going to be doing yet, although we do have plans and experiments we’re planning to look into,” Venkataswamy says. “I will say that in terms of our criteria for when we’re going to get there, we’re working closely with the Family Trust team at Amazon that’s connected to a variety of research institutions in the U.S…we want to be able to get some confidence from external partners that our approach is right,” he adds.

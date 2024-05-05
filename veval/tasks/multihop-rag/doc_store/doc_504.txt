@@ -1,0 +1,67 @@
+After the most aggressive monetary-tightening campaign in four decades, academics and economic practitioners are running autopsies on what could have prevented the cost-of-living crisis and how to ensure the same mistakes won’t be repeated.
+
+Markets have scrambled to price in high-for-longer interest rates, with a new war in the Middle East adding yet more risk to an already uncertain outlook confronting central bankers as they gather for their penultimate meetings of a tumultuous year.
+
+The policy navel-gazing is centering around three debates. How much flexibility central banks can allow in reaching their inflation targets, the effectiveness of asset purchases in the policy mix, and the merits of monetary and fiscal coordination.
+
+Bloomberg surveyed economists from around the world to gather views on those three debates. Their verdict: Central banks won’t break their economies in a rush to hit inflation targets, QE will be used more sparingly in the future, and fiscal policy risks countering the work of monetary authorities.
+
+What Bloomberg Economics Says… “A long period of galloping price gains, and fears that the last yards back to target could be most painful for workers, have reignited the debate about whether central banks should aim for a higher rate of inflation. That’s a conversation worth having. But for monetary policymakers, the imperative of retaining credibility means the right time for it is after inflation is back at target, not before.” — Tom Orlik, chief economist
+
+Rethinking Targets
+
+So long as people believe prices will get back toward 2%, central bankers have some leeway in deciding how aggressive they need to be in pursuing that goal.
+
+Economists covering 16 of the world’s most important central banks say policymakers will allow more time to bring inflation back to target if it means less damage to their economies. The Bloomberg special survey also shows that a sizable minority sees them going even further, accepting price pressures that are either slightly too strong or too weak — as long as expectations remain anchored.
+
+Olivier Blanchard, a former IMF chief economist, has long argued in favor of raising the inflation target, and former European Central Bank Vice President Vitor Constancio has also embraced the idea. But it’s a controversial view and only possible from a position of credibility, which means central banks would likely have to get inflation back to 2% first.
+
+“It would be a mistake of the first order to think you can change a goal you have set if you can’t achieve it,” according to Bundesbank President Joachim Nagel.
+
+Global trends suggest inflation will be stronger than in the past, with former Bank of England Governor Mark Carney among those saying rates won’t return to pre-pandemic lows.
+
+One lesson Gita Gopinath, the IMF’s No. 2 official, draws from the latest inflation episode is that policymakers mustn’t assume that looking through supply shocks — as text books suggest — is the optimal response. She recommends they be ready to react preemptively, even when inflation hasn’t yet spun out of control.
+
+They may be called into action soon on that front, should an escalation in the conflict in the Middle East hit oil deliveries.
+
+When the next big global slowdown comes, though, flexibility may be needed the other way. Europe’s eight-year experiment with negative rates ended with mixed reviews last summer as to whether it was all worth it.
+
+The Bank for International Settlements argues that there’s room for greater tolerance for moderate shortfalls even if they’re persistent, because “low-inflation regimes, in contrast to high-inflation ones, have self-stabilizing properties.”
+
+Rethinking Quantitative Easing
+
+With a more flexible approach to those 2% targets, monetary policy after the 2008 financial crisis would have looked very different in many parts of the world. Trillions of dollars, euros, yen and pounds of asset purchases did little to raise prices in the face of global disinflationary forces until governments used the money they raised to stuff cash into consumers’ pockets during Covid lockdowns.
+
+But that’s also been blamed for distorting financial markets. Episodes such as the Silicon Valley Bank blow-up are seen by some as a direct result of central bank reserves creation under QE, along with regulatory and supervision failures.
+
+Only 40% of economists surveyed predict central banks will use QE the same way as they did before. A quarter expect them to deploy it more sparingly, about 30% see its only role going forward as a tool to address financial-stability concerns and a small minority doesn’t see it being used again at all.
+
+There are other problems with bond-buying that may affect how it’s used in the future. QE effectively swaps long-term borrowing costs for short-term ones. What’s been a lucrative deal for taxpayers when official interest rates were low has now turned into a disastrous trade.
+
+The clearest depiction of the problem is in the UK, where the BOE secured taxpayer indemnity for any losses on QE. Over the next decade, it estimates, its purchases will cost the government over £200 billion ($243 billion).
+
+And policymakers have little experience in unwinding their balance sheets, where small mistakes can trigger big market turbulence.
+
+The Fed experienced some of that when it tried to shrink bond holdings between 2017 and 2019. More recent efforts to reduce portfolios have progressed rather smoothly, partially because central banks have amassed so much debt over the years that they’re far away from any thresholds that would trigger a squeeze.
+
+But the fact that they’re treating quantitative tightening as a technical adjustment rather than a part of their efforts to conquer inflation raises questions about the future use of a tool that’s only trusted to work one way.
+
+The ECB faces an extra legal burden on bond holdings that comes with operating in a currency union of 20 countries. Concerns around illegally financing governments and debt mutualization have already landed the central bank in court several times.
+
+Mixing Policies
+
+Low interest rates and large-scale QE programs allowed treasuries to borrow on the cheap to finance stimulus campaigns, protecting labor markets, businesses and consumers from collapse. But the spending blowout throughout and since the pandemic — part critical emergency funding, part political need to show an all-hands-on-deck approach in crisis — contributed to the latest outbreak in inflation.
+
+While the same kind of pulling in the same direction is needed to restrain demand, many governments are concerned that if they tighten policy too hard, voters will kick them out and replace them with populists or extremists. That’s reviving questions about whether central banks can deliver price stability all on their own.
+
+“If we were designing optimal policy arrangements from scratch, monetary and fiscal policy would both have a role in managing the economic cycle and inflation, and that there would be close coordination,” Philip Lowe said in his last speech as Australian central bank governor in September.
+
+Economists surveyed by Bloomberg predict fiscal policy will somewhat counteract the Fed’s efforts to rein in inflation in the US.
+
+“It’s true that there are circumstances where working hand in hand and supporting each other has proved helpful,” ECB President Christine Lagarde told a panel discussion in June at the institution’s annual economic forum.
+
+Fed Chair Jerome Powell, who sat to her right, signaled he wasn’t ready to rely on that kind of cooperation. “Our assignment is to deliver price stability kind of regardless of the stance of fiscal policy.”
+
+Central bankers warn that any failure to scale back fiscal spending risks coming at the cost of yet higher interest rates. They also want elected officials to put in place policies that help deliver sustainable growth.
+
+“A change in mindset needs to happen,” said Agustin Carstens, the former governor of the Bank of Mexico who’s now the general manager of the BIS. “Growth needs to depend less on fiscal and monetary policy, it should depend more on structural policies.”

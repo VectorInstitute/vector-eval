@@ -1,0 +1,51 @@
+Web Summit, the big tech conference brand that runs events in several cities and whose 70,000 person flagship event in Lisbon is taking place next month, is running into a wall — a wall of outrage. Founders, investors and others from the technology community in Israel have gone ballistic over comments made by the founder and figurehead of Web Summit, Paddy Cosgrave, related to the fighting underway across Israel and Gaza, specifically his criticism of Israel’s retaliatory actions.
+
+Now, the anger with Cosgrave has gone viral, and today it looked like it was about to overrun promotion efforts for Web Summit.
+
+The situation also highlights how Israel’s tech industry, the country’s most valuable and arguably best-known export, built on business development and relationships, has been willing to cut those ties in the battle of public opinion in this most polarizing of conflicts.
+
+“Here in Israel, we’re basically now in rage mode after the first week of shock and awe,” one tech source told TechCrunch. “We ain’t got time to f_ck around with anyone remotely suggesting Israel needs to sit it out and not put an end to Hamas.”
+
+It all started the day that Hamas busted through Israel’s walls and rampaged through villages and a music festival on a murdering and pillaging spree, killing 1,400 people, mostly civilians. Hamas, the ruling party in the Palestinian territory, is considered a terrorist organization by the U.K., U.S. and other countries; they also took 199 hostages back into Gaza.
+
+On that day, Cosgrave was in Doha, Qatar, the city where Web Summit will be holding its newest event in four months’ time. As some were taking to social media to express shock, or sympathy, or in some cases, advocating for restraint, some took more critical stances. Cosgrave, for his part, posted data on X of the human cost of the Israel-Palestine conflict between 2008 and 2023. It omitted the events (and casualties) of the weekend.
+
+That stirred debate, but Cosgrave didn’t acknowledge that the numbers were out of date or comment about the attacks in Israel. He instead proceeded, over the next several days — between posts about Qatar, political comments related to Ireland, and rugby reactions — to put out several more posts, all highlighting the opinion that Israel was taking an unjust approach.
+
+As the posts racked up a range of alarming and extreme responses on both sides of the argument, Cosgrave doubled down. On Friday, he noted he was “shocked by the rhetoric and actions of so many Western leaders” in supporting Israel. But as attention mounted, the rejections to Web Summit started, too.
+
+Some of the highlights (or I guess you could say, lowlights):
+
+David Marcus said he would never again attend, sponsor or speak at another Web Summit event. “Saddened by your ill-informed stance. You could’ve taken a more nuanced one, condemning these atrocities and calling for restraint. That would’ve been acceptable,” wrote David Marcus, the longtime fintech entrepreneur and Meta executive, in a tweet yesterday. “You chose to support terrorists. As such I’ll never attend/sponsor/speak at any of your events again.”
+
+“Will refuse to work with anyone who speaks at this conference in Qatar for the rest of my career,” chimed in Keith Rabois, the Founders Fund partner and entrepreneur.
+
+Ori Goshen, the co-founder and co-CEO of AI21 Labs, announced on LinkedIn that he would no longer be giving a keynote at Web Summit.
+
+“It’s bad enough that summit CEO Paddy Cosgrave didn’t see fit to express horror at the sickening atrocities committed by Hamas on October 7th,” he said. “But as immoral as that is, Paddy Cosgrave chose to not only ignore these but instead post something against the policies of the Israeli government. Leaving aside his very partial understanding of history and geopolitics, this response was abhorrent. We at AI21 cannot be part of such indecency and moral bankruptcy. We will not attend WebSummit, and I will not give the keynote. #cancelwebsummit #standwithisrael”
+
+Then the Israeli ambassador to Portugal, Dor Shapiro, waded in.
+
+“Today, I wrote to the Mayor of Lisbon informing him that Israel will not participate in the #WebSummit conference due to the outrageous statements made by the conference CEO Paddy Cosgrave. Even during these difficult times, he is unable to set aside his extreme political views and denounce the Hamas terrorist activities against innocent people,” he wrote, also on LinkedIn. “Dozens of companies have already canceled their participation in this conference, and we encourage more to do so.”
+
+By today, Cosgrave appeared to walk back his statement. “We are devastated to see the terrible killings and the level of innocent civilian casualties in Israel and Gaza,” Cosgrave wrote, nine days Hamas invaded Israel. “We condemn the attacks by Hamas and extend our deepest sympathies to everyone who has lost loved ones. We hope for peaceful reconciliation.”
+
+Under so much fire, however, he subsequently dug in his heels, tweeting afterward: “To repeat: War crimes are war crimes even when committed by allies & should be called out for what they are. I will not relent.”
+
+Damage has been done to Cosgrave and the Web Summit brand in the interim.
+
+“Hard to take this statement at face value — given all the tweets @paddycosgrave has been liking over the last few days. I saved several of them on the attached google doc (so we have a record when the @WebSummit PR team asks him to delete them),” said Josh Kopelman, the founder of First Round Capital.
+
+Kopelman separately suggested in a tweet that Cosgrave is in the pocket of Doha and Qatar, a country that many believe is connected to the financing of Hamas. That was enough to push Garry Tan, the head of Y Combinator, over the edge, too.
+
+“I refuse to appear at Web Summit and am canceling my appearance,” he said. “I condemn Hamas and pray for peace for the Israeli and Palestinian people.”
+
+We’ve reached out to Tan and Kopelman to ask if they are advising portfolio companies and partners at their firms against also attending. Tan declined to comment, and Kopelman has yet to respond.
+
+Web Summit has provided us with a statement on the cancellations, saying that the organization is talking to “a number of people about their attendance at Web Summit” but is not in a position to discuss exacts and individuals.
+
+“We understand that it is an incredibly sensitive and painful time during this utter tragedy of war. We want to reiterate our devastation for the loss of innocent life in Israel and Gaza. We strongly condemn the horrific attacks by Hamas on Israelis. Web Summit’s mission is to connect people and ideas changing the world from all around the globe. The more voices we have from around the world, the more we can help change the world for the better,” she added. “We are saddened to hear that some Israelis in the tech community will no longer be attending Web Summit. We regret any hurt caused and extend our deepest sympathies to everyone who has lost loved ones. We hope for peaceful reconciliation.”
+
+The spokesperson said that last year’s event attracted about 71,000 people and this year it’s on track to “max out” at 70,000.
+
+A public page in Notion titled “techcondemingterror” is tracking the growing response. It now includes press clippings, comments from a number of leaders in Israel’s technology industry and comments.

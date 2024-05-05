@@ -1,0 +1,53 @@
+I have never seen Sam Bankman-Fried so still as he was during the prosecution’s opening statement. The characteristic leg-jiggling was absent. He barely moved as the prosecutor listed the evidence against him: internal company files, what customers were told, the testimony of his co-conspirators and his own words.
+
+His hair was shorn, the result of a haircut from a fellow prisoner, the Wall Street Journal reported. He wore a suit bought at a discount at Macy’s, per the Journal; it hung on him. He appeared to have lost some weight.
+
+“All of that was built on lies.”
+
+Bankman-Fried, at this time last year, had a luxury lifestyle as the CEO of crypto exchange FTX, said the assistant US attorney, Thane Rehn, in the cadence of a high schooler delivering his lines in a student play. Bankman-Fried hung out with Tom Brady. He was on magazine covers, lived in a $30 million penthouse, and spent time with world politicians. “All of that was built on lies,” Rehn said.
+
+In his opening statement, Rehn dodged explaining cryptocurrency to the jury. Instead, he punched hard on Bankman-Fried lying and stealing.
+
+Bankman-Fried sat almost motionless, occasionally glancing at Rehn, as the prosecutor told the jury that Bankman-Fried sold stock in FTX and borrowed millions from lenders by lying.
+
+The story Rehn told is familiar to anyone following the news. In May and June of 2022, Alameda Research — the crypto trading company ostensibly helmed by Caroline Ellison — didn’t have enough to pay its bills, so it pulled customer money to repay loans. By September, the hole in the FTX balance sheet was so big that customers could never be repaid.
+
+FTX “didn’t have a chief risk officer, which became an issue when the storm hit.”
+
+When CoinDesk published its article in November 2022, people realized FTX was a house of cards, Rehn said. Meanwhile, Bankman-Fried tweeted. “FTX is fine. Assets are fine” and “We don’t invest customer assets even in treasuries.”
+
+Pointing at Bankman-Fried, Rehn said, “This man stole billions of dollars from thousands of people.”
+
+So how was the defense going to follow it up? I was very curious, having learned yesterday that Bankman-Fried had never been offered a plea deal since he and his attorneys had told the government they wouldn’t negotiate. Surely there would be some manner of evidence, some something, that would have made him so confident.
+
+There was, instead, a metaphor.
+
+Defense attorney Mark Cohen, with the energy of a patient father telling his obnoxious children a bedtime story, assured us that working at a startup was like building a plane while flying it, and that FTX the plane had flown right into the perfect storm: the crypto crash. Except, uh, he also said this: FTX “didn’t have a chief risk officer, which became an issue when the storm hit.”
+
+I couldn’t stop thinking about the missing risk officer
+
+The problem with this metaphor is that if FTX was a plane, it was a plane flying with a key component missing — namely, the risk officer, an executive whose job it is to, well, manage risk. This is sort of an important thing, as risks can be anything from reputational to regulatory to financial.
+
+FTX was named such as it was because it was a futures exchange, which, to borrow a phrase from Bloomberg’s Matt Levine, “sits between the winners and losers of bets.” That means FTX can’t pay out what it owes the winners unless the losers pay up. Risk management is a crucial part of the business; risk officers exist to identify business’ potential risks, monitor, and mitigate them. This is to say nothing of the regulatory risks around crypto.
+
+As Cohen droned on about airplanes, I couldn’t stop thinking about the missing risk officer. Bringing it up, I thought, was a tremendous mistake. The prosecution hadn’t mentioned it. Either Bankman-Fried is stupid — unlikely — or he deliberately didn’t hire a risk officer. Was he worried about what one might find?
+
+Sure, as Cohen put it, Bankman-Fried was a math nerd who didn’t party. That paints a picture of someone who’s pretty deliberate, particularly since he immediately left MIT and went to work on Wall Street. If he had been a party-hardy trainwreck, I could see overlooking a risk officer in order to do another line, or a supermodel, or something else important. Why was the defense bringing this up?
+
+But as Cohen tried to tell me that FTX’s and Alameda’s business relationships were “reasonable under the circumstances,” the lack of risk officer kept elbowing me in the ribs. “Sam acted in good faith and took reasonable business measures” is a pretty hard pill to swallow with that in mind.
+
+Man, it’s no good when your defense lawyer has just made you sound worse than the prosecution already did. And while Cohen tried to make the common white-collar defense argument that Bankman-Fried, as CEO, was simply too busy to oversee what everyone did every day, he just made me more suspicious. That’s why you hire a risk officer and delegate! That’s the whole point! I could barely even hear Cohen blaming Caroline Ellison and Changpeng “CZ” Zhao for the debacle over the “no risk officer” ringing in my ears.
+
+Following the defense’s opening statements, things got still worse for Bankman-Fried. The prosecution called its first witness, Marc-Antoine Julliard, whose money got stuck on FTX. Juilliard, who was born in Paris and lives in London, testified that he trusted FTX because Bankman-Fried came across as a leading figure of the industry. When he was evaluating the exchange, he thought the sheer volume of users was important, too — at the time, FTX was among the top three biggest exchanges. Plus, major VC firms had invested, and “they don’t commit hundreds of millions without doing due diligence, checking the books, the accountancy of the firm, going through several compliance process[es], so that was a vote of confidence for me,” Juilliard said. (Evidently he had not paid attention to the Elizabeth Holmes trial.)
+
+He also noted FTX’s glossy ads — featuring Gisele Bündchen, for instance — suggested a very high budget. It wouldn’t make sense to spend that much money unless FTX had very strong financials, Juilliard figured. He opened an account, transferred in both regular money and cryptocurrency, and used the exchange to execute his plan: buying Bitcoin to sell back in five to ten years at higher prices.
+
+It is a thankless task to cross-examine a customer whose money is gone
+
+In November 2022, things went bad for Julliard. He followed Bankman-Fried on Twitter, and read aloud the “FTX is fine. Assets are fine” tweets, along with “FTX has enough to cover all client holdings. We don’t invest client assets” and a few others, which gave Julliard the impression that his money was there — the problem might have been technical (anti-spam measures) or regulatory. When he tried to get his money out on November 8th, it was too late. We saw screenshots of his withdrawal attempts: $20,000 USD and about 4 Bitcoin, which were worth about $20,000 at the time: about $100,000 money, inaccessible.
+
+It is a thankless task to cross-examine a customer whose money is gone, but Cohen tried anyway. He noted that Julliard was a licensed commodities broker, who was trading in crypto because he didn’t have to disclose it; that Julliard knew that crypto was new and risky, and that Julliard didn’t review the terms of service agreement he’d assented to when making his FTX account.
+
+Well, sure, but so what?
+
+The next witness called was Bankman-Fried’s former college (and FTX) roommate, Adam Yedidia, about whom I expect I will have much more to say tomorrow.

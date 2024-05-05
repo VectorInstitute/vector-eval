@@ -1,0 +1,47 @@
+Hey, folks, welcome to Week in Review (WiR), TechCrunch’s regular newsletter that recaps the past few days in tech. AI stole the headlines once again, with tech giants from Google to X (formerly Twitter) heading off against OpenAI for chatbot supremacy. But plenty happened besides.
+
+In this edition of WiR, we cover Google faking a demo of its new AI model (and giving out offensive notebooks to Black summit attendees), defense startup Anduril unveiling a fighter jet weapon, the continued fallout from the 23andMe hack, and the release of the Grand Theft Auto VI trailer. Also on the roster are stories about patient scans and health records spilling online, Meta’s new AI-powered image generator, Spotify cutting jobs and an autonomous truck startup leaving the U.S.
+
+It’s a lot to get to, so we won’t delay. But first, a reminder to sign up here to receive WiR in your inbox every Saturday if you haven’t already done so.
+
+Most read
+
+AI, faked: Google unveiled a new flagship AI model this week called Gemini. But it didn’t release the full model, Gemini Ultra — only a “lite” version called Gemini Pro. In a press briefing and blog posts, Google touted Gemini’s coding capabilities and multimodal prowess, claiming that the model can understand images, audio and videos just as well as text. But Gemini Pro — which is strictly text-in, text-out — has proven to be mistake-prone. And in a worse look for Google, the company was caught faking a Gemini demo by tuning text prompts with still images off camera.
+
+Offensive notebooks: In another Google PR blunder, people who attended the company’s K&I Black Summit in August were given third-party notebooks containing highly insensitive language. My colleague Dominic-Madori writes that the inside of the notebooks were printed with the phrase “I was just cotton the moment, but I came back to take your notes” (emphasis ours). It goes without saying that this wouldn’t have been well received by the mostly Black audience in attendance; Google has pledged to “avoid similar situations as [it engages] with [merchandise] vendors going forward.”
+
+Anduril’s new weapon: Anduril, the controversial defense company co-founded by Oculus founder Palmer Luckey, has developed a new product designed to take on the proliferation of low-cost, high-powered aerial threats. Dubbed Roadrunner, the modular, twin-jet-powered autonomous vertical take-off and landing air vehicle — one version of which is capable of carrying a warhead — can take off, follow and destroy targets or, if there’s no need to intercept the target, autonomously maneuver back to base for refueling and reuse.
+
+More 23andMe victims: Last Friday, genetic testing company 23andMe announced that hackers managed to access the personal data of 0.1% of customers, or about 14,000 individuals. But the company didn’t initially say how many other users might’ve been impacted by the breach, which 23andMe first disclosed in October. A lot, as it turns out — 6.9 million people had their names, birth years, relationship labels, the percentage of DNA they share with relatives, ancestry reports and self-reported locations exposed.
+
+Grand Theft Auto goes viral: In just 22 hours, the first trailer for Grand Theft Auto VI racked up 85 million views — breaking a MrBeast video’s record for most YouTube views in 24 hours. The excitement for Grand Theft Auto VI is a decade in the making; the previous entry in Rockstar Games’ long-running franchise, Grand Theft Auto V, remains the second-best-selling video game of all time, falling short only of Minecraft.
+
+Patient records leak: Thousands of exposed servers are spilling the medical records and personal health information of millions of patients due to security weaknesses in a decades’ old industry standard designed for storing and sharing medical images. This standard, known as Digital Imaging and Communications in Medicine (DICOM), is the internationally recognized format for medical imaging. But as discovered by Aplite, a Germany-based cybersecurity consultancy, security shortcomings in DICOM mean many medical facilities have unintentionally made private data accessible to the open web.
+
+Meta generates images: Not to be outdone by Google’s Gemini launch, Meta rolled out a new, stand-alone generative AI experience on the web, Imagine with Meta AI, that allows users to create images by describing them in natural language. Similar to OpenAI’s DALL-E, Midjourney and Stable Diffusion, Imagine with Meta AI, which is powered by Meta’s existing Emu image-generation model, creates high-resolution images from text prompts.
+
+Spotify makes cuts: Spotify is eliminating about 1,500 jobs, or roughly 17% of its workforce, in its third round of layoffs this year as the music streaming giant looks to become “both productive and efficient.” In a note to employees Monday, Spotify founder and chief executive Daniel Ek — citing slow economic growth and rising capital costs — said right-sizing the workforce is crucial for the company to face the “challenges ahead.”
+
+TuSimple exits: When TuSimple went public in 2021, it was flying high as the leading self-driving trucks developer in the U.S. Now — after a string of internal controversies and the loss of a critical partnership with truck manufacturer Navistar — TuSimple is exiting the U.S. altogether. TuSimple said in a regulatory filing Monday that it’s laying off the majority of its U.S. workforce and selling assets here as it exits the country for Asia.
+
+ZestMoney shuts down: ZestMoney — a buy now, pay later startup whose ability to underwrite small-ticket loans to first-time internet customers attracted many high-profile investors, including Goldman Sachs — is shutting down following unsuccessful efforts to find a buyer. The Bengaluru-headquartered startup employed about 150 people at peak and raised more than $130 million over its eight-year journey.
+
+Audio
+
+TechCrunch’s roster of podcast episodes keeps growing — just in time for weekend listening.
+
+Equity featured a throwback conversation from TechCrunch Disrupt 2023, when Alex sat down with Serhii Bohoslovskyi, the founder of a no-code app builder, Trible, that helps people construct online courses. The pair caught up on the state of the creator economy, the use of no-code tooling today (and how it’s received by nontechnical creators) and the security of startups with roots in Ukraine.
+
+Over on Found, the crew talked to David Rogier, the CEO and founder of MasterClass, a streaming platform where you can learn from the world’s experts on a range of topics. Before Rogier launched MasterClass, he worked as a VC, and — through his connections — he received a $500,000 seed round before he even had an idea for a company.
+
+And on Chain Reaction, Jacquelyn interviewed David Pakman, managing partner and head of venture investments at CoinFund. Before CoinFund, David spent 14 years at the venture capital firm Venrock. He also led the Series A and B rounds at Dollar Shave Club, which was acquired by Unilever for $1 billion. And, in 1991, David co-created Apple Music when he was part of Apple’s system software product marketing group.
+
+TechCrunch+
+
+TC+ subscribers get access to in-depth commentary, analysis and surveys — which you know if you’re already a subscriber. If you’re not, consider signing up. Here are a few highlights from this week:
+
+Bitcoin surge: Jacquelyn writes about Bitcoin’s rapid-fire ascent to $44,000, which came on the back of roughly 25% gains in the last week. Her piece for TC+ explores what’s driving Bitcoin’s price ascent and similar value gains among other tokens — and whether the good vibes continue into the new year.
+
+To swap, or not to swap: Tim reports on how consumer EV battery swapping could usher in freedom for a wide range of people, allowing them to participate in the EV transition in ways that traditional built-in batteries don’t. The challenge is making the unit economics work.
+
+Coinbase and Robin and the future of fintech: Investors are betting that consumer trading of equity and crypto is rebounding and are consequently pushing the value of some former startups higher, Alex writes. That could spell good news for startups offering consumer trading services directly — or indirectly, for that matter.

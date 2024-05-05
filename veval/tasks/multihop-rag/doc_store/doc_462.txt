@@ -1,0 +1,29 @@
+This is Hot Pod, The Verge’s newsletter about podcasting and the audio industry. Sign up here for more.
+
+In pursuit of profit, Spotify looks to AI rather than original content for its podcasting future
+
+Spotify shareholders are thrilled with the company reporting an operating profit for the first time in a year, sending the stock up nearly 10 percent on the news. The revenue bump was in large part due to the streamer’s $1 price increase earlier this year, but executives also pointed to the downsizing of the podcast operation — which included hundreds of layoffs and the dissolution of Gimlet and Parcast — as a contributing factor. The adage that “content is king” no longer applies, with Spotify increasingly focusing on tools that will scale the business rather than content that will attract listeners.
+
+In a call with investors, CFO Paul Vogel said that after being a real “drag” on profit margins in the past, podcasting will soon break even and turn toward profitability. CEO Daniel Ek echoed that sentiment. “We’re constantly finding new ways to bring more efficiencies out of the business… We’ve seen some improvements, but you should expect us to continue to look for more improvements going forward because that’s just our modus operandi.”
+
+While Ek and Vogel really hammered that “efficiency” theme (according to my transcript, they said the word more than 30 times over the course of the 50-minute call), what was left unsaid about podcasting spoke louder. In the past, they would excitedly tout how many millions of podcasts were on the platform, the latest new celebrity show, and the area’s explosive growth. But as investors have run out of patience for the time and money such ambitions required, the company’s leadership changed its tune.
+
+Rather than emphasizing, say, its new revenue sharing deal with Trevor Noah or the reliability of The Ringer, Ek pointed to Spotify’s new AI-driven translation product. He pointed to the automatic translation tool as a way of seamlessly scaling podcasts and increasing the amount of content in non-English speaking markets. He also expects AI will be a boon for podcast advertising, as well.
+
+“Creating a great audio ad is something that’s quite costly and quite expensive for marketers to do,” he said. “What generative AI has the promise to do is allow for that creative cost to come down… It [also] allows you to scale that creative in unimaginable ways. You can translate whatever creative you had into lots of different languages; you can use the same voice actor; but instead of producing one or two ads, you can have 1,000 or 10,000 or even 100,000 ads that are individually created to each user.”
+
+I would take that with a grain of salt (we know Ek loves to dream big!!), but it does underscore the newest iteration of Spotify’s podcasting business — leaner, less splash, and more scale. It doesn’t mean that Spotify’s contributions to podcasting will be insignificant — as one audio industry professional said to me, the translation thing could be a total game-changer for the medium (if it’s not a complete dud). But we should not expect those contributions to come in the form of original content.
+
+The main question I am left with after these results is where Spotify’s licensing deals fit in. I wish during the call that someone had asked Ek about the plan for big-name talent like Joe Rogan, Alex Cooper, and Dax Shepard as their deals come up for renewal. On one hand, they have the scale (Rogan especially). On the other, they cost a chunk of cash (... Rogan especially). I will have more on this later this week, but it will be interesting to see how much Spotify and its investors can stomach spending on the biggest names in podcasting.
+
+Wondery puts its podcasts on TV
+
+That’s certainly one way to get podcasts to the masses. Wondery, which is owned by Amazon, will make many of its podcasts available on three new channels on Freevee, an ad-supported video streaming service also owned by Amazon that was formerly known as IMDb TV (yes, Amazon owns IMDb, too).
+
+On October 31st, Freevee will launch three dedicated Wondery channels: a flagship channel focused on entertainment programming like Baby, This is Keke Palmer, Business Wars, and American Scandal; Exhibit C, which will feature true crime shows like This is Actually Happening, Dr. Death, and Morbid; Wondery; and Wondery Sports, with shows including Don’t Call It a Comeback and Gladiator. The visuals will be a mix of on-camera recordings, animations, and show art — but I wouldn’t bank on that being the main draw.
+
+It’s an interesting strategy for discovery, though I am not sure how replicable it is beyond Amazon. If it is successful, I could see a situation where other AVODs license podcast programming (it’s certainly cheaper than video), but Amazon is in the unique situation where it owns the whole pipeline, so there is not much risk here.
+
+Joe Rogan Experience is the most-searched podcast, followed by Call Her Daddy and This American Life
+
+PodBam released a list of the 40 most-searched podcasts, and it is no surprise that Rogan is number one. The Joe Rogan Experience averaged 135,000 monthly searches on Google, followed by Call Her Daddy with 106,000 and This American Life with 81,000.

@@ -1,0 +1,51 @@
+What’s at stake in the Supreme Court’s landmark social media case The court will wade into First Amendment questions with major implications for platforms
+
+The Supreme Court is poised to decide whether a pair of state laws are allowed to reshape the ability of social media companies to control what does — and doesn’t — appear on their platforms.
+
+Last week, the Supreme Court decided that it would hear the pair of cases, which revolve around Republicans crafting state-specific laws that order platforms to keep their hands off of some social media posts. Since the early days of the Trump administration, Republicans have accused social media companies of deliberately suppressing conservative viewpoints.
+
+While research has not supported these claims, researchers have demonstrated that conservative social media users are disproportionately exposed to political misinformation, a phenomenon that could explain anecdotal claims of ideologically lopsided enforcement on social platforms.
+
+Whether animated by those perceived differences or the political perks of accusing social platforms of anti-conservative bias, conservative lawmakers in Florida and Texas passed laws to restrict how those companies are allowed to moderate content.
+
+To explain the Supreme Court’s decision to wade into these issues — and what happens next — TechCrunch spoke to Paul Barrett, NYU adjunct law professor and Deputy Director of NYU Stern’s Center for Business and Human Rights.
+
+Why is the Supreme Court involved?
+
+These cases actually started in Florida and Texas a few years ago before wending their way to the Supreme Court this year. In those two states, Republican lawmakers passed parallel laws to control how social media companies operate. In Florida, Governor Ron DeSantis signed Senate Bill 7072 into law in May 2021. In Texas, House Bill 20 made it through the state legislature and was signed by Governor Greg Abbott in September 2021.
+
+“The reason why these cases are in front of the Supreme Court is actually relatively simple: Florida and Texas were more or less the first out of the gate in imposing this type of restriction on social media companies,” Barrett explained. “So when the industry sued the states under the First Amendment, these were the first cases that were litigated, so they went up through the court system.”
+
+Both laws made their way through the lower courts after tech industry group NetChoice and the Computer and Communications Industry Association (CCIA) issued legal challenges against them. That path was complicated and contradictory, which is part of how the case landed in the Supreme Court’s lap:
+
+In both cases, you had federal trial judges who entered injunctions blocking the laws on constitutional grounds. And then you had two different federal appellate courts — in the case of Florida, the Eleventh Circuit, in the case of Texas, the Fifth Circuit. The two appellate courts clashed… and there was an explicit conflict between the two federal appellate courts. And that type of conflict is one of the bases that the US Supreme Court uses for deciding when to take cases.
+
+What does this have to do with the First Amendment?
+
+The case revolves around First Amendment rights — but, counterintuitively, it’s the rights of social media companies that are in question, not the rights of their users.
+
+“The question here is: Do social media companies have a First Amendment protected right to exercise what you might call editorial judgment?”
+
+“These cases are about the First Amendment and how the First Amendment applies to social media companies. And then more specifically, what the First Amendment has to say about content moderation, which is obviously a subset, although a really big and important subset of what social media companies do,” Barrett said.
+
+“The question here is: Do social media companies have a First Amendment protected right to exercise what you might call editorial judgment — or what you also might call content moderation — in sorting out what expression does and does not appear on the platforms that they own? So it’s just not clear right now what precisely the First Amendment says about that question.”
+
+Are the Texas and Florida laws identical?
+
+The two laws — HB 20 in Texas and SB 7072 in Florida — are very similar in their origins and intentions, but diverge slightly in how they seek to restrict social media platforms.
+
+In both instances, a provision of the state law instructed social media companies to stop removing certain kinds of content. In Texas, the law told social media companies that they could no longer remove or demonetize content based on the “viewpoint represented in the user’s expression.” In Florida, the law would stop social media companies from banning political candidates or removing or restricting their content. The laws have a few other provisions, but the idea is that conservative politicians in those states want to regulate how tech companies interact with political content.
+
+“They’re in the same ballpark, the sentiment is the same,” Barrett said. “Republican lawmakers in each state believe that — and said explicitly in the course of debating and passing these laws — that ‘Silicon Valley oligarchs’… are ideological liberals, and they are censoring people in our states who are conservative, and we are hereby ordering them to stop doing that.”
+
+How could the Supreme Court decision affect social media companies?
+
+If the court finds that social media companies don’t have a First Amendment right to curate the kinds of content that they allow, social platforms could look very different, at least in states that are trying to limit their moderation powers. After years of slow progress on misinformation — and worrisome backsliding on platforms like Elon Musk’s X — the Supreme Court’s decision could upend that process, sowing chaos online in the process.
+
+“Thanks to the First Amendment, Florida and Texas cannot force websites or social media apps to host hateful content, misinformation and spam, as their deeply misguided laws would require,” Oregon Senator Ron Wyden, who co-authored Section 230, a law that protects social media companies’ content moderation decisions, told TechCrunch. “… A ruling in favor of the Texas and Florida laws would create utter chaos, and make many sites worthless to regular users who want to watch a funny video or see family photos.”
+
+NetChoice President Steve DelBianco also warned that allowing the state laws to go into effect would unleash “a tidal wave of offensive content and hate speech crashing onto users, creators, and advertisers” that would force Americans to wade through “racial epithets, aggressive homophobia, pornographic material, beheadings, or other gruesome content” just to use social apps.
+
+Aside from forcing platforms to allow some forms of content that would otherwise be disallowed, these laws also seek to force social media companies to provide users with individualized explanations when their content is removed or restricted. Because this process is largely conducted algorithmically now — generally with light human intervention or oversight — social media companies might need to reimagine their content moderation systems or hire way more humans to respond to these incidents. Those kind of adjustments would likely be costly and difficult to scale.
+
+“As you can imagine, that can get kind of onerous when you’re taking down millions and millions of pieces of content a day, and much of that activity of the vast majority of it is currently being done automatically,” Barrett said. “The idea that a human being would have to go back and explain each time something came down would be quite a challenge.”

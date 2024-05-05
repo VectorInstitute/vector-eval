@@ -1,0 +1,113 @@
+Part of / We only get one planet
+
+Tires are the most important safety component on a car, yet there’s increasing research that they’re doing a good deal of harm, too. Slowly, surely, one mote of black dust at a time, tires are leaving their mark on the environment.
+
+According to researchers at Imperial College London, our cars and trucks emit 6 million tons of tire wear particles every year, transportation detritus that goes into the air, the land, and the water. That’s a massive figure that ignores the nearly 250 million tires that are disposed of annually in North America, roughly half of which are burned.
+
+It’s a depressing state of affairs, but there is room for optimism. Every major tire manufacturer globally is raising its game — not only in terms of performance in the face of bigger, heavier electric cars but also in terms of environmental impact. Renewable materials are finding their way into modern tires, and there’s even greener rubber on the horizon, too.
+
+Truly sustainable tires are becoming a reality, but will it be enough?
+
+Renewable rubber
+
+Bridgestone’s “Wireless-In-Wheel” technology.
+
+If you watched any IndyCar road course race this year, basically any of the half-dozen events where the drivers had to turn right as well as left, you might have noticed some green flashes on those cars’ tires. It wasn’t just a visual flair to an otherwise visually dull part of the equation.
+
+Those tires contained guayule, part of an agrarian prototype effort from Bridgestone, the supplier of spec tires for that series. It’s a high-profile demonstration of a new domestically sourced, renewable source of rubber that augments other natural sources like that from the hevea tree and even the Russian dandelion.
+
+Truly sustainable tires are becoming a reality, but will it be enough?
+
+Bridgestone’s Bill Niaura, executive director of sustainable innovation and circular economy, says guayule is a drop-in replacement with many potential advantages. Chief among them? Location: “Hevea trees are primarily grown in Southeast Asia,” he says, “while guayule is grown in the Southwestern US.”
+
+This is also a climate resiliency play. Guayule provides an alternate drought-resistant source for natural rubber at a time when global temperature patterns are behaving like the stock market: highly unpredictable but trending upward.
+
+Virtually every tire manufacturer is making at least token efforts to increase the usage of sustainable materials like guayule. Yokohama is using motorsports to develop its Advan A005 tire, which debuted at last year’s Pikes Peak International Hill Climb and contains 33 percent sustainable materials, including biomass-derived rubber. Michelin, meanwhile, shod Porsche’s prototype electric GT4 e-Performance racer with tires said to be 53 percent renewable, like strap steel and lemon peels.
+
+That all may sound like marketing plays — and it partly is — but motorsports have historically proven an ideal development opportunity in the automotive industry. Track tires are pushed to their limits, resulting in better products for the road. In time, at least.
+
+Many manufacturers have a self-imposed deadline for a shift to renewable sourcing for materials. Dunlop is promising 40 percent of its tires will be renewable by the end of this decade and 100 percent by 2050. Bridgestone’s goal is also 2050 but is introducing models now with an increased focus on sustainability, like the Turanza EV, made of 50 percent renewable and recycled materials.
+
+How all of this factors into each manufacturer’s specialty blends is complicated, but generally, it breaks down like this:
+
+“Natural rubber and synthetic rubber each represent about 25 percent of materials used in tire manufacturing. Fillers, primarily carbon black and silica, represent an additional 25 percent,” Bridgestone’s Niaura says. “The remaining percentage consists of steel, textiles, oils, resins, and other ingredients used to cure the tire or serve as anti-degradants.”
+
+By blending different components, manufacturers can adjust a tire’s grip (how sticky it is), tread life (how long it lasts), and rolling resistance (how efficient it will make your car). High-grip tires are traditionally short-lived and inefficient, but thanks to sticky science and renewable materials, that’s changing.
+
+Silica is a good example and an increasingly important component.
+
+Silica is a good example and an increasingly important component. It not only displaces less renewable materials but also makes tires more efficient. “Conventional tires rely on carbon black to strengthen the rubber matrix as the tire is cured,” Dale Harrigle, Bridgestone’s chief engineer for replacement tires, says. “In a tire that uses silica in the tread compound, a portion of the carbon black is removed and replaced with silica, which allows for increased wet performance and reduced rolling resistance.”
+
+Silica traditionally comes from sand, but that’s changing. Goodyear, for example, is now using silica sourced from a rice processing byproduct called husk ash.
+
+In other words: less harmful rubber, more grip, better wear, and better range or fuel economy.
+
+The molecular menace
+
+Firestone’s IndyCar tires.
+
+Drive long enough, and the well-defined tread patterns of even the most efficient tires will fade, slowly balding like a stressed-out environmental scientist’s pate. It’s easy to imagine that the lost rubber simply disappears, but the truth is more terrifying.
+
+Tires break down into tire and road wear particles, or TRWP. This black dust accumulates on roads mostly — but not permanently. When it rains, it is carried away.
+
+A recent Pew Charitable Trusts report found that 78 percent of ocean microplastics are synthetic tire rubber, which makes efforts to cut down on microfiber pollution from our laundry seem a bit quaint.
+
+“What you don’t want is all these little wear particles full of all these nasty compounds settling in the environment and inside us and gradually leaching out their toxins,” says Nick Molden, CEO of Emissions Analytics, an independent group focused on testing and data about the overall environmental impacts of transportation.
+
+“What you don’t want is all these little wear particles full of all these nasty compounds settling in the environment and inside us and gradually leaching out their toxins.”
+
+One such toxin is 6PPD-quinone. A 2020 study from the University of Washington’s Center for Urban Waters found that a dramatic decline in coho salmon populations was the result of the toxin. The salmon have now been placed on some West Coast endangered lists.
+
+“Shortly after birth, they were essentially going mad and dying,” Molden says. “The researchers finally linked it to this compound in tires because it was happening after rainfall. The rainfall was washing all the accumulated tire material off the road into the harbors and into the shore.”
+
+That isn’t bad just for the salmon and the Pacific Northwest’s fishing industry. 6PPD-quinone is in us, too, and it only comes from tires. 6PPD helps tires resist environmental damage, thus lasting longer between replacements. When 6PPD reacts with ozone, it becomes 6PPD-quinone.
+
+“The product 6PPD-quinone, which was identified in late 2020, requires more research to understand what impact, if any, it may have on aquatic life or the environment,” Goodyear SVP of global operations and CTO Chris Helsel says. That’s hardly a mea culpa, but the tire industry genuinely has been an active partner in studying the problem.
+
+Goodyear and other members of the US Tire Manufacturers Association actually encouraged 6PPD-targeting regulation enacted by the California Environmental Protection Agency and have provided free tire compound samples to researchers. “For the next five years, if you want to sell tires in California, you need to go through the process of either eliminating 6PPD, or at least properly researching the alternatives,” Molden says.
+
+“We are collaborating with researchers and other scientists to better understand this transformation product, fill knowledge gaps, and determine next steps,” says Helsel.
+
+Other initiatives are coming to limit overall tire emissions, including the upcoming Euro 7 regulations, which put caps on tire wear particles as well as other emissions.
+
+That seems like progress, but Emissions Analytics’ Molden isn’t so sure: “The reason I’m worried about that is I’m sure you can reduce that wear mass, but if you do that by making the compound more toxic, you could actually make the environmental impact worse.”
+
+“You could actually make the environmental impact worse.”
+
+That could be akin to increasing a car’s fuel efficiency by switching to leaded fuel.
+
+Molden believes that what’s needed is better understanding. To that end, he’s recently created the Tyre Emissions Research Consortium, a LinkedIn group with about 1,000 members. The intent is to break down the silos that individual researchers were working in.
+
+Research into 6PPD replacements is ongoing, and the US Tire Manufacturers Association is also touting research into various ways to mitigate and reduce tire debris pollution.
+
+Given all that research is happening at an industry level, it’s easy to feel a little helpless about the role we’re all playing in contributing this pollution to the environment when we’re just trying to get to work. Still, there are things that we can do to help minimize the environmental impact in the interim.
+
+Molden suggests a few things: drive more slowly, drive more smoothly, and choose the right tires. According to Molden, the tires that your car was outfitted with when new will provide the best wear characteristics. “It’s a bit like going to a flight in restaurants, and each course has a wine match to the food,” he says. Perfectly paired tires may cost more than whatever you can get at a local discounter, but they’ll provide better wear and, ultimately, less pollution.
+
+End of the road
+
+Michelin’s Uptis.
+
+Even the best tires will need to be replaced, either thanks to wear or the kind of roadside debris that can not only ruin a tire but also your entire day. The good news is that modern tires last a lot longer than they did before. “In the early 1970s, the typical wear life for a set of tires was approximately 20,000 miles in average driving conditions,” Harrigle says. “Fast forward to today, and 80,000-mile wear warranties are relatively common.”
+
+The bad news is that we’re still going through more tires than ever.
+
+The bad news is that we’re still going through more tires than ever. Harrigle says we scrap 250 million tires every year in North America. Again, about half are burned for fuel.
+
+But there are other solutions. Recycling is one, but reuse is better, a process called retreading. Retreading itself is nothing new, but while it’s generally fallen out of favor for consumer tires, on the industrial side of things, it can be a huge cost-saver — and environment-saver, too.
+
+Jason Roanhouse, VP of North American Bandag operations at Bridgestone Mobility Solutions, says that the company’s retread business has saved 300 million tires from being thrown out, worth roughly 4 billion gallons of oil.
+
+Future tires
+
+While efforts to find sustainable replacements for tire manufacturing compounds continue, as does research into what today’s compounds do to our health, many manufacturers are trying to change the equation altogether.
+
+A near-future example is the Michelin Uptis, a non-pneumatic tire. It relies on modern composites instead of air pressure to provide the right mix of stiffness and flex with significantly more durability. Michelin says it could reduce tire replacements by 20 percent. Variations of this theme have been in development for decades, but models are in testing now for consumer and industrial use.
+
+Goodyear gave us a more radical vision of a more distant future tire with 2020’s ReCharge concept, which proposed that a biodegradable tread could be recharged simply by inserting refillable capsules with seasonal compounds. As a concept, it’s pretty far out there. Goodyear’s Helsel confesses as much, calling them “purely conceptual designs” that “might never be produced as such.” However, he says that the non-pneumatic nature of those concepts, and the advanced sensors embedded within, are indicative of ongoing research into future tires.
+
+Another concept, though, is less about increasing the sustainability of tires and more about increasing the viability of EVs. At this year’s Japan Mobility Show, Bridgestone showed off what it calls a “Wireless In-Wheel Tire.” The concept is simple: turn every tire into an inductive charging pad for your EV. Previous wireless, in-motion charging concepts for EVs struggled to maintain strong rates because the car kept bouncing up and down as it moved.
+
+Wireless charging works best when there’s minimal distance between the charger and the device being charged. So, in this case, the tires themselves contain the receiving coils since, again, they’re the only part of the car that actually touches the ground.
+
+Solutions like this seem fanciful, but they at least show that there’s still a lot of room to rethink what a tire can and should be.

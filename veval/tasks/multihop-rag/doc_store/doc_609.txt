@@ -1,0 +1,37 @@
+Meta is to offer an ad-free subscription version of Facebook and Instagram in the European Union, EEA (European Economic Area) and Switzerland, confirming the core of a report in the WSJ earlier this month. The new ad-free subscription will be available from next month, per a Meta blog post.
+
+The move follows years of privacy litigation, enforcements and court rulings in the EU — which have culminated in a situation where Meta can no longer claim a contractual right (nor legitimate interest) to track and profile users for ad targeting. (Although, at the time of writing, it is still doing the latter — meaning it is technically operating without a proper legal basis. But this summer Meta announced an intention to switch to consent.)
+
+Under regional data protection law the only available basis left for Meta’s tracking and profiling ad business is to obtain freely given consent from users. However the adtech giant’s interpretation of free consent with this ‘pay us or be tracked’ subscription proposal will, justifiably, leave privacy advocates fuming — since the choice it’s offering here boils down to ‘pay us money; or pay us with your privacy’.
+
+Per Meta’s blog post, the fee it plans to charge users to escape its tracking and targeting (i.e. the ad-free subscription) is €9.99/month on web or €12.99/month on iOS or Android per linked Facebook and Instagram accounts in a user’s Accounts Center. After March 1, 2024 it also says an additional fee — of €6/month on web and €8/month on iOS or Android — will apply for each additional account listed in a user’s Account Center.
+
+So the cost for using Meta’s services without being tracked and profiled could quickly stack up for anyone with more than one account on Meta’s social networks.
+
+Even for a user with just one account (on either Facebook or Instagram) the cost for protecting their privacy from Meta’s tracking and profiling would be almost €120 per year (for web use) or just over €155 (on mobile).
+
+As we reported earlier this month, Meta is relying on a line in a ruling handed down by the bloc’s top court, the CJEU, earlier this year — where the judges allowed the possibility — caveated with “if necessary” — of an (another caveat) “appropriate fee” being charged for an equivalent alternative service (i.e. that lacks tracking and profiling). So the legal fight against Meta’s continued tracking and profiling of users will hinge on what’s necessary and appropriate in this context.
+
+noyb, the European privacy rights group which has driven much of the strategic litigation against Meta’s tracking and profiling, has already — since 2021 — been challenging similar ‘pay or okay’ practices by news publishers by filing a series of complaints with data protection authorities.
+
+In a press release earlier this month after the WSJ reported Meta plans to charge users for their privacy, noyb’s founder and honorary chairman, Max Schrems, wrote: “The CJEU said that the alternative to ads must be ‘necessary’ and the fee must be ‘appropriate’. I don’t think €160 a year is what they had in mind. These six words are also an ‘obiter dictum’, a non-binding element that went beyond the core case before the CJEU. For Meta this is not the most stable case law and we will clearly fight against such an approach.”
+
+Contacted for a response to the development, Meta’s lead regulator in the EU for the General Data Protection Regulation (GDPR), Ireland’s Data Protection Commission (DPC) sent us a statement. “Meta notified the DPC on July 27 of its intention to implement an alternative, consent-based model in which users would be given a choice between ads-funded versions of its platforms, and subscription versions in which, in return for payment of monthly fee, it is said that users will not receive targeted advertising,” the Irish regulator wrote.
+
+“While February 2024 was initially identified by Meta as the earliest date by which its consent model would be operational, it agreed to bring forward that date to November 2023 at the direction of the DPC, the DPC having been concerned to ensure that changes would be implemented to the platforms as soon as practicable in light of earlier findings to the effect that Meta had failed to demonstrate its entitlement to rely on the legal bases on which it was then relying when processing users’ data for behavioural advertising purposes. These included findings made by the Court of Justice of the European Union when delivering judgment on July 4, 2023 in a case in which the Court examined the legal bases on which Meta’s processing of users’ data for behavioural advertising purposes is grounded.
+
+“Acting in consultation with its fellow European supervisory authorities, the DPC has been engaged in a detailed regulatory assessment of the consent-based model since it was first proposed by Meta in July. That exercise is being led by the DPC, reflecting its position as Lead Supervisory Authority for Facebook and Instagram in Europe. The exercise has not yet concluded, and no findings have been made to date. It is due to be completed shortly, at which point the DPC will notify Meta if it considers that the manner in which its new user offerings are to be implemented is compatible with Meta’s obligations under GDPR.”
+
+So Meta’s move to offer users a subscription or tracking hasn’t been signed off by data protection authorities as yet — and it’s clear that further regulatory interventions could follow. (And on that front, Norway’s DPA, which has a local ban order on Meta’s tracking ads, told us it’s concerned about the subscription plan, saying it has doubts as to whether it would constitute valid consent.)
+
+As well as needing to comply with the GDPR, which delineates the qualities necessary for consent to be legal (such as that it is specific, informed and freely given), Meta is now also subject to the pan-EU Digital Services Act (DSA) — which also sets conditions on larger platforms when it comes to tracking and profiling people for ads. So it won’t just be data protection authorities making a call on whether Meta’s subscription or tracking offer flies; the European Commission is responsible for oversight of very large online platforms’ DSA compliance.
+
+Meta has also been designated as a so-called gatekeeper, under the DSA’s sister regulation, the Digital Markets Act (DMA) — which also puts some limits on use of people’s data for ads. The Commission is the sole enforcer of the DMA.
+
+Meta is already in the Commission’s sights over its approach to the DSA — with the EU’s executive, in recent days, requesting more information from the tech giant vis-à-vis its approach to content threats flowing from the Israel-Hamas war and about election security issues. But it remains to be seen whether the EU will apply the same close scrutiny to Meta’s ad tracking offer.
+
+In its blog post Meta claims the choice to offer people to pay it for their privacy or else agree to being tracked “balances the requirements of European regulators while giving users choice and allowing Meta to continue serving all people in the EU, EEA and Switzerland”. But, well, it would say that.
+
+The subscription is also only being offered to people aged 18 and up — which raises questions over how it will comply with requirements in the DSA and DMA not to processing children’s data for ad targeting.
+
+“We’re continuing to explore how to provide teens with a useful and responsible ad experience given this evolving regulatory landscape,” it writes on that.

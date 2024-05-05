@@ -1,0 +1,53 @@
+The Tesla Cybertruck has been out for a little more than a week, and already people are ready to declare it a safety nightmare.
+
+“Guideless missile” and “death machine” are some of the loaded phrases being tossed around. Safety experts are “raising concerns” about the truck’s crumple zones (or lack thereof). TikTok and other social platforms are abound with videos highlighting the poor sight lines and lack of visibility for drivers and passengers.
+
+But if the Cybertruck is particularly deadly for pedestrians, cyclists, and other vulnerable road users, it’s because it’s a large truck in America in the year 2023. We have lots of data that shows that America’s favorite type of vehicle is also one of the most deadly. We have very little data about the Cybertruck in particular, because it’s only been out for a couple weeks and in extremely limited quantities.
+
+But if the Cybertruck is particularly deadly for pedestrians, cyclists, and other vulnerable road users, it’s because it’s a large truck in America in the year 2023
+
+We need more data — and testing — before we know more about the specific dangers posed by this sharply angled, stainless steel contraption. And right now, neither the National Highway Traffic Safety Administration (NHTSA) nor the Insurance Institute for Highway Safety (IIHS) — two independent bodies that test new vehicles — have any plans to conduct crash safety tests with the Cybertruck.
+
+All trucks are dangerous
+
+But based on the specs we know, we can certainly draw some conclusions about the Cybertruck. Like other trucks in its segment, the Cybertruck is heavy, high-riding, very quick, and likely to be extremely deadly to anyone unlucky enough to stumble into its path.
+
+Last month, IIHS released a study confirming much of what we already know: trucks and SUVs with tall, flat fronts and high hoods are more deadly for pedestrians than more compact vehicles.
+
+“Tall front ends increase risk,” Raul Arbelaez, VP of the IIHS Vehicle Research Center, says. “For medium height vehicles, blocky or blunt shaped front ends also increase risk. A higher point of impact increases risk for cyclists.”
+
+These characteristics are not unique to the Cybertruck. Trucks from Ford, GM, Toyota, Ram, and others are also extremely deadly to pedestrians. EV trucks, in particular, are more deadly due to their increased weight from the battery. And yet, for some reason, you don’t see as many media stories calling out, for example, the F-150 Lightning or Rivian R1T or Chevy Silverado EV.
+
+“Vehicle weight in our fleet has continued to go up over the past 20 years,” Arbelaez says. “Electrification is taking weight increases to another level that will lead to dangerous outcomes.”
+
+We need more data
+
+Despite these conclusions, Arbelaez and other safety experts are taking a wait-and-see approach to the Cybertruck. “We haven’t had an opportunity to measure the front-end of the Cybertruck, so we don’t know how it will compare to other pickups or SUVs,” he says.
+
+A spokesperson for Consumer Reports says the same thing: “We’re going to wait for more data,” citing the need for independent testing data from NHTSA and IIHS.
+
+Tesla conducted its own crash tests with the Cybertruck in-house, videos from which were shown during the delivery event last month. But NHTSA has yet to perform its own. In the US, car companies “self certify” that their vehicles comply with federal safety standards requiring everything from sideview mirrors to airbags to automatic emergency braking. There is no “pre-approval” before an automaker is allowed to sell its cars to the public.
+
+“We’re going to wait for more data.”
+
+This allows Tesla to sell cars with driver assist systems that safety experts say put drivers and pedestrians at risk. And it allows it to sell a truck made from stainless steel and no rounded edges. The Cybertruck “meets the performance criteria” for standards like lane departure warnings and dynamic brake support, according to the NHTSA website. But there is no five-star safety rating, and the Cybertruck wasn’t mentioned in the agency’s list of vehicles it will crash test for 2024.
+
+Crumple zones, or lack thereof
+
+So far, the aforementioned crash test videos featured by Tesla during its delivery event have been the focus of the most questions, with many focusing on the truck’s crumple zones, or lack thereof.
+
+The crumple zone is the area of a vehicle that is designed to crush or crumple upon impact. Often located in the front of a vehicle, the crumple zone will absorb some of the impact of a crash, protecting the driver and other occupants.
+
+By absorbing and dissipating energy, crumple zones help to prevent or reduce injuries to the occupants of the vehicle during a collision. A stiffer vehicle, perhaps one made from stainless steel, could complicate this process.
+
+There are other design choices that make the Cybertruck a troubling addition to our roads.
+
+There are other design choices that make the Cybertruck a troubling addition to our roads. While the hood is sloped, the corner blind spots appear to be dangerous. Tesla added cameras to compensate for these blind spots, but it’s unclear what a driver will actually be able to see. The steering is digital not mechanical (“steering by wire”), sideview mirrors can be removed, and there is no rearview mirror at all — the only way to see what’s on the side or behind is via the center console screen that’s also the instrument panel, GPS mapping, Bluetooth controls, and radio. The exterior is “bullet-proof” steel with hardened Gorilla glass windows.
+
+But again, all we have is a couple of videos. What we need is data, independently verified, before we can say definitively that this truck will cause mass death and destruction. Safety experts quoted by Reuters acknowledge there may be some shock-absorbent mechanism that makes up for the apparent lack of crumple zones. We just don’t know yet.
+
+Elon Musk is “highly confident” that the Cybertruck will be safer than other trucks on the road for occupants and pedestrians. Tesla has historically achieved high safety ratings thanks to its underlying architecture, which makes the car more rigid and better protects passengers. The location of the battery in the floor of the vehicle also gives the Model Y and other Tesla vehicles a lower center of gravity, which improves road stability and decreases the chances of a rollover. All four of Tesla’s vehicles, the Model S, X, 3, and Y, have earned five-star ratings from Euro NCAP.
+
+But the Cybertruck is a truck, and trucks are historically a nightmare for pedestrian safety. The same goes for every Ford, GMC, Hummer, and Ram truck on the road today. The underlying issues of weight, height, and dimensions are what have contributed to the current crisis in pedestrian safety, in which more people are dying on the road than any time in the last 40 years.
+
+The Cybertruck is unlikely to be sold in Europe, which has a much higher bar for pedestrian safety than the US. One of Tesla’s lead designers said as much in an interview with TopGear Netherlands, blaming the inflexible stainless steel exterior.

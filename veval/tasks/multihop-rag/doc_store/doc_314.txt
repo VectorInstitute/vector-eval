@@ -1,0 +1,61 @@
+The Biden Administration unveiled its ambitious next steps in addressing and regulating artificial intelligence development on Monday. Its expansive new executive order (EO) seeks to establish further protections for the public as well as improve best practices for federal agencies and their contractors.
+
+"The President several months ago directed his team to pull every lever," a senior administration official told reporters on a recent press call. "That's what this order does, bringing the power of the federal government to bear in a wide range of areas to manage AI's risk and harness its benefits ... It stands up for consumers and workers, promotes innovation and competition, advances American leadership around the world and like all executive orders, this one has the force of law."
+
+These actions will be introduced over the next year with smaller safety and security changes happening in around 90 days and with more involved reporting and data transparency schemes requiring nine to 12 months to fully deploy. The administration is also creating an “AI council,” chaired by White House Deputy Chief of Staff Bruce Reed, who will meet with federal agency heads to ensure that the actions are being executed on schedule.
+
+ASSOCIATED PRESS
+
+Public safety
+
+"In response to the President's leadership on the subject, 15 major American technology companies have begun their voluntary commitments to ensure that AI technology is safe, secure and trustworthy before releasing it to the public," the senior administration official said. "That is not enough."
+
+The EO directs the establishment of new standards for AI safety and security, including reporting requirements for developers whose foundation models might impact national or economic security. Those requirements will also apply in developing AI tools to autonomously implement security fixes on critical software infrastructure.
+
+By leveraging the Defense Production Act, this EO will "require that companies developing any foundation model that poses a serious risk to national security, national economic security, or national public health and safety must notify the federal government when training the model, and must share the results of all red-team safety tests," per a White House press release. That information must be shared prior to the model being made available to to the public, which could help reduce the rate at which companies unleash half-baked and potentially deadly machine learning products.
+
+In addition to the sharing of red team test results, the EO also requires disclosure of the system’s training runs (essentially, its iterative development history). “What that does is that creates a space prior to the release… to verify that the system is safe and secure,” officials said.
+
+Administration officials were quick to point out that this reporting requirement will not impact any AI models currently available on the market, nor will it impact independent or small- to medium-size AI companies moving forward, as the threshold for enforcement is quite high. It's geared specifically for the next generation of AI systems that the likes of Google, Meta and OpenAI are already working on with enforcement on models starting at 10^26 petaflops, a capacity currently beyond the limits of existing AI models. "This is not going to catch AI systems trained by graduate students, or even professors,” the administration official said.
+
+What's more, the EO will encourage the Departments of Energy and Homeland Security to address AI threats "to critical infrastructure, as well as chemical, biological, radiological, nuclear, and cybersecurity risks," per the release. "Agencies that fund life-science projects will establish these standards as a condition of federal funding, creating powerful incentives to ensure appropriate screening and manage risks potentially made worse by AI." In short, any developers found in violation of the EO can likely expect a prompt and unpleasant visit from the DoE, FDA, EPA or other applicable regulatory agency, regardless of their AI model’s age or processing speed.
+
+In an effort to proactively address the decrepit state of America's digital infrastructure, the order also seeks to establish a cybersecurity program, based loosely on the administration's existing AI Cyber Challenge, to develop AI tools that can autonomously root out and shore up security vulnerabilities in critical software infrastructure. It remains to be seen whether those systems will be able to address the concerns of misbehaving models that SEC head Gary Gensler recently raised.
+
+AI watermarking and cryptographic validation
+
+We're already seeing the normalization of deepfake trickery and AI-empowered disinformation on the campaign trail. So, the White House is taking steps to ensure that the public can trust the text, audio and video content that it publishes on its official channels. The public must be able to easily validate whether the content they see is AI-generated or not, argued White House officials on the press call.
+
+Adobe
+
+The Department of Commerce is in charge of the latter effort and is expected to work closely with existing industry advocacy groups like the C2PA and its sister organization, the CAI, to develop and implement a watermarking system for federal agencies. “We aim to support and facilitate and help standardize that work [by the C2PA],” administration officials said. “We see ourselves as plugging into that ecosystem.”
+
+Officials further explained that the government is supporting the underlying technical standards and practices that will lead to digital watermarking’ wider adoption — similar to the work it did around developing the HTTPS ecosystem and in getting both developers and the public on-board with it. This will help federal officials achieve their other goal of ensuring that the government's official messaging can be relied upon.
+
+Civil rights and consumer protections
+
+The first Blueprint for an AI Bill of Rights that the White House released last October directed agencies to “combat algorithmic discrimination while enforcing existing authorities to protect people's rights and safety,” the administration official said. “But there's more to do.”
+
+The new EO will require guidance be extended to “landlords, federal benefits programs and federal contractors” to prevent AI systems from exacerbating discrimination within their spheres of influence. It will also direct the Department of Justice to develop best practices for investigating and prosecuting civil rights violations related to AI, as well as, according to the announcement, “the use of AI in sentencing, parole and probation, pretrial release and detention, risk assessments, surveillance, crime forecasting and predictive policing, and forensic analysis."
+
+Additionally, the EO calls for prioritizing federal support to accelerate development of privacy-preserving techniques that would enable future large language models to be trained on large datasets without the current risk of leaking personal details that those datasets might contain. These solutions could include “cryptographic tools that preserve individuals’ privacy,” developed with assistance from the Research Coordination Network and National Science Foundation. The executive order also reiterates its calls for bipartisan legislation from Congress addressing the broader privacy issues that AI systems present for consumers.
+
+In terms of healthcare, the EO states that the Department of Health and Human Services will establish a safety program that tracks and remedies unsafe, AI-based medical practices. Educators will also see support from the federal government in using AI-based educational tools like personalized chatbot tutoring.
+
+Worker protections
+
+The Biden administration concedes that while the AI revolution is a decided boon for business, its capabilities make it a threat to worker security through job displacement and intrusive workplace surveillance. The EO seeks to address these issues with “the development of principles and employer best practices that mitigate the harms and maximize the benefit of AI for workers,” an administration official said. “We encourage federal agencies to adopt these guidelines in the administration of their programs.”
+
+Richard Shotwell/Invision/AP
+
+The EO will also direct the Department of Labor and the Council of Economic Advisors to both study how AI might impact the labor market and how the federal government might better support workers “facing labor disruption” moving forward. Administration officials also pointed to the potential benefits that AI might bring to the federal bureaucracy including cutting costs, and increasing cybersecurity efficacy. “There's a lot of opportunity here, but we have to to ensure the responsible government development and deployment of AI,” an administration official said.
+
+To that end, the administration is launching on Monday a new federal jobs portal, AI.gov, which will offer information and guidance on available fellowship programs for folks looking for work with the federal government. “We're trying to get more AI talent across the board,” an administration official said. “Programs like the US Digital Service, the Presidential Innovation Fellowship and USA jobs — doing as much as we can to get talent in the door.” The White House is also looking to expand existing immigration rules to streamline visa criteria, interviews and reviews for folks trying to move to and work in the US in these advanced industries.
+
+The White House reportedly did not brief the industry on this particular swath of radical policy changes, though administration officials did note that they had already been collaborating extensively with AI companies on many of these issues. The Senate held its second AI Insight Forum event last week on Capitol Hill, while Vice President Kamala Harris is scheduled to speak at the UK Summit on AI Safety, hosted by Prime Minister Rishi Sunak on Tuesday.
+
+Chip Somodevilla via Getty Images
+
+At an event hosted by The Washington Post on Thursday, Senate Majority Leader Chuck Schumer (D-NY) was already arguing that the executive order did not go far enough and could not be considered an effective replacement for congressional action, which to date, has been slow in coming.
+
+“There’s probably a limit to what you can do by executive order,” Schumer told WaPo, “They [the Biden Administration] are concerned, and they’re doing a lot regulatorily, but everyone admits the only real answer is legislative.”

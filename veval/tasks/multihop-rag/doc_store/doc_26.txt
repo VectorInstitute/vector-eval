@@ -1,0 +1,75 @@
+In a very swift test of the European Union’s newly updated content moderation rulebook, the bloc has fired a public warning at Elon Musk–owned X (formerly Twitter) for failing to tackle illegal content circulating on the platform in the wake of Saturday’s deadly attacks on Israel by Hamas terrorists based in the Gaza Strip.
+
+The European Commission has also raised concerns about the spread of disinformation on X related to the terrorist attacks and their aftermath.
+
+Unlike terrorism content, disinformation is not illegal in the EU per se. However, the EU’s Digital Services Act (DSA) puts an obligation on X — as a so-called very large online platform — to mitigate risks attached to harmful falsehoods as well as to act diligently on reports of illegal content.
+
+Following the terrorist attacks by Hamas against 🇮🇱, we have indications of X/Twitter being used to disseminate illegal content & disinformation in the EU. Urgent letter to @elonmusk on #DSA obligations ⤵️ pic.twitter.com/avMm1LHq54 — Thierry Breton (@ThierryBreton) October 10, 2023
+
+Graphic videos apparently showing terrorist attacks on civilians have been circulating on X since Saturday, along with other content, including some posts that purport to show footage from the attacks inside Israel or Israel’s subsequent retaliation on targets in the Gaza Strip but which fact-checkers have identified as false.
+
+The Hamas attacks on Israeli civilians and tourists, which took place after militants inside Gaza managed to get past border fences and mount a series of surprise attacks, have been followed by Israel’s prime minister declaring “we are at war” and its military retaliating by firing scores of missiles into the Gaza Strip.
+
+A number of videos posted to X since the attacks have been identified as entirely unrelated to the conflict — including footage that was filmed last month in Egypt and even a clip from a video game that had been posted to the platform with a (false) claim it showed Hamas missile attacks on Israel.
+
+A Wired report yesterday summed up the chaotic situation playing out on Musk’s platform in an article entitled “The Israel-Hamas War Is Drowning X in Disinformation.”
+
+At one point, Musk himself even recommended people follow accounts that had posted antisemitic comments and false information in the past — although he subsequently deleted the tweet where he had made the suggestion.
+
+This video certainly doesn't show a new air assault on Israel by Hamas militants, because it's actually from the video game Arma 3. pic.twitter.com/IcX7xs8QDp — Shayan Sardarizadeh (@Shayan86) October 9, 2023
+
+Last night, we saw a totally false claim about Israel bombing a church in Gaza go viral, thanks to multiple blue tick accounts repeating an unverified claim that had no evidence to back it up. Musk has created a fundamental issue with Twitter's credibility in moments of crisis. https://t.co/T70G2oNDZH — Eliot Higgins (@EliotHiggins) October 10, 2023
+
+The problem for Musk is the DSA regulates how social media platforms and other services that carry user-generated content must respond to reports of illegal content like terrorism.
+
+It also puts legal obligation on larger platforms — including X — to mitigate risks from disinformation. So the fast-moving and bloody events unfolding in Israel and Gaza are offering a real-world test of whether the EU’s rebooted rulebook is big and beefy enough to tackle X’s most notorious shitposter. Who, since last fall, is also the platform’s owner.
+
+Since taking over Twitter (as it was then), Musk has painted the largest target on X when it comes to DSA enforcement on account of a series of changes he’s pushed out that make it harder for users to locate quality information on X.
+
+This includes ending legacy account verification and turning the Blue Check system into a game of pay-to-play. He’s also ripped up a bunch of legacy content moderation policies and slashed in-house enforcement teams while promoting a decentralized, crowdsourced alternative (rebranded as Community Notes), which essentially outsources responsibility for dealing with tricky issues like disinformation to users in what looks suspiciously like another gambit to eke out extra engagement and farm confusion by applying a philosophy of extreme relativism so culture warriors are encouraged to keep forever fighting for their own “truth” in the comments.
+
+Oh and he also pulled X out of the EU’s Code of Practice on Disinformation earlier this year in a very clear thumb of the nose to EU regulators.
+
+Urgent letter to Musk
+
+In an “urgent” letter to Musk today, which the EU’s internal market commissioner Thierry Breton also shared on X, the bloc has sent the strongest signal yet it believes Musk’s platform is in breach of the DSA — although this is by no means Musk’s first warning.
+
+A rule of law clash between Musk and the EU has looked increasingly inevitable in recent months — and, indeed, has been predicted by some industry watchers since rumors of the erratic billionaire’s plan to take over Twitter emerged last year.
+
+Reminder: Penalties for confirmed breaches of the DSA can be as high as 6% of global annual turnover. The bloc also has powers, in extremis, which could result in access to X being shut off in the region if the platform repeatedly fails to correct course. So if Musk fails to satisfy EU regulators, he could face serious consequences for what remains a highly indebted business.
+
+In his letter to Musk, Breton writes that the EU has “indications” that X is being used to disseminate illegal content and disinformation in the EU” following Saturday’s attacks. He then goes on to remind the company of the DSA’s “very precise obligations” vis-à-vis content moderation.
+
+“When you receive notices of illegal content in the EU, you must be timely, diligent and objective in taking action and removing the relevant content when warranted,” he warns. “We have, from qualified sources, reports about potentially illegal content circulating on your service despite flags from relevant authorities.”
+
+He also takes issue with a change X made last night to its public interest policy, under which it judges newsworthiness (i.e., for deciding whether posts that infringe its rules may nonetheless remain on the site) — but which Breton says have left “many European users uncertain” (i.e., about how X is applying its own rules).
+
+Again, this is a problem because the DSA requires platforms to be clear and transparent about their rules and how they apply them. “This is particularly relevant when it comes to violent and terrorist content that appears to circulate on your platform,” Breton continues in another pointed warning.
+
+X should have “proportionate and effective mitigation measures” in place to tackle “the risks to public security and civic discourse stemming from disinformation,” he also says.
+
+Instead, the platform appears to be turning into an engine of disinformation — one that’s demonstrably enabled the very swift amplification of a smorgasbord of toxic fakes around the Israel-Hamas war. Falsehoods that may be trying to manipulate opinion around the conflict, or otherwise exploit horrific events to drive engagement (clickbait) or for even more bleak, cynical and potentially harmful ends.
+
+“Public media and civil society organisations widely report instances of fake and manipulated images and facts circulating on your platform in the EU, such as repurposed old images of unrelated armed conflicts or military footage that actually originated from video games. This appears to be manifestly false or misleading information,” writes Breton. “I therefore invite you to urgently ensure that your systems are effective, and report on the crisis measures taken to my team.”
+
+Asking Musk to be “effective” against disinformation is a bit like asking the sea to stop moving. But, well, this is how the regulatory dance must go (and after the dance comes the denouement — which, if a DSA breach is confirmed, means enforcement. And actual penalties might be a bit harder for Musk to troll).
+
+In the meantime, the EU has asked Musk to make contact with relevant law enforcement authorities and Europol — and “ensure that you respond promptly to their requests.” Breton also flags some unspecified additional DSA compliance issues he says his team will be contacting Musk’s about “shortly” — “with a specific request.”. (We’ve asked the EU what else it’s concerned about on X and will update this report with any response.)
+
+The bloc has given Musk a deadline of 24 hours to respond to its asks at this point — stipulating his answer will be added to its assessment file on X’s compliance with the DSA. “I remind you that following the opening of a potential investigation and a finding of non-compliance, penalties can be imposed,” Breton adds, concluding the letter.
+
+We’ve asked the Commission to confirm whether it has opened an investigation into X’s DSA compliance over concerns it’s raised in the letter. Perhaps it’s going to wait a day to see what his response is before taking that next dance step.
+
+Musk’s extremely iterative — or just plain erratic/arbitrary — management style is so far from the responsive and responsible qualities the EU’s rulebook demands of digital leaders it’s hard to see how this clash can end well for either side.
+
+We contacted X for a response to the EU’s warnings about its DSA compliance but at press time the company had not responded — beyond firing back its usual automated reply, which reads: “Busy now, please check back later.”
+
+But at the time of writing, Musk had engaged in a bit of a dance of his own with the news of the EU’s warning by responding to a critical tweet posted to X by journalist Glenn Greenwald, who attacked the EU’s new “censorship law,” as he dubbed the DSA — which he claimed would be used to “punish X.”
+
+In reply to Greenwald, Musk avoided expressing the same trenchant criticism of the EU’s approach but invited yet more relativism — writing: “Let the public hear exactly what this disinformation consists of and decide for themselves.”
+
+He then went on to sew doubt that disinformation is something that can be independently arbitrated at all, implying fact-checking is just a convenient exercise for targeting different opinions — so essentially echoing Greenwald’s position — by claiming that “many times” the “official fact-checker” has been found making false statements, before adding a rhetorically empty offer that “Maybe this is the case here, maybe not” for good, plausible deniability measure.
+
+In another recent tweet-response Musk can also be seen chipping into another conversation in which an X user has commented on a screengrab of an apparent exchange of threats between Iran’s supreme leader, Ayatollah Khamenei, and an official Israeli government account in relation to the war — with Musk writing: “Amazing to see this exchange!”
+
+The irony here is Musk’s destruction of Twitter’s legacy verification of notable accounts means you can’t, at a glance, be sure if the exchange really happened.

@@ -1,0 +1,95 @@
+The European Union’s home affairs commissioner, Ylva Johansson, has confirmed the Commission is investigating whether or not it broke recently updated digital governance rules when her department ran a microtargeted political ad campaign aiming to drive support for a controversial child sexual abuse material (CSAM)-scanning proposal she’s spearheading.
+
+But at a committee hearing in the European Parliament today she deflected MEPs’ enquiries for her to give more details about the ad campaign.
+
+The governance regulation concerned is the Digital Services Act (DSA), which includes provisions relating to online advertising — including a prohibition on the use of sensitive personal data, such as political opinions, for targeting ads. While the ads in question ran on X (formerly Twitter) — which is already expected to be compliant with the DSA, having been designated by the Commission as a so-called Very Large Online Platform (VLOP) back in April.
+
+The Commission itself, meanwhile, not only proposed this pan-EU law but is responsible for oversight of VLOPs’ DSA compliance. So — tl;dr — if EU officials have used X’s ad-targeting tools to break the bloc’s own digital rulebook it’s the very definition of an awkward situation.
+
+The existence of the Commission’s microtargeted ad campaign seeking to drum up support for its proposed CSAM-scanning law was spotted last month by technologist, Danny Mekić. An article with his findings ran in Dutch newspaper, De Volkskrant, earlier this month.
+
+Using public ad transparency tools the DSA requires VLOPs to provide, Mekić found the Commission had run a paid advertising campaign on X, targeting users in the Netherlands, Sweden, Belgium, Finland, Slovenia, Portugal and the Czech Republic — countries that were not supportive of Johansson’s CSAM-scanning proposal according to leaked minutes from a September 14 meeting of the European Council, a co-legislative body that’s involved (along with MEPs) in determining the final shape of the CSAM law.
+
+Per Mekić, the Commission’s ad campaign, which apparently racked up millions of views on X, insinuated that opponents of the proposed legislation did not want to protect children — messaging he dubbed “a form of emotional blackmail”.
+
+The ads included what he suggested is a misleading claim that the majority of Europeans support the proposal — but which is based on a survey that highlighted “only the benefits but not the drawbacks of the proposed legislation”. Other surveys, by research firms YouGov and Novus, that highlighted the drawbacks showed “virtually no support” for the plan among the European population, his post also pointed out.
+
+Going into more detail of the microtargeting used by the Commission, Mekić wrote: “X’s Transparency Report shows that the European Commission also used ‘microtargeting’ to ensure that the ads did not appear to people who care about privacy (people interested in Julian Assange) and eurosceptics (people interested in ‘nexit’, ‘brexit’ and ‘spanexit’ or in Victor Orbán, Nigel Farage, or the German political party AfD). For unclear reasons, people interested in Christianity were also excluded.
+
+“After excluding critical political and religious groups, X’s algorithm was set to find people in the remaining population who were indeed interested in the ad message, resulting in an uncritical echo chamber. This microtargeting on political and religious beliefs violates X’s advertising policy, the Digital Services Act – which the Commission itself has to oversee — and the General Data Protection Regulation [GDPR].”
+
+During an exchange of views with the European Parliament’s civil rights, justice and home affairs (LIBE) committee this afternoon, Johansson admitted the EU’s executive is investigating the matter.
+
+Initially she had sought to dismiss criticism over the legality of the microtargeting — claiming in a tweet earlier this month (embedded below) that the campaign was “100%” legal.
+
+Asked by the LIBE committee about the discrepancy between her tweet and the existence of an investigation Johansson said she had been given “new information” related to DSA compliance that merited looking into.
+
+As my services have been directly accused of illegal acts👇 I think it is import I step in:
+
+1. @EUHomeAffairs have followed the guidelines & the law 100%
+
+2. The promotion of our proposal is standard normal practice
+
+3. This proposal is about protecting children from sexual abuse https://t.co/zSSAu3684P — Ylva Johansson (@YlvaJohansson) October 13, 2023
+
+“When I made a tweet on the 100% legal [point] that was based on the information I had. But I have to be very open; then I got other information that there could be question marks on the compliance with the DSA — and I take this very seriously,” she told the committee. “If that is the case then of course there has to be consequences on that. So that’s why it’s important that we have to look into [it]. Of course we always have to comply with the regulation. There’s no question about that.”
+
+The LIBE committee repeatedly pressed Johansson to provide detailed about the microtargeted ad campaign — but she declined to do so, saying she did not have any information about it and that it was for her “service”, who she suggested had been responsible for the campaign, to answer. So there was no explanation about why, for instance, Christians had been explicitly excluded from the Commission’s microtargeting.
+
+She also avoided giving a direct response to accusations by MEPs that the use of political microtargeting by the Commission was anti-democratic — opting instead to mount a general defence of its right to promote its proposals. She also listed a number of other departments within the Commission she said had previously used ads to promote separate legislative proposals.
+
+“I think that the commission should defend and explain and promote our proposals. We do that and we have done that. And I think it’s a good practice to do so. Because we are we are taking stance and we should defend our stance,” she told the committee.
+
+A number of MEPs pushed back — including by pointing out that there are more appropriate channels for the Commission to engage directly and transparency with co-legislators than opaque behavioral ad targeting on platforms like Twitter/X.
+
+“One principle of democracy is that we have procedures because the end doesn’t justify the means,” opined MEP Sophie in ‘t Veld. “And European Commission has the right to be very attached to its legislative proposals but there are privileged channels for the European Commission to communicate with the two legislators and others — not an ad campaign on Twitter.”
+
+Despite a lot of pushback, the committee was unable to extract any other lines from commissioner on the ad campaign. But at the end of the session she did agree to respond to it in writing with some missing answers “as soon as possible” (albeit, avoiding agreeing to do so by the end of the week, as one MEP had asked).
+
+Commercial influence
+
+While many of the questions directed at her over the 1.5-hour long hearing focused on the controversy that’s sprung up around the ad campaign, parliamentarians also pressed the commissioner on a number of other issues — including concerns about the extent of commercial lobbying around the CSAM-scanning proposal.
+
+This has been a topic of intense interest, especially following a report by investigative journalists published last month by BalkanInsight which looked at close contacts between Johansson’s department and companies with CSAM-scanning and other child safety tools to sell.
+
+One of the journalists involved in that investigation, Apostolis Fotiadis, had also been invited by the committee to participate in the exchange of views — and he took the opportunity to defend their reporting from direct public attacks by Johansson.
+
+In a blog post ahead of today’s hearing — which deploys a crisis-PR-esque headline claim of “setting the record straight” — she criticized the article as “a series of insinuations looking for a home”; claiming it paired an outline of “a selection of meetings I had, of events I attended, or conferences I addressed” with “a conspiratorial tone” in an attempt “to create the impression of financial influence where there is none”.
+
+Fotiadis was asked by the LIBE committee about the accusation that the journalists had, essentially, been spreading disinformation — and specifically whether he believed Johansson and the Commission’s response to it amounted to a restriction on media freedom. He responded by saying he did not think that was the case. But went on to express surprise at how the Commission had reacted to the scrutiny — to its instinct to deploy “spin-doctor” tactics to try to discredit the article, rather than engaging with the substance of the concerns being raised.
+
+The Commission risks straying close to making attacks on journalists by using such tactics, Fotiadis warned — adding: “You cannot just dismiss everything by calling fake news” — before also noting that Johansson’s office had declined multiple interview requests ahead of publication of the article.
+
+Responding to a question from the committee about the reporting he said documents obtained by the journalists included email threads between Commission officials in Johansson’s department, DG-Home, and a “key stakeholder” advocating for the use of technology for CSAM-scanning — which indicated what he described as “privileged access” that “speaks directly to cooperation” and goes “way beyond” mere consultation or exchange of views on the proposal.
+
+“It’s an official chain discussing invitation, how the stakeholder would be able to allocate experts that would speak in workshops — first attended by representatives of the Member States, and then afterwards actually by ministers in the Council in a meeting chaired by commissioner Johansson. So when we say facilitate, it’s obvious that the EU officials discuss what kind of experts will be available from this particular stakeholder to attend these meetings and to present the point of view, which seems to be a privileged access,” he explained.
+
+“Also in the same email thread there’s mention of EU officials being allocated to specifically attend the cooperation between the stakeholder and DG-Home on the proposal, which to our understanding is something that goes way beyond the level of consultations or exchange of views or exchange of opinions on the proposal and speaks directly to cooperation.”
+
+The committee took the opportunity to press Johansson about her contacts with companies and other lobbyists during the drafting of the CSAM-proposal, with MEPs saying they want clear answers to the allegations of commercial interest and heavy lobbying when the Commission was setting up and drafting the proposal.
+
+In the event MEPs got some bare bones detail.
+
+Asked for a list of these contacts, the commissioner responded that she’d met with Google six times; Microsoft, Meta and TikTok three times each; twice with Twitter (X); and once apiece with Apple and Amazon. She also said she’d met with the child safety organizations Thorn (twice) and Brave Movement (twice); and with Tech Alliance and ICANN once apiece.
+
+In wider responses related to concerns about how much commercial interest had influenced the Commission, Johansson highlighted her decision for the CSAM-scanning proposal to be “technology neutral” — meaning the draft regulation does not support any specific tech solution — with the suggestion being EU lawmakers had resisted lobbying by companies for a law that would explicitly favor their existing tech tools.
+
+She also denied that only Thorn and Microsoft have technology “that is necessary for the scanning” — claiming that’s “absolutely not true”.
+
+“There are no specific technologies mentioned [in the proposal] and I think this is an important part. So there’s no specific technology that’s been favoured in this proposal,” she also told the committee, adding: “So many technologies are being developed all the time — while we are speaking — and they will continue to develop. So I think it’s important that the legislation has to be technology neutral.”
+
+Earlier this week a seminar organized by the European Data Protection Supervisor (EDPS), an advisory body to the Commission on data protection law, heard from more than 20 speakers across civil society, academia and industry expressing deep misgivings about the Commission’s approach — including a warning from the EDPS himself that the EU could be at a tipping point for freedom and democracy if it does not turn back from the plan to do non-targeted scanning of private messages.
+
+Johansson had been invited to participate in the seminar but declined to attend. She didn’t offer a direct response to the EDPS’ concerns today but she did counter a number of arguments heard at the session earlier in the week — including refuting the suggestion that her proposal amounts to mass surveillance.
+
+“My proposal would not mean that all communication will be scanned. Compared to the situation today it will be much more limited,” she claimed, referencing the temporary ePrivacy derogation that currently gives messaging firms a legal basis to scan non-encrypted content for CSAM (but is intended to be replaced by the proposed regulation which, critics contend, will force platforms to scan end-to-end encrypted content too). “Today companies are allowed to scan if they search for child sexual abuse material. That’s why we receive these 5.2 million videos and pictures and grooming attempts — 70% from private communication. If my proposal is adopted, this will be limited.”
+
+She also emphasized how the proposal first requires in-scope platforms to deploy prevention measures to try to stop the spread of CSAM and/or prevent abuse of their tools by people intent on abusing children. “First comes prevention. Only if prevention is not enough, then you might be allowed to do detection — but only after a court decision,” she said.
+
+“So only those that really cannot deal with the problem with mitigating measures… and only after a court decision and only during a specific period they will be allowed to do the detection,” she went on. “We will also limit the reporting so that we will also receive fewer but hopefully better reports.”
+
+Johansson’s arguments to MEPs that her proposal does not overreach also lent on the existence of other EU laws — such as the bloc’s data protection framework — which she suggested will act as balancing checks on the scope of possible CSAM-scanning. “It’s also important that we continue to comply with all relevant legislation. For example the GDPR and other requirements, there are no derogation from that in my proposal,” she said.
+
+“It’s also important — and I know that’s been part of the debate — that it should not be a slippery slope,” she added. “The proposal specifically prohibits using the detection technologies for any other purpose than the detection of child sexual abuse online — and only with verified indicators of child sexual abuse provided by the EU Centre.”
+
+Given her reliance on pointing to the existence of a wider EU legal framework doing the heavy lifting and protecting Europeans’ fundamental rights as a strategy to assuage critics, and given she’s also invoking respect for the rule of law as a buttress against the risk of content-scanning mission creep, it’s doubly relevant that the Commission now finds itself in a bind — forced to investigate whether its own officials ignored legal requirements in a bid to covertly sweep past critics.

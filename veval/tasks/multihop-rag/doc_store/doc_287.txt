@@ -1,0 +1,47 @@
+New research aims to improve the stability and safety of alternatives to rechargeable lithium-ion batteries using aqueous zinc and hydrogels.
+
+The demand for rechargeable batteries as a result of the growth of both the personal electronics and electric vehicle markets has grown steadily over the last decade. Lithium-ion batteries are one of the technologies that have emerged and matured due to this demand.
+
+In 2020, Statista estimated that lithium-ion batteries accounted for 185 gigawatts (GWh) of energy consumed, and this energy demand is projected to reach 2,035 GWh by 2030. Most of this growth is accounted for by the increased desire for electric vehicles as people turn away from fossil fuels.
+
+While it is undeniable that lithium-ion batteries are more environmentally friendly than fossil fuels and while they are also relatively inexpensive, these batteries aren’t perfect. One of the major drawbacks of these lithium-ion batteries is the inherent risk of burning or even explosion as the result of thermal runaway, with overheated lithium-ion batteries deemed responsible for a number of fires in the past.
+
+A possibility with zinc
+
+One potential substitute for lithium-ion batteries are rechargeable zinc iodine batteries , which have the advantage of being safer, costing less, and being more friendly to the environment than lithium alternatives.
+
+However, zinc iodine batteries are not perfect. Composed of an negative iodine electrode and a positive zinc electrode , these batteries suffer from issues like lower energy output compared to commercial non-aqueous lithium batteries and the growth of zinc dendrites on the anodes — projections of material that build on electrodes and short batteries when they cross from one electrode to another — as well as the corrosion of the zinc anode that result in reduced efficiency and even short-circuiting.
+
+In a new paper published in the journal Advanced Materials, Nanyang Technological University (NTU), School of Physical and Mathematical Sciences professor Hongjin Fan and his co-authors examine different electrolytes for aqueous zinc ion batteries that take the form of hydrogels — three-dimensional network structures that are capable of storing large amounts of water — to address some of these challenges.
+
+“The core concept of our research is that we design the hydrogel electrolytes by introducing functional groups [specific groupings of atoms within molecules that have their own characteristic properties] that carry either positive or negative charges,” Fan said. “Our idea is to use a hetero-hydrogel to mitigate challenges on both the anode and the cathode sides of the zinc iodine batteries.”
+
+A hydrogel boost
+
+Fan explained that the purpose of this hydrogel modification is to ensure that when zinc accumulates on the anode side, it does so evenly. This has the effect of mitigating the diffusion back and forth of polysulfide between anode and cathode, the so-called “shuttle effect”, which can cause poor cycling stability and severe anode corrosion in batteries. The use of a hydrogel electrolyte also has the effect of accelerating the iodine conversion reaction on the cathode side.
+
+Fan explained that the anode and cathode of the hydrogel have different functional groups that make it both zincophilic (with an affinity for zinc ) and iodophilic ( with an affinity for iodine), respectively.
+
+On the anode side of the battery, this has the effect of repelling dissolved polyiodides — negatively charged ions composed entirely of iodine atoms — allowing the zinc to be deposited uniformly, protecting the anode from iodine-caused corrosion.
+
+The polyiodides are immobilized at the cathode side of the battery, and reactions in which iodine is both stripped of electrons (oxidization) and also granted electrons (reduction) — so-called “redox reactions” — are sped up thanks to the synchronized rapid transport of ions and electrons.
+
+The solid nature of the hydrogel electrolyte can also limit the growth of dendrites thanks to its mechanical strength, which acts as a physical barrier not present in liquid electrolytes.
+
+Tentative first steps
+
+Testing their aqueous hydrogel-modified zinc iodine batteries battery, the team found that the decay rate was ultralow, with the energy storage capacity of the battery retained to an outstanding level over the course of 18,000 discharge and recharge cycles. This outstrips the stability of currently available zinc iodine batteries, and their test battery also delivered some surprising results.
+
+“The adhesion between the polyanionic and polycationic hydrogel components is remarkably robust, effectively mitigating the swelling of the hydrogel even in the absence of a cellulose paper scaffold,” Fan explained. “The unexpectedly strong iodine adsorption capability of the positively charged hydrogel has led to a striking and rapid color transformation, exceeding our initial expectations.
+
+Despite promising results, Fan acknowledged there is much to do before the battery can be brought to the mass market.
+
+“We have to note that in terms of mass or volume energy density, so far, the ZIB is still far from the commercial lithium-ion batteries,” Fan conceded. “The hydrogel electrolytes need to be further improved in terms of ion conductivity and stability. In addition, hydrogel electrolytes should be compatible with other battery components, including electrodes and separators.”
+
+The researcher also pointed out that large-scale and cost-effective production methods for hydrogel electrolytes are a prerequisite before the aqueous zinc iodine batteries is ready for widescale commercial use. This will include optimizing the production process of hydrogels as well as sourcing affordable raw materials and minimizing waste generated during the manufacturing of these materials.
+
+“Ensuring the safety and reliability of hydrogel-based batteries is also necessary,” Fan concluded. “Rigorous testing and evaluation of the potential environmental impact of hydrogel electrolytes, from raw material extraction to disposal, are vital to meeting sustainability goals and gaining public trust.”
+
+Reference: Peihua Yang, Hong Jin Fan, et al., Hetero-Polyionic Hydrogels Enable Dendrites-Free Aqueous Zn-I2 Batteries with Fast Kinetics, Advanced Materials, (2023). DOI: 10.1002/adma.202306531
+
+Feature image credit: danilo.alvesd on Unsplash

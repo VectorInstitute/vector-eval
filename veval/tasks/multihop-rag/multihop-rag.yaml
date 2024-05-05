@@ -1,0 +1,31 @@
+task_name: multihoprag
+dataset_path: yixuantt/MultiHopRAG
+dataset_name: MultiHopRAG
+dataset_kwargs:
+  trust_remote_code: True
+validation_split: train
+docs_path: veval/tasks/multihop-rag/doc_store
+data_instance_map:
+  query: query
+  gt_answer: answer
+  gt_context: evidence_list
+metric_list:
+  - metric: relevance_query_answer
+    args:
+      - query
+      - context
+      - answer
+  - metric: groundedness_context_answer
+    args:
+      - query
+      - context
+      - answer
+  - metric: relevance_query_context
+    args:
+      - query
+      - context
+  - metric: correctness_answer
+    args:
+      - query
+      - answer
+      - gt_answer

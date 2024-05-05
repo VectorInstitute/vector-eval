@@ -1,0 +1,87 @@
+The coolest Apple Watch Series 9 and Ultra 2 feature wasn’t actually available when the watches launched last month. Double tap, which finally arrives today via the watchOS 10.1 update, lets you interact with the watch without ever needing to use the touchscreen. With a quick pinching motion, you can use it to scroll through the new smart stack of widgets in watchOS 10, pause or end timers, skip music tracks, and answer phone calls. It’s the sort of feature that you might read about and scoff at — until you’re unloading groceries from your car, hands full, and an important call comes through on your watch.
+
+Depending on who you are, this kind of scenario might happen multiple times a day or once in a blue moon. In the past few weeks with the watchOS 10.1 beta, some days I completely forgot double tap existed. Either my hands were free, or muscle memory kicked in and I’d use the watch as I always have. Other days, when my to-do list felt as long as a CVS receipt, I morphed into a double tap fiend, so much so that I sometimes felt like a flamenco dancer snapping away with their castanets.
+
+Double tap activates the primary action of an app. GIF by Amelia Holowaty Krales / The Verge
+
+I got a rundown of how double tap works when I reviewed the Series 9 and Ultra 2, but it hits differently once you start using it in your day-to-day life. Controlling gadgets with gestures is often gimmicky — tech that seeks to show off rather than solve a problem. But double tap does solve a genuine problem and is born from accessible design that serves real needs. That, in turn, made me more curious about what went into creating the gesture, the tech behind it, its limitations, and what it implies for the future of smartwatches.
+
+The chip behind double tap
+
+Double tap technically isn’t a new gesture so much. In 2021, Apple introduced Assistive Touch, an accessibility feature designed for people with limb differences or mobility issues. The idea was to give these folks a way to navigate through menus and control the Apple Watch without needing a second hand.
+
+On the surface, it can seem like double tap is a rebadged version of Assistive Touch. That’s led to understandable confusion as to how the two features differ — and why double tap isn’t available on older Apple Watches that support Assistive Touch (Series 4 or later, including the first-gen SE and Ultra).
+
+The short answer is that the Apple Watch Series 9 and Ultra 2 have a more powerful chip. Specifically, the new S9 features four neural engines for machine learning, which is what powers double tap. On older watches, Assistive Touch was run on the main CPU. But is that distinction really enough to make a difference?
+
+The double tap algorithm has to be able to sort through a lot of noisy data to detect when you are — and aren’t — making the gesture. GIF by Amelia Holowaty Krales / The Verge
+
+Yes, according to David Clark, senior director of Apple Watch software engineering. “Because we’re on a purpose-built part of the processor, we’re not contending with all the other things the CPU is doing at any given time,” says Clark. The result is the Series 9 and Ultra 2 are 15 percent more accurate at detecting the double tap gesture, and the feature itself is much less power intensive.
+
+I wouldn’t blame anyone for feeling skeptical. But there is an absurd amount of data that needs to be processed for double tap to work. At the most basic level, the algorithm that detects the double tap gesture is trained on data from the accelerometer, gyroscope, and optical heart rate sensor collected from the wrist.
+
+Apple says that while the double tap gesture evolved out of Assistive Touch, it requires the computing power of the S9 SiP. Photo by Amelia Holowaty Krales / The Verge
+
+If you know anything about wearable sensors, that’s not as simple as it sounds. Wrist data is incredibly tricky to work with because there’s a lot of noise in the signal. On top of calculating how light reflects off of blood pumping through your veins, smartwatch algorithms have to account for your arm (plus muscles, veins, and tendons) physically moving around during different activities like walking, running, and gesticulating. Another challenge is no two people have the exact same body. Differences in wrist size and limb length have to be taken into consideration.
+
+Ironically, the years that Apple put into improving heart rate helped cut through that noise. According to Clark, “the gaps in reliable signals for heart rate” were what his team used to confirm subtler motions like the double tap gesture.
+
+“Reliability also means that when you’re doing things that are almost like a tap, or a double tap, that we’re not erroneously triggering the gesture.”
+
+“Reliability means that when you do the gesture, we’re able to detect it,” Clark says. “Reliability also means that when you’re doing things that are almost like a tap, or a double tap, that we’re not erroneously triggering the gesture. We got to make sure we’re able to detect the right thing through by tuning these things with the right scenarios.”
+
+Meaning, the algorithm also has to be able to differentiate when someone is in motion, the type of activities they’re doing, and what other features they may be using on the watch at a given point in time. Streaming music or taking calls might seem unrelated to double tap, but the algorithm must be able to account for the noise introduced by subsystems like LTE and Bluetooth. That’s harder to do well when everything is done on the main CPU.
+
+Double-click for the wrist
+
+That’s the technical side of the equation. But practically speaking, it’s easier to see how Assistive Touch and double tap differ once you try using both.
+
+“Assistive Touch is a comprehensive navigational system,” says Eric Charles, senior manager of Apple Watch Product Marketing. For instance, if you use Assistive Touch, you’ll notice a blue outline that visually cues the parts of a screen you can interact with when you can interact with them. You can enable a motion-based cursor as well. Another difference Charles points out is that with Assistive Touch, you have four gestures: single tap, double tap, clench, and double clench. According to Charles, it became evident early on that not everyone has the full strength to clench their hand, while others may not be able to do two quick, subsequent motions — such as a double tap.
+
+Clenching is a gesture you can use with Assistive Touch, but it’s there to provide a wider range of options for people who may not be able to make a pinching motion. GIF by Amelia Holowaty Krales / The Verge
+
+“We don’t think of it necessarily as ‘Hey, there are four available gestures here.’ It’s that audience needs the ability to customize those gestures in a way that you don’t because your ability goes further than what they might be able to do.”
+
+Double tap isn’t designed to help you navigate anything. The best way I can describe it is Assistive Touch is like the mouse to your computer. It scrolls, it selects, and it’s highly programmable. Double tap is more like the double-click portion of using a mouse. You use it solely to perform the main action of an app. And to do that, Apple had to spend a lot of time researching what people wanted or expected a single double tap to do.
+
+“We collected data over hundreds of users, thousands of instances of these gestures internally to create models that represent all the different use cases we think [double tap] will be used in,” explains Clark, noting that Apple cataloged all the potential user experiences that could potentially use double tap. It then solicited feedback from testers about how intuitive the feature was to use and whether it behaved in the way they expected. “There was an exhaustive list of screenshots, what those screens were, how a user could get to them, and then a detailed discussion through each and every one of those areas.”
+
+The answers from that internal research were then iterated multiple times, taking into consideration different types of testers. Some were complete novices, while others were more familiar with the gesture, and others yet were experts in human interaction engineering. That extensive feedback process is also why double tap is no longer called double pinch in Assistive Touch.
+
+“We did a lot of testing internally, and one of the things we learned is that when you tell someone to pinch, they hold the lower part of the gesture more than they release. Tap evokes a release,” says Charles, who explained that the simple name change led to testers performing the gesture more accurately.
+
+(To be clear, we at The Verge will still be unofficially calling it the pinchy pinch.)
+
+The limits of simplicity
+
+In talking with Clark and Charles, it’s clear Apple went through such a tedious process because this is supposed to be one of those magical features that “just works.”
+
+And, when double tap performs as intended, it does feel a bit like the watch can read my mind. It’s genuinely cool to see double tap work with not just my index finger but the rest of them as well. To my surprise, it feels less gimmicky than I expected. But despite Apple’s efforts, it doesn’t take long to run into double tap’s limitations.
+
+Double tap makes using the Smart Stack more intuitive, but I wish it could scroll AND select. GIF by Amelia Holowaty Krales / The Verge
+
+Media controls are a good example. Should a double tap either pause or play your music? Or should it let you skip to the next track? If you’re someone who uses your smartwatch to control playback on smart speakers, the former makes more sense. If you’re a runner and the wrong song pops up on your playlist, the latter is more useful. I’ve run into this in various scenarios, but this happens to be one of only two instances where you can choose what double tap does. (For me, I’ve set double tap to skip to the next track.)
+
+That lack of choice is also apparent in third-party apps. My email app lets me double-tap to start a quick reply using Siri, but even in 2023, I am not dictating my emails. Apps like Spotify and Pocket Casts don’t work with double tap, either. Most third-party apps that do work with double tap just let you dismiss notifications. That’s helpful but still limiting.
+
+With watchOS 10, apps like Fitness and Weather have been redesigned to be more glanceable. Instead of one long screen that you scroll endlessly through, information is divided into more digestible chunks. You still scroll, but there’s less of it. This is great, except I often want to use double tap to navigate through menus instead of the digital crown. And I can’t.
+
+You can scroll through the new widget Smart Stack, but if I want to select a widget and open it, I still have to use my other hand. If I want to select a widget, I can customize it to do that, but it only ever selects the top widget. You have to just trust that Apple’s algorithms will surface the right widget.
+
+Customizability is currently limited to music playback and the smart stack. Photo by Amelia Holowaty Krales / The Verge The double tap glyph lets you know when you can and can’t use the gesture to control an action. Photo by Amelia Holowaty Krales / The Verge
+
+Multitasking is another area where double tap can fall short. If I want to pause a timer but have navigated away from that app, I have to either use my other hand or use Siri. Otherwise, I can wait for the timer to go off and use double tap to end the timer.
+
+More customization would be the obvious answer, but it’s one that Apple was wary of for this first iteration of double tap.
+
+“While customization can be a really powerful tool, oftentimes customization is where a lot more complexity can come into the process,” says Clark. I get what Clark means. Not everyone, after all, has the patience to set up dozens of Focus modes or tinker with Shortcuts. If you want to keep things simple, you inevitably have to narrow the focus.
+
+A future of smartwatch gestures
+
+Despite the limitations, the combination of glanceable apps, widgets, Siri, and double tap has started to change how I use my Apple Watch. I never used to use the more analog, aesthetically pleasing watchfaces because it meant sacrificing my complications. With double tap, I can use those watchfaces now because all I have to do is flick my wrist and double tap to view my widgets. If I want to launch the app, I can just ask Siri to open it.
+
+You can already use multiple fingers for the double tap gesture. It’s not hard to imagine other iterations down the line. GIF by Amelia Holowaty Krales / The Verge
+
+It doesn’t always work that seamlessly. There are times when the primary action isn’t what I want to do, or eventually, I get to the point where I have to use my other hand. (In the above example, once I ask Siri to open the app, I may have to scroll with the digital crown to reach the information I need.) But it’s not hard to imagine future iterations of double tap can both scroll and select. Something that’s not quite as comprehensive as Assistive Touch but strikes a finer balance between simplicity and customizability — without relying too much on Apple trying to figure out what it is you want to do.
+
+Even now, with double tap’s existing limitations, I can do more while on the go and without my phone. I find myself reaching for it much less — or when I do, it’s for much more intentional purposes like reading, shopping, or watching a video. The past few weeks with double tap have felt like a glimpse into a smartwatch future that’s independent of phones — devices that, instead of triaging notifications and calls, handle them entirely.

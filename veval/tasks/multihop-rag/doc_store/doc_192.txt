@@ -1,0 +1,135 @@
+By the IoT Analytics team.
+
+A new report from IoT Analytics highlights eight notable trends helping to advance and promote digital twins.
+
+Four of these trends are discussed in detail in this article. These trends are shaping the future of the digital twin market and influencing investment priorities for companies across various industries.
+
+Key insights:
+
+According to our Digital Twin Market Report 2023–2027, the digital twin market is expanding, with a projected CAGR of 30% between 2023 and 2027.
+
+29% of global manufacturing companies have either fully or partially implemented their digital twin strategies. Further, job posts related to digital twins have increased by 11% compared to October 2021, while openings for other tech topics have declined in the same timeframe.
+
+The report notes eight notable trends helping to advance and promote digital twins, four of which are discussed in this article.
+
+Digital twin market snapshot
+
+Data from our Digital Twin Market Report 2023–2027 indicates that 29% of global manufacturing companies have either fully or partially implemented their digital twin strategies, marking a noticeable increase from 20% in 2020. Moreover, the proportion of these companies not contemplating the implementation of digital twins appears to have reduced to 9% in 2023, down from 33.6% in 2020.
+
+Supporting this trend, an analysis of job postings on SimplyHired suggests a growing demand for digital twin expertise. Postings mentioning “digital twin” increased by 11% in October 2023 compared to just two years prior, while openings for most other tech topics declined in the same timeframe. Notably, among the 60 tech-related skill sets we tracked, digital twin-related skills experienced one of the most significant growths.
+
+Based on these observations and additional insights from our report, our current projection estimates that the global digital twin market could grow at a CAGR of approximately 30% between 2023 and 2027.
+
+Against the backdrop of this growing market, the report notes eight trends that help promote the advancement and adoption of digital twins. Here, we will focus on four:
+
+1. Digital twins deployed to meet sustainability goals
+
+2. Digital twins employed as virtual sensors in complex conditions
+
+3. Partnerships between cloud hyperscalers and OT and simulation specialists
+
+4. Initiatives promoting interoperability of digital twins across multifaceted systems
+
+Before we dive into these trends, and to provide context, it is helpful to understand how IoT Analytics defines digital twins and the digital twin market.
+
+Defining digital twins and the digital twin market
+
+In our March 2023 Decoding Digital Twins article, we define digital twins as a virtual model replicating the behavior of an existing or a potential real-world asset, system, or multiple systems. This definition captures a macro concept of digital twins, but our report and previous article present a three-dimensional, cuboid model to help classify digital twins so apple-to-apple comparisons can be made. Each axis of the cuboid represents one dimension of a digital twin:
+
+1. Life cycle phase: The X-axis represents the six life cycle phases a digital twin is used for, from design to decommissioning.
+
+2. Hierarchical levels: The Y-axis represents a digital twin’s five hierarchical levels, from information to multi-system.
+
+3. Use/purpose of implementation: The Z-axis represents the seven most common uses for digital twins, such as simulation and prediction.
+
+Based on this model, there are 210 potential combinations (5 x 6 x 7 = 210); however, our research indicates that many digital twin initiatives are tailored to multiple combinations.
+
+In terms of the digital twin market, our market model only considers software spending for digital twins, which we break into two scopes:
+
+Broad digital twin market – includes the revenue for all software solutions that provide capabilities that are used for digital twins, such as solutions that integrate data sources into a digital twin and are capable of simulation, visualization, and predictions
+
+– includes the revenue for all software solutions that provide capabilities that are used for digital twins, such as solutions that integrate data sources into a digital twin and are capable of simulation, visualization, and predictions Narrow digital twin market – only considers spending for digital twin-specific software, such as software intended to model the digital twin data
+
+Though hardware and services related to digital twins can bolster the capabilities of digital twin software, we only view them as supporting services for the software, and we do not consider them in our digital twin market model. That said, this ability to bolster capabilities means they can aid digital twin market growth, as shown in some of the trends below.
+
+Digital twin market trends
+
+We will now look at four trends helping digital twin market growth.
+
+Trend 1: Digital twins deployed to meet sustainability goals
+
+Sustainability was discussed in approximately 21% of recent CEO earnings calls and has remained a consistent topic throughout 2023. This pairs with our report’s analysis that the pursuit of sustainability goals is a tailwind macro factor for the digital twin market.
+
+To achieve their sustainability goals, many companies are exploring digital twins. Due to their ability to simulate real-world conditions and deliver real-time information, organizations can optimize resource usage, reducing carbon emissions and improving supply and transportation networks.
+
+According to Capgemini Research Institute’s 2022 digital twins report, 57% of organizations agreed that one of the key drivers for their digital twin investments was improving their sustainability, and 51% agreed that digital twins would help achieve their organization’s environmental sustainability goals.
+
+In our report, a former VP at an industrial automation vendor shared, “Digital solutions provide the visibility, analysis, and insight needed to address the challenges inherent in sustainability goals. A digital twin strategy as part of an overall digitalization plan can be a crucial capability for asset-intensive industries and needs to encompass the entire asset lifecycle, process, and value chain from design and operations through maintenance and strategic business planning.”
+
+Example: Aden, a Chinese integrated facility service provider, created a digital twin for one of its commercial centers in Chengdu, China. The digital twin was designed to help facility managers inspect, maintain, and repair building assets. 3D simulations assist facility managers in visualizing, predicting, and optimizing energy consumption, and the expected benefits include lower annual energy consumption, water usage, and waste.
+
+Trend 2: Digital twins employed as virtual sensors in complex conditions
+
+Virtual sensors approximate data that otherwise cannot be obtained via physical sensors, often due to physical sensors being impractical, costly, or hazardous to employ. Companies are now building digital twins to model hardware and calculate data based on other conditions. This not only allows the collection of data from complex equipment but also enables operators to track equipment performance and predict maintenance and downtimes.
+
+Example: In large motor applications, such as room-sized motors that pump high volumes of gas, oil, or other chemicals, operators need to monitor the motors’ temperatures—especially if the motors are high-powered and repeatedly started. If a motor is too hot during a restart, the components could cause serious damage. Unfortunately, using a direct, physical sensor within a motor is often impractical, and operators must work from an assumptive time it takes for the motor to cool (with an additional safety buffer time). This means motors can be down longer than necessary, impacting efficiency and revenue.
+
+To address this issue, Siemens developed a prototype virtual sensor based on a digital twin. It offers a simulation of how a physical sensor would operate if it were possible to install it within a motor. Using AR headsets, operators can see a simulation of the motor and its interior with a demonstrator superimposed over it, and they can see the motor’s temperature.
+
+Trend 3: Partnerships forged in the clouds: Hyperscalers team up with OT and simulation specialists
+
+In the last few years, cloud hyperscalers like AWS and Microsoft Azure have introduced digital twin platforms, e.g., AWS IoT TwinMaker and Azure Digital Twins, that allow for interconnecting various data sources and building digital twin topology. However, these companies realize they cannot deliver end-to-end digital twin solutions by themselves and are thus partnering with OT and simulation companies to add capabilities to their networks.
+
+Hyperscalers and OT companies
+
+OT companies provide industrial data management capabilities and connections to millions of local physical assets. By partnering with hyperscalers, OT companies can reach broader audiences looking for digital transformation solutions by offering typical cloud benefits like storage and computation power.
+
+Example: In 2021, Siemens and AWS announced an expansion of their partnership, with digital twin technology being an area of focus. The companies aimed to accelerate Siemens Xcelerator adoption and democratize new digital twin solutions using AWS IoT TwinMaker, a service intended to make creating digital twins that incorporate multiple data sources faster and easier.
+
+Hyperscalers and simulation companies
+
+Simulation companies bring specialized expertise in creating accurate, high-fidelity models of physical entities, be it machinery, buildings, or entire ecosystems. By partnering with a hyperscaler, simulation companies can harness these cloud services’ data storage and computational power to create more robust, responsive, and accurate data twins that can be scaled and integrated seamlessly into broader IT ecosystems.
+
+Example: In 2023, Ansys and Microsoft announced a partnership to help customers envision digital twins on a large scale. In cooperation with Tata Consultancy Services, Ansys and Microsoft integrated Ansys’s Twin Builder’s physics-based simulation capabilities with Azure Digital Twin and IoT data to allow Twin Builder users to run scenarios and obtain predictions on how their systems will behave.
+
+Trend 4: Initiatives promoting interoperability of digital twins across systems from different vendors
+
+Agreement on integration standards among the various digital twin technology providers is crucial for building cross-system digital twins. With standards, manufacturers can offer services that can be applied to unique situations with other digital twin technology and software.
+
+Recognizing this, countries and industry organizations have taken several steps to address this need:
+
+Plattform Industrie 4.0 and CESMII
+
+Plattform Industrie 4.0 and the Clean Energy Smart Manufacturing Innovation Institute (CESMII) partnered to establish standards for manufacturers in Germany and the United States to better enable smart, sustainable competition. The partnership addressed similar challenges related to Industry 4.0 and Smart Manufacturing.
+
+DTC digital twin interoperability framework
+
+The Digital Twin Consortium (DTC), a collaborative partnership of industry, academia, and government experts, released the Digital Twin System Interoperability Framework to “unify a nascent ecosystem of high-value, multi-vendor services that can seamlessly ‘plug into’ a multi-dimensional, interoperable system of systems.”
+
+DTC and IDTA collaboration
+
+DTC and the Industrial Digital Twin Association (IDTA) announced a liaison agreement to collaborate on standardization requirements, enabling interoperability through discussions, aligning work in horizontal domains, and collaborating on open-source projects, contributions, and reference implementations.
+
+DTC and OPC Foundation collaboration
+
+DTC and the OPC Foundation announced a liaison agreement to “accelerate the development and adoption of digital twin-enabling technologies,” promoting interoperability standards and processes to advance the use of digital twins in manufacturing across multiple industries.
+
+Considerations for digital twin vendors
+
+3 questions digital twin vendors should ask themselves based on research findings discussed in this article:
+
+1. Sustainability goals: Given the emphasis on sustainability and the role of digital twins in achieving it, is my company’s digital twin solution well-equipped to support sustainability objectives? Are there new features we need to develop?
+
+2. Interoperability: Is our digital twin solution currently designed to be interoperable with other systems and technologies, especially those from different vendors?
+
+3. Product development: How aligned is our product development roadmap with the emerging trends highlighted in the report, especially around end-user and technological advancements?
+
+Considerations for adopters
+
+3 questions adopters should ask themselves based on research findings discussed in this article:
+
+1. Infrastructure readiness: Do we have the necessary infrastructure and resources in place to support the deployment and effective use of digital twins? If not, what investments are required?
+
+2. Data integration: How compatible are our current data sources and systems with digital twin technologies, especially in terms of sensor data (both physical and virtual/soft)?
+
+3. Interoperability concerns: As we use multiple software solutions across our operations, how important is interoperability between digital twin technologies and our existing systems?

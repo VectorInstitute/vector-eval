@@ -1,0 +1,125 @@
+Meta has a moderation bias problem, not just a ‘bug,’ that’s suppressing Palestinian voices Instagram users suspect Meta of shadowbanning content about Palestine. The platform has a history of inherent bias.
+
+Earlier this year, Palestinian-American filmmaker Khitam Jabr posted a handful of Reels about her family’s trip to the West Bank. In the short travel vlogs, Jabr shared snippets of Palestinian culture, from eating decadent meals to dancing at her niece’s wedding.
+
+“I hadn’t been in a decade, so it’s just like, life abroad,” Jabr told TechCrunch.
+
+“I would get [anti-Palestine] comments,” she recalled. “And I couldn’t respond [to them] or use my account for 24 hours. I wasn’t even posting anything about the occupation. But fast forward to now and the same shit’s happening.”
+
+In the aftermath of Hamas’ attack on Israelis, Israel’s retaliatory airstrikes and total blockade — cutting access to electricity, water and vital supplies — have devastated Gaza. In response to the escalating violence, Meta said that it is closely monitoring its platforms for violations and may inadvertently flag certain content, but it never intends to “suppress a particular community or point of view.” Content praising or supporting Hamas, which governs Gaza and is designated as a terrorist organization by the United States and the European Union, is expressly forbidden on Meta’s platforms.
+
+As the humanitarian crisis in Gaza grows more dire, many social media users suspect Instagram of censoring content about the besieged Palestinian territory, even if that content doesn’t support Hamas. Users have also complained that they’ve been harassed and reported for posting content about Palestine, regardless of whether or not it violates Meta’s policies. Jabr, for example, suspects that Instagram restricted her for 24 hours because other users reported her Palestine travel videos. Most recently, Instagram users accused Meta of “shadowbanning” their Stories about Palestine.
+
+It’s the latest in a lengthy history of incidents on Meta platforms that reflect an inherent bias against Palestinian users in its processes, as documented by years of complaints from both inside and outside the company. The company may not intentionally suppress specific communities, but its moderation practices often disproportionately affect Palestinian users.
+
+For instance, Meta struggles to navigate the cultural and linguistic nuances of Arabic, a language with over 25 dialects, and has been criticized for neglecting to adequately diversify its language resources. The company’s black-and-white policies often preclude it from effectively moderating any nuanced topic, like content that discusses violence without condoning it. Advocacy groups have also raised concerns that Meta’s partnerships with government agencies, such as the Israeli Cyber Unit, politically influence the platform’s policy decisions.
+
+During the last violent outbreak between Hamas and Israel in 2021, a report commissioned by Meta and conducted by a third party concluded that the company’s actions had an “adverse human rights impact” on Palestinian users’ right to freedom of expression and political participation.
+
+Meta communications director Andy Stone declined to comment on the record, and pointed TechCrunch to Meta’s newsroom post about the conflict, which was updated on Oct. 18 with a statement addressing the shadowbanning claims.
+
+“Our policies are designed to keep people safe on our apps while giving everyone a voice,” the post stated. “We apply these policies equally around the world and there is no truth to the suggestion that we are deliberately suppressing voice … We can make errors and that is why there is an appeals process for people to tell us when they think we have made the wrong decision, so we can look into it.”
+
+The belief that Meta shadowbans, or limits the visibility of, content about Palestine is not new. In an Instagram Story last year, supermodel and activist Bella Hadid, who is of Palestinian descent, alleged that Instagram “disabled” her from posting content on her Story “pretty much only when it is Palestine based.” She said she gets “immediately shadowbanned” when she posts about Palestine, and her Story views drop by “almost 1 million.”
+
+As soon as Kehlani got super vocal and changed her profile picture to “i stand with Palestine” she got shadowbanned.
+
+Just as they did to Bella Hadid. The propaganda is insane.
+
+THEY TRY TO SILENCE US. DON’T STOP!!
+
+FREE PALESTINE. 🇵🇸🇵🇸 pic.twitter.com/4lUvZsUbiA — Sabby Targaryen 🐉 (@whoisitbad) October 14, 2023
+
+Meta blamed technical errors for the removal of posts about Palestine during the 2021 conflict. When reached for comment about these recent claims of shadowbanning, a representative for the company pointed TechCrunch to a Threads post by Stone.
+
+“We identified a bug impacting all Stories that re-shared Reels and Feed posts, meaning they weren’t showing up properly in people’s Stories tray, leading to significantly reduced reach,” Stone said. “This bug affected accounts equally around the globe and had nothing to do with the subject matter of the content — and we fixed it as quickly as possible.”
+
+But many are frustrated that Meta continues to disproportionately suppress Palestinian voices. Leen Al Saadi, a Palestinian journalist currently based in Jordan and host of the podcast “Preserving Palestine,” said she is used to “constantly being censored.” Her Instagram account was restricted last year after she posted a trailer for the podcast’s first episode, which discussed a documentary about Palestinian street art under occupation.
+
+“Palestinians are currently undergoing two wars,” Al Saadi said. “The first is with their legal occupier. The second war is with the entire Western media landscape, and when I say the entire landscape, I mean social media.”
+
+Meta’s alleged shadowbanning
+
+Instagram users accuse Meta of suppressing more than just Stories related to Palestine.
+
+Creators say engagement on their posts tanked specifically after they publicly condemned Israel’s response to the Hamas attack as excessively violent. Some, like Jabr, say they were restricted from posting or going live, while others say Instagram flagged their content as “sensitive,” limiting its reach. Users also allege their posts were flagged as “inappropriate” and removed, even if the content adhered to Instagram’s Community Guidelines.
+
+Meta’s representative didn’t address the other accusations of censorship beyond just Story visibility and did not respond to TechCrunch’s follow-up questions. When asked for comment, Stone directed TechCrunch to Meta’s updated newsroom post, which said Meta identified and fixed a “bug” that prevented users from going live.
+
+“This was also a global issue that was fixed within a few hours. We understand people rely on these tools and we’re sorry to anyone who felt the impact of these issues,” the post stated.
+
+It’s unclear if this “bug” impacted accounts posting content unrelated to Gaza. Instagram users have posted screenshots showing that Stories about Palestine have received significantly fewer views than other Stories posted on the same day, and allege that their view counts went back up when they posted content unrelated to the conflict.
+
+ofc IG’s hiding my stories about Palestine, y’all see the difference? lmaoaoaoao pic.twitter.com/1iYIIKBhtN — ༒︎ (@arxbprince) October 15, 2023
+
+A user based in Egypt, who asked to stay anonymous for fear of harassment, said her posts usually get around 300 views, but when she started posting pro-Palestine content after the Hamas attack earlier this month, her stories would only get one to two views.
+
+“It happened to all my friends, too,” she continued. “Then we noticed that posting a random pic would get higher views. So by posting a random pic, then a pro-Palestine post, would increase the views.”
+
+Another Instagram user based in the United Kingdom, who also asked to stay anonymous out of fear of harassment, said that his view count returned to normal when he posted a cat photo.
+
+“My stories went from 100s of views to zero or a handful,” he said. “I’ve had to post intermittent non-Gaza content in order to ‘release’ my stories to be viewed again.”
+
+It isn’t just Stories. The Arab Center for Social Media Advancement (7amleh), which documents cases of Palestinian digital rights violations and works directly with social media companies to appeal violations, told TechCrunch it has received reports of Instagram inconsistently filtering comments containing the Palestinian flag emoji. Users report that Instagram has flagged comments containing the emoji as “potentially offensive,” hiding the comment.
+
+Meta initially did not respond to follow-up requests for comment. When asked for comment, Stone pointed TechCrunch to Meta’s updated newsroom post, which did not directly address issues related to comments containing the Palestinian flag.
+
+The organization has also received countless reports of Meta flagging and restricting Arabic content, even if it’s posted by news outlets. Jalal Abukhater, 7amleh’s advocacy manager, said that the organization has documented multiple cases of journalists on Instagram reporting the same news in Arabic, Hebrew and English, but only getting flagged for their Arabic content.
+
+“It’s literally journalistic content, but the same wording in Hebrew and English does not get restricted,” Abukhater said. “As if there’s better moderation for those languages, and more careless moderation for Arabic content.”
+
+Stone declined to comment on allegations of Meta disproportionately flagging Arabic news content, instead directing TechCrunch to the updated newsroom post — which did not directly address the allegations.
+
+And as the Intercept reported, Instagram and Facebook are flagging images of the al-Ahli Hospital, claiming that the content violates Meta’s Community Guidelines on nudity or sexual activity.
+
+The Community Guidelines are enforced inconsistently, particularly when it comes to content related to Palestine. Al Saadi recently tried to report a comment that said she should be “raped” and “burned alive” — left in response to her comment on a CNN post about the conflict — but in screenshots reviewed by TechCrunch, Instagram said that it didn’t violate the platform’s Community Guidelines against violence or dangerous organizations.
+
+“The restrictions on content, especially the content that relates to Palestine, is heavily politicized,” Abukhater said. “It feeds into the bias against Palestinian narrative genuinely. It really takes the balance against Palestinians in a situation where there’s a huge asymmetry of power.”
+
+A history of suppression
+
+Content about Palestine is disproportionately scrutinized, as demonstrated during the last severe violent outbreak between Hamas and Israel two years ago. Amid the violence following the May 2021 court ruling to evict Palestinian families from Sheikh Jarrah, a neighborhood in occupied East Jerusalem, users across Facebook and Instagram accused Meta of taking down posts and suspending accounts that voiced support for Palestinians.
+
+The digital rights nonprofit Electronic Frontier Foundation (EFF) described Meta’s actions in 2021 as “systemic censorship of Palestinian voices.” In its 2022 report of Palestinian digital rights, 7amleh said that Meta is “still the most restricting company” compared to other social media giants in the extent of its moderation of the Palestinian digital space.
+
+Meta forbids support of terrorist organizations, like most social media companies based in the U.S., but struggles to moderate content around it, from user discourse to journalistic updates. This policy, along with the company’s partnership with Israel to monitor posts that incite violence, complicates things for Palestinians living under Hamas’ governance. As EFF points out, something as simple as Hamas’ flag in the background of an image can result in a strike.
+
+Jillian York, the director for international freedom of expression for EFF, blames automation and decisions made by “minimally trained humans” for the inconsistency. Meta’s zero tolerance policy and imprecise enforcement often suppress content from or about conflict zones, she said. The site’s moderation issues have negatively affected multiple non-English speaking regions, including Libya, Syria and Ukraine.
+
+“These rules can prevent people from sharing documentation of human rights violations, documentation of war crimes, even just news about what’s happening on the ground,” York continued. “And so I think that is what is the most problematic right now about that particular rule, and the way that it’s enforced.”
+
+Over the 13 days leading up to the ceasefire between Hamas and Israel, 7amleh documented more than 500 reports of Palestinian “digital rights violations,” including the removal and restriction of content, hashtags and accounts related to the conflict.
+
+Meta blamed some of the instances of perceived censorship to technical issues, like one that prevented users in Palestine and Colombia from posting Instagram Stories. It attributed others to human error, like blocking the hashtag for Al-Aqsa Mosque, the holy site where Israeli police clashed with Ramadan worshippers, because it was mistaken for a terrorist organization. The company also blocked journalists in Gaza from WhatsApp without explanation.
+
+The same month, a group of Facebook employees filed internal complaints accusing the company of bias against Arab and Muslim users. In internal posts obtained by BuzzFeed News, an employee attributed the bias to “years and years of implementing policies that just don’t scale globally.”
+
+At the recommendation of its Oversight Board, Meta conducted a third-party due diligence report about the platform’s moderation during the May 2021 conflict. The report found that Arabic content was flagged as potentially violating at significantly higher rates than Hebrew content was, and was more likely to be erroneously removed. The report noted that Meta’s moderation system may not be as precise for Arabic content as it was for Hebrew content, because the latter is a “more standardized language,” and suggested that reviewers may lack the linguistic and cultural competence to understand less common Arabic dialects like Palestinian Arabic.
+
+Has anything improved?
+
+Meta committed to implementing policy changes based on the report’s recommendations, such as updating its keywords associated with dangerous organizations, disclosing government requests to remove content and launching a hostile speech classifier for Hebrew content. Abukhater added that Meta has improved its response to harassment, at least in comparison to other social media platforms like X (formerly Twitter). Although harassment and abuse are still rampant on Instagram and Facebook, he said, the company has been responsive to suspending accounts with patterns of targeting other users.
+
+The company has also made more contact with regional Palestinian organizations since 2021, York added, but it’s been slow to implement recommendations from EFF and other advocacy groups. It’s “very clear” that Meta is not putting the same resources behind Arabic and other non-English languages, York said, compared to the attention Meta gives to countries that have the most regulatory pressure. Moderation of English and other European languages tends to be more comprehensive, for example, because the EU enforces the Digital Services Act.
+
+In Meta’s response to the report, Miranda Sissons, the company’s director of human rights, said that Meta was “assessing the feasibility” of reviewing Arabic content by dialect. Sissons said that the company has “large and diverse teams” who understand “local cultural context across the region,” including in Palestine. Responding to the escalating violence earlier this month, Meta stated that it established a “special operations center” staffed with fluent Hebrew and Arabic speakers to closely monitor and respond to violating content.
+
+Despite Meta’s apparent efforts to diversify its language resources, Arabic is still disproportionately flagged as violating — like in the case of journalists reporting news in multiple languages.
+
+“The balance of power is very fixed, in reality, between Israelis and Palestinians,” Abukhater said. “And this is something that today is reflected heavily on platforms like Meta, even though they have human rights teams releasing reports and trying to improve upon their policies. Whenever an escalation like the one we’re experiencing now happens, things just go back to zero.”
+
+And at times, Meta’s Arabic translations are completely inaccurate. This week, multiple Instagram users raised concerns over the platform mistranslating the relatively common Arabic phrase “Alhamdulillah,” or “Praise be to God.” In screen recordings posted online, users found that if they included “Palestinian” and the corresponding flag emoji in their Instagram bio along with the Arabic phrase, Instagram automatically translated their bio to “Palestinian terrorists – Praise be to Allah” or “Praise be to God, Palestinian terrorists are fighting for their freedom.” When users removed “Palestinian” and the flag emoji, Instagram translated the Arabic phrase to “Thank God.” Instagram users complained that the offensive mistranslation was active for hours before Meta appeared to correct it.
+
+Shayaan Khan, a TikTok creator who posted a viral video about the mistranslation, told TechCrunch that Meta’s lack of cultural competence isn’t just offensive, it’s dangerous. He said that the “glitch” can fuel Islamophobic and racist rhetoric, which has already been exacerbated by the war in Gaza. Khan pointed to the fatal stabbing of Wadea Al-Fayoume, a Palestinian-American child whose death is being investigated as a hate crime.
+
+Meta did not respond to TechCrunch’s request for comment about the mistranslation. Abukhater said that Meta told 7amleh that a “bug” caused the mistranslation. In a statement to 404 Media, a Meta spokesperson said that the issue had been fixed.
+
+“We fixed a problem that briefly caused inappropriate Arabic translations in some of our products,” the statement said, “We sincerely apologize that this happened.”
+
+As the war continues, social media users have tried to find ways around the alleged shadowbanning on Instagram. Supposed loopholes include misspelling certain words, like “p@lestine” instead of “Palestine,” in hopes of bypassing any content filters. Users also share information about Gaza in text superimposed over unrelated images, like a cat photo, so it won’t be flagged as graphic or violent content. Creators have tried to include an emoji of the Israeli flag or tag their posts and Stories with #istandwithisrael, even if they don’t support the Israeli government, in hopes of gaming engagement.
+
+Al Saadi said that her frustration with Meta is common among Palestinians, both in occupied territories and across the diaspora.
+
+“All we’re asking for is to give us the exact same rights,” she said. “We’re not asking for more. We’re literally just asking Meta, Instagram, every single broadcast channel, every single media outlet, to just give us the respect that we deserve.”
+
+Dominic-Madori Davis contributed to this story’s reporting.

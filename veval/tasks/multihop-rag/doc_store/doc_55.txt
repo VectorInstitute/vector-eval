@@ -1,0 +1,39 @@
+It has been a whirlwind four days for OpenAI, the generative AI poster child behind the smash hit ChatGPT.
+
+Seemingly out of nowhere, the OpenAI board ousted CEO and co-founder Sam Altman and demoted president and co-founder Greg Brockman, who subsequently resigned, paving the way for what looked like a mutiny by staff insisting the founders be reinstated post-haste. By then, Microsoft had already hired Altman and Brockman to head up a new internal AI unit, though, as things transpired, nothing had actually been signed yet, with rumors suggesting that the ousted leaders might actually return to OpenAI after all — in some capacity, at least.
+
+The situation remains fluid, and any number of potential outcomes still remain on the table. But the whole debacle has shone a spotlight on the forces that control the burgeoning AI revolution, leading many to question what happens if you go all-in on a centralized proprietary player, and what happens if things then go belly-up?
+
+“The OpenAI / Microsoft drama underlines one of the big near-term risks with AI — that this next wave of technology is controlled by the same tiny set of players who have shaped that last era of the internet,” Mark Surman, president and executive director at the Mozilla Foundation, told TechCrunch. “We might have a chance of avoiding this if GPT-X were responsibly open sourced, giving researchers and startups a shot at making this technology safer, more useful and more trustworthy for people everywhere.”
+
+Open and shut
+
+In an open letter published by Mozilla a few weeks back, Meta’s chief AI scientist Yann LeCun joined some 70 other signatories in calling for more openness in AI development, though that letter has since garnered more than 1,700 signatures. The backdrop stems from Big Tech companies such as OpenAI and Google’s DeepMind calling for more regulation, warning of catastrophic consequences if the AI levers were to meet the wrong hands — in other words, they argued that proprietary AI is safer than open source.
+
+LeCun et al. disagree.
+
+“Yes, openly available models come with risks and vulnerabilities — AI models can be abused by malicious actors or deployed by ill-equipped developers,” the letter acknowledged. “However, we have seen time and time again that the same holds true for proprietary technologies — and that increasing public access and scrutiny makes technology safer, not more dangerous. The idea that tight and proprietary control of foundational AI models is the only path to protecting us from society-scale harm is naive at best, dangerous at worst.”
+
+On a personal level, LeCun has accused the big-name AI players of trying to secure “regulatory capture of the AI industry” by lobbying against open AI R&D. And on a company level, Meta is doing all it can to encourage collaboration and “openness,” recently partnering with Hugging Face to launch a new startup accelerator designed to spur adoption of open source AI models.
+
+But OpenAI was — up until last week, at least — still the AI darling everyone wanted to dance with. Countless startups and scale-ups have built businesses atop OpenAI’s proprietary GPT-X large language models (LLMs), and over the weekend hundreds of OpenAI customers reportedly started contacting OpenAI’s rivals, which include Anthropic, Google and Cohere, concerned that their own businesses might be impacted if OpenAI was to disintegrate overnight.
+
+Over-reliance
+
+The panic has been palpable. But there are precedents from elsewhere in the technology sphere, perhaps most notably that of the cloud computing industry, which became renowned for the way it locked companies in to centralized, vortex-like silos.
+
+“Part of the frenzy around the future of OpenAI is due to too many startups over-relying on their proprietary models,” Luis Ceze, University of Washington computer science professor and OctoML CEO, told TechCrunch in an emailed statement. “It’s dangerous to put all your chips in one basket — we saw that in the early cloud days which led to companies shifting to multi-cloud and hybrid environments.”
+
+On the surface, Microsoft is currently looking like the biggest winner amidst the OpenAI turmoil, as it was already apparently looking to reduce its reliance on OpenAI even though it remains once of its major shareholders. But Facebook’s parent Meta could also stand to benefit, as businesses pursue multi-modal strategies or models with a more “open” ethos embedded.
+
+“Open source today offers a wide variety of models for companies to essentially diversify,” Ceze added. “By doing so, these startups can quickly pivot and minimize risk. There is also a major upside — many of these models already outperform the likes of OpenAI’s in terms [of] price-performance and speed.”
+
+A leaked internal memo from Google earlier this year seemed to express fears that despite the huge advances made by proprietary LLM models from the likes of OpenAI, open source AI would ultimately trump them all. “We have no moat, and neither does OpenAI,” the document noted.
+
+The memo in question was in reference to a foundation language model initially leaked from Meta in March, and which gained a fair bit of steam in a short period of time. This highlighted the power and scalability of a more open approach to AI development — it enables collaboration and experimentation on a level that’s not so easy to replicate with closed models.
+
+It’s worth noting here that despite Meta’s claims, its Llama-branded family of LLMs are not as “open source” as it would like people to believe. Yes, they are available for both research and commercial use cases, but it forbids developers to use Llama for training other models, while app developers with more than 700 million monthly users must request a special license from Meta which it may grant based on its “sole discretion” — basically, anyone but Meta’s Big Tech brethren can use Llama sans permission.
+
+For sure, Meta isn’t the only company flaunting its “open” approach to AI development — notably, the likes of Hugging Face, Mistral AI and 01.AI, which have all raised sizeable sums at lofty valuations with similar goals in mind. But as a $900 billion juggernaut with a long history of courting developers through open source endeavors, Meta is perhaps best positioned to capitalize on the mess that OpenAI has created for itself. Its decision to pursue “openness” over “closedness” seems to be well vindicated right now, and regardless of whether Llama is or isn’t really open source, it’s likely “open enough” for most people.
+
+It’s still too early to make any surefire claims on what impact the OpenAI fallout will have on LLM development and uptake in the future. Altman and Brockman are undoubtedly steady hands for a commercial AI startup, and they may even return to steward OpenAI. But some might argue that it’s unhealthy that so much focus lies on just a handful of people — and it’s telling that their departure has created such widespread havoc.

@@ -1,0 +1,127 @@
+A version of this post first appeared in TechCrunch’s weekly robotics newsletter, Actuator. Subscribe here.
+
+Last week was a busy one for robotics. We had RoboBusiness in the Bay, ROSCon in New Orleans and Amazon’s Delivering the Future event in Seattle. I ended up choosing the latter, as I’d gotten quite a bit out of the 2022 version of the event, held at a fulfillment center outside of Boston.
+
+This year’s event was two days. The first was held inside the Spheres, the big, glass pair of geodesic domes outside the company’s South Lake Union headquarters. The spaces are actually multifloor functional greenhouses, so it’s a bit of a temperature adjustment coming in from Seattle October weather. That said, it’s pretty great being inside a muggy glass structure in the rain — an opportunity one gets only 150 or so days a year.
+
+Amazon made a number of announcements on the robotics front this year. At the top of the list was a pair of news items revolving around the Prime Air service. Starting this year, customers in College Station, Texas, will be able to get medications from Amazon Pharmacy delivered via drone.
+
+Next year, the service will launch in a third U.S. city, as well as yet-to-be-named spots in the U.K. and Germany. The service had its share of ups and downs over the years (so to speak), including layoffs in 2020 and company-wide job cuts earlier this year. Amazon is, understandably, approaching the project with baby steps. It’s currently limited to one city in Texas and another in California.
+
+Aside from difficulties scaling, there’s also a whole bunch of regulation to contend with. Amazon has worked with local and national governing bodies to ensure the same day delivery service complies. In a lot of ways, this is a bit of a brave new world, and there are bound to be some stumbles on the way to a potential future where delivery drones from companies like Amazon and Alphabet’s Wing are a common sight in the skies above our heads.
+
+One thing Amazon has going for it on the pharmacy front is the fact that it doesn’t trade in narcotics, meaning that opioids won’t be flying over anyone’s heads. Also, the company is going to start rolling out the new MK30 drone, which it claims is significantly quieter than the last model. Again, this is an important thing if we’re planning to have these things buzzing around the skies.
+
+Also worth pointing out is the arrival of the brand-new first-party system, Sequoia. The company notes:
+
+Sequoia allows us to identify and store inventory we receive at our fulfillment centers up to 75% faster than we can today. This means we can list items for sale on Amazon.com more quickly, benefiting both sellers and customers. When orders are placed, Sequoia also reduces the time it takes to process an order through a fulfillment center by up to 25%, which improves our shipping predictability and increases the number of goods we can offer for Same-Day or Next-Day shipping. Obviously this is all a matter of reducing delivery times — also the driving factor in the company’s Prime Air investments. The company has already set next- and same-day delivery expectations in many areas, so one wonders when we arrive at the point where any additional time savings becomes effectively negligible. I suspect if you were to put the question to Amazon, they would say “never.”
+
+I didn’t get to that specific question during my time with Amazon Robotics chief technologist, Tye Brady. Instead, our conversation primarily focused on three important (I think) topics. The first is the company’s pilots with Agility’s Digit systems. I wrote about this a couple of times last week, including a piece titled “Humanoid robots face a major test with Amazon’s Digit pilots” that went up over the weekend.
+
+I do genuinely believe there are going to be a lot of eyes on this thing. It’s not that I think it’s the end of Agility if Amazon opts not to extend a contract. It’s more that if Amazon decides to pursue it further, it’s going to cause a lot more companies to take bipedal/humanoid robots a lot more seriously. I’ve been saying the whole time that I’m holding off on judging the efficacy of humanoids until we see more in the field, and Amazon clearly feels the same way.
+
+The company operates at such an unfathomable scale (have you visited a regional fulfillment center lately?), that it truly needs to feel absolutely confident before it begins implementing new technologies into its workflows.
+
+Another noteworthy piece of news is an Amazon, MIT/Ipsos partnership designed to gauge what both workers and consumers think about industrial robots.
+
+“The key to effective teamwork is building a shared understanding of what our partners will do and what they will need to be successful,” says MIT’s Julie Shah. “Our research shows that the best way to optimize human-robot team performance is to develop robots that are active collaborators in helping a human to learn about their capabilities, limitations and behaviors.”
+
+I do think human perception of robots is a question worth asking, but I would love to see a study with such financial and academic resources digging more deeply into questions around short- and long-term displacements.
+
+During his presentation, Brady addressed the jobs question accordingly:
+
+We have more than 750,000 mobile robots in our operations and thousands of other robotic systems that help move, sort, identify and package customer orders. It’s taken us more than 10 years to reach this scale. During that time, Amazon has hired hundreds of thousands of employees to work in our operations. We take a purpose-driven approach to how we design and deploy technology at our facilities and we consistently prioritize using robots to support safety and ease everyday tasks for our employees.
+
+One other bit before we move on to the interview. At the top of the second day, an Amazon rep noted, “Every one of our teams is working on building generative AI applications.” That jumped out at me, for obvious reasons, but as the event pressed on into specifics around drone and robotics plans, the topic largely fell away.
+
+I kicked off my conversation with Tye Brady with a few questions on the subject.
+
+The subject of generative AI came up earlier in the day, but it was largely absent from the robotics conversations. How is your team thinking about the subject?
+
+I’ll talk about machine learning and then generative AI. I think that Amazon has been at the forefront of machine learning for decades now. As you can imagine, early on with Jeff [Bezos], if you needed to predict where inventory needed to go, one person couldn’t do that. We’ve involved machine learning as part of that, from the get-go. AWS has the Machine Learning Toolkit. Now that involves generative AI, and there’s over 100,000 businesses that are using that toolset today. We’re seeing where it’s going. We have what we call Codewhisperer that will help us in our actual coding of the robotic systems.
+
+Real language?
+
+Exactly right. If you’re trying to do this procedure or routine, it suggests you can write your subroutine this way. Cut and paste it. Very straightforward, very easy. It helps with the overall productivity. In robotics, generative AI has a lot of promise. One example that’s in my lab today is that we generate synthetic packages that are virtually indistinguishable from any picture you see. Generative AI will generate scenes, like what the robot would see with the right lighting condition. In simulation, we can pick up those generated packages with real-world contact force, all the way through with the actual perception system that’s in the field. We can even damage a corner in different ways to make sure our detection algorithms are actually working the way they should.
+
+Another one is grasp affordance. That’s a term we use in order to pick up an object and what’s the orientation and the pose of the end effector that you want in order to grab that object? Generative AI has a lot of possibilities there. As you can imagine, a set of basic primitives, where we then give a generative AI agent all of the options that we can do with our robotic end effectors. Why don’t we stitch those together in a meaningful way?
+
+To help determine the best method for picking.
+
+Exactly. That ultimately helps our designers determine and algorithmically prove that was the best method. The theme here is that generative AI has a lot of promise, particularly in influencing our designers to make a better system.
+
+I was recently speaking with Daniela Rus, and she was excited by the concept of using generative AI to literally design robots.
+
+The dynamics of the robots, to literally move the robots — path planning to actually figure out how to get the right angles — generative AI is incredible at that. We’re seeing a lot of promise with that today.
+
+What about real-world problem-solving?
+
+It’s another good example. I want to be careful on generative AI versus the machine learning systems that we have. We have what we call “flow” inside the building. We have machine learning systems that understand what line needs what at what time and can help divert the right material flow to the right stations, for example. We have machine learning systems that I think of as air traffic controllers for all the mobile drives that we have.
+
+Fleet management.
+
+Fleet management, task management, work management. On top of that, machine learning has completely changed computer vision, like the segmentation of objects — knowing where one object ends and the next begins.
+
+You’re using simulation, but there are always things you’re not going to account for. I’ve heard it said that generative is potentially useful for having robots make decisions for scenarios they haven’t encountered on the fly.
+
+Yeah. That’s been part of robotics for decades, the ability to make real-time decisions. It’s something that, even prior to generative AI, enabled the goods-to-person fulfillment systems we had. Even with Sequoia, there’s real time sensing capabilities that are built in that can detect objects and people. That needs to be in the robot, and then there’s stuff that we hold in AWS in the cloud that has the higher level of logic. It’s exciting to think about the capabilities of generative AI, and I don’t want to get ahead of ourselves. We always think in practical real-world examples inside of Amazon Robotics. But we’re so far pretty interested, particularly if we give primitives to our systems and then allow generative AI to stitch those together in ways that can make those real-time decisions. That has proven very useful, both in our mobility and manipulation solutions.
+
+Around April, you announced that Agility would be one of the first recipients in the Industrial Innovation Fund. Is potential warehouse integration a piece of making those investments?
+
+The Innovation Fund is really about exploring what’s possible out there. It’s about understanding practical real-world examples as well. We are interested in walking robots. I find that very interesting, the ability to move on different terrains is interesting. We’re also interested in what works — and frankly what doesn’t work — about it. The humanoid form is really interesting. I don’t know if it’s a good thing or a bad thing. We’re experimentalists at heart. We’re gonna figure that out. We’re going to do a pilot and see how that works out. We’re happy that they’re a part of our fund, but we also have other companies in the fund where we learned from, and if we want, we can make a larger investment in it. I’m not necessary saying that if we fund something, it’s going to be inside our processes. It’s very early stages.
+
+What does “very early stage” mean here?
+
+We’re learning about the function and utility. What’s possible here? What’s hype? What’s reality? Would this possibly scale? I think a lot of folks have difficulty understaning the scale in which we operate. It can’t work 99% of the time, because a 1% defect rate is a huge number inside any of our buildings.
+
+It’s clear looking at your progress on projects like Proteus that the goal is to move automation outside the cage.
+
+We’re moving outside the cage. What we can see with those investments is in 2022, as compared to manual buildings, we’ve reduced the recordable injury rate by 15%.
+
+With these sorts of deals like Agility, do you buy a number of robots outright for the testing? Are you leasing them?
+
+There’s no one-size-fits-all. We do a case-by-case basis. [Amazon declined to comment further on the arrangement.]
+
+One of the big appeals of bipedal robots is their ability to operate in brownfield settings, but Amazon doesn’t really have that problem.
+
+Our interest in systems like Agility is in the bipedal nature. The walking nature of that. Whether it’s two legs, four legs, or it’s rolling on wheels. If it performs that mobility function, we have interest, because we know that we need to move goods.
+
+But given Amazon’s immense resources, you’re able to build factories, ground up.
+
+That’s a good observation. The Sequoia system that you see is actually built for the height of our prior Kiva pods. If we wanted to retrofit buildings, we have that capability. We can containerize that building to bring the safety and productivity benefits to existing sites. We can retrofit brownfields that we’ve already built with the Sequoia system. We have greenfield and brownfield. Not everything is a greenfield.
+
+750,000 is a lot of robots.
+
+All manufactured by Amazon and built in the state of Massachusetts.
+
+Do you break those numbers down further?
+
+Those are just the AMRs. We also have a fleet of robots that sort packages. We have a fleet of robots that manipulate packages, like our Robin fleet that’s inducted more than 2 billion packages.
+
+You mentioned mobile manipulation earlier. Where is your team with that concept?
+
+It’s super exciting. I think those core fundamentals that I talked about, the verbs that I think we’re achieving a world class mastering in, when you start to bring those together in interesting combination, some really unique things happen. I think that we are world leaders when it comes to mobile robots out there. No one has the fleet of sure mobile industrial robots that are out there and controlling them at scale. And now we are very much in the business of manipulating not only packages, but also objects. And to bring those together, I think it’s exciting to see the possibilities.
+
+What does mobile manipulation look like?
+
+I think it’s probably what you think.
+
+Mounting an arm to an AMR?
+
+Yeah. With the Agility robot, you can think of that as a mobile manipulator. That has interest to us, right. The mode of mobility has particular interest to us because we just have not done a lot of work in bipedal robots. So that’s why we have interest in Agility. But absolutely, if we can combine that with identification systems with manipulation systems, sortation system, storage systems have anything and everything that we will do to innovate for our customer, right anything and everything will do to improve the safety for our employees.
+
+It’s a hard problem.
+
+It’s a very, very hard problem, when you’re talking about millions and millions of different objects. Of all different sizes, and scales and weights in dimensionality, the ability to not only grasp the item, but also identify the item, the ability to also look for damage on the item is pretty incredible. I want to eliminate every menial, mundane, repetitive job out there. So, if I can automate that, and allow our employees to focus more on what matters, on higher level tasking, that’s a total win. This ties into the MIT thing, too. The way it’s played out is, you replace a certain thing. So the jobs changed. The jobs exist, but it’s a big sweeping change.
+
+If I visit the labs, I’ll see these sorts of experiments in action.
+
+Yeah. If you were to go to outside of Nashville today, you would see Proteus working with our Cardinal arm. You’d get to see the interoperability. We have the Proteus drives moving carts to the outbound docks. If you were to go down to Hou 6 just outside of Houston, you would see Sequoia fulfilling orders today, right in time for holiday shopping.
+
+What role do people play in that picture?
+
+People will always be at the center of a robotics universe. We know more robots, more jobs that we see through the productivity increases that we have.
+
+[The MIT study] sounds like it’s largely about perception and what people think of robots, rather than job numbers specifically.
+
+I’m not sure. It’s wherever [MIT professor Julie Shah] wants to take it. We have a lot of interest in how people perceive robotics, because people will be using our robotics. And if it is intimidating, or there’s friction there, and you don’t want to use it, then we’re failing in our design.

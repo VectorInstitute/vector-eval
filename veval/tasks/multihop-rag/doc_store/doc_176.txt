@@ -1,0 +1,61 @@
+The trial of Sam Bankman-Fried is likely to be more consequential than just whether the man himself is found guilty. Depending on what evidence is introduced during the trial, it could be rough for the entire crypto industry.
+
+“How much damage can this trial do to the already beaten-down reputation of the industry at this point?” asks Yesha Yadav, a law professor at Vanderbilt University. “This trial is going to be an excruciating moment for the industry because no one knows what kind of evidence might come out.”
+
+Bankman-Fried, the founder of FTX and Alameda Research, is facing seven counts of criminal charges: two counts of wire fraud, and five counts of conspiracy charges. FTX was a failed cryptocurrency exchange founded in 2019. According to a now-deleted profile from FTX investors Sequoia Capital, FTX was founded because of Bankman-Fried’s frustration with other exchanges when he was running Alameda Research, his crypto trading firm. According to the SEC, FTX was a fraud “from the start,” diverting customers’ funds to Alameda.
+
+Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, is on trial for seven counts of wire fraud and conspiracy. FTX was a fraud “from the start,” the Securities and Exchange Commission alleges — with a “multi-billion-dollar deficiency caused by his own misappropriation of customer funds.” Follow along for all the latest news and regular updates from the trial.
+
+“Really just old-fashioned embezzlement.”
+
+What’s left of FTX is now being led by John J. Ray III — you may remember him as the guy who cleaned up Enron and who also said FTX is worse than Enron. Just before the trial began, the FTX lawyers filed suit against Bankman-Fried’s parents, saying they should give back millions of dollars they got from their kid. Ray has also referred to Bankman-Fried’s conduct as “really just old-fashioned embezzlement.”
+
+We have some inkling of what the government will be arguing thanks to the filings prosecutors are making in this case. They argue that Bankman-Fried lied about consumer protection and that Bankman-Fried’s statements that FTX was “avoiding or managing conflicts of interest” and that “as a general principle FTX segregates customer assets from its own assets across our platforms” were lies, in a superseding indictment filed August 14th.
+
+The indictment also says that there were special features in FTX’s code that “permitted Alameda to spend and withdraw unlimited amounts of money from FTX,” which were created at Bankman-Fried’s direction. That effectively exempted Alameda from the kinds of risk management other customers faced. At the same time, the government alleges, “Bankman-Fried publicly and repeatedly asserted that Alameda did not have privileged access to FTX.”
+
+Bankman-Fried is accused of using “billions of dollars in misappropriated FTX customer deposits” to help buy more than $200 million of real estate for himself, make billions of dollars of investments for his own interest, and repay Alameda’s lenders, according to the indictment, Additionally, Bankman-Fried allegedly used more than $100 million of customer funds to make political contributions; prosecutors can show evidence of those contributions in this trial, even though they aren’t part of the charges brought. A second trial is scheduled for March 2024, with additional charges.
+
+Before his fall, Bankman-Fried made himself out to be the Good Boy of crypto — the trustworthy face of a sometimes-shady industry. He was also very interested in publicity, sitting for many interviews both before and after the fall of FTX. The quick rise of FTX as an industry force was at least in part due to Bankman-Fried’s appetite for attention. Here are the hits:
+
+Bankman-Fried gave interviews freely — and quickly rose to public prominence in the industry. Though FTX hadn’t been in the business as long as competing exchanges such as Coinbase, Kraken, or Gemini, Bankman-Fried positioned himself as an important, boyish face for crypto. (At one point, Bankman-Fried told a colleague at FTX that “I honestly think it’s negative EV [this may mean “expected value,” as in poker] for me to cut my hair. I think it’s important for people to think I look crazy.”)
+
+Because he was so successful at this kind of public relations, his fall from grace was another mark against an industry that was already roiled by bankruptcies and scandals. Some additional trouble for the crypto industry is likely to come from one crucial element of the fraud trial — the part where the government must prove intent.
+
+The first part of proving the government’s case is pretty simple and a little boring: prosecutors must show that certain transactions took place. Whatever records the Southern District of New York has for the transactions will be shown.
+
+“What conversations happened between him and his co-conspirators that are now cooperating against him?”
+
+The second part is where all the drama is likely to come, says Christopher LaVigne, a litigation partner and co-chair of the cryptocurrency practice at the law firm Withers. Prosecutors have to connect those transactions to Bankman-Fried, show that he knew what he was doing was wrong, and prove that he lied about it anyway.
+
+“What was he saying to his parents and his other advisors about this?” LaVigne says. “What conversations happened between him and his co-conspirators that are now cooperating against him?”
+
+To further establish intent, the government can use Bankman-Fried’s own words. The indictment calls Bankman-Fried’s tweets in November 2022 “false and misleading.”
+
+“We had him going out directly to the internet,” LaVigne says. If he wrote things on Twitter or said things in interviews that weren’t true, that’s more fodder for the government’s case. “They can point to that and say, ‘This is what he said, this is what actually happened.’”
+
+Other evidence may include Signal messages and testimony from co-conspirators who plead guilty to their own charges. Alameda Research CEO Caroline Ellison, who was also sometimes Bankman-Fried’s girlfriend, may play an important role — Bankman-Fried leaked her diaries to The New York Times and was consequently jailed for witness tampering. The government has indicated FTX co-founder Gary Wang and engineering head Nishad Singh will also be among the witnesses called to give testimony about Bankman-Fried.
+
+Bankman-Fried’s defense can also introduce risks for people who dealt with him
+
+There may be testimony from lenders, venture capitalists, and customers in order to establish the basis for some charges. In the indictment, the prosecutors allege that Bankman-Fried lied to FTX investors. Some of those investors may be called on to testify, which is not the kind of thing VC big shots generally enjoy — and which might create collateral damage for the industry.
+
+If, for instance, Sequoia Capital did due diligence around its investment in FTX, whatever Bankman-Fried told its partners could be important. Was FTX already sending Alameda customer funds at that point? Did Bankman-Fried know about it? And did he tell VCs at the time? (If he told them it wasn’t happening, that would establish intent.) Binance was also an early investor in FTX, and former executives may be called on to testify as well, says Hermine Wong, the former head of policy at Coinbase and a former SEC regulator.
+
+Bankman-Fried’s defense can also introduce risks for people who dealt with him. Defense lawyers have several simultaneous objectives. First and foremost, they’re trying to prove their client is not guilty. But just in case they don’t get the outcome they want, they’re also laying the groundwork for appeals and sentencing arguments. Any piece of evidence they want to introduce for those two purposes has to come into play in the trial.
+
+Already, Bankman-Fried’s lawyers are marking arguments that his constitutional rights are being violated by his pretrial incarceration because, among other things, his internet connection wasn’t good enough for him to plan his defense, notes LaVigne. That could be grounds for an appeal.
+
+“Is he going to throw the entire industry under the bus?”
+
+Bankman-Fried’s behavior after the fall of FTX suggests he’s something of a wild card. He may suggest he was acting on the advice of his lawyers. But he may also introduce other evidence that could be troublesome — implying, for instance, that he was engaged in standard industry behavior or that everything that happened was Binance’s fault. That may be risky, but we already know that Bankman-Fried loves risk.
+
+“Is he going to throw the entire industry under the bus?” Wong asks. “An idea like, ‘Everyone was doing this, it’s not fair I’m the only one who was charged?’” That may not fly in a court of law, but it could absolutely damage public perception of crypto at large.
+
+For instance, just before he was arrested, Bankman-Fried brought forward messages from a crypto group chat in testimony he planned to give before Congress. In that testimony, he primarily blames Binance and his lawyers at the firm Sullivan & Cromwell.
+
+It’s possible other messages from group chats may be brought into evidence during the trial. That can potentially be embarrassing for the whole industry, Wong says.
+
+“You can imagine some of these founders, CEOs, people of that echelon talk to each other somewhat informally about what’s going on,” she says. If it seems like his peer group supported him, or worse, fawned over him, that’s a real problem for the industry’s reputation.”
+
+After FTX declared bankruptcy, Bankman-Fried went on an extensive media tour, doing interviews with The New York Times’ Andrew Ross Sorkin and Good Morning America. Even under house arrest, he did interviews, including with The New Yorker. Bankman-Fried seemed to think that if he just explained things, everyone would understand that what he did was a mistake, not a crime.

@@ -1,0 +1,33 @@
+Discord is introducing new safeguards to protect young users. On Thursday, the company announced Teen Safety Assist. The rollout will happen in the coming weeks and consists of two features: Automated alerts and content filters.
+
+Moving forward, when a user a teen hasn’t chatted with before sends a direct message, Discord will display a safety alert if the platform’s automated systems suspect the teen’s safety could be at risk. The prompt will nudge the young person to reconsider if they want to respond to the message, and point them to the app’s block feature and related safety tips.
+
+By default, Discord will now also automatically blur potentially sensitive images from a teen’s friends. Young people can disable the feature through an option in Discord’s settings menu. Adults, meanwhile, can enable the filters for themselves, if they want the additional protections.
+
+The introduction of Teen Safety Assist comes amid increased scrutiny of Discord’s efforts to limit the spread of child sexual abuse material (CSAM) and protect young users from predatory adults. In June, NBC News identified 35 cases over a period of six years where adults had allegedly used the platform to kidnap, groom or sexually assault minors. The outlet also found 165 cases where authorities were prosecuting adults for sharing CSAM over Discord or allegedly using the platform to extort young users into sending sexual images of themselves.
+
+In the aftermath of the report, Discord banned teen dating servers and changed its safety policies to ban the sharing of AI-generated CSAM. It also announced new rules explicitly prohibiting any other kind of text or media content that sexualizes children. At the same time, the company introduced Family Center, a dashboard for parents and guardians to keep track of what their teens are doing on Discord.
+
+Discord
+
+“Teens are still in the process of learning about themselves and what it means to be online, and our new safety features are rooted in providing them with agency on the platform, to give them ways to learn and grow in safe and age-appropriate online spaces,” said Savannah Badalich, senior director of policy at Discord. “These newest features are part of an ongoing, multi-year effort to continually evolve and advance safety on Discord.”
+
+At the same time, Discord is introducing a new warning system for people who violate its policies. Outside of incidents involving the most “extreme” violations, the company is moving away from permanent bans. It’s doing so under the belief that most users will choose to be better online citizens given the chance and proper guidance.
+
+In practice, the system will notify a person when they’ve violated one or more of Discord’s policies and detail the restrictions on their account. It will also link out to the company’s Terms of Service, Community Guidelines and appeal mechanism. A new “Account Standing” tab within the settings menu will allow users to see all their current and past policy violations.
+
+“We think we’ve built the most nuanced and proportionate reporting system,” Badalich told Engadget, adding the company hopes other platforms will look to what Discord has created for inspiration related to their own enforcement efforts. “We believe people, especially teens, have the capacity to grow.”
+
+Separately, Discord announced a slew of new features and enhancements slated to arrive either in the near future or down the line. To start, the platform’s in-app shop, which Discord began testing last month with Nitro subscribers, will soon be available to all users. The marketplace features digital items people can use to decorate their avatars and profiles. Discord will offer store discounts to Nitro members, as part of a new perk for signing up.
+
+Discord
+
+This week, the company will also start a broad roll-out of a feature called Remix. It allows users to edit an image directly within Discord’s mobile app and share it with their friends and servers. The company spent much of the last year improving its Android and iOS clients. One recent update saw it improve app launch times on both platforms. In the near future, Discord says people can expect a new “Midnight” dark mode the company claims reduces battery consumption on devices with OLED screens, more functional notification tabs and a new search feature for the settings menu to make it easier to find the exact option you’re looking to tweak.
+
+Last but not least, the company says it will begin rolling out Premium App Subscriptions to eligible developers in the UK and Europe, following a launch that began in the US a few weeks ago. On the subject of third-party apps, bots and plugins, the company said it’s in the process of exploring how to make those accessible across nearly every part of Discord. It provided few details on the effort, but said the goal is to allow people to access their favorite apps and bots without those experiences being restricted to select servers.
+
+“We're experimenting with a few different things, but the goal is for developers to reach more people with the awesome experience they're building. For users, we don’t want them to be gated from having these custom experiences at their fingertips,” Cherry Park, director of product marketing at Discord, told Engadget. “In terms of the way we architecture and build it, there are a couple of solutions. Some are easier, some are more difficult, and you're going to see us experiment with a few of them over the next few quarters.”
+
+Discord promised to share more about its efforts around app portability in the near future. In the meantime, Nitro subscribers will get a chance to test new features before they become available to the public.
+
+Update, October 20, 2023, 11:20 AM ET: This story has been updated to note that these feature are rolling out in the coming weeks, not this week as the post originally said. We also removed a mention that Discord would automatically delete potentially sensitive content from strangers. This was originally part of a briefing we received on the new features, but it was not included in the final release.

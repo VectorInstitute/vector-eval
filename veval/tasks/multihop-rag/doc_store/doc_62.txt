@@ -1,0 +1,265 @@
+The primary draw of the moneyline bet lies in its simplicity. Even those just dipping their toes into the world of sports betting for the first time can quickly get a handle on the basics of the moneyline.
+
+On this page we'll unpack the ins and outs of moneyline betting in more detail.
+
+What is a moneyline bet?
+
+So, what's the essence of a moneyline bet? In this type of bet, the sole focus is identifying the winner.
+
+The victory margin and the total points scored have no bearing. It doesn't matter if your chosen team clinches a win with a score of 2-1 or a blowout of 50-0; the payout remains unchanged.
+
+In this way, the moneyline distills sports to their essence: cheering for a victor.
+
+Every moneyline bet has a favorite and an underdog as determined by the sportsbook. In the context of moneyline betting, "favorites" and "underdogs" refer to the perceived stronger and weaker participants, respectively.
+
+Favorites:
+
+The favorite is the participant (be it a team or an individual) who is expected to win the event or matchup.
+
+In moneyline odds, especially in American odds format, the favorite is usually represented with a minus (-) sign. For instance, if Team A is a favorite and is listed at -150, a bettor would need to wager $150 to win $100.
+
+Underdogs:
+
+The underdog is the participant deemed less likely to win compared to the opponent.
+
+Underdogs in moneyline odds, particularly in the American odds format, are usually represented with a plus (+) sign. If Team B is an underdog and has odds of +130, a bettor would win $130 for every $100 they bet, should Team B win.
+
+Moneyline odds formats
+
+You'll typically encounter three types of odds when researching and handicapping across various platforms—decimal, fractional, and American.
+
+Most listings on the best online sports betting sites predominantly use American Odds.
+
+American Odds
+
+You'll usually see these displayed as either a negative (-) or positive (+) number, symbolizing different implications in the betting world.
+
+The negative numbers might seem a bit perplexing at first. They point to the team, player, or option considered the favorite to win.
+
+This number can also represent wagers that are less than even money. Essentially, the negative figure tells you how much you need to bet to earn a profit of $100. We'll clarify with an example shortly.
+
+Conversely, positive odds signal the underdog in the betting scenario or bets that offer more than even money. This figure shows how much profit you'll make on a $100 wager.
+
+To illustrate with a moneyline bet: Imagine on a top NFL betting site the New England Patriots are listed as -110 favorites, while the New York Jets stand at +250.
+
+You decide to back the favorite and bet $110 on the Pats. The Pats win, and you end up with $210.
+
+That sum comprises your initial $110 bet and the $100 profit you've earned.
+
+Fractional Odds
+
+While you might occasionally encounter these odds, especially in contexts like horse racing, they're quite straightforward once you get the hang of them, even if they initially seem like a math problem.
+
+These odds typically look like two numbers separated by a slash (/) or a dash (-), resembling a fraction. For instance, you might see 5/1 or 5-1.
+
+Here's a simple way to interpret fractions: the first number (akin to the numerator in math) represents potential profit, while the second (akin to the denominator) indicates the amount you need to stake.
+
+In other words, the denominator tells you how much you need to bet to earn a profit equivalent to the numerator.
+
+For example, with 2/1 odds, you'd earn $2 for every $1 you wager. Conversely, with 4/9 odds, a bet of $9 would yield a $4 profit.
+
+To further illustrate, if you placed a bet of $9 at 4/9 odds and won, you'd receive $13 in total: your initial $9 stake plus the $4 profit.
+
+Decimal Odds
+
+Decimals are to betting what the metric system is to measurements: straightforward and user-friendly. They present fewer intricacies compared to their American and fractional counterparts.
+
+However, just as the metric system is not universally embraced in the US, decimal odds can also be overlooked there.
+
+Fortunately, working with decimal odds is simple. To determine a bet's payout, you multiply the decimal odds by the amount you're betting.
+
+For instance, if the odds on an NHL betting site have the Edmonton Oilers at 2.53 to beat the Detroit Red Wings, a $10 bet would yield a $25.30 return. This includes your initial $10 wager, along with a profit of $15.30.
+
+It's essential to note that this calculation gives you the total payout, not just your earnings. If you're keen on tracking your profits from betting, remember to subtract your original stake from the payout to get an accurate figure.
+
+Why do moneyline odds change?
+
+Lines at the best sports betting apps change quickly due to two primary reasons:
+
+Public betting
+
+New information
+
+Before setting odds for an event, oddsmakers gather extensive data. Once they finalize the odds, they release them to the public.
+
+As a bettor, you can bet immediately or wait for potential shifts in the odds, although predicting these shifts is challenging.
+
+For instance, when examining odds for the next Super Bowl champion released shortly after the previous Super Bowl, these odds are based mostly on the recently concluded season.
+
+As the new season approaches and teams make changes, odds adjust based on perceived championship chances. As games progress, lines continue to evolve based on team performances.
+
+Public betting can also sway lines. If too many wagers favor one outcome, sportsbooks adjust the odds to balance the bets. This ensures an even distribution of bets and reduces the sportsbook's financial risk.
+
+Moneyline betting outcomes
+
+When you’re placing a moneyline wager, several outcomes are possible. The most straightforward outcome is a win or a loss, determined by whether the team or individual you bet on is victorious or defeated.
+
+There's also the possibility of a draw, which occurs if the event ends in a tie.
+
+Moneyline win
+
+Winning a moneyline bet is very straightforward. All you need to do is pick the team or individual who is going to win an event and choose correctly.
+
+If you bet on a boxing match between Boxer A and Boxer B, and you've bet on Boxer B to win and he does, then your bet would be successful and you'd get paid based on the odds at the time you placed your wager.
+
+Moneyline loss
+
+When placing a moneyline wager, a loss simply means that the team or individual you bet on did not win the event or matchup.
+
+For example, let's say on an NBA betting site you bet on a basketball game between Team A and Team B. You believe Team A will win, so you place a $100 moneyline wager on them. If Team B wins, your bet on Team A would be a loss.
+
+Draw
+
+In some sports, notably soccer, games can end in a draw, and bettors have the option to wager on this outcome. When placing a moneyline wager in such situations, you'll typically see three sets of odds: one for each team to win and one for the game to end in a draw.
+
+For instance, consider a soccer match between Team A and Team B. The moneyline odds might look something like this:
+
+Team A: +150
+
++150 Draw: +220
+
++220 Team B: +180
+
+If you believe the game will end in a tie, you could place a $100 wager on the "Draw" option. If the match indeed concludes with a tied score, you would win based on the +220 odds. This means you'd receive $220 in profit on top of your $100 stake, totaling $320. However, if either Team A or Team B wins, you'd lose your $100 wager.
+
+See more: Best soccer betting sites
+
+Moneyline betting examples by sport
+
+Below are some examples of typical moneyline bets you'll find for various professional sports.
+
+Moneyline odds in football
+
+NFL moneyline odds for a game between the Dallas Cowboys and the New York Giants might look something like this:
+
+Dallas Cowboys: -130
+
+-130 New York Giants: +110
+
+Here, the Cowboys are the favorites, indicated by the negative odds. If you bet $130 on the Cowboys and they win, you would earn a profit of $100.
+
+The New York Giants are the underdogs, as shown by the positive odds. If you wager $100 on the Giants and they pull off an upset victory, you would earn a profit of $110.
+
+Moneyline odds in basketball
+
+NBA moneyline odds for a game between the Los Angeles Lakers and the Miami Heat might be presented as:
+
+Los Angeles Lakers: -150
+
+-150 Miami Heat: +130
+
+In this scenario, the Lakers are favored to win, as indicated by the negative odds. If you back the Lakers with a bet of $150 and they win, you would earn a profit of $100.
+
+The Heat are the underdogs. If you place a $100 bet on the Heat and they win, your profit would be $130.
+
+Moneyline odds in baseball
+
+MLB moneyline odds for a game between the New York Yankees and the Boston Red Sox might look like this:
+
+New York Yankees: -120
+
+-120 Boston Red Sox: +100
+
+The Yankees are slight favorites. If you bet $120 on the Yankees and they win, you'd earn a profit of $100. The Red Sox have even odds, shown by the +100. This means if you bet $100 on the Red Sox and they win, you'd also earn a profit of $100.
+
+Moneyline odds in hockey
+
+NHL moneyline odds for a game between the Toronto Maple Leafs and the Chicago Blackhawks might be displayed as:
+
+Toronto Maple Leafs: -140
+
+-140 Chicago Blackhawks: +120
+
+If you put down $140 on the Maple Leafs and they win, you would earn a profit of $100. If you bet $100 on the Blackhawks and they pull off a win, you'd receive a profit of $120.
+
+Moneyline odds in soccer
+
+Soccer moneyline odds for an MLS match between the Seattle Sounders and Atlanta United might look like this:
+
+Seattle Sounders: +110
+
++110 Draw: +230
+
++230 Atlanta United: +140
+
+In this scenario, neither team is a clear favorite, but the Seattle Sounders have slightly better odds. If you bet $100 on the Sounders and they win, you'd earn a profit of $110.
+
+If you believe the match might end in a tie, you could place a bet on the "Draw" option. A $100 bet on a draw would result in a $230 profit if the match ends tied.
+
+Meanwhile, if you back Atlanta United with a $100 wager and they win, you'd secure a profit of $140.
+
+Remember, in soccer, the possibility of a draw is a common outcome to bet on, which is different from many other major sports.
+
+Moneyline odds in MMA/UFC
+
+UFC moneyline odds for a fight between Conor McGregor and Dustin Poirier might look like this:
+
+Conor McGregor: -200
+
+-200 Dustin Poirier: +170
+
+If you bet $200 on McGregor and he wins the fight, you'd earn a profit of $100. If you bet $100 on Poirier and he wins, you would earn a profit of $170.
+
+Moneyline odds in tennis
+
+Tennis odds for a match between Serena Williams and Maria Sharapova might be displayed as:
+
+Serena Williams: -150
+
+-150 Maria Sharapova: +130
+
+In this hypothetical matchup, Serena is the favorite to win. If you bet $150 on Williams and she wins, you would earn a profit of $100. Sharapova is the underdog. If you place a $100 wager on Sharapova and she manages to win, you'll receive a profit of $130.
+
+Moneyline odds in golf
+
+Let's consider some PGA tour odds at one of the best golf betting sites where you're betting on an individual golfer to win. The moneyline odds might be presented as:
+
+Tiger Woods: +500
+
++500 Rory McIlroy: +600
+
+In this hypothetical tournament scenario, neither golfer is a strong favorite, but the odds indicate their perceived chances to win. If you decide to bet $100 on Tiger Woods and he wins the tournament, you'd earn a profit of $500.
+
+On the other hand, if you place a $100 wager on Rory McIlroy and he clinches the tournament victory, you'd secure a profit of $600.
+
+It's important to note that in PGA and other golf tournaments, there are usually many players, so the odds can be much higher than in head-to-head sports matchups, given the broader field of competition.
+
+Moneyline Betting FAQ
+
+How do moneyline bets work?
+
+Moneylines hinge on the outright winner of a game or event. They are presented with either a positive (+) or negative (-) sign:
+
+A positive moneyline (+) indicates the underdog and represents the amount of profit on a $100 bet.
+
+A negative moneyline (-) indicates the favorite and shows how much you need to bet to earn a $100 profit.
+
+What happens if there’s a tie in a moneyline bet?
+
+If there's a tie in a moneyline bet, it is typically referred to as a "push." When a push occurs, bettors are refunded their original wager. No money is won or lost. However, sports that typically have the possibility of a tie (like soccer) often provide bettors with the option to bet on a draw.
+
+If the game ends in a draw and you haven't bet on that option, you would lose your bet. It's essential to understand the specific rules of the sportsbook and the sport you're betting on to know how ties are handled.
+
+Does overtime count in my moneyline bet?
+
+Yes, in most sports and with most sportsbooks (including new betting sites), overtime (or any extra time or tiebreakers) does count in a moneyline bet.
+
+That said, always check the specific rules of the sportsbook you're using to ensure you understand their policies.
+
+Why do moneyline odds change?
+
+Moneyline odds change for several reasons.
+
+Public Betting Patterns: If a significant amount of money is being placed on one team or participant, sportsbooks might adjust the odds to balance their liability. By making the odds less favorable for a heavily-bet team and more favorable for the less-bet team, they can encourage more even betting.
+
+If a significant amount of money is being placed on one team or participant, sportsbooks might adjust the odds to balance their liability. By making the odds less favorable for a heavily-bet team and more favorable for the less-bet team, they can encourage more even betting. New Information: Changes in factors like player injuries, player substitutions, or even changes in weather conditions can affect the perceived outcome of an event. When such information becomes public, sportsbooks may adjust the odds accordingly.
+
+Changes in factors like player injuries, player substitutions, or even changes in weather conditions can affect the perceived outcome of an event. When such information becomes public, sportsbooks may adjust the odds accordingly. Professional Bettors: Large wagers from sharp bettors or professional gamblers can cause the lines to shift. These individuals often have insights or information that can influence the odds.
+
+Large wagers from sharp bettors or professional gamblers can cause the lines to shift. These individuals often have insights or information that can influence the odds. Initial Miscalculation: Sometimes, the initial odds set by oddsmakers may be perceived as offering value to bettors. In such cases, heavy betting on one side might indicate that the initial odds were potentially "off," prompting an adjustment.
+
+Sometimes, the initial odds set by oddsmakers may be perceived as offering value to bettors. In such cases, heavy betting on one side might indicate that the initial odds were potentially "off," prompting an adjustment. Event Dynamics: For live betting, where bets are placed while the event is in progress, the evolving dynamics of the match can lead to frequent changes in the odds.
+
+Sportsbooks adjust moneyline odds to ensure they remain profitable, balance their book, and reflect the most current information about the event.
+
+Related Pages:

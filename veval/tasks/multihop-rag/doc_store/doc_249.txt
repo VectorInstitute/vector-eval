@@ -1,0 +1,103 @@
+The European Union has warned more needs to be done to address the risks that widely accessible generative AI tools may pose to free and fair debate in democratic societies, with the bloc’s values and transparency commissioner highlighting AI-generated disinformation as a potential threat to elections ahead of the pan-EU vote to choose a new European Parliament next year.
+
+Giving an update on the the bloc’s voluntary Code of Practice on Disinformation in a speech today, Vera Jourova welcomed initial efforts by a number of mainstream platforms to address the AI risks by implementing safeguards to inform users about the “synthetic origin of content posted online”, as she put it. But said more must be done.
+
+“These efforts need to continue and intensify considering the high potential of such realistic AI products for creating and disseminating disinformation. The risks are particularly high in the context of elections,” she warned. “I therefore urge platforms to be vigilant and provide efficient safeguards for this in the context of elections.”
+
+The EU commissioner noted she’s meeting representatives of ChatGPT maker, OpenAI, later today to discuss the issue.
+
+The AI giant is not a signatory to the bloc’s anti-disinformation Code — as yet — so is likely to be facing pressure to get on board with the effort. (We’ve reached out to OpenAI with questions about its meeting with the Jourova.)
+
+The commissioner’s remarks today on generative AI follow initial pressure applied to platforms this summer, when she urged signatories to label deepfakes and other AI-generated content — calling on Code signatories to create a dedicated and separate track to tackle “AI production”, and quipping that machines should not have free speech.
+
+An incoming pan-EU AI regulation (aka, the EU AI Act) is expected to make user disclosures a legal requirement on makers of generative AI technologies like AI chatbots. Although the still draft legislation remains the subject of negotiations by EU co-legislators. Add to that, once adopted the law is not expected to apply for a couple of years so the Commission has turned to the Code to act as a stop-gap vehicle to encourage signatories to be proactive about deepfake disclosures it expects to be mandatory in the future.
+
+Following efforts to beef up the anti-disinformation Code last year the Commission also made it clear it would treat adherence to the non-legally binding Code as a favorable signal for compliance with (hard legal) requirements hitting larger platforms which are subject to the Digital Services Act (DSA) — another major piece of pan-EU digital regulation that obliges so called very-large-online-platforms (VLOPs) and search engines (VLOSEs) to assess and mitigate societal risks attached to their algorithms (such as disinformation).
+
+“Upcoming national elections and the EU elections will be an important test for the Code that platforms signatories should not fail,” said Jourova today, warning: “Platforms will need to take their responsibility seriously, in particular in view of the DSA that requires them to mitigate the risks they pose for elections.
+
+“The DSA is now binding, and all the VLOPs have to comply with it. The Code underpins the DSA, because our intention is to transform the Code of Practice into a Code of Conduct that can form part of a co-regulatory framework for addressing risks of disinformation.”
+
+A second batch of reports by disinformation Code signatories have been published today, covering the January to June period. At the time of writing only a handful are available for download on the EU’s Disinformation Code Transparency Center — including reports from Google, Meta, Microsoft and TikTok.
+
+The EU said these are the most extensive reports produced by signatories to the Code since it was set up back in 2018.
+
+The EU’s voluntary anti-disinformation Code has 44 signatories in all — covering not just major social media and search platforms such as the aforementioned giants but entities from across the ad industry and civil society organizations involved in fact-checking.
+
+Google
+
+On generative AI, Google’s report discusses “recent progress in large-scale AI models” which it suggests has “sparked additional discussion about the social impacts of AI and raised concerns on topics such as misinformation”. The tech giant is an early adopter of generative AI in search — via its Bard chatbot.
+
+“Google is committed to developing technology responsibly and has published AI Principles to guide our work, including application areas we will not pursue,” it writes in summary on the topic, adding: “We have also established a governance team to put them into action by conducting ethical reviews of new systems, avoiding bias and incorporating privacy, security and safety.
+
+“Google Search has published guidance on AI-generated content, outlining its approach to maintaining a high standard of information quality and the overall helpfulness of content on Search. To help address misinformation, Google has also announced that it will soon be integrating new innovations in watermarking, metadata, and other techniques into its latest generative models.
+
+“Google also recently joined other leading AI companies to jointly commit to advancing responsible practices in the development of artificial intelligence which will support efforts by the G7, the OECD, and national governments. Going forward we will continue to report and expand upon Google developed AI tools and are committed to advance bold and responsible AI, to maximise AI’s benefits and minimise its risks.”
+
+Over the next six months Google’s report states it has no additional measures planned for YouTube. But, with generative image capabilities rolling out internally over the next year, it commits Google Search to leveraging IPTC Photo Metadata Standard to add metadata tags to images that are generated by Google AI.
+
+“Creators and publishers will be able to add a similar markup to their own images, so a label can be displayed in Search to indicate the images as AI generated,” Google’s report further notes.
+
+Microsoft
+
+Microsoft — a major investor in OpenAI which has also baked generative AI capabilities into its own search engine — claims it’s taking “a cross product whole of company approach to ensure the responsible implementation of AI”.
+
+Its report flags its “Responsible AI Principles” which it says it’s developed into a Responsible AI standard v.2 and Information Integrity Principles “to help set baseline standards and guidance across product teams”.
+
+“Recognizing that there is an important role for government, academia and civil society to play in the responsible deployment of AI, we also created a roadmap for the governance of AI across the world as well as creating a vision for the responsible advancement of AI, both inside Microsoft and throughout the world, including specifically in Europe,” Microsoft goes on, committing to continue building on efforts — including by developing new tools (such as Project Providence with Truepic) and inking partnerships (examples it gives include the Coalition for Content Provenance and Authenticity (C2PA), to combat the rise of manipulated or AI created media; with EFE Verifica to track false narratives spreading in Spain, Latin America, and Spanish speaking populations; and Reporters Sans Frontières to use their Journalism Trust Initiative dataset in Microsoft products).
+
+“These partnerships are part of a larger effort to empower Microsoft users to better understand the information they consume across our platforms and products,” it suggests, also citing efforts undertaken in media literacy campaigns and “cyber-skilling” which it says are “not designed to tell individuals what to believe or how to think; rather, they are about equipping people to think critically and make informed decisions about what information they consume”.
+
+On Bing Search, where Microsoft was quick to embed generative AI features — leading to some embarrassing early reviews which demonstrated the tool producing dubious content — the report claims it has taken a raft of measures to mitigate risks including applying its AI principles during development and consulting with experts; engaging in pre-launch testing and a limited preview period and phased release; the use of classifiers and metaprompting, defensive search interventions, enhanced reporting functionality, and increased operations and incident response; as well as updating Bing’s terms of use to include a Code of Conduct for users.
+
+The report also claims Microsoft has set up a “robust user reporting and appeal process to review and respond to user concerns of harmful or misleading content”.
+
+Over the next six months, the report does not commit Bing Search to any specific additional steps to address risk attached to the use of generative AI — Microsoft just says it’s keeping a watching brief, writing: “Bing is regularly reviewing and evaluating its policies and practices related to existing and new Bing features and adjusts and updates policies as needed.”
+
+TikTok
+
+In its report, TikTok focuses on AI-generated content in the context of ensuring the “integrity” of its services — flagging a recent update to its community guidelines which also saw it modify its synthetic media policy “to address the use of content created or modified by AI technology on our platform”.
+
+“While we welcome the creativity that new AI may unlock, in line with our updated policy, users must proactively disclose when their content is AI-generated or manipulated but shows realistic scenes,” it also writes. “We continue to fight against covert influence operations (CIO) and we do not allow attempts to sway public opinion while misleading our platform’s systems or community about the identity, origin, operating location, popularity, or purpose of the account.”
+
+“CIOs continue to evolve in response to our detection and networks may attempt to reestablish a presence on our platform. This is why we continue to iteratively research and evaluate complex deceptive behaviours and develop appropriate product and policy solutions. We continue to provide information about the CIO networks we identify and remove in this report and within our transparency reports here,” it adds.
+
+Commitment 15 in TikTok’s report signs the platform up to “tak[ing] into consideration transparency obligations and the list of manipulative practices prohibited under the proposal for Artificial Intelligence Act” — and here it lists being a launch partner of the Partnership on AI’s (PAI) “Responsible Practices for Synthetic Media” (and contributing to the development of “relevant practices”); and joining “new relevant groups”, such as the Generative AI working group which started work this month as implemented measures towards this pledge.
+
+In the next six months it says it wants to further strengthen its enforcement of its synthetic media policy — and explore “new products and initiatives to help enhance our detection and enforcement capabilities” in this area, including in the area of user education.
+
+Meta
+
+Facebook and Instagram parent Meta’s report also includes a recognition that “widespread availability and adoption of generative AI tools may have implications for how we identify, and address disinformation on our platforms”.
+
+“We want to work with partners in government, industry, civil society and academia to ensure that we can develop robust, sustainable solutions to tackling AI-generated misinformation,” Meta goes on, also noting it has signed up to the PAI’s Responsible Practices for Synthetic Media, while professing the company to be “committed to cross-industry collaboration to help to maintain the integrity of the online information environment for our users”.
+
+“Besides, to bring more people into this process, we are launching a Community Forum on Generative AI aimed at producing feedback on the principles people want to see reflected in new AI technologies,” Meta adds. “It will be held in consultation with Stanford Deliberative Democracy Lab and the Behavioural Insights Team, and is consistent with our open collaboration approach to sharing AI models. We look forward to expanding this effort as a member of the Code’s Task Force Working Group on Generative AI, and look forward to working together with its other members.”
+
+Over the next six months, Meta says it wants to “work with partners in government, industry, civil society and academia in Europe and around the world, to ensure that we can develop robust, sustainable solutions to tackling AI-generated misinformation”, adding: “We will participate in the newly formed working group on AI-generated disinformation under the EU Code of Practice.”
+
+Kremlin propaganda
+
+Platforms must concentrate efforts to combat the spread of Kremlin propaganda, Jourova also warned today — including in the context of looming EU elections next year with the risk of Russia stepping up its election interference efforts.
+
+“One of my main messages to the signatories is to be aware of the context. Russian war against Ukraine, and the upcoming EU elections next year, are particularly relevant, because the risk of disinformation is particularly serious,” she said. “The Russian state has engaged in the war of ideas to pollute our information space with half-truth and lies to create a false image that democracy is no better than autocracy.
+
+“Today, this is a multi-million euro weapon of mass manipulation aimed both internally at the Russians as well as at Europeans and the rest of the world. We must address this risk. The very large platforms must address this risk. Especially that we have to expect that the Kremlin and others will be active before elections. I expect signatories to adjust their actions to reflect that there is a war in the information space waged against us and that there are upcoming elections where malicious actors will try to use the design features of the platforms to manipulate.”
+
+Per the Commission’s early analysis of Big Tech’s Code reports, YouTube shut down more than 400 channels between January and April 2023 which were involved in coordinated influence operations linked to the Russian-state sponsored Internet Research Agency (IRA). It also removed ads from almost 300 sites linked to state-funded propaganda sites.
+
+While the EU highlighted that TikTok’s fact-checking efforts now cover Russian, Ukrainian, Belarusian and 17 European languages, including through a new partnership with Reuters. “In this context, 832 videos related to the war have been fact-checked, of which 211 have been removed,” Jourova noted.
+
+The EU also flagged reporting by Microsoft that told it Bing Search had either promoted information or downgraded questionable information in relation to almost 800,000 search queries related to the Ukraine crisis.
+
+Jourova’s speech also highlighted a couple of other areas where she urged Code signatories to go further — calling (yet again) for more consistent moderation and investment in fact-checking, especially in smaller Member States and languages.
+
+She also criticized platforms over access to data, saying they must step up efforts to make sure researchers are empowered to scrutinize disinformation flows “and contribute to the necessary transparency”.
+
+Both are areas where X/Twitter under new owner, Elon Musk, has moved out of step with EU expectations on countering disinformation.
+
+Twitter (now X) was an original signatory to the disinformation Code but Musk took the platform out of the initiative back in May, as critical scrutiny of his actions dialled up in the EU. And also today, as we reported earlier, Jourova drew attention to early analysis conducted by some of the remaining signatories which she said had found X performed the worst for disinformation ratios.
+
+This suggests that X, which back in April was designated by the EU as a VLOP under the DSA, continues to put itself squarely in the Commission’s crosshairs — including over its priority issue of tackling Kremlin propaganda.
+
+As well as devising the anti-disinformation Code, the bloc’s executive is now responsible for oversight of VLOPs’ compliance with the DSA — with powers under the new law to fine violators up to 6% of global annual turnover.

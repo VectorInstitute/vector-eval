@@ -1,0 +1,59 @@
+The financial damage from cybercrimes will reach an astronomical $10.5 trillion by 2025. As global economies go, that would rank third behind only the U.S. and China.
+
+But what’s bad for global conglomerates and the average person could be an opportunity for cybersecurity firms like Check Point Software (NASDAQ:CHKP).
+
+Even as rivals like Palo Alto Networks (PANW) and Fortinet (FTNT) cite an uncertain macroeconomic environment for weak billings forecasts, the need for cybersecurity is clearly growing. Global cybercrime damage costs are expected to increase 15% annually over the next two years, according to Cybersecurity Ventures.
+
+“There’s never been a better time to be in cyber,” Check Point (CHKP) President Rupal Shah Hollenbeck said in a Zoom interview this week. “It’s fortunate in that organizations are understanding the business value of cybersecurity in a really big way. Unfortunately, it’s because there are more hacks out there than ever before.”
+
+Financials
+
+Sales at Check Point (CHKP) have grown on a yearly basis amid the increase in demand. For the most recently reported quarter, non-GAAP earnings of $2.07 per share beat the average analyst estimate by 5 cents, while revenue of $596.3M beat by $3.78M.
+
+That resulted in an upgrade late last month at Piper Sandler with signs of recovery on the horizon.
+
+The demand for cybersecurity is strong, but companies are not immune to the realities of the global economy.
+
+This week, rival Palo Alto Networks (NASDAQ:PANW) lowered its billings forecast for the fiscal year, citing the cost of money which has remained a constant discussion with and focus for customers.
+
+It said it is constantly discussing payments in its annual billings plans, which can create variability on total billings more than before depending on financing used or the duration of contracts. Palo Alto (PANW) said it nonetheless sees demand for its products.
+
+Earlier this month, Fortinet (NASDAQ:FTNT) got a slew of analyst downgrades over a disappointing fourth-quarter outlook.
+
+The near- to medium-term is uncertain after disappointing results, Cantor Fitzgerald said. Stifel, which likes the company, said moving parts will take time to play out and shares are expected trade sideways in coming quarters.
+
+The future
+
+Check Point (CHKP) has made three recent acquisitions to expand its offerings.
+
+It has also invested in R&D and launched new products, like the Rugged Industrial Control Systems Gateway, which provides artificial intelligence security and deployments in harsh environments. Other new offerings include Playblocks, which extends the reach of siloed security systems to stop attacks across products, people and processes.
+
+“We’ve got to work at it on the go-to-market side, but I feel that all the ingredients are in place and, dare I say it, I think 2024 can be a really fantastic year for us,” Hollenbeck said, adding the company has increased headcount over the past year including a 25% rise in its salesforce.
+
+Hollenbeck said the company welcomes competition, as they "bring out the best of innovation for customers." The executive spent more than two decades at Intel (INTC) working in Singapore and Beijing, among other places.
+
+Check Point (CHKP) ended the most recent quarter with $3B in cash, which could open the door to additional acquisitions, though Hollenbeck declined to cite specifics.
+
+Women
+
+Hollenbeck has led the company for almost two years, one of the few C-suite level women in tech. Nearly 17% of tech companies currently have a woman serving as CEO, according to AnitaB.org, which supports women in computing and tech.
+
+Hollenbeck is a seasoned executive: after Intel (INTC), she spent time at Oracle (ORCL) and is on the board of Neythri Futures Fund, which invests in female founders tapping into a growing base of South Asian female leaders. Although she’s been in tech for nearly 30 years, it hasn’t gotten easier to be a woman in a male-dominated industry.
+
+At most tech events, "there's never a line [outside] of the lady's room,” Hollenbeck said. “I think it's gotten materially better, but it's only gotten materially better because we started from such a low point.”
+
+Hollenbeck is proud that four of the top executives at Check Point (CHKP) are women and three women are on the board.
+
+“That’s pretty amazing,” she said, pointing to data that shows the more women in leadership roles, the better they perform. According to McKinsey, companies that improved women’s representation outperformed their industry from 2019 to 2022 when compared to other companies with data from the same time period.
+
+“When there is gender parity of the board, that company tends to perform higher than the average,” she said. The question is “why is it the best kept secret and why aren’t organizations responding to this faster and better?”
+
+War
+
+Like many companies in Israel, Tel Aviv-based Check Point (CHKP) has been impacted by the war, as Hollenbeck said some of its employees have been killed and others have been called to serve.
+
+However, she stressed operations are normal and business is continuing as usual. Check Point (CHK) has levels of redundancy around the world and research and development happening in several locations, she said.
+
+In addition, the company’s supply chain is 100% outside of Israel and tech support centers and data centers are found around the world.
+
+"We have the right level of redundancies and business continuity plans in place around the world," Hollenbeck said. "So we're okay."

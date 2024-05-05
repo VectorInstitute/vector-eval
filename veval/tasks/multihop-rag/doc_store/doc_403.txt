@@ -1,0 +1,27 @@
+Beeper Mini, the app bringing blue bubble iMessage texts to Android users, is back in operation on Monday after a long weekend that saw Apple putting an end to Beeper’s services, claiming it was a security risk. Now, the startup behind the new app says it has resumed functioning, but hasn’t disclosed how that’s been made possible. In addition, Beeper Mini will be free for the time being given the unstable nature of Beeper’s status and Apple’s attempts at shutting it down.
+
+Founded by former Pebble smartwatch founder Eric Migicovsky, Beeper had originally been working on an app that aggregated all of a user’s chat apps into a single interface. However, upon the discovery of new technology that allowed it to reverse-engineer the iMessage protocol, it set out to build a new app called Beeper Mini that solely focused on bringing iMessage chats to Android users for $1.99 per month. That included support for high-quality photos and videos, tapback reactions, typing indicators, read receipts and more.
+
+The app quickly climbed into the top 20 in the Play Store’s charts and saw over 100,000 downloads in its first 48 hours, the company claims.
+
+Unfortunately, Beeper Mini’s success was short-lived. Only days after launching, Apple on Friday night took action against the startup, having found a way to stop Beeper Mini’s messages from being passed from Android phones to its servers. The Cupertino tech giant explained that it needed to shut down the app because it “posed significant risks to user security and privacy, including the potential for metadata exposure and enabling unwanted messages, spam, and phishing attacks.” Essentially, Apple said that it couldn’t verify that Beeper’s claims of end-to-end encryption were true, and therefore it needed to take “steps to protect our users by blocking techniques that exploit fake credentials in order to gain access to iMessage.”
+
+As the Beeper team scrambled for a fix, U.S. Senator Elizabeth Warren (D-Mass.) shamed Apple for its intervention in a post on X, formerly Twitter, saying “Green bubble texts are less secure. So why would Apple block a new app allowing Android users to chat with iPhone users on iMessage? Big Tech executives are protecting profits by squashing competitors. Chatting between different platforms should be easy and secure,” she wrote.
+
+On Monday, Beeper announced on its blog that it has updated the Beeper Mini app to fix the issue that “caused messages not to be sent or received.” It hasn’t said exactly how it’s made that happen, but notes that the security of Beeper Mini remains unchanged — promising it still includes local, end-to-end encryption as previously described. Migicovsky told TechCrunch he can’t share anything on that topic beyond what’s already in the blog post.
+
+Though Beeper Mini is running again, there is a caveat: phone number registration isn’t yet working. That means users will have to sign in with an Apple ID. The startup says it’s working to address this too.
+
+It has also decided to make Beeper Mini free for the time being, given how “chaotic” things have been over the past few days. “As soon as things stabilize (we hope they will), we’ll look at turning on subscriptions again,” the blog post reads.
+
+Although Beeper did not have its app reviewed by an independent third-party security firm before launch, it’s challenging Apple to put it to the test.
+
+“If Apple doubts the security and privacy of our app, we’re willing to share the entire Beeper Mini codebase with a mutually agreed upon 3rd party security research firm,” the blog post stated. Asked if they would run an audit without Apple’s participation, Migicovsky tells us he wants Apple to agree on the firm first. The company also said it would be willing to add a pager emoji to metadata on all its sent messages, which would allow the Messages app to filter out messages from Beeper Mini users.
+
+Users can get the updated version of Beeper Mini from beeper.com/update on their phone for the time being as the company has not yet submitted the new version to the Play Store, claiming it needs to do some final testing. But that means users are being asked to sideload the app update onto their devices, which is riskier than downloading from the Play Store, where apps undergo reviews and basic security checks. The app update is now live on Google Play (updated, 1:28 pm ET).
+
+The update, which now prompts users to sign in with their Apple ID, also includes new features, like chats that will open at the last unread message and an improved video player, the blog post noted. In tests, signing in with our Apple ID generated an Apple prompt that noted our ID was being used to sign in with a device “near Los Angeles, CA” (where we are not located.) We received an error message “2FA submission error” after updating the app, but an uninstall/reinstall fixed this. We understand this is a known bug.
+
+After setting up the new Beeper Mini, a message appeared on our iPhone that said: “Device Added to Your Account. A Mac now has access to iMessage,” which offers a hint as to Beeper’s fix.
+
+Apple has not yet gotten in touch directly with Beeper, having only released a statement to the press. It’s unclear at this time if, how, or when it will be able to disable Beeper’s updated build.

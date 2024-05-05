@@ -1,0 +1,57 @@
+EU turns up the heat on X over illegal content in wake of Israel-Hamas war
+
+The European Union is cranking up the heat on Elon Musk-owned X. Late Thursday, the Commission sent the company a formal request for more information — after issuing a public warning Wednesday about reports that illegal content and disinformation targeting the Israel-Hamas war is circulating on the platform, and Twitter’s CEO sending a high-level (non specific) response to that warning.
+
+The move could prefigure the opening of a formal investigation of X under the bloc’s content moderation rulebook, the Digital Services Act (DSA). If the Commission moves ahead on that, it will be the first investigation opened under the DSA since a compliance deadline for so called “very large online platforms” (aka VLOPs) kicked in this summer.
+
+Non-compliance under DSA rules, meanwhile, could trigger fines of up to 6% of annual turnover, plus potential blocking of a service for repeated infringements. X owner Elon Musk last projected revenues of about $3 billion for this year. It’s anyone’s guess if that’s accurate now, but as an example, that would result in a fine of up to $180 million.
+
+Indirectly, an investigation will also be a key way for the public to have significantly more transparency around how X is being used (and abused): since Musk took Twitter private, the company no longer produces quarterly earnings reports and is not held to account as closely as a result.
+
+EU officials confirmed to TechCrunch that an investigation has not been taken at this point. Clearly, though, yesterday’s development (and the pace at which regulators are moving) is a strong indication of the bloc’s direction of travel.
+
+The Commission said it is looking at X’s compliance with the DSA across a number of areas — including with regard to its policies and practices regarding notices on illegal content; complaint handling; risk assessment and measures to mitigate the risks identified.
+
+On Wednesday, in an “urgent” letter to Musk, the EU’s internal market commissioner Thierry Breton said the bloc had seen “indications” from “qualified sources” that X is being used to disseminate illegal content and disinformation in the EU” following Saturday’s attacks — before reminding X of the DSA’s “very precise obligations” vis-à-vis content moderation.
+
+“When you receive notices of illegal content in the EU, you must be timely, diligent and objective in taking action and removing the relevant content when warranted,” Breton also warned then.
+
+In its latest press release, the EU said it has sent X a formal request for information under the DSA.
+
+“This request follows indications received by the Commission services of the alleged spreading of illegal content and disinformation, in particular the spreading of terrorist and violent content and hate speech,” it wrote, adding that the ask also addresses other aspects of DSA compliance.
+
+The pan-EU regulation puts a series of governance obligations on digital services and platforms with the aim of ensuring companies are responding to reports of illegal content. They must also clearly communicate their T&Cs to users and be able to demonstrate proper enforcement.
+
+Larger platforms like X also have additional obligations to identify and mitigate systemic risks such as disinformation, gender-based violence or negative effects on the exercise of fundamental rights.
+
+Additionally, the regulation includes a “crisis response” mechanism (Article 36) which enables the Commission to adopt rapid-fire measures on larger platforms in situations of “serious threat”, such as war.
+
+Since Saturday’s attacks in Israel, posts identified as false have been spotted circulating on X — including, in one example, a clip that purported to show Hamas missile attacks on Israel but was actually footage from a video game.
+
+Meanwhile X’s ability to respond internally to reports of content problems have been drastically pared back after Musk’s takeover last year — which saw major layoffs, including in content moderation and human rights as part of the new billionaire owner’s bid to improve the platform’s profitability.
+
+In response to the EU’s warning earlier this week, X CEO Linda Yaccarino released a letter saying that a leadership group had been convened to consider X’s response and “tens of thousands” of pieces of content had been removed, along with “thousands” of posts and “hundreds” of accounts linked to terrorist groups, violence or extremism.
+
+She also said the company formerly known as Twitter is responding to law enforcement requests but claimed it had not received any requests from Europol at the time.
+
+Today @lindayaX responded to @ThierryBreton’s letter detailing our work in response to the terrorist attack on Israel. pic.twitter.com/yZtaOVGpHG — Global Government Affairs (@GlobalAffairs) October 12, 2023
+
+In further remarks via X’s safety account, the company reported that there had been more than 50 million posts globally over the past two days that referenced the weekend’s terrorist attack, underlining the scope of content generated.
+
+X has been pushing a so-called Community Notes feature — which crowdsources additional context to add to questionable tweets — as its main response to disinformation risks.
+
+By Thursday afternoon, Hamas’ attack had killed more than 1,200 people, per the Israeli Military, and at least 1,537 people had been killed in Gaza by Israel’s retaliatory strikes, according to the Gaza Ministry of Health.
+
+Returning to the EU process, X has until October 18 to provide the bloc with information about “the activation and functioning of X’s crisis response protocol”; and until October 31 to respond to its other requests.
+
+“Based on the assessment of X replies, the Commission will assess next steps,” the Commission wrote. “This could entail the formal opening of proceedings pursuant to Article 66 of the DSA.”
+
+It also noted the regulation includes powers to impose fines for “incorrect, incomplete or misleading information in response to a request for information”.
+
+“In case of failure to reply by X, the Commission may decide to request the information by decision. In this case, failure to reply by the deadline could lead to the imposition of period penalties,” the EU added.
+
+Earlier this year, Musk pulled out of the EU’s Code of Practice on online disinformation. In a response to X leaving the voluntary Code, Breton warned: “Obligations remain. You can run but you can’t hide.”
+
+In recent days, TikTok and Meta have also been warned by the EU over disinformation related to the Israel-Hamas war. But back in September, a study commissioned via the EU’s Code of Practice suggested X is the worst of the major platforms when it comes to spreading disinformation.
+
+This report was substantially revised to clarify a number of aspects, including — most saliently — that the EU has sent a formal request for information to X at this point. This could prefigure a formal announcement of an investigation but is not, yet, that formal technical step. We also clarified the scale of financial penalties possible under the DSA if a breach is confirmed; and added details of the regulation’s crisis response mechanism. We also fixed an error in the original report which referred to Interpol, rather than Europol.

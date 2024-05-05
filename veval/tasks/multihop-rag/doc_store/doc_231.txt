@@ -1,0 +1,71 @@
+Keep Labs built a lockable storage container for medicine, and it doesn’t matter if the meds come in bottles, boxes or dime bags. The Keep is designed to hold them safely and track their use. The company launched in 2019, won — and lost — an innovation award at CES 2020, and this week started shipping its first product to consumers.
+
+The Keep device is lovely. I have a test unit sitting on my bathroom vanity, and it looks more like a smart speaker than a secure box. There’s a clock on the front and a soft matte finish. Click a button in the app, and the lid opens, revealing a space to hold about six bottles of pills. Or, with secure mode disabled, a double tap on the front opens the device without needing a smartphone.
+
+Take a pill or two? The Keep uses a sophisticated scale to detect the bottles that were returned just a little bit lighter, and this is recorded in the app. Didn’t take your meds? The Keep knows and can trigger a smartphone notification on your or a companion’s phone.
+
+To the founders, Keep is more than just a secure box; it’s a solution to harm reduction and medication management.
+
+I recently spoke with co-founder, president and chairman Philip Wilkins about the company’s journey from a preorder success story to finding an enterprise offering by partnering with Canadian healthcare providers.
+
+From cannabis to medicine
+
+Wilkins is an earnest entrepreneur. Spend a few minutes with him, and it’s clear he’s passionate about solving the problem of safeguarding medicine.
+
+This was the second time I spoke with him. The first was back In 2019 when his company won an innovation award at CES 2020. This award was later rescinded because the device was marketed as a cannabis storage device. In 2019, going into 2020, the trade group hosting CES had a strict but convoluted stance on cannabis products. Somehow, Keep Labs won an award. Eventually, someone at the CTIA noticed Keep Labs’ marketing and pulled the prize. This set off a firestorm, eventually leading the CTIA to soften its stance on cannabis-adjacent products — after all, cannabis is legal in Nevada, where CES is held.
+
+This experience has had a lasting affect on Keep Labs. Look at the website. Cannabis is not mentioned. The Keep is now marketed with the catch-all term “medicine.”
+
+“Cannabis is still there,” he said, noting that the company is still on the same mission of harm reduction. “Cannabis was a great way to start a conversation because everyone wants to talk about cannabis, but no one wants to talk about getting high.”
+
+By simply saying “medicine,” the company feels like it found a good middle ground with its messaging. As Wilkins told me, Google and Meta heavily restrict the term “cannabis” in advertising, which limits the marketing reach of such devices as Keep. In advance of the launch, Keep Labs had to conduct preorders using a Shopify store because Kickstarter and Indiegogo also didn’t allow products to be marketed with the term cannabis.
+
+Preorder success
+
+Keep was born from a familiar story. Wilkins was using medication to treat a new condition, and his wife was concerned about their three-year-old getting into the drugs. It’s a growing struggle with many households, especially with the rise of cannabis edibles packaged to look like candy.
+
+At the time, he looked at the market and saw several pill dispensing devices. “There were a lot of medication dispensing devices, but it was very clinical in nature. And so, like every crazy entrepreneur, [I said] ‘let me see if I can go solve this problem for myself.'”
+
+The company saw early success despite not having a shipping product. They capitalized on the attention of getting kicked out of CES and in December 2019, launched a preorder campaign. Over 15,000 people preordered the device, with 5,000 paying in full. At the time, the preorder noted that all sales were final, but the company reversed course and offered everyone a refund when COVID hit, and Keep Labs lost its manufacturer. Philip said that only 5% of the preorders were canceled.
+
+A time out due to COVID
+
+The COVID-19 pandemic changed Keep Labs. The company was heading toward production when the pandemic hit. Nearly overnight, all of their manufacturing contracts were canceled, leaving the preorders and the company up in the air.
+
+“What the hell do we do now,” Wilkins said, adding that they took a step back and started talking to their preorder customers — all of them. For the next year, the company spoke to two to three customers weekly about what made them preorder the device. “What we found was that a lot of people were buying [the Keep] for medication tracking, and not for the primary use case of locking medication in a box.”
+
+This critical feedback led to Wilkins stepping down as CEO. He brought on Jeff Wandzura to lead the company.
+
+Wandzura is a trained pharmacist who previously sold two digital health companies. Wilkins said he felt Wandzura’s skills were complementary to his skill set, and it was the right thing to do for the company. “Honestly, it’s one of the best decisions I’ve made throughout my career as Jeff grounded the company, has driven our enterprise success, and become a close friend.”
+
+“As you can imagine, the pandemic brought about a lot of uncertainty, and we lost some good people,” Wandzura told me. “After I started speaking to preorder customers to understand why they bought Keep, it was clear that I needed a partner from the pharma/pharmacy world.
+
+“The world of medication compliance is complex, and we needed the clinical knowledge on the team. I wasn’t comfortable. And two, I’ve always felt a strong fiduciary duty to my investors to make decisions in the company’s best interest, which meant checking my ego at the door.”
+
+Wilkins continues to talk to customers. The company has an active beta program with 150 users, and he calls the top 10 users weekly to better understand their usage. He’s discovered people are now using their Keep for other critical items like keys, passports and cash. He believes these additional use cases show users trust the device.
+
+With Wandzura leading the company and with gobs of customer feedback, Keep Labs started exploring an enterprise offering focused on medication adherence along with harm reduction.
+
+The company became part of the McKesson Digital Health Network in Canada to provide real-time data about whether patients are taking their medication. Keep Labs also has a partnership with Savvy Cooperative to give away free Keep devices to patients who are living with chronic conditions. These partnerships provide an invaluable feedback loop of front-line patients interacting with their devices.
+
+“Let’s make it super easy to deploy to individuals who need support,” Wilkins said. “And we provide de-identified aggregate data to understand how many patients in the population are adhering [to their medications] and how many need intervention so they can understand patient behaviors at home. We charge a nominal subscription fee for that.”
+
+I asked about how the company safeguards personal data and received the following statement that’s worth reprinting in full:
+
+“Protecting user privacy and ensuring data security are paramount for KEEP. We adhere to stringent data protection regulations such as HIPAA in the U.S. and PIPEDA in Canada to safeguard customer information. All data transmitted through KEEP is encrypted both in transit and at rest, utilizing robust encryption algorithms. Our platform employs multi-factor authentication, regular security audits, and penetration testing to protect against unauthorized access. Furthermore, we conduct ongoing staff training and adhere to a strict privacy policy to ensure that all members of our team are vigilant and adhere to the highest standards of data protection and software development including RBAC. This comprehensive, multi-layered approach to security ensures that patient information remains confidential and secure at all times.”
+
+Wilkins added that its encryption keys are generated on the fly within their production environment and securely stored. No individual has direct access to the keys. Data is transmitted using TLS 1.3 encryption, while data at rest is secured with AES-256 encryption. User passwords undergo hashing with PBKDF2 utilizing SHA256. The company uses automated tools such as Scan Hawk and Synk to test its security and provide code vulnerability assessments. He notes that their code is subject to peer reviews, and the company uses the Coalition Cybersecurity and Stendard to provide a final layer of external review.
+
+It’s worth applauding Keep Lab’s security and privacy measures. The above shows a company that’s proud of its efforts and is comfortable making them public.
+
+Cooling meds is next for Keep
+
+With its first product shipping to consumers, Keep Labs is exploring raising capital at the end of 2023 or early 2024. The company has raised $2.18 million from venture capital sources, including StartUp Health’s Transformer Fund, Plug and Play Tech Center, Onbelay Capital and 001 Ventures.
+
+Angels have helped Keep Labs along the way, too. The company’s advisory board includes former IBM Watson head Michael Rhodin.
+
+“We’ve got a lot of contracts we’ll be announcing over the next several months, which is super exciting,” Wilkins said. “And then after that, it’s the launch of our second-gen product, which is the same as the original, except it’s got a cooling device.”
+
+He explained that nearly 50% of the drugs in the FDA pipeline require cooling: “Ozempic is a great example, and people are keeping it in their fridge, next to their butter, and we’ve heard from customers and enterprise partners that [adding cooling] could be a huge win.”
+
+Until then, the company’s first-generation product is available from Keep Labs’ website. It comes in black and white and costs $299.

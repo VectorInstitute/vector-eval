@@ -1,0 +1,163 @@
+As artificial intelligence gains an ever-widening role in the medical field, the Mayo Clinic has recently appointed a new executive to lead the health system’s efforts in that area.
+
+Radiologist Bhavik Patel, M.D., has been named chief artificial intelligence officer (CAIO) for Mayo Clinic Arizona . Before joining the clinic in 2021, Patel practiced at Duke University Medical Center and Stanford University Medical Center.
+
+Dr. Richard Gray, CEO of Mayo Clinic Arizona, announced the hire on LinkedIn, noting the organization has only "begun to scratch the surface of AI's potential in medicine."
+
+WHAT IS ARTIFICIAL INTELLIGENCE (AI)?
+
+In his new role, Patel will lead Mayo Clinic’s Advanced AI and Innovation Hub.
+
+He'll focus on expanding AI-based solutions throughout the organization, according to a press release.
+
+A growing number of health care organizations are hiring individuals in high-level AI roles, said Dr. Harvey Castro, a Dallas, Texas-based emergency medicine physician and AI expert — but it could be a challenge to fill them.
+
+"We will likely see a huge increase in these roles, but may not have enough AI doctors to fill this space," Castro told Fox News Digital.
+
+ARTIFICIAL INTELLIGENCE: FREQUENTLY ASKED QUESTIONS ABOUT AI
+
+Approximately 5,000 U.S. doctors have AI and data science knowledge after undergoing formal training in these fields, he estimated.
+
+Why is the chief AI officer role important?
+
+In an interview with Fox News Digital, Patel described AI as a "transformative force that has the potential to revolutionize health care delivery, research and operations."
+
+Given AI’s sweeping impact and fast growth, Mayo Clinic’s new CAIO said there is a need for a dedicated leadership position to ensure "clear direction and alignment with broader organizational goals."
+
+The chief AI officer is also responsible for balancing the technology’s risks and benefits, Patel noted.
+
+"The chief AI officer is not just a technocrat, but a visionary leader."
+
+"While AI brings forth myriad benefits, it also carries inherent risks," he said. "A CAIO provides the necessary oversight to ensure that the implementation of AI is ethical, responsible and in line with regulatory guidelines."
+
+A chief AI officer also "bridges the knowledge gap," he said, helping teams understand and harness the technology’s power.
+
+ARTIFICIAL INTELLIGENCE HELPS DOCTORS PREDICT PATIENTS’ RISK OF DYING, STUDY FINDS: ‘SENSE OF URGENCY’
+
+The role is also important in terms of maximizing the use of resources, fostering collaboration across departments and keeping up with future health tech trends, Patel added.
+
+"Their expertise is critical in ensuring that the organization remains on the cutting edge of technological advancements while safeguarding patient welfare," he said.
+
+"In essence, the chief AI officer is not just a technocrat, but a visionary leader, ensuring that the organization navigates the AI-driven paradigm shift in health care with agility, responsibility and a patient-centric approach."
+
+Castro agreed that the importance of this role is evident as AI becomes a pivotal part of health care.
+
+"A chief AI officer can oversee the use and development of AI technologies , ensuring that they are leveraged effectively for patient care, data management and other applications," he said.
+
+Daily functions of a chief AI officer
+
+A chief AI officer has several core functions, according to Castro.
+
+GOOGLE CLOUD AND MAYO CLINIC SET TO DISRUPT HEALTH CARE WITH GENERATIVE AI
+
+Educating the health care community is one focus.
+
+"This person should ensure that staff and stakeholders are informed about AI technologies and their applications," he said.
+
+Developing and implementing the algorithms used in the AI solutions is also a key part of the job, said Castro.
+
+The CAIO must understand and analyze data derived from AI to inform decision-making and strategy.
+
+"This role also entails managing the use of AI across the organization, ensuring that it aligns with regulatory standards and organizational goals," Castro said.
+
+Strategy development is also inherent to the chief AI officer’s job.
+
+NEW AI-GENERATED COVID DRUG ENTERS PHASE I CLINICAL TRIALS: ‘EFFECTIVE AGAINST ALL VARIANTS’
+
+"This involves formulating strategies for the implementation and utilization of AI in various health care aspects, such as patient care, data analysis and operational efficiency," said Castro.
+
+In Patel’s case, he said the heart of his new role is to "ensure that our AI direction seamlessly integrates with and reinforces our organizational values."
+
+Some of Patel’s day-to-day functions include:
+
+Overseeing the identification, vetting and integration of AI solutions for various clinical and administrative functions
+
+Using AI to improve diagnostic accuracy, optimize treatment paths and enhance the patient experience
+
+Engaging with stakeholders to gather insights, feedback and expertise
+
+Ensuring that all AI algorithms are transparent, free from biases, and designed in the best interests of patients and their communities
+
+Facilitating training sessions, workshops and awareness campaigns to ensure that everyone is up-to-date and empowered to harness AI's potential
+
+"In essence, my role as chief AI officer is both strategic and operational," Patel told Fox News Digital.
+
+"It's about setting a vision rooted in our values while ensuring the tactical execution of AI projects that drive value to our patients."
+
+One of the tech team’s biggest recent contributions is an AI model that proactively assesses a person's risk of a heart attack , Patel noted.
+
+AS AI SHOWS UP IN DOCTORS' OFFICES, MOST PATIENTS ARE GIVING PERMISSION AS EXPERTS ADVISE CAUTION
+
+"This model uses data from chest CT exams — often conducted for unrelated health issues, such as COVID or lung nodules — and identifies future heart disease risk, which unfortunately even expert physicians can't discern from the scan," he said.
+
+"The model helps cardiologists prevent potential heart attacks rather than treating them reactively."
+
+Mayo Clinic has also developed AI models that predict the prognosis of patients with diseases such as colon cancer , detect risks of future cancers using existing medical records, and predict 30-day hospital readmission or hospital-acquired infections, Patel said.
+
+"AI can pinpoint details that make a significant difference in diagnosis and treatment."
+
+"Our focus is not only to develop these AI models, but to ensure that the benefits of these models reach patients swiftly," he added.
+
+Key benefits of AI in health care
+
+Patel said he views AI as a "powerful instrument" that helps magnify physicians’ capabilities rather than replacing them.
+
+"One of AI's primary strengths is its ability to recognize patterns that might escape the human eye," he said.
+
+"Whether it's intricate anomalies in medical imaging or subtle patterns in patient histories, AI can pinpoint details that make a significant difference in diagnosis and treatment."
+
+The technology also helps providers by sifting through and analyzing vast volumes of information, far more than what would be humanly possible, Patel said.
+
+It also automates mundane and routine tasks, allowing health care professionals to redirect their focus to the patient, he noted.
+
+AI TECH AIMS TO HELP PATIENTS CATCH DISEASE EARLY, EVEN ‘REVERSE THEIR BIOLOGICAL AGE’
+
+Early risk detection is another key benefit.
+
+"AI tools can predict potential health risks by analyzing a combination of genetic, behavioral and environmental factors, facilitating early interventions and potentially saving lives," Patel said.
+
+As well, AI can help enable the delivery of personalized medicine and proactive preventative care, he noted.
+
+"By analyzing individual genetic makeup combined with lifestyle and environmental factors, treatments can be tailored to the unique needs of each patient," Patel said.
+
+"And by predicting potential health issues before they manifest, we can guide patients on preventive measures, fundamentally changing our approach from cure to prevention."
+
+Potential risks and limitations
+
+AI in health care also presents challenges and limitations , Patel acknowledged.
+
+Because AI is a branch of science, it requires rigorous evaluation before it can be applied by doctors, he said.
+
+AI HEART SCAN AIMS TO CATCH BLOCKAGES YEARS BEFORE SYMPTOMS: ‘UNBELIEVABLE BREAKTHROUGH’
+
+"This ensures that we're not just implementing technology for the sake of innovation, but are truly enhancing patient care in a tangible, evidence-based manner."
+
+AI models also run the risk of bias, he warned.
+
+"By recognizing AI’s limitations and actively working to address them, we can harness AI's potential while safeguarding the core values of our health care system."
+
+"AI models are, by nature, a reflection of the data they're trained on," he said. "If this data contains biases — whether racial, gender-based or from other sources — the models may perpetuate these biases."
+
+There is the additional risk that humans will become overly reliant on AI, leading to a phenomenon called "automation bias."
+
+"Essentially, this means giving undue weight to AI-generated results without adequate human scrutiny," Patel said.
+
+"In health care, understanding the ‘why’ behind a diagnosis or recommendation is as crucial as the result," he said. "As providers, we must always contextualize AI outputs within the broader patient picture, leveraging our clinical judgment and experience."
+
+ARTIFICIAL INTELLIGENCE HELPS DOCTORS PREDICT PATIENTS’ RISK OF DYING, STUDY FINDS: ‘SENSE OF URGENCY’
+
+It’s important to protect data privacy and security as well, Patel noted, due to the large amounts of information that must be fed to AI models.
+
+While AI's capabilities are "immense and ever-growing," Patel emphasized that AI’s role is to be an ally.
+
+CLICK HERE TO SIGN UP FOR OUR HEALTH NEWSLETTER
+
+"Humans caring for humans is the bedrock of health care — AI strengthens that foundation, but doesn’t replace it," he said.
+
+"AI can offer insights and assist in decision-making, but human touch, intuition and empathy cannot be replicated by algorithms."
+
+CLICK HERE TO GET THE FOX NEWS APP
+
+While AI promises a "new frontier" in health care — Patel calls for a balance of "enthusiasm and caution."
+
+"By recognizing AI’s limitations and actively working to address them, we can harness AI's potential while safeguarding the core values of our health care system."

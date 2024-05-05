@@ -1,0 +1,43 @@
+It’s official! Elon Musk’s X marks the spot of the first confirmed investigation opened by the European Union under its rebooted digital rulebook, the Digital Services Act (DSA).
+
+Announcing the opening of a “formal proceeding” today, the European Commission said the investigation will look at whether the social networking platform may have breached rules linked to risk management, content moderation, dark patterns, advertising transparency and data access for researchers.
+
+The opening of a formal DSA investigation on X comes hard on the heels of a complaint against X’s adtech by privacy rights group, noyb — although today’s formal proceeding is unlikely to be directly linked as the Commission has been probing the platform for months via a flurry of requests for information. Its earlier actions were focused on concerns about the spread of illegal content and disinformation related to the Israel-Hamas war.
+
+Back in October the Commission sent Musk’s company an “urgent” formal request for information about how it was responding to information risks arising out of the conflict. The EU also said then it was looking at X’s compliance across a number of areas, including policies and practices regarding notices on illegal content, complaint handling, risk assessment and measures to mitigate the risks identified — and it gave X until the end of October to respond.
+
+“On the basis of the preliminary investigation conducted so far, including on the basis of an analysis of the risk assessment report submitted by X in September, X’s Transparency report published on 3 November, and X’s replies to a formal request for information, which, among others, concerned the dissemination of illegal content in the context of Hamas’ terrorist attacks against Israel, the Commission has decided to open formal infringement proceedings against X under the Digital Services Act,” the EU said today.
+
+Per the Commission, the EU’s investigation of X focuses on the following areas and issues:
+
+Compliance with DSA obligations related to countering the dissemination of illegal content in the EU — “ notably in relation to the risk assessment and mitigation measures adopted by X to counter the dissemination of illegal content in the EU, as well as the functioning of the notice and action mechanism for illegal content in the EU mandated by the DSA, including in light of X’s content moderation resources
+
+— “ The effectiveness of measures taken by X to combat info manipulation — with a focus on the effectiveness of its “Community Notes” system of crowdsourcing fact-checking to aggregated views of users, who may vote to label disputed tweets with additional context. The EU said the probe will also look at the effectiveness of “related policies mitigating risks to civic discourse and electoral processes”
+
+— with a focus on the effectiveness of its “Community Notes” system of crowdsourcing fact-checking to aggregated views of users, who may vote to label disputed tweets with additional context. The EU said the probe will also look at the Transparency requirements — with a focus on “suspected shortcomings” by X in giving researchers access to publicly accessible data as mandated by Article 40 of the DSA, and suspected shortcomings in its ads repository (aka the ads transparency library the regulation also mandates)
+
+— with a focus on “suspected shortcomings” by X in giving researchers access to publicly accessible data as mandated by Article 40 of the DSA, and suspected shortcomings in its ads repository (aka the ads transparency library the regulation also mandates) Suspected deceptive design elements in X’s user interface — “notably in relation to checkmarks linked to certain subscription products, the so-called Blue checks”
+
+“If proven, these failures would constitute infringements of Articles 34(1), 34(2) and 35(1), 16(5) and 16(6), 25(1), 39 and 40(12) of the DSA,” the EU added — saying it will now carry out an in-depth investigation “as a matter of priority”.
+
+Today we open formal infringement proceedings against @X : ⚠️ Suspected breach of obligations to counter #IllegalContent and #Disinformation ⚠️ Suspected breach of #Transparency obligations ⚠️ Suspected #DeceptiveDesign of user interface#DSA pic.twitter.com/NxKIif603k — Thierry Breton (@ThierryBreton) December 18, 2023
+
+The Commission is responsible for enforcing the DSA on larger platforms such as X — which was designated a very large online platform (VLOP) under the DSA back in April. Confirmed breaches of the online governance regime can face a range of major sanctions, including fines of up to 6% of global annual turnover.
+
+The EU can also apply interim measures where it believes there’s a risk of serious harm for users and may even seek to have access to infringing services temporarily blocked. Although its announcement today is careful to caveat the development by affirming no conclusions have yet been reached.
+
+There is also no confirmed timeline for the probe to conclude. But the fact of it being opened means other tools are put within reach of regulators and could be applied if the EU sees the need to act quickly — such as the aforementioned interim measures. So the Commission’s official scrutiny of X could have real world implications for how the platform operates sooner rather than later.
+
+Reached for a response to the EU probe, X’s Joe Benarroch — who was brought into the company by CEO Linda Yaccarino relatively recently to work on business operations — said:
+
+X remains committed to complying with the Digital Services Act, and is cooperating with the regulatory process. It is important that this process remains free of political influence and follows the law. X is focused on creating a safe and inclusive environment for all users on our platform, while protecting freedom of expression, and we will continue to work tirelessly towards this goal.
+
+While X under Musk has very evidently been flying the ship in the opposite direction to the responsible governance the DSA intends to encourage — hence attracting so many warnings from EU lawmakers, even long before today’s formal probe — it’s notable X recently started offering a research program for outsiders to get data to systemic risks arising on the platform in the EU. However the Commission obviously has doubts X has gone far enough on the transparency front to meet the DSA’s bar.
+
+EU regulators are also set to assess Musk & co’s claims that replacing a formal content moderation function with crowdsourced opinions is a valid approach to tackling diverse information risks; and, consequently, to look into how much Musk’s gutting of content moderation teams and processes has cost X’s users in terms of harm exposure.
+
+To say the Commission’s investigation looks fascinating and timely is an understatement.
+
+EU lawmakers can certainly bask in the glow of being prepared for the possibility of an erratic billionaire running a wrecking ball through a major social platform. But of course they will need to follow through — and it’s clear the real work is just starting. So this probe looks set to be a test of how much stomach the EU has to actually enforce the rules it loves to lay down on paper.
+
+The investigation may also test Musk’s mettle for what could be an expensive head-on clash with EU regulators. Time will tell how this one plays out but he may find the dead blue bird he’s chosen to hang around his neck, when he purposefully ripped up the standard content moderation rulebook and opted to channel online chaos, starting to feel like it’s dragging him down.

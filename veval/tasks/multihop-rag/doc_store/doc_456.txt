@@ -1,0 +1,99 @@
+MBW Reacts is a series of analytical commentaries from Music Business Worldwide written in response to major recent entertainment events or news stories. MBW Reacts is supported by JKBX , a technology platform that offers consumers access to music royalties as an asset class.
+
+In recent months, Warner Music Group CEO Robert Kyncl has been keeping a close eye on AI in the music industry – not surprising, given that he came to the music biz from ‘Big Tech’, namely YouTube, where he was Chief Business Officer.
+
+Nor is it surprising, given his current role, that he has been pushing for price hikes at music streaming services.
+
+Both of these topics came up during Kyncl’s Q&A session at the Code Conference in Laguna Niguel, California, on Tuesday (September 26).
+
+But what was maybe more surprising – for a techie like Kyncl, anyway – was his rational, level-headed explanation for why traditional music labels continue to be relevant, and continue to thrive, in the current music ecosystem.
+
+With the arrival of digital platforms, including open ones like YouTube and SoundCloud – and with the proliferation of indie music distribution platforms like DistroKid and TikTok’s SoundOn – it’s inevitable that music biz observers from the world of tech like to speculating about the possibility that music labels could, in the long-term, be headed for irrelevance.
+
+In a world where anyone can record music using a desktop audio workstation (DAW) and upload it direct to YouTube, or to Spotify via a distribution platform, labels have little left to do, the argument goes.
+
+Kyncl offered strong a counterpoint to this argument at Code Media, drawing a parallel between music labels today and the advertising industry a decade or two ago.
+
+At that time, he said, many predicted ad agencies were headed for the scrap-heap thanks to the arrival of Google’s AdWords, which allowed any business to set up a customized ad campaign on Google services.
+
+Yet ad agencies didn’t go extinct. Today, “they’re the largest customers of companies like Google,” Kyncl told the audience at the Code Conference.
+
+“In the year 2000, when AdWords came out, everybody was predicting their deaths because all the brands [could] just go direct to AdWords and buy ads… However, what happened was lots of different platforms emerged. Lots of ad tech emerged, complexity increased exponentially, and brands needed help with that, and the agencies provided that value.
+
+“And I see a very close analogy [between that and] our business. Music is incredibly broadly distributed. Everybody on earth listens to music. We’re on every platform. And the complexity is high. And the more people can upload content, and the more people can be heard, the greater the noise, which means it’s harder to cut through the noise and sustain a career.”
+
+But a label’s value is not just about building an artist’s career – it’s about sustaining it once that career is established as well, Kyncl explained.
+
+“When they become established, it is also hard to remain at the top,” Kyncl said. “So their goals change. And again, we’re there to help with that.”
+
+He added later that if you’re a music artist, “you need a team. You need an army behind you…. if you want a sustainable career, with repeatability and success.”
+
+Here are three other things we learned from Kyncl’s talk at the Code Conference…
+
+Credit: Tatiana Shepeleva / Shutterstock 1) Music will feel the impact of AI before other industries do – ‘within the next year’
+
+Kyncl predicted that the music business will be out ahead of other industries when it comes to exploiting the potential of AI, and it will also – out of necessity– be ahead on the issue of how to regulate and monetize the use of AI by non-rights-holders.
+
+“Music – because it’s so broadly distributed and it’s so well aligned with the internet, because it’s short format, it lends itself to recommendations, it’s on all platforms – is generally first in most transformations and most innovations. So it digitizes first,” he said.
+
+“Whatever happened to the music industry 20 years ago is starting to happen in the movies and TV shows now. In the meantime, music emerged out of [digitization] better and stronger and more resilient. So, I would imagine the same will happen here, which is we’ll likely be first.”
+
+Asked when that sea change will occur, Kyncl said: “I would say within the next year you will see lots of evolution around AI… What you will likely see is increasing quality at a very fast pace.”
+
+Kyncl drew an analogy between the explosion of AI use among members of the public and the explosion of user-generated content (UGC) a decade or two ago. Just as user-generated content often infringed on copyright, so too does AI threaten the rights of artists and music rights holders.
+
+“I would say within the next year you will see lots of evolution around AI… What you will likely see is increasing quality at a very fast pace.” Robert Kyncl, Warner Music Group
+
+In Kyncl’s view, the solutions put in place to address UGC form a “blueprint” than can be used to address AI-generated content on platforms as well.
+
+“When YouTube was formed… people started to upload content, including copyrighted material, which, obviously, put YouTube into hot water with lots of different copyright holders. And I had the privilege of working through a lot of that and fix it up.
+
+“But we made we made a very important decision, which was to go above and beyond the law, and build a fingerprinting software that allowed us to track the copyright on our platform, and then have commercial relationship[s] with copyright holders to send them the money. Out of that we built a multi-billion-dollar business, which now is a multi-billion-dollar business per year. And it was an incredible new revenue stream for everyone. AI is that with new super tools.”
+
+Kyncl was referring to YouTube’s Content ID system, which scours uploaded videos for copyrighted content (video and audio), then offers the copyright owner the option to monetize that video, or to request that it be taken down. The innovative system has essentially allowed YouTube users to upload content without paying much attention to copyright, while ensuring that copyright owners are paid.
+
+When it comes to the proliferation of AI, “we need to approach it with the same thoughtfulness, and we have to make sure that artists have a choice,” Kyncl added.
+
+And he made it clear that, in his view, simply rejecting AI and fighting against it is not an option.
+
+“You have to embrace technology, because it’s not like you can put technology in a bottle. The genie is not going back.”
+
+But he cautioned that the technology to develop a Content ID-style system for is “not yet developed, but… people are working on that.”
+
+{Believe CEO Denis Ladegallerie might disagree. In comments earlier this year, Ladegallerie said that the tools to recognize and flag AI-generated content are just about ready to go, and he expects to see them implemented in the coming few quarters.)
+
+2) The streaming audio business won’t experience the same problems currently hitting streaming video
+
+The streaming video business is going through tough times.
+
+Netflix experienced its first-ever decline in subscriptions last year (though it has since roared back to health); the subscriber count of Disney+ appears to be in freefall; and talk is growing about ongoing consolidation of the many streaming video services that have come online over the past several years.
+
+Asked if the audio streaming business is likely to go through something similar, Kyncl’s answer was unequivocal.
+
+“No. Music is much more resilient. So first, I think what happened in the last 15 years is incredible. They had literally zero people in the subscription model and now we have 700 million people in the world in the premium experience… which is incredible.
+
+“And I think really credit goes to Daniel Ek for forging the path for everybody. And then companies like Apple and YouTube and Amazon following and building up the [music] business. It’s pretty incredible what has happened.”
+
+“You have to embrace technology, because it’s not like you can put technology in a bottle. The genie is not going back.” Robert Kyncl, Warner Music Group
+
+Kyncl added: “I think the opportunity ahead of us is twofold. One, the continued growth in emerging markets, and also the GDPs of those countries will be rising at the same time. So there’s lots of growth there. And then there is the price elasticity optimization in mature markets.”
+
+That last point is a reference to the price hikes seen among all the major music streaming services over the past year or so, and the growing belief within the music industry that streaming price hikes will be sustained – as evidenced recently by Deezer’s second price hike in a year.
+
+Credit: QuiteSimplyStock/Shutterstock 3) The hot music rights acquisitions space is ‘likely slowing down a bit’
+
+The second half of 2022 saw a notable slowdown in music rights acquisitions, a phenomenon that some blamed on higher interest rates and the reduced liquidity that came with them.
+
+Although there has been something of a rebound this year, in Kyncl’s view, there is still a slowdown in this space – though that might be good for Warner Music Group.
+
+“I think what happened was there was an opening where artists and songwriters were suddenly open to selling catalogs. which they were not open to before. And they just created this incredible tidal wave. And these things happen in waves, ebb and flow.
+
+“So I think it likely is slowing down a little bit, but that’s okay. Because it makes the multiples come down a little bit more.”
+
+“I think what happened in the last 15 years is incredible. They had literally zero people in the subscription model and now we have 700 million people in the world in the premium experience.” Robert Kyncl, Warner Music Group
+
+In other words, Warner Music can go out and buy more if the multiples are low enough?
+
+“Of course. We are in the business of buying catalogs, obviously. We have the publishing catalog of David Bowie, for instance, which we bought a few years ago. So yeah, we are in that business.
+
+“We are in the business of administering [rights], which means collecting revenue from thousands of platforms around the world; very complicated matters. But we’re also in the business of ownership.”Music Business Worldwide

@@ -1,0 +1,61 @@
+SBF trial: Everything to know from the FTX courtroom ahead of his testimony Sam Bankman-Fried is in court for alleged fraud and money laundering while leading crypto exchange FTX and sister company Alameda. Here’s our latest coverage as the case nears its end.
+
+The trial of Bankman-Fried, the former CEO and co-founder of collapsed crypto exchange FTX, is entering its next chapter as proceedings resume Thursday. As confirmed during a teleconference Wednesday, SBF will be taking the stand, along with a handful of other witnesses as the onus shifts toward the defense after the prosecution brought its case to its conclusion.
+
+As former federal prosecutor Josh Naftalis told TechCrunch, SBF taking to the stand in his own trial is a “Hail Mary” ahead of a verdict and potential sentencing for seven counts tied to fraud and money laundering.
+
+“Once it goes to cross[-examination], he doesn’t get to say, ‘I’m done,’” Naftalis said. “He can’t just walk out if he doesn’t like how it’s going.”
+
+
+
+Naftalis spoke at length about what comes next in the trial, and addressed common misconceptions about the prosecution and defense in the latest episode of TechCrunch’s Chain Reaction podcast, which you can listen to below, or on Apple Podcasts or Spotify.
+
+The SBF trial is one of the biggest cases of its kind within the crypto space. Our resident crypto expert Jacquelyn Melinek has been on the ground at the trial since it started, and continues to cover the ins and outs of the proceedings. But the trial has been on pause from October 20 to today, so there’s plenty to catch up on if you need a refresher ahead of it entering its final few phases.
+
+For those in need of a total refresher on the case, her breakdown of how FTX went from the third-largest crypto exchange valued at a peak of $32 billion to bankruptcy will get you up to speed.
+
+You can also follow along with her and the TechCrunch team’s coverage in the Chain Reaction newsletter, which drops Thursdays at 12 p.m. PT, and the Chain Reaction podcast, which will hit your feed every Thursday.
+
+How to follow the SBF trial
+
+The trial kicked off with jury selection October 3. From there, access to the proceedings is limited, as no devices are allowed; reports are being physically put together within the courtroom (or sent to overflow rooms).
+
+Beyond our daily coverage, additional expertise and commentary will live on TechCrunch+. There, you can find stories like this in-depth breakdown of what to expect from both sides of the SBF case, where the prosecution and defense could gain ground or fall short in their arguments and what the takeaways were from the opening arguments.
+
+SBF trial: What we learned in week three
+
+The third week of the trial featured a couple of noteworthy moments for the prosecution, including FTX’s former general counsel Can Sun. He, like many of SBF’s former colleagues, opted to cooperate with authorities and testified that SBF asked him to create a theoretical “legal justification” for the use of billions in consumer funds just days before FTX filed for bankruptcy.
+
+Robert Boroujerdi, managing director of the hedge fund Third Point, testified about his experience working with SBF and FTX, in a partnership that ultimately resulted in a $60 million investment and a lack of awareness about the special relationship between Alameda Research and FTX. Had he known of such a relationship, he testified that Third Point would not have invested in FTX in the first place.
+
+And earlier in the week, a University of Notre Dame professor who helped the government prosecution of Enron and WorldCom, Peter Easton, testified about what he uncovered after tracing the flow of billions of dollars between Alameda Research and FTX. Much of said funding came from customers, and Easton testified that he found that user deposits were used by both FTX and Alameda to purchase real estate, make investments or direct funding toward political causes and charities.
+
+SBF trial: What we learned in week two
+
+The second week of the trial’s standout testimony came from Alameda Research’s former CEO Caroline Ellison, who claimed she took $14 billion from customers to repay debts to lenders, using them as a line of credit under the instruction of SBF. Ellison also went into detail about how a $2 billion venture fund, FTX Ventures, was funded by money that had previously been allocated to Alameda from third-party lenders.
+
+And though there are no charges of bribery in the case, Ellison also testified to paying Chinese officials $150 million to restore access to $1 billion in frozen trading accounts.
+
+SBF trial: What we learned in the week one
+
+As expected, the opening statements in the SBF trial were spicy. The prosecution painted a picture of an empire “built on lies” and made a point to show actual pictures of SBF alongside rich and powerful figures to illustrate the peak of his power and influence prior to FTX’s implosion.
+
+“This man stole billions of dollars from thousands of people,” prosecutor Thane Rehn told the court. “He defrauded sophisticated investors and lenders, and he emptied the accounts of ordinary customers, too. He bought himself wealth, power and influence.”
+
+The defense, on the other hand, depicted SBF and his colleagues as in over their heads, without ill-will as FTX collapsed around them.
+
+“Sam and his colleagues were building the plane as they were flying it,” defense attorney Mark Cohen said. “They had to figure out how to navigate a world where they were running FTX, building out its systems, dealing with hacking threats, managing the credit risk of their customers, managing hundreds of employees, all while building up their actual exchange.”
+
+Read a recap of the prosecution and defense’s full arguments here.
+
+FTX’s co-founder and CTO Gary Wang testified Thursday on the extent to which Alameda Research was used for whatever purposes he and SBF saw fit. The crypto trading firm, according to Wang, pulled funding directly from FTX customers, whose transactions would be funneled toward Alameda and then directed elsewhere.
+
+Check here for our rundown of Wang’s testimony so far, resulting from a guilty plea in December 2022.
+
+Thursday also brought in testimony from Matt Huang, co-founder and managing partner at crypto investment firm Paradigm. That firm invested $278 million in FTX across 2021 and 2022, and is part of a class-action lawsuit accusing it and others of defrauding customers by promoting FTX.
+
+His testimony centered around being left uninformed about FTX’s utilization of customer money to keep the Alameda Research afloat, a practice that Huang says would have halted his involvement. The full breakdown of his testimony on his relationship with FTX, stretching back to 2019, can be found right here.
+
+We also got a look at the composition of the SBF trial’s jury, which ranges from a train conductor to a retired investment banker who attended Stanford University. You can listen to a special joint episode of our podcasts Equity and Chain Reaction to get a better sense of the vibe between the jurors and the rest of the court.
+
+For a full rundown of our coverage of the SBF trial, check below:
