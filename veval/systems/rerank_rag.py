@@ -10,7 +10,6 @@ from llama_index.core import (
 from llama_index.core.postprocessor import LLMRerank
 from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.retrievers import VectorIndexRetriever
-from llama_index.llms.openai import OpenAI
 
 from veval.utils.io_utils import delete_directory
 from veval.utils.model_utils import LlamaIndexLLM
@@ -92,11 +91,6 @@ class RerankRag(BasicRag):
             # Obtain re-ranked context
             reranked_context = [elm.node.get_content() for elm in result.source_nodes]
             result = result.response
-        # except IndexError as e:
-        #     print(f"Cannot obtain response: {e}")
-        #     result = "I don't know"
-        #     retrieved_context = ['']
-        #     reranked_context = ['']
         except ValueError as e:
             print(f"Cannot obtain response: {e}")
             result = "I don't know"
