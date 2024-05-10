@@ -1,6 +1,7 @@
 import os
 
-from typing import List
+from dataclasses import dataclass
+from typing import Any, Dict, List, Optional
 
 from llama_index.core import (
     Document, VectorStoreIndex, PromptTemplate, StorageContext, 
@@ -14,21 +15,30 @@ from llama_index.llms.openai import OpenAI
 from veval.utils.io_utils import delete_directory
 from veval.utils.model_utils import LlamaIndexLLM
 
-from .basic_rag import BasicRag
+from .basic_rag import BasicRag, BasicRagConfig
 from .template import SystemResponse
+
+
+@dataclass
+class RerankRagConfig(BasicRagConfig):
+    rerank_llm_name: Optional[str] = None
+    rerank_llm_gen_args: Optional[Dict[str, Any]] = None
+    rerank_top_k: Optional[int] = None
 
 
 class RerankRag(BasicRag):
     """A linear RAG system using a reranker model."""
-    def __init__(self, llm_name: str, local_llm: bool = False):
-        super().__init__(llm_name=llm_name, local_llm=local_llm)
+
+    _cfg = RerankRagConfig()
+
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
 
         self.rerank_llm = LlamaIndexLLM(
-            lm_name="openai-gpt-3.5-turbo", 
-            temperature=0, 
-            max_tokens=128,
+            lm_name=self._cfg.rerank_llm_name,
+            **self._cfg.rerank_llm_gen_args,
         )
-        self.rerank_top_k = 3 
+        self.rerank_top_k = self._cfg.rerank_top_k
 
     def invoke(self, query: str, docs: List[str]) -> SystemResponse:
         all_docs = [Document(text=doc) for doc in docs]
@@ -82,11 +92,11 @@ class RerankRag(BasicRag):
             # Obtain re-ranked context
             reranked_context = [elm.node.get_content() for elm in result.source_nodes]
             result = result.response
-        except IndexError as e:
-            print(f"Cannot obtain response: {e}")
-            result = "I don't know"
-            retrieved_context = ['']
-            reranked_context = ['']
+        # except IndexError as e:
+        #     print(f"Cannot obtain response: {e}")
+        #     result = "I don't know"
+        #     retrieved_context = ['']
+        #     reranked_context = ['']
         except ValueError as e:
             print(f"Cannot obtain response: {e}")
             result = "I don't know"

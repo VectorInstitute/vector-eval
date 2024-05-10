@@ -1,7 +1,9 @@
 import abc
 
 from dataclasses import dataclass
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
+
+from .config import DEFAULT_SYSTEM_CONFIG
 
 
 @dataclass
@@ -19,16 +21,48 @@ class SystemResponse:
     context: Dict[str, List[str]]
 
 
-# TODO: 
-# 1. Make system configurable for swapping models and other parameters.
-# 2. Replace local models with API calls.
+@dataclass
+class SystemConfig:
+    """
+    Represents the configuration for an abstract system.
+
+    Attributes:
+        llm_name (Optional[str]): The name of the llm used for generation.
+        llm_gen_args (Optional[Dict[str, Any]]): The generating arguments for the llm.
+        prompt_template (Optional[str]): The template for the generation prompt.
+
+    Methods:
+        __getitem__(self, key: Any) -> Any: Returns the value of the specified attribute.
+        __setitem__(self, key: Any, value: Any) -> None: Sets the value of the specified attribute.
+        as_dict(self) -> Dict[str, Any]: Convert the SystemConfig object to a dictionary.
+    """
+
+    llm_name: Optional[str] = None
+    llm_gen_args: Optional[Dict[str, Any]] = None
+    prompt_template: Optional[str] = None
+
+    def __getitem__(self, key: Any) -> Any:
+        return getattr(self, key)
+    
+    def __setitem__(self, key: Any, value: Any) -> None:
+        return setattr(self, key, value)
+    
+    def as_dict(self) -> Dict[str, Any]:
+        return {k: v for k, v in self.__dict__.items() if not k.startswith('_')}
+
+
 class System(abc.ABC):
     """
     Abstract base class for RAG systems. Implements an interface that accepts a query 
     with list of documents (optional) and returns a (query, answer, constext) tuple.
     """
-    def __init__(self):
-        pass
+
+    _cfg = SystemConfig()
+
+    def __init__(self, **kwargs):
+        # Fetch and update system config
+        self._set_default_cfg()
+        self._update_cfg(**kwargs)
 
     @abc.abstractmethod
     def invoke(self, query: str, docs: Optional[List[str]]) -> SystemResponse:
@@ -44,3 +78,24 @@ class System(abc.ABC):
                 generated answer, and all contexts.
         """
         pass
+
+    def _set_default_cfg(self) -> None:
+        try:
+            default_cfg = DEFAULT_SYSTEM_CONFIG[type(self).__name__]
+        except KeyError:
+            print(f"Default config not found for system {type(self).__name__}, loading `BasicRag` config instead.")
+            default_cfg = DEFAULT_SYSTEM_CONFIG["BasicRag"]
+        for k, v in default_cfg.items():
+            self._cfg[k] = v
+
+    def _update_cfg(self, **kwargs) -> None:
+        if self._cfg is None:
+            raise ValueError("Load default config first by calling `self._get_default_cfg()`.")
+        if kwargs is not None:
+            for k, v in kwargs.items():
+                self._cfg[k] = v
+
+    def get_cfg(self):
+        if self._cfg is None:
+            raise ValueError("System config not set.")
+        return self._cfg.as_dict()
