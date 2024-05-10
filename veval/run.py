@@ -1,6 +1,11 @@
 import argparse
+import datetime
 import os
+
+from collections import defaultdict
 from pathlib import Path
+from pydantic.utils import deep_update
+from typing import Optional
 
 from veval.evaluate import Evaluator
 from veval.systems.basic_rag import BasicRag
@@ -9,50 +14,102 @@ from veval.tasks.template import Task
 from veval.utils.io_utils import load_from_yaml, write_to_json, read_from_json
 
 
-def main(args):
-    task = args.task
-    system = args.sys
-    limit = int(args.limit) if args.limit != -1 else None
+def run_evaluation(
+    task: str,
+    system: str,
+    model: str,
+    limit: Optional[int] = None,
+    log_file: Optional[str] = None,
+):  
+    log_msg = f"""
+    Evaluating the following configuration:
+    Task: {task}
+    System: {system}
+    Model: {model}\n
+    """
+    print(log_msg)
+
+    parent_dir = os.path.dirname(os.path.abspath(__file__))
 
     try:
-        cfg_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"tasks/{task}/{task}.yaml")
-        cfg = load_from_yaml(cfg_path)
+        task_cfg_path = os.path.join(parent_dir, f"tasks/{task}/{task}.yaml")
+        task_cfg = load_from_yaml(task_cfg_path)
     except FileNotFoundError:
         raise Exception(f"Task {task} not supported or the configuration file does not exists.")
         
-    task_obj = Task(config=cfg, limit=limit)
+    task_obj = Task(config=task_cfg, limit=limit)
     task_obj.build()
     
     if system == "basic_rag":
-        rag_sys_obj = BasicRag(llm_name="mixtral-8x7b-instruct")
+        rag_sys_obj = BasicRag(sys_name=system, llm_name=model)
     elif system == "rerank_rag":
-        rag_sys_obj = RerankRag(llm_name="openai-gpt-3.5-turbo")
+        rag_sys_obj = RerankRag(sys_name=system, llm_name=model)
     else:
         raise ValueError(f"System {system} not supported.")
 
-    eval_obj = Evaluator(system=rag_sys_obj, task=task_obj)
-    output = eval_obj.evaluate()
-    output = {
-        f"{system}": output
-    }
+    eval_obj = Evaluator(system=rag_sys_obj, task=task_obj, log_file=log_file)
+    result = eval_obj.evaluate()
 
-    out_path = f"tasks/{task}/results{(('_' + str(limit)) if limit is not None else '')}.json"
-    out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), out_path)
-    if os.path.exists(out_path):
-        results = read_from_json(out_path)
-        results.update(output)
-    else:
-        results = output
-    write_to_json(results, out_path)
+    output = {
+        "task_cfg": task_obj.config.as_dict(),
+        "system_cfg": rag_sys_obj.get_cfg(),
+        "result": result,
+        "metadata": {
+            "limit": limit,
+            "log_file": log_file.lstrip(parent_dir),
+        }
+    }
+    
+    return output
+
+
+def main(args):
+    tasks = args.tasks
+    systems = args.systems
+    models = args.models
+    limit = int(args.limit) if args.limit != -1 else None
+    log_dir = args.log_dir
+
+    parent_dir = os.path.dirname(os.path.abspath(__file__))
+    log_dir = os.path.join(parent_dir, log_dir)
+
+    if not os.path.exists(log_dir):
+        os.makedirs(log_dir)
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
+    log_file = os.path.join(log_dir, f"{timestamp}.json")
+
+    for task in tasks:
+        results = defaultdict()
+        for system in systems:
+            results[system] = defaultdict()
+            for model in models:
+                output = run_evaluation(
+                    task=task,
+                    system=system,
+                    model=model,
+                    limit=limit,
+                    log_file=log_file
+                )
+                results[system][model] = output
+
+        out_path = f"tasks/{task}/results.json"
+        out_path = os.path.join(parent_dir, out_path)
+        if os.path.exists(out_path):
+            prev_results = read_from_json(out_path)
+            results = deep_update(prev_results, results)
+
+        write_to_json(results, out_path)
 
 
 if __name__ == "__main__":
     
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--task", type=str, default="pubmedqa", help="Specify the task.")
-    parser.add_argument("--sys", type=str, default="basic_rag", help="Specify the system.")
+    parser.add_argument("--tasks", type=str, default="pubmedqa", nargs="+", help="Specify the tasks to evaluate.")
+    parser.add_argument("--systems", type=str, default="basic_rag", nargs="+", help="Specify the systems to evaluate the tasks.")
+    parser.add_argument("--models", type=str, default="openai-gpt-3.5-turbo", nargs="+", help="Specify the models used for generation.")
     parser.add_argument("--limit", type=int, default=-1, help="Limit the number of instances.")
+    parser.add_argument("--log_dir", type=str, default="logs", help="Specify the log directory.")
 
     args = parser.parse_args()
 

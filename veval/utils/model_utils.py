@@ -4,6 +4,7 @@ import subprocess
 import time
 
 from functools import wraps
+from tenacity import retry, wait_fixed, retry_if_exception_type
 from typing import (
    Any, Callable, Dict, Iterator, 
    List, Optional, Tuple, Union
@@ -19,7 +20,10 @@ from llama_index.core.llms import (
    LLMMetadata,
 )
 from llama_index.core.llms.callbacks import llm_completion_callback
-from openai import OpenAI
+from llama_index.embeddings.cohere import CohereEmbedding
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.embeddings.openai import OpenAIEmbedding
+from openai import OpenAI, APIConnectionError
 
 
 DEFAULT_SYSTEM_PROMPT = "You are a helpful assistant."
@@ -29,6 +33,8 @@ DEFAULT_TEMPERATURE = 0.0
 DEFAULT_SEED = 37
 DEFAULT_RL_LIMIT = 50
 DEFAULT_RL_INTERVAL = 60.0
+
+DEFAULT_LOCAL_EMBED_MODEL_DIR = "/fs01/projects/opt_test/meta-comphrehensive-rag-benchmark-project/models/embedding-model"
 
 LM_MODEL_CONFIG = {
    "gpt-3.5-turbo": {
@@ -143,37 +149,118 @@ LM_MODEL_CONFIG = {
    }
 
 
-def rate_limiter(limit: int, interval: float) -> Callable:
-   def decorator(func: Callable) -> Callable:
-      calls = 0
-      last_reset = time.time()
+def call_api(
+   lm_client: Union[OpenAI, cohere.Client],
+   lm_type: str, 
+   lm_name: str,
+   lm_alias: str,
+   prompt: str,
+   sys_prompt: str,
+   gen_params: Dict[str, Any],
+   stream: bool = False,
+) -> Any:
+   """
+   Calls the API of the language model based on the specified parameters.
 
-      @wraps(func)
-      def wrapper(*args, **kwargs):
-         nonlocal calls, last_reset
-         calls += 1
-         if calls > limit:
-            elapsed_time = time.time() - last_reset
-            if elapsed_time < interval:
-               time.sleep(interval - elapsed_time)
-               last_reset = time.time()
-               calls = 1
-            else:
-               last_reset = time.time()
-               calls = 1
-         return func(*args, **kwargs)
+   Args:
+      lm_client (Union[OpenAI, cohere.Client]): The language model API client.
+      lm_type (str): The type of the language model. Can be "openai", "cohere", or "local".
+      lm_name (str): The name of the language model.
+      lm_alias (str): The alias of the language model, used to refer to model weights.
+      prompt (str): The user prompt for the language model.
+      sys_prompt (str): The system prompt for the language model.
+      gen_params (Dict[str, Any]): Additional generation parameters for the language model.
+      stream (bool, optional): Whether to use streaming for the API call. Defaults to False.
 
-      return wrapper
+   Returns:
+      Any: The response from the language model API call. Returns the response object 
+         if streaming, else returns the text completion.
+   """
+   if lm_type in ["openai", "local"]:
+      model_name = lm_name
+      if lm_type == "local":
+         model_name = f"/model-weights/{lm_alias}"
+         if "Llama-2" in lm_alias:
+            model_name += "-hf"
+      response = lm_client.chat.completions.create(
+         model=model_name,
+         messages=[
+            {"role": "system", "content": sys_prompt},
+            {"role": "user", "content": prompt},
+         ],
+         stream=stream,
+         **gen_params,
+      )
+   elif lm_type == "cohere":
+      # TODO: Use preamble?
+      if not stream:
+         response = lm_client.chat(
+            model=lm_name,
+            chat_history=[],
+            message=prompt,
+            **gen_params,
+         )
+      else:
+         response = lm_client.chat_stream(
+            model=lm_name,
+            chat_history=[],
+            message=prompt,
+            **gen_params,
+         )
+   else:
+      error_msg = "Only supports `openai`, `cohere` and `local` LLMs. " + \
+         f"`{lm_type}` is not supported."
+      raise ValueError(error_msg)
+   
+   if not stream:
+      if lm_type in ["openai", "local"]:
+         response_text = response.choices[0].message.content
+      elif lm_type == "cohere":
+         response_text = response.text
+      return response_text
+   else:
+      return response
 
-   return decorator
+
+def get_embedding_model(
+   model_name: str,
+   local_model_dir: str = DEFAULT_LOCAL_EMBED_MODEL_DIR
+) -> Union[OpenAIEmbedding, CohereEmbedding, HuggingFaceEmbedding]:
+
+   model_type = model_name.split("-")[0]
+   if model_type in ["openai", "cohere"]:
+      model_name = model_name.split(f"{model_type}-")[-1]
+   else:
+      model_type = "local"
+      model_name = model_name
+
+   if model_type == "openai":
+      model = OpenAIEmbedding(model=model_name)
+   elif model_type == "cohere":
+      model = CohereEmbedding(model_name=model_name)
+   else:
+      try:
+         local_model_path = os.path.join(local_model_dir, model_name)
+         model = HuggingFaceEmbedding(model_name=local_model_path)
+      except FileNotFoundError as e:
+         print(f"Directory not found: {e}")
+         raise ValueError(f"Local model {model_name} not found.")
+   
+   return model
 
 
-def trim_predictions_to_max_token_length(tokenizer, prediction, max_token_length=128):
-   """Trims prediction output to `max_token_length` tokens"""
-   tokenized_prediction = tokenizer.encode(prediction)
-   trimmed_tokenized_prediction = tokenized_prediction[1: max_token_length+1]
-   trimmed_prediction = tokenizer.decode(trimmed_tokenized_prediction)
-   return trimmed_prediction
+def get_text_chunk(
+   lm_type: str,
+   chunk: Any,
+) -> Optional[str]:
+   if lm_type == "openai":
+      chunk_text = chunk.choices[0].delta.content
+   elif lm_type == "cohere":
+      if chunk.event_type == "text-generation":
+         chunk_text = chunk.text
+      elif chunk.event_type == "stream-end":
+         chunk_text = None
+   return chunk_text
 
 
 def launch_local_lm(lm_name: str) -> Tuple[str, str]:
@@ -260,91 +347,37 @@ def launch_local_lm(lm_name: str) -> Tuple[str, str]:
    return (lm_alias, local_endpoint)
 
 
-def call_api(
-   lm_client: Union[OpenAI, cohere.Client],
-   lm_type: str, 
-   lm_name: str,
-   lm_alias: str,
-   prompt: str,
-   sys_prompt: str,
-   gen_params: Dict[str, Any],
-   stream: bool = False,
-) -> Any:
-   """
-   Calls the API of the language model based on the specified parameters.
+def rate_limiter(limit: int, interval: float) -> Callable:
+   def decorator(func: Callable) -> Callable:
+      calls = 0
+      last_reset = time.time()
 
-   Args:
-      lm_client (Union[OpenAI, cohere.Client]): The language model API client.
-      lm_type (str): The type of the language model. Can be "openai", "cohere", or "local".
-      lm_name (str): The name of the language model.
-      lm_alias (str): The alias of the language model, used to refer to model weights.
-      prompt (str): The user prompt for the language model.
-      sys_prompt (str): The system prompt for the language model.
-      gen_params (Dict[str, Any]): Additional generation parameters for the language model.
-      stream (bool, optional): Whether to use streaming for the API call. Defaults to False.
+      @wraps(func)
+      def wrapper(*args, **kwargs):
+         nonlocal calls, last_reset
+         calls += 1
+         if calls > limit:
+            elapsed_time = time.time() - last_reset
+            if elapsed_time < interval:
+               time.sleep(interval - elapsed_time)
+               last_reset = time.time()
+               calls = 1
+            else:
+               last_reset = time.time()
+               calls = 1
+         return func(*args, **kwargs)
 
-   Returns:
-      Any: The response from the language model API call. Returns the response object 
-         if streaming, else returns the text completion.
-   """
-   if lm_type in ["openai", "local"]:
-      model_name = lm_name
-      if lm_type == "local":
-         model_name = f"/model-weights/{lm_alias}"
-         if "Llama-2" in lm_alias:
-            model_name += "-hf"
-      response = lm_client.chat.completions.create(
-         model=model_name,
-         messages=[
-            {"role": "system", "content": sys_prompt},
-            {"role": "user", "content": prompt},
-         ],
-         stream=stream,
-         **gen_params,
-      )
-   elif lm_type == "cohere":
-      # TODO: Use preamble?
-      if not stream:
-         response = lm_client.chat(
-            model=lm_name,
-            chat_history=[],
-            message=prompt,
-            **gen_params,
-         )
-      else:
-         response = lm_client.chat_stream(
-            model=lm_name,
-            chat_history=[],
-            message=prompt,
-            **gen_params,
-         )
-   else:
-      error_msg = "Only supports `openai`, `cohere` and `local` LLMs. " + \
-         f"`{lm_type}` is not supported."
-      raise ValueError(error_msg)
-   
-   if not stream:
-      if lm_type in ["openai", "local"]:
-         response_text = response.choices[0].message.content
-      elif lm_type == "cohere":
-         response_text = response.text
-      return response_text
-   else:
-      return response
+      return wrapper
+
+   return decorator
 
 
-def get_text_chunk(
-   lm_type: str,
-   chunk: Any,
-) -> Optional[str]:
-   if lm_type == "openai":
-      chunk_text = chunk.choices[0].delta.content
-   elif lm_type == "cohere":
-      if chunk.event_type == "text-generation":
-         chunk_text = chunk.text
-      elif chunk.event_type == "stream-end":
-         chunk_text = None
-   return chunk_text
+def trim_predictions_to_max_token_length(tokenizer, prediction, max_token_length=128):
+   """Trims prediction output to `max_token_length` tokens"""
+   tokenized_prediction = tokenizer.encode(prediction)
+   trimmed_tokenized_prediction = tokenized_prediction[1: max_token_length+1]
+   trimmed_prediction = tokenizer.decode(trimmed_tokenized_prediction)
+   return trimmed_prediction
 
 
 class LlamaIndexLLM(CustomLLM):
@@ -416,6 +449,10 @@ class LlamaIndexLLM(CustomLLM):
       limit=DEFAULT_RL_LIMIT, 
       interval=DEFAULT_RL_INTERVAL,
    )
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    @llm_completion_callback()
    def complete(
       self,
@@ -443,6 +480,10 @@ class LlamaIndexLLM(CustomLLM):
          text=response_text
       )
 
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    @llm_completion_callback()
    def stream_complete(
       self,
@@ -539,6 +580,10 @@ class LangChainLLM(LLM):
       limit=DEFAULT_RL_LIMIT, 
       interval=DEFAULT_RL_INTERVAL,
    )
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    def _call(
       self,
       prompt: str,
@@ -565,6 +610,10 @@ class LangChainLLM(LLM):
 
       return response_text
    
+   @retry(
+      retry=retry_if_exception_type(APIConnectionError),
+      wait=wait_fixed(1)
+   )
    def _stream(
       self,
       prompt: str,
