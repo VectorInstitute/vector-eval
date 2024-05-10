@@ -1,12 +1,12 @@
 DEFAULT_PROMPT_TEMPLATE = """
-    ### Question
-    {query_str}
+### Question
+{query_str}
 
-    ### References 
-    {context_str}
+### References 
+{context_str}
 
-    ### Answer
-    """
+### Answer
+"""
 
 
 DEFAULT_SYSTEM_CONFIG = {
