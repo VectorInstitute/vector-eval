@@ -37,6 +37,7 @@ class SystemConfig:
         as_dict(self) -> Dict[str, Any]: Convert the SystemConfig object to a dictionary.
     """
 
+    sys_name: Optional[str] = None
     llm_name: Optional[str] = None
     llm_gen_args: Optional[Dict[str, Any]] = None
     prompt_template: Optional[str] = None
@@ -63,6 +64,8 @@ class System(abc.ABC):
         # Fetch and update system config
         self._set_default_cfg()
         self._update_cfg(**kwargs)
+        
+        self.name = self._cfg.sys_name
 
     @abc.abstractmethod
     def invoke(self, query: str, docs: Optional[List[str]]) -> SystemResponse:

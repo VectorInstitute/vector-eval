@@ -11,6 +11,7 @@ DEFAULT_PROMPT_TEMPLATE = """
 
 DEFAULT_SYSTEM_CONFIG = {
     "BasicRag": {
+        "sys_name": "basic_rag",
         "chunk_size": 256,
         "chunk_overlap": 0,
         "embed_model_name": "openai-text-embedding-3-small",
@@ -24,6 +25,7 @@ DEFAULT_SYSTEM_CONFIG = {
         "prompt_template": DEFAULT_PROMPT_TEMPLATE,
     },
     "RerankRag": {
+        "sys_name": "rerank_rag",
         "chunk_size": 256,
         "chunk_overlap": 0,
         "embed_model_name": "openai-text-embedding-3-small",
