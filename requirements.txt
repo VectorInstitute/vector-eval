@@ -16,6 +16,7 @@ llama-index-vector-stores-faiss
 loguru
 openai==1.13.3
 ragas==0.1.7
+ruff
 sentence_transformers
 torch
 transformers
