@@ -1,5 +1,6 @@
 import os
 
+from pydantic.utils import deep_update
 from tqdm import tqdm
 from typing import Dict, Any
 
@@ -76,7 +77,7 @@ class Evaluator():
                 }
             )
         
-        new_log_data = {
+        log_data = {
             self._task.config.task_name: {
                 self._system.name: {
                     self._system.get_cfg()["llm_name"]: {
@@ -88,9 +89,7 @@ class Evaluator():
         }
 
         if os.path.exists(self.log_file):
-            log_data = read_from_json(self.log_file)
-            log_data.update(new_log_data)
-        else:
-            log_data = new_log_data
+            prev_log_data = read_from_json(self.log_file)
+            log_data = deep_update(prev_log_data, log_data)
 
         write_to_json(log_data, self.log_file)

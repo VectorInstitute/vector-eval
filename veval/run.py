@@ -1,7 +1,10 @@
 import argparse
 import datetime
 import os
+
+from collections import defaultdict
 from pathlib import Path
+from pydantic.utils import deep_update
 from typing import Optional
 
 from veval.evaluate import Evaluator
@@ -9,7 +12,6 @@ from veval.systems.basic_rag import BasicRag
 from veval.systems.rerank_rag import RerankRag
 from veval.tasks.template import Task
 from veval.utils.io_utils import load_from_yaml, write_to_json, read_from_json
-from collections import defaultdict
 
 
 def run_evaluation(
@@ -94,8 +96,8 @@ def main(args):
         out_path = os.path.join(parent_dir, out_path)
         if os.path.exists(out_path):
             prev_results = read_from_json(out_path)
-            results.update(prev_results)
-            
+            results = deep_update(prev_results, results)
+
         write_to_json(results, out_path)
 
 
@@ -105,7 +107,7 @@ if __name__ == "__main__":
 
     parser.add_argument("--tasks", type=str, default="pubmedqa", nargs="+", help="Specify the tasks to evaluate.")
     parser.add_argument("--systems", type=str, default="basic_rag", nargs="+", help="Specify the systems to evaluate the tasks.")
-    parser.add_argument("--models", type=str, default="openai-gpt-3.5", nargs="+", help="Specify the models used for generation.")
+    parser.add_argument("--models", type=str, default="openai-gpt-3.5-turbo", nargs="+", help="Specify the models used for generation.")
     parser.add_argument("--limit", type=int, default=-1, help="Limit the number of instances.")
     parser.add_argument("--log_dir", type=str, default="logs", help="Specify the log directory.")
 
