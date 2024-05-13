@@ -1,4 +1,6 @@
 DEFAULT_PROMPT_TEMPLATE = """
+Answer the question using information from the provided references.
+
 ### Question
 {query_str}
 
