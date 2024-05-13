@@ -1,8 +1,8 @@
-import os
-from typing import List
-
 import faiss
-import torch
+import os
+
+from dataclasses import dataclass
+from typing import List, Optional
 
 from llama_index.core import (
     Document, ServiceContext, StorageContext, VectorStoreIndex, PromptTemplate, 
@@ -11,19 +11,12 @@ from llama_index.core import (
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.retrievers import VectorIndexRetriever
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.embeddings.openai import OpenAIEmbedding
-from llama_index.llms.huggingface import HuggingFaceLLM
-from llama_index.llms.openai import OpenAI
 from llama_index.vector_stores.faiss import FaissVectorStore
-from transformers import (
-    BitsAndBytesConfig, LlamaTokenizerFast
-)
 
 from veval.utils.io_utils import delete_directory
-from veval.utils.model_utils import LlamaIndexLLM
+from veval.utils.model_utils import LlamaIndexLLM, get_embedding_model
 
-from .template import System, SystemResponse
+from .template import System, SystemConfig, SystemResponse
 
 
 def get_embed_model_dim(embed_model):
@@ -31,19 +24,26 @@ def get_embed_model_dim(embed_model):
     return len(embed_out)
 
 
+@dataclass
+class BasicRagConfig(SystemConfig):
+    chunk_size: Optional[int] = None
+    chunk_overlap: Optional[int] = None
+    embed_model_name: Optional[str] = None
+    similarity_top_k: Optional[int] = None
+    response_mode: Optional[str] = None
+
+
 class BasicRag(System):
     """A basic RAG system with a linear pipeline."""
-    def __init__(self, llm_name: str, local_llm: bool = False):
-        super().__init__()
 
-        model_name = llm_name
-        self.local_llm = local_llm 
-        self.artifact_dir = "/fs01/projects/opt_test/meta-comphrehensive-rag-benchmark-project"
+    _cfg = BasicRagConfig()
+
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
 
         # Define chunking vars for node parser
-        self.chunk_size = 256
-        self.chunk_overlap = 0
-
+        self.chunk_size = self._cfg.chunk_size
+        self.chunk_overlap = self._cfg.chunk_overlap
         # Load node parser
         self.node_parser = SentenceSplitter(
             chunk_size=self.chunk_size, 
@@ -51,43 +51,14 @@ class BasicRag(System):
         )
 
         # Load embedding model
-        if not self.local_llm:
-            embed_model_name = "text-embedding-3-small"
-            self.embed_model = OpenAIEmbedding(model=embed_model_name)
-        else:
-            embed_model_name='models/embedding-model/bge-small-en-v1.5'
-            embed_model_name = os.path.join(self.artifact_dir, embed_model_name)
-            self.embed_model = HuggingFaceEmbedding(
-                model_name=embed_model_name
-            )
+        # TODO: Debug dimension mismatch issue for local and cohere embeddings in FAISS
+        self.embed_model = get_embedding_model(self._cfg.embed_model_name)
         
-        # Load LLM
-        # Specify the large language model to be used.
-        if not self.local_llm:
-            self.llm = LlamaIndexLLM(lm_name=llm_name, temperature=0, max_tokens=128)
-        else:
-            model_name = "models/meta-llama/Llama-2-7b-chat-hf"
-            model_name = os.path.join(self.artifact_dir, model_name)
-            # Configuration for model quantization to improve performance, using 4-bit precision.
-            bnb_config = BitsAndBytesConfig(
-                load_in_4bit=True,
-                bnb_4bit_compute_dtype=torch.float16,
-                bnb_4bit_quant_type="nf4",
-                bnb_4bit_use_double_quant=False,
-            )
-            # Load the large language model with the specified quantization configuration.
-            self.tokenizer = LlamaTokenizerFast.from_pretrained(model_name)
-            self.llm = HuggingFaceLLM(
-                model_name=model_name,
-                tokenizer_name=model_name,
-                context_window=4096,
-                max_new_tokens=75,
-                model_kwargs={
-                    "quantization_config": bnb_config, 
-                    "torch_dtype": torch.float16
-                },
-                device_map='auto',
-            )
+        # Load LLM - Specify the large language model to be used.
+        self.llm = LlamaIndexLLM(
+            lm_name=self._cfg.llm_name,
+            **self._cfg.llm_gen_args,
+        )
 
         # Configure service context
         self.service_context = ServiceContext.from_defaults(
@@ -100,24 +71,18 @@ class BasicRag(System):
         self.faiss_dim = get_embed_model_dim(self.embed_model)
         faiss_index = faiss.IndexFlatL2(self.faiss_dim)
         self.vector_store = FaissVectorStore(faiss_index=faiss_index)
-        self._index_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".index_store")
+        self._index_dir = os.path.join(
+            os.path.dirname(os.path.abspath(__file__)),
+            ".index_store"
+        )
 
         # Retriever vars
-        self.similarity_top_k = 5
+        self.similarity_top_k = self._cfg.similarity_top_k
 
         # Generation vars
-        self.response_mode = "compact"
-
+        self.response_mode = self._cfg.response_mode
         # Template for formatting the input to the language model, including placeholders for the question and references.
-        self.prompt_template = """
-        ### Question
-        {query_str}
-
-        ### References 
-        {context_str}
-
-        ### Answer
-        """
+        self.prompt_template = self._cfg.prompt_template
 
     # TODO - Think of docs from a general framework perspective
     def invoke(self, query: str, docs: List[str]) -> SystemResponse:

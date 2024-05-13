@@ -1,11 +1,9 @@
 import abc
 import datasets
 import os
-import time
 
 from collections import defaultdict
 from dataclasses import dataclass
-from inspect import getsource
 from tqdm import tqdm
 from typing import (
     List, Optional, Dict, Any
@@ -63,6 +61,7 @@ class TaskConfig(dict):
     Methods:
         __getitem__(self, key: Any) -> Any: Returns the value of the specified attribute.
         __setitem__(self, key: Any, value: Any) -> None: Sets the value of the specified attribute.
+        as_dict(self) -> Dict[str, Any]: Convert the TaskConfig object to a dictionary.
     """
     task_name: Optional[str] = None
     dataset_path: Optional[str] = None
@@ -78,6 +77,9 @@ class TaskConfig(dict):
     
     def __setitem__(self, key: Any, value: Any) -> None:
         return setattr(self, key, value)
+
+    def as_dict(self) -> Dict[str, Any]:
+        return {k: v for k, v in self.__dict__.items() if not k.startswith('_')}
     
 
 class Task(abc.ABC):
