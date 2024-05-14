@@ -124,7 +124,7 @@ if __name__ == "__main__":
 
     # Read Cohere API key
     try:
-        f = open(Path.home() / ".cohere.key", "r")
+        f = open(Path.home() / ".cohere-prod.key", "r")
         os.environ["COHERE_API_KEY"] = f.read().rstrip("\n")
         f.close()
     except Exception as err:
