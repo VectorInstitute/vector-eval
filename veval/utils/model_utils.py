@@ -577,7 +577,7 @@ class LangChainLLM(LLM):
       return f"custom_{self.lm_type}"
    
    @rate_limiter(
-      limit=DEFAULT_RL_LIMIT, 
+      limit=100, # TODO: Set custom rate limit based on model 
       interval=DEFAULT_RL_INTERVAL,
    )
    @retry(

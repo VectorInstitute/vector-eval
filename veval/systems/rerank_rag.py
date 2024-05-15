@@ -96,6 +96,11 @@ class RerankRag(BasicRag):
             result = "I don't know"
             retrieved_context = ['']
             reranked_context = ['']
+        except ValueError as e:
+            print(f"Cannot obtain response: {e}")
+            result = "I don't know"
+            retrieved_context = ['']
+            reranked_context = ['']
         
         try:
             # Extract the answer from the generated text.
