@@ -1,0 +1,77 @@
+The PE (price to earnings ratio) of a stock is 18. Is that cheap or expensive? Well, it depends. On what? Many things! Welcome to the world of relative valuation.
+
+The findings from research done a decade earlier by Aswath Damodaran indicated that around 85 per cent of valuation done by equity research analysts and 50 per cent of corporate M&A transactions were based on relative valuation. So, what exactly is this relative valuation?
+
+It is the art of attempting to determine the fair value of a stock based on how it is valued relative to many factors. So, whether the PE of a stock is 15 or 18 or 30, the only way you can make an assessment of whether it is cheap or expensive is by analysing this one number — against its growth prospects, peer company multiples, industry trading range, historical average PE, the prevailing interest rates, etc.
+
+Portfolio podcast: The art of valuing stocks Portfolio podcast: The art of valuing stocks
+
+Let there be no doubt, valuation experts like Aswath Damodaran and many successful hedge fund managers believe that absolute valuation (which we discussed in the Big Story in bl.portfolio edition dated October 8) is the better way to arrive at the value of a stock.
+
+However, due to a combination of complexities involved in building appropriate models, insufficient information, time constraints and also the fact that there are hundreds of stocks you want to consider, it is just not possible to do a DCF ( discounted cash flow model) for all your stock investments, and hence relative valuation as an approach to picking stocks too is well accepted and widely prevalent.
+
+When you decide to buy or sell a stock based on its PE or P/B or EV/EBITDA or EV/Revenue or even EV/subscriber ratios, you are engaging in the art of relative valuation. And it’s totally fine to be an investor relying on relative valuation to make your savings work for you, provided you approach it the right way and ensure adequate risk management. In relative valuation, the broader you assess the valuation, ie assess valuation multiple against more parameters, the better the perspective you get.
+
+In simple words, one way to understand the difference between absolute valuation (explained in last week’s edition) and relative valuation is this – absolute valuation is made up of an interesting story that is backed by credible and validated numbers, while relative valuation is made up of an interesting number backed by a credible and validated story.
+
+What are those numbers in relative valuation? Every number in relative valuation is the result of a number A divided by a number B. For example, PE is price of the stock divided by its earnings. These are all numbers that are used to compare against similar metrics of other stocks and assess the merits of the stock.
+
+Before we proceed on using relative valuation to pick stocks, it is important to understand that you can do relative valuation using equity multiples or firm/enterprise multiples.
+
+Equity multiples
+
+If you check the balance sheet of any company, the liabilities side is primarily made up of two line items — shareholder funds and borrowings. To the contrary, a Profit and Loss statement has many line items — starting with revenue, followed by variable costs and then fixed costs and taxes. The only claim that equity shareholders have for distribution or for appropriation amongst themselves is what is left after paying the taxes — net profit.
+
+So, if you are doing relative valuation based on equity multiples, it is important to ensure you divide the equity – ie price per share or market cap of the company by line items that apply to equity shareholders.
+
+Based on this, there are only 3 items that can be attributed to equity shareholders — net profit from P&L statement, book value or shareholder funds from the Balance Sheet, and the free cash flows to equity (FCFE) from the cash flow statement. Any relative valuation multiples will be linked to these three items one way or the other. Any other metric could be wrong and misleading.
+
+For example, price by revenue or price by EBITDA is incorrect. Why? How do you differentiate between two companies A and B — both having same market cap of ₹100 and similar in all means except for debt levels — same revenue (₹100) and same gross margin and same EBITDA margins of 20 per cent and thus same EBITDA of ₹20. But A has zero debt, while B has debt of ₹10. Since revenue or sales and EBITDA are same, if you do a market cap/revenue or Price /Sales, or marketcap/EBITDA, both companies will have the same valuation.
+
+However, let’s assume depreciation is ₹10, interest cost is 10 per cent and taxes are zero. This means the net profit of A is ₹10, while that of B is ₹9. Thus although both companies are similar in terms of Price/Revenue and Price/EBITDA, A is cheaper on the PE ratio – ie PE of A is 10 and PE of B is 11.1. On a relative valuation basis, you must choose A instead of B, but you would not have spotted it if you had used incorrect metrics.
+
+Hence it’s very important to use the right multiples. When it comes to equity metrics, it always has to be price or market cap (or variations of the same) in numerator divided by line items attributable to equity holders (or variations of the same)
+
+The accompanying table gives the commonly used equity multiples for relative valuation.
+
+Once the metrics and importance are understood, there are, as such, no limits to how you can use them to pick stocks. You can use one or two metrics or a combination of many more metrics to assess which stocks are undervalued or overvalued.
+
+Depending on specific cases, you can use further variations to pick stocks. For example, during the 2003-2007 bull market, many textile stocks, for instance, Bombay Dyeing, turned out to be multibaggers. Was their textile business booming? Not really. But the stocks were zooming because there was real estate boom and many textile mills had manufacturing facilities in prime real estate locations. So the markets started to factor value of the company based on market value of their land. In such a case you can deviate from Price/Book multiple to price/market value of net assets (assets – net debt).
+
+Similar is the case with holding companies. If you think there is a reasonable case for underlying value of assets to be unlocked and Holdco discount to shrink, like it has happened in bank holding companies in the last 2-3 years, then there is a case to move beyond book value to market value.
+
+Enterprise value multiples
+
+Enterprise value refers to total value of a company/business. This total value as perceived by the market is represented by the sum of its market cap + net debt (includes minority interest). What works in the case of EV is that it helps in doing a capital-agnostic analysis of a company. Whether a company is funded only with equity, or a combination of equity and debt, the total value of the business is the same. Sources of funding don’t matter.
+
+Using EV, the value of equity (share price) is derived from the value of the business. Since the capital structure of companies varies significantly, an EV approach enables valuing them on similar terms. One can arrive at the value of the business first and then subtract net debt, to arrive at the equity value. The advantage with EV-based metrics is that you have more options to value a company.
+
+Bear in mind, valuation accuracy is better the lower down the P&L and cash flow statement one can get to. But there are many times when company profits are low, but its operational performance ie EBITDA is not bad. In such cases, as revenue and EBITDA continue to grow, operating leverage will result in PE growing much faster than the above two line items.
+
+For example, take the case of Bharti Airtel: at the start of FY22 (April ‘21) its trailing PE was negative/invalid due to losses in FY21. The stock would have been avoided if one went by PE alone. However, on trailing EV/EBITDA basis, it was trading at 10 times EV/EBITDA. When this was considered against its estimated next 2 years EBITDA CAGR of over 20 per cent, the valuation, combined with qualitative factors, made it an interesting buy. Since then, net profits have improved substantially as operating leverage played out.
+
+At bl.portfolio we had recommended a buy on the stock based on this in April 2021 and the stock has returned 80 per cent since. The stock would have been easily missed if PE was the metric used to spot the performers.
+
+Hence EV-based metrics are options to consider as well when equity-based valuation multiples do not give a clear picture. Where even EBITDA multiples are not clear, as was the case with many new-age company IPOs that were reporting losses even at the EBITDA level, investors have no option but to go further up the P&L to metrics like EV/revenue, or even outside of P&L to use metrics like EV/subscriber.
+
+As we mentioned earlier, relative valuation represents a number backed by a credible and well-validated story. Hence, you can use non-P&L multiples. So when you compare companies and invest in one based on EV/Subscriber, there must be a credible story backing future monetisation of the subscriber in a profitable manner. But do bear in mind, the risks are higher and so may be the rewards or pain as the case may be. When the risks are higher, you must apply a higher margin of safety before choosing the stock.
+
+Another thing to bear in mind when it comes to EV-based valuation — any change in EV will impact only the equity value. For example, if EV of a company is ₹100 and it has ₹50 in debt, then the value of its equity is ₹50. In this case, if you think EV can increase by 10 per cent, the value of equity will increase by 20 per cent, and the reverse is also true. The higher the leverage, more the impact of change in EV on the value of the stock (both ways).
+
+Keep a weather eye on Ketchup Economics
+
+Given the fact that relative valuation is based on comparison with peer multiples, investors must take measures to check whether the peer multiples are reasonable as well. An overvalued peer cannot be used to justify expensive valuation in one stock. This is what economist Larry Summers termed as Ketchup economists/economics. It was his sarcastic take on some of the highly paid economists and finance professionals who are concerned only with inter-relationships between prices of different financial assets. Based on this approach, they conclude whether the price of an asset independently is efficient or not. If two bottles of ketchup sell for twice as much as one bottle (except for minor differences traceable to transaction costs), the market is efficient.
+
+The risk in this – it ignores the aspect of whether one bottle of ketchup is priced rationally. Nobel Laureate Paul Krugman once explained how the US housing bubble that precipitated the global financial crisis reminded him of ketchup economists. Before purchasing a house during the bubble, buyers carefully compared prices with ‘prices of other houses’, but ignored whether the overall level of a home price made sense.
+
+How to avoid pitfalls
+
+So, what can you do to avoid pitfalls while using relative valuation? Here are a few pointers.
+
+One, after comparing stocks based on relative valuation, you can do more layers of comparison by assessing how their valuation fares relative to growth prospects. This apart, many other factors can justify different valuations. For example, TCS has always commanded a valuation premium to peer stocks like Infosys, Wipro and HCLTech because of its superior margins and much more consistent growth. So just because the other stocks are cheaper on PE basis does not mean they are cheap compared to TCS. So you can also do one more layer of comparison by assessing each company’s valuation against its long-term (5-10 years) mean and median valuations and assess how they fare relative to their own history.
+
+Two, equity valuations do not function in a silo. Investors have many options — fixed deposits, bonds, real estate, etc. When other assets get more attractive one must assess scope for valuation change in equities as well. For example, interest rates and bond yields in many developed markets, including the US, are at their highest levels since 2007. This means investors may have to assess current valuations not just against last 10 years’ valuations, but of prior periods as well.
+
+Why? Near zero interest rates and low bond yields made stocks with earnings yield of mere 1-2 per cent attractive for an FPI — for example stocks such as Asian Paints, Nestle India and ABB India which today trade at PE of 65, 83 and 85 times respectively. This implies earnings yield of 1.5 per cent for Asian Paints and 1.2 per cent for Nestle and ABB. Such earnings yields of these stocks were fine for FPIs to hold when compared to zero interest income in their domestic market. But now, with US bond yields offering 5 per cent, these may not be so attractive even when considering the growth prospects. While Indian interest rates were always higher, investors in equities benefited from the global investors’ hunger for yields. That advantage is diminishing today. This is not a recommendation on the stocks, but pointers on factors to consider to make your relative valuation process more foolproof.
+
+With discipline and experience, the process will keep getting better.

@@ -1,0 +1,115 @@
+Welcome back to The Interchange, where we take a look at the hottest fintech news of the previous week. If you want to receive The Interchange directly in your inbox every Sunday, head here to sign up! After a bit of a quiet period, things in the world of fintech picked up in a big way this past week. We wrote about some notable fundraises, how PayPal was hit with an antitrust lawsuit, how Bolt is trying to move on after an SEC probe, and much more.
+
+Rainforest takes on the bigger players
+
+It’s not every day that we’re pitched companies that feel like they are taking on bigger players in a really meaningful way. This past week, I wrote about Rainforest, an Atlanta-based startup that is taking on incumbents such as Fiserv and FIS, as well as trying to take market share from other fintechs such as Stripe with its offering. Rainforest works with software companies to help them embed financial services and payments into their platforms. In an interview with TechCrunch, CEO and co-founder Joshua Silver respectfully disagreed with a16z general partner Angela Strange about her 2019 statement that every company would become a fintech. In his view, most software companies don’t actually want to be fintechs and deal with all the regulatory and compliance issues that go with that. They really just want to be able to accept payments and generate more revenue from being able to do so.
+
+Accel led the company’s $8.5 million seed round, which included participation from Infinity Ventures, BoxGroup, The Fintech Fund, Tech Square Ventures, and Ardent Venture Partners.
+
+It’s always cool to see startups outside the coasts growing, and Silver’s confidence that what Rainforest is building will make it a formidable player in the space feels like it has merit. Founded in 2022, the startup has seen impressive growth in a short period of time, securing client commitments representing more than $500 million in processing, with much of the volume guaranteed.
+
+Silver believes the company’s exclusive focus on software companies only gives it an edge.
+
+“None of the modern processors were built specifically for software platforms. Most of them were built directly for merchants, and they’ve all had to retrofit their platforms even to accommodate basic payment processing and reporting functions for software companies,” he told TechCrunch.
+
+As such, the startup is capturing volume as software platforms migrate from legacy processors such as Fiserv and FIS. As that happens, it competes against companies like Stripe (and its Connect product) to embed financial services and payments.
+
+Nik Milanović of The Fintech Fund posted on X that he believes that one of the biggest stories of the next decade will be about Stripe, “which looks invincible from the outside, losing market share to nimble competitors.”
+
+He added: “I think Rainforest is going to be a big part of that story.”
+
+Meanwhile, Infinity Ventures’ Jeremy Jonker and former PayPal exec said he’s been in payments for 13 years and has “never before seen anything like Rainforest.” He told me via email that “Joshua’s background as a software platform founder and then as a payments consultant is a big part of the secret sauce. He’s lived the pain of payments himself, and you can’t underestimate the power of being in your clients’ shoes. He knew that taking on risk and compliance burdens, and offering features like data portability, would be hugely attractive to platforms. We also like that it’s not just him who has a wealth of payments experience — it’s the entire team he’s recruited to the company. Many are longtime payments and SaaS vets who knew there was so much potential for a better provider, and now they’ve built it themselves.”
+
+Listen to TC+ editor Alex Wilhelm and I talk more about how there’s plenty of market share to go around in Friday’s episode of the Equity podcast below. — Mary Ann
+
+PayPal is being sued for alleged “Draconian” payment policies
+
+On October 5, Mary Ann broke the news that PayPal has been hit with a class action lawsuit by consumers represented by law firm Hagens Berman alleging that the fintech giant’s anti-steering rules stifle competition against lower-cost payment platforms such as Stripe and Shopify. Specifically, according to an investigation conducted by the firm’s consumer rights attorneys, PayPal has subjected consumers to excess charges when purchasing from online merchants that accept PayPal or Venmo.
+
+Someone commented on social media that they didn’t see the problem with what PayPal is doing and questioned whether or not Visa and Mastercard do the same thing. So I went back to the attorneys who filed the lawsuit, who noted that the “anti-steering rules” are not the first of their kind. They said: “Visa and MasterCard once imposed similar anti-steering rules on merchants accepting their cards but, after the Justice Department sued the networks for antitrust violations, they agreed in 2010 to eliminate their anti-steering rules as part of the settlement. With payments transitioning into the digital realm, PayPal has simply ripped a page right from the Visa and MasterCard [sic] playbook.”
+
+Meanwhile, Patrick McGahan, a partner at Scott+Scott who focuses on antitrust litigation, had an interesting take that actually involves both of those card giants. He told TechCrunch that the case illustrates that “the tensions between merchants and the payment system providers are not over, and that litigation regarding this key cost faced by merchants is likely to continue for some time.”
+
+He added: “Platform companies that operate as gatekeepers in their market, such as PayPal, will continue to be the subject of antitrust litigation as a result of the significant fees they charge. PayPal’s fees are, however, driven by the costs imposed upon them by the dominant card schemes, Visa, Mastercard and American Express. So, we can expect PayPal will respond to this suit by arguing that it is as much of a price taker as the merchants themselves, and that the terms imposed upon it by the card schemes drive some of its anti-steering rules.”
+
+PayPal did not respond to requests for comment. — Mary Ann
+
+Bolt CEO gets frank about SEC probe
+
+Bolt Financial CEO Maju Kuruvilla told me in an interview that the one-click checkout company is putting a recent U.S. Securities and Exchange Commission probe behind it and is moving on.
+
+“It obviously is a very, very involved process, but we’re really happy to put that behind us,” Kuruvilla told TechCrunch. “We look forward to focusing on the momentum for the business and how we can help the retailers, especially the big retailers who are looking to us to innovate for them, because this is a tough year for retailers.”
+
+You might remember that Bolt, which provides checkout technology to merchants, and its co-founder Ryan Breslow, were subpoenaed last year by the SEC to investigate whether the company violated any securities laws during fundraising in 2021 when Bolt was seeking its $355 million Series E round that valued the company at $11 billion.
+
+The investigation took about 15 months, but news of that probe didn’t go public until July of 2023. Shortly thereafter on August 23, the SEC said, in a letter viewed by TechCrunch, it was not recommending an enforcement action for the company.
+
+Kuruvilla spoke with me about how, exactly, the company can put something like this behind it, what it told customers and what’s next. Read more. — Christine
+
+Weekly News
+
+Banking-as-a-service startup Synapse confirmed Friday that it laid off 86 people, or about 40% of the company. The San Francisco–based company, which operates a platform enabling banks and fintech companies to easily develop financial services, has been open about past layoffs. In June, CEO Sankaet Pathak wrote in a blog post that the company had let go of 18% of its workforce as “the current macroeconomic conditions” had begun to impact its clients and platforms, affecting its anticipated growth. More here.
+
+Visa plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future of commerce and payments,” Mary Ann reports. Visa Ventures head David Roff told TechCrunch that the fintech giant has “a lot of flexibility” with regards to how many investments it would make out of the new fund, and average check size. More here.
+
+As reported by Manish Singh, “Indian unicorn fintech Slice is merging with North East Small Finance Bank after receiving the approval from the central bank, in an extremely rare feat that has eluded many tech giants, top financial startups and tycoons for decades. Slice — which earlier offered credit card–like cards and at peak issued over 400,000 cards in a month, more than any other fintech or bank — said the merger with the Guwahati-headquartered bank will allow the combined entity to better serve their shared mission and reach more consumers who currently lack access to basic banking services.” More here.
+
+“CRED grew its operating revenue by a staggering 255% to $168.1 million in the financial year ending March as the fintech startup, which garners an unusually high level of attention, finds rising adoption of its lending and commerce offerings among India’s affluent individuals. The Bengaluru-headquartered startup had a total income of about $50 million in the financial year ending March last year and $11.4 million in the prior year. More here from Manish Singh.
+
+Brex co-CEO and co-founder Henrique Dubugras chose the very picturesque island Fernando de Noronha in northeastern Brazil to be the location of four days of festivities around his marriage to software engineer Laura Fiuza, Brazilian publication Globo reported last week. Some 400 guests are reportedly attending the wedding, which led to the closing of the Forte dos Remédios — one of the island’s main tourist attractions — for more than a week, according to Globo. Parabéns, Henrique and Laura!
+
+Several fintech startups recently made LinkedIn’s top startups of 2023 list, including Ramp, No. 1; Synctera, No. 11; Esusu, No. 13; Sardine, No. 16; and Tapcheck, No. 48.
+
+CB Insights also released its Fintech 100 list, made up of the “most promising 100 fintech startups of 2023.”
+
+Other items we are paying attention to:
+
+The great Zelle pool scam
+
+The Public platform offers everyday investors a slice of ‘Shrek’ catalog with quarterly payouts
+
+Stockpile and Green Dot partner on debit cards for minors
+
+Amex pilots biometrics in online checkout
+
+Pie Insurance appoints Audra Foglietta as chief financial officer
+
+Monzo picks Cash App vet Conor Walsh for US CEO
+
+Folsom-based EV Life launches electric car loan to lower monthly payments
+
+CLEAR launches reusable KYC solution
+
+Funding and M&A
+
+As seen in TechCrunch
+
+Open banking led to a fintech boom — as Brite raises $60M, account-to-account payment grows
+
+Recapitalization, $60M Series D support growth of e-commerce financier Clearco
+
+Stitch raises $25M Series A extension led by Ribbit Capital, increasing the round’s total to $46M
+
+Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform
+
+Sparx wants to do for enterprise what Truebill did for consumer recurring bills
+
+Ten Key Labs wants to simplify managing equity for startups
+
+Seen elsewhere
+
+Logistics company Loop raises $35M to modernize the supply chain (Also, check out TechCrunch’s previous story on Loop.)
+
+Shift4 acquires SpotOn unit for $100M (TechCrunch previously covered SpotOn here.)
+
+Reserv raises $20M for AI-driven insurtech software
+
+Vyzer raises $6.3M seed round for AI-powered wealth management platform
+
+Kafene adds another $12.6M to its Series B round (TechCrunch previously covered Kafene here.)
+
+Fintech firm Revio boosts community bank growth with $2.5M funding
+
+SkyWatch acquires Droneinsurance.com
+
+AP Automation Fintech Stampli announces $61M round led by Blackstone

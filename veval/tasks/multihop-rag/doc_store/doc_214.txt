@@ -1,0 +1,635 @@
+For the first year in recent memory, scale did not necessitate tradition, and scope did not preclude getting weird. In 2023, nothing was sacred in video games, and so they felt more vibrant than ever.
+
+Sure, some of the more “focused” games threw us for a pleasant loop: Dredge begins as a lonely fishing sim before transforming into something otherworldly, and Humanity morphed from a pensive art project into an all-out war. Dave the Diver, similarly, is not so much about being a diver as it is about running a sushi restaurant, or hunting for alien artifacts, or conversing with said aliens, or — you get the point. Whether you booted up your Steam Deck for a cross-country flight or hid your Switch off screen during that boring Zoom meeting, the game you returned to was rarely the one you left behind.
+
+This amorphousness (I’m begging our copy editor to let this one slide, because what other “word” could adequately summarize the video games of 2023?) wasn’t consigned to the newcomers, though. Larian Studios, fresh off two years of early-access development and riding the reputation it had garnered from Divinity: Original Sin 2, saw fit to release a role-playing game in which you can kill off nearly every main character the moment you meet them. Remedy Entertainment — let’s be honest, this group has always been strange — made a sequel that’s equal parts horrifying, hilarious, fun, and fabulous. And Nintendo? Well, Nintendo had another banner year. That’s no surprise. The real surprise? It finally let go, and let players toy with the digital molecules of its most revered series. More on this below.
+
+As the year comes to a close, it’s intoxicating to see developers of all sizes, in every genre, with every tier of budget, mining the depths of interactive design, branching this way and that as they follow their respective veins of gold. They’re nowhere near the bottom of that particular expanse, of course — and that’s a heartening thought. —Mike Mahardy
+
+How the Polygon top 50 list works
+
+Over the past few weeks, the Polygon staff voted, championed, debated, and ultimately threw up its hands and marveled at the list of mammoths, curiosities, puzzle boxes, and black holes that is our top 50 games of 2023. Any video games that were released in 2023, received substantial updates in 2023, or achieved renewed cultural relevance in 2023 were eligible for this list. Last year, the cutoff for consideration was Nov. 30. (You’ll notice a certain Firaxis Games joint fairly high up our list.) This year, the cutoff was the same. Should we be thoroughly enamored with Warhammer 40,000: Rogue Trader or Avatar: Frontiers of Pandora, we’ll make sure they’re considered for next year’s top 50.
+
+Top 50
+
+50. Mr. Sun’s Hatbox
+
+Developer: Kenny Sun
+
+Where to play: Nintendo Switch and Windows PC
+
+Mr. Sun’s Hatbox is about a hat delivery person (or maybe it’s just a blob with legs?) that takes their job way too seriously. At the beginning of the game, a customer’s package gets stolen and whisked away to a nearby towering castle. Despite the client’s apathy toward a single missing hat, the delivery company, named Amazin, proceeds to set up an entire subterranean paramilitary operation beneath the poor customer’s home.
+
+As its premise suggests, this pixelated 2D roguelite leans into the absurd. Part Metal Gear Solid 5, part Spelunky, you undertake missions where you blast away enemies and kidnap them for your own operation, all while slapstick action unfolds. While on a mission, anything from a desk lamp to daggers is fair game for a weapon. In between fights, you expand your base, where you manage a staff of brainwashed blob-people. It’s fast, frenetic fun, and especially enjoyable to share with friends in co-op. —Ana Diaz
+
+49. Lies of P
+
+Developer: Neowiz Games
+
+Where to play: Mac, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+Yes, Lies of P is a Dark Souls mixed with Pinocchio, and that’s a questionable elevator pitch from the outset.
+
+In the years leading up to Lies of P, “Pinocchiosouls” was more of a running joke than anything — this profane idea that you can take any world and slap some Dark Souls into it to get people mildly interested. But once you’re in the game, eliminating bosses left and right with your sweet parry moves, you’ll quickly find yourself entirely unbothered by how strange Lies of P initially seemed. And you’ll start telling your partner things like “I have to go back to Geppetto to upgrade my puppet body” like it’s a perfectly normal task to assign yourself on a Tuesday afternoon.
+
+It’s very rare for a Soulslike to ever feel like anything more than a knockoff — even when they’re decent fun, like The Surge. But the best compliment I can give Lies of P is that it feels like the genuine article, a FromSoftware game developed in an alternate dimension and somehow released in this one by mistake. But it wasn’t a mistake or luck that made Lies of P, and it wasn’t FromSoftware, either; it was a talented group of developers at Neowiz Games and Round8 Studio that took a tired genre, paired it with a bizarre IP, and knocked it out of the park. —Ryan Gilliam
+
+Related Lies of P carves a singular space out of the Soulsborne genre
+
+48. Tchia
+
+Developer: Awaceb
+
+Where to play: PlayStation 4, PlayStation 5, and Windows PC
+
+Tchia is an open-world adventure game set in a fictional version of island nation New Caledonia — inspired by Awaceb’s co-founder’s childhood in the country.
+
+Everything is filtered through the titular main character Tchia’s eyes, eyes with a special power that allows her to transform into any animals or objects in her environment. Birds, dolphins, a camera, or rocks… It’s all an option for Tchia.
+
+The game, while clearly inspired by The Legend of Zelda: Breath of the Wild, ends up standing on its own because of the innovative shapeshifting mechanics. Tchia isn’t as technically polished as a Nintendo title with hundreds of developers; Awaceb has a team of roughly a dozen. Still, it’s hard to innovate in such a ubiquitous genre, yet Awaceb has managed to do just that with Tchia, making it one of the best games so far this year. —Nicole Carpenter
+
+47. Blasphemous 2
+
+Developer: The Game Kitchen
+
+Where to play: Nintendo Switch, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+Long gone are the days when the Metroidvania genre languished untouched for years on end. But despite an influx of entries in recent years, few have exhibited as much mastery as Blasphemous 2. Building off of the strong roots of the first game, Blasphemous 2 continues to use Spanish Catholicism as a narrative and aesthetic touchpoint, telling a twisted religious tale that’s about as far from proselytizing as you can get.
+
+After the success of the first game, the developers have focused on refining the combat, adding multiple weapons and bizarre, hidden customization options that allow you to take command of how your character rips this world to shreds. The last time I played a 2D Metroidvania with this much polish and charm, it was Hollow Knight. Blasphemous 2 might not reach those same heights, but it comes damn close. —Russ Frushtick
+
+46. Party Animals
+
+Developer: Recreate Games
+
+Where to play: Windows PC and Xbox Series X
+
+I do not know how Recreate Games managed to render some of the cutest animals I’ve ever seen. I also do not know how Recreate made me completely OK with picking up these cute animals and flinging them into black holes, poison clouds, or freezing tundras. The second the match starts in Party Animals, all those cute fluffy corgis, rabbits, kitties, and ducks become my enemies. I will beat them with a bat until they can’t wake up anymore, and I won’t think twice about it. Party Animals may have made me a monster? I don’t know.
+
+The Gang Beasts-esque wiggly physics mixed with the cute characters makes for a perfect party game of fluffy fighting. —Julia Lee
+
+Related September games you might have missed
+
+45. The Talos Principle 2
+
+Developer: Croteam
+
+Where to play: PlayStation 5, Windows PC, and Xbox Series X
+
+Like its predecessor, The Talos Principle 2 tackles grand science fiction ideas, particularly about what it means to be human — a theme thoroughly explored in this installment of the series set in a post-human society of AI-powered robots that are carrying on human culture and civilization. Also like its predecessor, The Talos Principle 2 is replete with philosophical commentary and references to famous artists and thinkers. My favorite is a riff on Werner Herzog’s famous quote about birds: “The enormity of their flat brain. The enormity of their stupidity is just overwhelming.”
+
+But if you’re like me, you’re playing the game because you’re an absolute freak for light refraction, gravity, and geospatial puzzles. There are so many puzzles in this game — there’s even a puzzle metagame, spread across the game’s gorgeous map — and they’re each excellent, teaching you new concepts before refracting them and forcing you to think differently. —Nicole Clark
+
+Related November games you might have missed
+
+44. Fading Afternoon
+
+Developer: yeo
+
+Where to play: Windows PC
+
+Video games demand an account for your time. Some video games track the minutes and hours you’ve spent on screen. Others impose strict limits on how long you play, or how much you can do. But all video games constantly ask: How will you spend your time? Seiji Maruyama doesn’t know how much time he has left. Fresh out of prison, he’s not a young man anymore, but he doesn’t want the streets to know. So he returns to his life as a yakuza heavy, hoping to make his mark again.
+
+Fading Afternoon ends when Seiji’s time runs out. Based on the choices you make, the consequences of which are initially obfuscated, this could be five minutes after the game begins, or it could be five hours. He has a bad cough and a pack of cigarettes, each a metaphor for the ticking clock inside of him. You could go to work, brawling on the streets. Or you can simply pass the time: Listen to a jazz band. Play video poker. Buy a home. Fall in love. You have the time, until you don’t. —Joshua Rivera
+
+43. Suika Game
+
+Developer: Aladdin X
+
+Where to play: Nintendo Switch
+
+I thank VTubers every day for many things, but I will kiss the feet of the anime avatars that introduced me to Suika Game. The engrossing 2048-meets-Tetris-with-physics fruit drop game has become my go-to whenever I need to kill some time. Note that I am talking about the official Nintendo Switch version, not all of the horrific ad-plagued knockoffs that have flooded the App Store.
+
+The thing that makes Suika so special, in addition to its cutesy gameplay, is its quality as a social game. The same way we sit around and talk about our NYT Connections, we sit around and talk about our fruitless (ha) attempts at getting double watermelons or breaking the 3,000 point threshold. It’s also a great game to watch: Nothing is funnier than seeing somebody’s Suika run go downhill in 30 seconds flat. (There’s a reason why the game has taken the streaming world by storm.) —JL
+
+42. League of Legends Season 13
+
+Developer: Riot Games
+
+Where to play: Mac and Windows PC
+
+League of Legends’ 13th season is one of the game’s most balanced yet. Almost every champion has felt viable throughout the year — no small feat for a game with over 140 playable characters — and it’s led to great fun and variety on the solo queue ladder and in professional play, where an exciting Worlds just wrapped up.
+
+But there’s another reason League had an outstanding 2023: Arena, a new game mode introduced during the game’s summer event. Arena is a 2v2v2v2 battle mode with fast-paced chaos, using League’s roster of champions in a more approachable and containable setting (and with less rage-inducing teammates). The mode was removed after the conclusion of the summer event, but is reportedly returning soon. It can’t possibly come soon enough; I know how I’ll be spending a good chunk of my winter. —Pete Volk
+
+Related Arcane is officially League of Legends canon now
+
+41. Goodbye Volcano High
+
+Developer: KO_OP
+
+Where to play: PlayStation 4, PlayStation 5, and Windows PC
+
+Goodbye Volcano High is a visual novel with rhythm game elements, and it takes place at the precipice of the end of the world. It’s centered on a group of teenage dinosaurs entering their senior year of high school, a perfect balance between high school dramatics and the grim future of Earth, as a meteor rockets toward the planet. Though the rhythm game elements can feel a bit finicky — and don’t seem to matter much, in terms of progressing the game — Goodbye Volcano High’s music only adds to the dimensional, raw experience created by worker-owned studio KO_OP.
+
+It’s rare to find a game that takes the teenage experience seriously, but Goodbye Volcano High does just that. It’s a time in your life where you feel so, so much. You can see that earnestness in the teenage experience where everything is a big, huge issue — sometimes to the point of cringe — tied up in that big, global issue of the meteor that’s looking to destroy everything. —N. Carpenter
+
+Related August games you might have missed
+
+40. World of Warcraft Classic
+
+Developer: Blizzard Entertainment
+
+Where to play: Mac and Windows PC
+
+Something very, very interesting started to happen in the retro version of WoW this year. While Blizzard has been content to march one half of the game’s community forward through its history of expansions, it’s started to come up with creative ways to keep the other half — the half that wants to stay in the game as it was at launch — engaged.
+
+The first of these was Hardcore, a brilliant permadeath mode that instantly made this aging game both more dangerous and more social, resurrecting the spirit of its 2004 servers. The second, just launched, is the wild Season of Discovery, which remixes and restructures the original WoW experience — interpolating staggered level caps, shuffling class roles — in ways that might just change MMO design forever. WoW Classic is quietly, and paradoxically, where Blizzard is doing its most forward-thinking work right now. —Oli Welsh
+
+39. Fire Emblem Engage
+
+Developer: Intelligent Systems
+
+Where to play: Nintendo Switch
+
+Fire Emblem Engage was designed for a very specific kind of sicko: one not particularly interested in the origin stories of a horde of teenagers, or the politics of a bourgeoise academy, or what kind of tea a teacher prefers, but instead one obsessed with the endless minutiae of combat stats, weapon loadouts, and team composition. I know this because I am one such sicko.
+
+If you’ve read any of my reviews or essays on Polygon, then you know I prefer strategy games that can get out of their own way. More precisely, I love when strategy developers can put their pens down, throw their hands up, and admit that the stories unfolding in the player’s head will almost always be more powerful than anything they could write. Fire Emblem Engage is one of the foremost proponents of this idea. It hurls an excess of characters, weapons, battle scenarios, and stat-boosting abilities at you, leaving the door open for you to observe character interactions on the battlefield and create the resulting fanfiction in your head. Its actual script is a quagmire of nonsensical JRPG tropes, and each cutscene is more skippable than the next. But if you’re looking for an excellent turn-based tactics game that gets out of the player’s way, you can do a whole lot worse than Fire Emblem Engage. —M. Mahardy
+
+38. Pizza Tower
+
+Developer: Tour De Pizza
+
+Where to play: Windows PC
+
+Pizza Tower is a perfect object, and fully committed to its vision. You play as Peppino Spaghetti, a chef who must race up the pizza tower in order to defeat the existential threat posed by Pizzaface, an enormous floating pizza that also happens to be sentient. Super normal stuff. To get there, you platform through a series of levels, picking up speed as you zoom through enemies and obstacles. It’s easy to get into a flow state.
+
+Pizza Tower also beautifully captures the essence of the Wario Land series. The game is delightful to look at, with an irreverent art style that’s referential to late-’90s and early-2000s cartoons, and absurd enemies and animations. Levels are also chock-full of secret rooms, passageways, and treasures, making it hard to put down and fun to replay. —N. Clark
+
+Related Pizza Tower is platformer paradise for Wario freaks
+
+37. Subpar Pool
+
+Developer: grapefrukt games
+
+Where to play: Android, iOS, Nintendo Switch, and Windows PC
+
+You can play this delightful physics puzzler — best described as dynamic minigolf on a pool table — on Switch or Steam if you want, but it’s most at home on your phone. It’s an absolutely ideal mobile game: a reasonably priced paid app with no ads, in-app purchases, or subscription, playable in a spare three minutes. Pocket adorable, smiling pool balls on tables adorned with conveyor belts, portals, and moving pockets, while challenging yourself with a host of mix-and-match rulesets (balls that crack, split, or home in on you, a locked starting position, more balls, no guideline for bounces, etc.). Mobile gamers of taste will recognize the work of grapefrukt, aka Martin Jonasson, Swedish developer of such elegant classics as Holedown, Twofold Inc., and Rymdkapsel. —OW
+
+36. Amnesia: The Bunker
+
+Where to play: PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+If only one developer could be said to have a master’s grasp on interactive horror, I’d have to tip my hat to Frictional Games. The Amnesia series has always been a thrill ride of terrifying chases and the quiet, a little too quiet, moments that build up tension between. Amnesia: The Bunker is no different. In fact, it’s one of Frictional’s best.
+
+Set in a seemingly abandoned bunker that’s been sealed by explosions during World War I, your simple yet difficult task is to find an exit. This being a horror game, though, you also have to collect fuel for the bunker’s generator — a veritable beating heart — and scrutinize maps on safe room walls, before venturing into the titular structure’s labyrinthine bowels. Oh, also! There’s a monster hunting you. And it can ambush you from wall vents. And it’s attracted to even the slightest bit of sound. And whether you’re juicing your hand-cranked flashlight, triggering long-forgotten tripwires, or just opening a heavy door into yet another concrete-encased corridor, you’re going to have to make noise at some point. The Bunker is as potent in its terror as any horror video game out there. —M. Mahardy
+
+35. Lil Gator Game
+
+Developer: MegaWobble
+
+Where to play: Nintendo Switch, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+In an unprecedented year for game releases, I understand why you’re surprised to see Lil Gator Game this high up on our list. But imagine how surprised I was to find myself, in a moment of introspection, realizing that it was one of my own favorite games in 2023. At the risk of diminishing its accomplishments, I’m going to make a comparison that should cut to the quick for interested parties: This is the most A Short Hike-alike that I’ve discovered yet, and I’ve been chasing that singular high for years. So if you have a lazy weekend afternoon and want to spend it playing — not gaming, but playing, in the joyous, unstructured sense of a day in the park — I can’t recommend this li’l game enough. —Chris Grant
+
+Related Lil Gator Game has the heart of Wind Waker and the adventure of Breath of the Wild
+
+34. Starfield
+
+Developer: Bethesda Game Studios
+
+Where to play: Windows PC and Xbox Series X
+
+Starfield had so much to prove, it’s easy to lose sight of what it accomplished: top-tier world-building, a fantastically customizable ship builder, and Bethesda’s most engaging combat to date. Galaxy-spanning faction quests give you plenty to do, but it’s the side quests that really make you feel like the captain in something Star Trek adjacent: generation ships and superhero hideouts and colonies of clones. There’s good sci-fi here for those willing to make the journey.
+
+It’s true that the game oversold the idea of a galaxy with over 1,000 planets, a number that pales in comparison to the game’s most obvious competitor, No Man’s Sky. It’s a shame this became so much of the focus thanks to Bethesda’s marketing, because that same focus obscured the absolutely fascinating new game plus mode at the game’s heart. Consider this: No Man’s Sky is the game that realizes the universe’s infinite number of planets, while Starfield realizes the universe’s infinite number of possibilities. —Clayton Ashley
+
+33. System Shock
+
+Developer: Nightdive Studios
+
+Where to play: Windows PC
+
+In a year of several stellar remakes and immersive sims, it wouldn’t have been surprising if System Shock showed its age of nearly 30 years. At least, it would have been understandable if the changes needed to update the game would leave it nigh unrecognizable. That’s why Nightdive Studios’ accomplish is so impressive: It updated the 1994 classic with a slick coat of modern paint while also preserving what made the game so thrilling in the first place.
+
+The element where that’s most evident is in the game’s look, which captures all of the original System Shock’s garish cyberpunk neons and frightening enemies in a style that appears like a modern high-fidelity game at a distance, but subtly transforms into retro pixel bitmaps on closer inspection. In much the same way, the gameplay feels surprisingly modern at a distance, but on closer inspection, you start to see how this proto-immersive sim is actually what inspired so much modern game design. You have to rely on your own curiosity, caution, and cunning to navigate the halls of Citadel Station and upgrade your hacker into a cybernetic death machine. It’s a game that expects a lot from the player (and a little save scumming), but the experience is just as rewarding as it was in 1994. —CA
+
+Related The System Shock remake does something remarkable
+
+32. Star Wars Jedi: Survivor
+
+Developer: Respawn Entertainment
+
+Where to play: PlayStation 5, Windows PC, and Xbox Series X
+
+Is Star Wars Jedi: Survivor an Empire Strikes Back level of sequel? Well, no, but it manages to get extraordinarily close to being one of the best follow-ups in the entire Star Wars franchise.
+
+The game improves upon Star Wars Jedi: Fallen Order in every conceivable way, with a more entertaining, action-oriented start and a ton of aerial movements and lightsaber stances that make you feel even more like a seasoned Jedi Knight. Quality-of-life improvements like fast travel make the game less frustrating to play, while the new locales packed with hidden collectibles and upgrades make exploration more rewarding.
+
+But what makes Jedi: Survivor truly special isn’t this crude matter, but its luminous heart. You feel it in the memorable characters you meet on your galactic journey, be it the people you help or the friendships you forge and reconcile with. It’s in the classic, crowded cantina where you actually want to go check in with the barkeep. It’s in the tactile, reverent way you craft your lightsaber. And it’s in the kinetic set-pieces that remind you of the serials Star Wars was originally inspired by. At its best, you really can feel the Force around you. —CA
+
+31. Connections
+
+Developer: The New York Times
+
+Where to play: Android, browser, and iOS
+
+After the acquisition of viral hit Wordle, The New York Times’ Crossword ecosystem leveled up to full-fledged attention competitor — NYT is a media company with a gaming platform. And its staff of puzzle writers and editors are not stooping to mind-numbing mobile content to keep the expansion going. Connections, its latest title to pair well with morning coffee, is one of the year’s best games.
+
+Connections offers you a grid of 16 words and a mission: Detect the common threads between four different sets of words without embarrassing yourself. The grouping logic ranges from simple (“animals”) to silly (“synonyms for farting”) to sneaky (“countries when the letter ‘A’ is added”). Gruff game show watchers who claim the puzzle is just a clone of BBC’s long-running Only Connect miss the personality within; Connections writer Wyna Liu brings a tremendous wit to each day’s puzzle, constructing thematic grids and throwing synonym curveballs. And like with Wordle, there’s a sense of accomplishment when you land all four sets — there’s no better start to a day than gloating to friends and family about how you completely nailed Connections. —Matt Patches
+
+30. Hi-Fi Rush
+
+Developer: Tango Gameworks
+
+Where to play: Windows PC and Xbox Series X
+
+In Hi-Fi Rush, you play as Chai, a guy who must escape the factory of a villainous corporation. In a workplace accident, Chai’s iPod gets punched into his chest, making him sensitive to sound and staying on beat. What follows is a joyful action-rhythm game where you explore, climb, and fight to the beat of the music.
+
+The game is a remarkably inviting take on a genre not exactly known for being accessible. But Hi-Fi Rush does away with hardcore precision in exchange for gameplay that always subtly nudges you back toward keeping in time. Failing to attack on a drum stroke doesn’t mean failing a fight; you just don’t get a combo multiplier. And the musical score never gets jarring as a punishment; punchy notes always play in time with the rhythm, even if you hit a button at the wrong time. The result is a game that evokes the thrill of feeling like you’re acing it and getting into a flow, no matter your skill level. —N. Clark
+
+29. Monster Hunter Now
+
+Developer: Niantic
+
+Where to play: Android and iOS
+
+While Niantic’s post-Pokémon Go track record hasn’t been the most consistent, Monster Hunter Now shows the company at its best, with a refined combat system, simple matchmaking, great monster variety, and extensive character upgrades. Granted, those upgrades are part of a monetization setup that gets a little heavy-handed, but if you’re patient, there’s plenty of game here for free. And unlike in some of Niantic’s other games, the real-world elements don’t feel tacked on, with a design that blends almost perfectly with the company’s map tech, allowing you to feel like you’re tracking monsters as you get outside and walk around. It all makes for a big step forward in fusing Niantic’s real-world tech approach with combat and exploration mechanics that can stand up on their own. —Matt Leone
+
+Related Monster Hunter Now is the most traditional Niantic game yet
+
+28. Diablo 4
+
+Developer: Blizzard Entertainment
+
+Where to play: PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+With Diablo 4, Blizzard Entertainment set out to marry the frenetic action of Diablo 3, the deep RPG systems of Diablo 2, and the dark tone of the original game. It was an ambitious promise, to be sure, but four years and a whole pandemic after the studio announced the long-awaited sequel at BlizzCon 2019, it’s here, and it’s fantastic.
+
+But Diablo 4’s marriage of tone, action, and role-playing isn’t what makes it so good. In addition to all of those other things, Diablo 4 is the best launch we’ve seen for a new “living game” in recent memory.
+
+With the likes of Destiny, Anthem, and even Diablo 3, it was clear from the start that there were some nuggets of potential. But being a fan meant slogging through mountains of frustration just to taste a morsel of what you’d hope those games would become. Playing these games early on was a kind of gamble.
+
+Diablo 4, however, is unlike any of those projects, because its systems were deep and nuanced from the start, enough to spend hundreds of hours growing your character. And there is already loads of content to support that kind of time investment. —RG
+
+Related Diablo 4 activates and frustrates my lizard brain
+
+27. Hitman World of Assassination: Freelancer mode
+
+Developer: IO Interactive
+
+Where to play: PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+Hitman World of Assassination’s Freelancer mode, which debuted in January and puts a roguelike twist on Agent 47’s globe-trotting murder-for-hire missions, isn’t for the faint of heart. It demands constant improvisation, to a degree that can challenge even veteran Hitman players. Repeated failures can make it feel more frustrating than fun.
+
+But as every fan of roguelikes knows, these high-stakes experiences have the capacity to deliver a sense of exhilaration like nothing else. Pulling off multiple daring kills, hiding the evidence (or going out with a bang), and trying to make it out alive with all the gear you brought into the mission — it’s tense and thrilling, every time.
+
+Every move you make could be your last one; all it takes to ruin a flawless run is a single ill-considered plan, just one seemingly minor slip-up. With the abyss of failure forever yawning beneath 47, playing Hitman Freelancer can feel like tiptoeing along the top of a barbed-wire fence. The exultation of safely making it to the final exfiltration point, having defeated a crime syndicate after completing a lengthy series of dangerous missions, is a high I’ll keep chasing again and again. —Samit Sarkar
+
+26. Venba
+
+Developer: Visai Games
+
+Where to play: Nintendo Switch, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+I don’t love to cook. For me, it’s more a necessity than anything else. So it’s not often that a piece of media — or anything, really — leaves me with the feeling that I need to make something, to spend time in the kitchen reveling in the tedium of chopping and the sizzle of onions frying.
+
+Venba elicited that urge, reminding me that food is not just something to keep me alive, but something to be cherished. Venba is a cooking game that focuses on an immigrant family that’s moved from India to Canada. Food transcends the story by way of simple cooking minigames as I move through the chapters of main character Venba’s life — moments that switch between painful and heartwarming. Venba packs as much heart in its one-hour playtime as games 30 times its size. —N. Carpenter
+
+Related Venba expands the boundaries of the cooking genre
+
+Top 25
+
+25. Viewfinder
+
+Developer: Sad Owl Studios
+
+Where to play: PlayStation 5 and Windows PC
+
+At the heart of Viewfinder is a magic trick that never gets old: You take a photo of the environment and paste that perspective into the game world to create a bridge or reveal a needed trinket. The experience of seeing reality distorted by your hands so easily is nearly on the level of thinking with Portals for the first time. You’ll ponder a solution for minutes, sure it’s impossible and that the developers must have made a mistake, before you’re struck by a eureka moment like a lightning bolt.
+
+The game’s lesson on perspective extends to its narrative, which, much like the photos you use to manipulate the world, contains multitudes. Though it’s told in fairly typical video game-y audio monologues that you uncover from the game’s trippy environments, the journey is powerful and topical. Just as differing perspectives can allow for unique solutions, they can also obscure truths that lead us to deny the reality that’s right in front of us. —CA
+
+Related Viewfinder is puzzle game heaven
+
+24. Humanity
+
+Developer: tha
+
+Where to play: PlayStation 4, PlayStation 5, and Windows PC
+
+Humanity looks like a modern art project, recalls memories of early PlayStation oddity, and comes (in part) from the team behind game of the future Rez Infinite. But its most impressive feat is the way it gradually shifts genres, starting as a classic puzzle game, then taking on tower defense and shoot-’em-up traits as it evolves into an all-out war. Think Braveheart, with a shiba inu general leading a troop of faceless, brainless low-polygon figures against a group of angry, lightsaber-wielding, even lower-polygon foes. It’s the kind of design subtlety that stays in its lane yet builds on you, and before you realize it, ends very differently than it began. Much like humanity itself? —ML
+
+23. Paranormasight: The Seven Mysteries of Honjo
+
+Developer: Square Enix
+
+Where to play: Android, iOS, Nintendo Switch, and Windows PC
+
+Square Enix has plenty of mega-franchises to fill its time (and its coffers). This year, we have new entries for Octopath Traveler and Final Fantasy, along with new Dragon Quest and Kingdom Hearts games in the not-so-distant future. Dayenu!
+
+And yet, the publisher can’t help itself from bombarding us with surprising, interesting, sometimes great, often good-enough experiments. In 2022, we got an English-language remake of lost gem Live A Live, the surprisingly enjoyable tactical RPG DioField Chronicle, a bonkers Final Fantasy spinoff featuring the musical stylings of Limp Bizkit, and a pair of oddball card games lathered in lore from gaming’s best weirdo. This year, we have the Avengers of rhythm games, Theatrhythm Final Bar Line, and Paranormasight: The Seven Mysteries of Honjo, an excellent riff on the visual novel penned by a beloved storyteller — whose best series has never appeared in the U.S.
+
+What should you know about Paranormasight before you play? Well, ideally nothing. Why else would I be eating up my word count?
+
+But if you insist: It’s a mystery — and a horror mystery at that. You travel to 1980s Japan, specifically the Tokyo neighborhood of Honjo, located not so far from the modern Tokyo Skytree. It’s hard to imagine that modern landmark ever towering alongside these streets, which are filled with shadows and lethal curses.
+
+If you have even a passing interest in urban legends, spooky folklore, cults, and deadly rituals, or you’ve enjoyed series like Zero Escape and Danganronpa, Paranormasight is an easy recommendation. And if you just enjoy a good yarn and have access to basically any screen and $15, then you’re a perfect mark too. It runs as well on console and PC as it does on iOS and Android, so don’t fret about where you play, just do so and soon! Before Square Enix stops investing in all these oddities. —Chris Plante
+
+22. Marvel’s Midnight Suns
+
+Developer: Firaxis Games
+
+Where to play: Nintendo Switch, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+[Ed. note: Marvel’s Midnight Suns was released in 2022, but it just barely missed the cutoff for our best video games of 2022 list, so it’s eligible for our 2023 awards.]
+
+I know what you’re thinking: Another licensed Marvel game? Come on, right? But hear me out. I played Marvel’s Avengers, too, and this isn’t that. It might seem like it’s going to be at first, because Midnight Suns makes the grave error of introducing Iron Man and Doctor Strange as its tutorial characters, and these two might just be the most irritating characters in the entire video game. (I have beaten the game, so I am allowed to make this call.) You must press on and give Midnight Suns time to win you over. Because it has so, so much more to offer than it may appear in its first few hours.
+
+Picture the romance and humor of Fire Emblem: Three Houses, combined with the high-stakes tactical battles of XCOM 2 — that’s what Midnight Suns becomes in its mid-game and endgame. It’s a card-based strategy game, and each hero has their own customizable deck. I started off favoring Captain Marvel, Magik, and Blade, simply because their moves and hilarious dialogue kept me entertained, but I soon realized that every single character has something exciting or unexpected to bring to the battlefront. Over 100 hours later, I’ve leveled up every single character and played all the main story missions and an unknowable number of optional missions, and I’m still not sick of this combat… or the kooky cast of characters that grows all the time (shoutout to the Deadpool DLC).
+
+No matter how sick of Marvel you might be, give Midnight Suns the chance to win you over with its clever combat. And once you’ve gotten hooked, you might find yourself sticking around to chuckle at Wolverine attending Blade’s book club (yes, that’s a storyline in this game). It’s worth your time, and you can take that from me, a person who — again — spent over 100 hours on it. —Maddy Myers
+
+21. Honkai: Star Rail
+
+Developer: Hoyoverse
+
+Where to play: Android, iOS, PlayStation 5, and Windows PC
+
+I have been a... pretty die-hard Genshin Impact player since launch. I’ve rolled for every character, grinded out all of said characters, 100%-ed the exploration, completed every quest — did all the stuff that would burn anyone out. Honkai: Star Rail is Hoyoverse’s answer to the Genshin Impact burnout.
+
+The slower-paced turn-based combat, the ability to auto-battle (if your teams are strong enough), and the smaller maps make it the perfect daily game for me to funnel my interest into without feeling exhausted. The characters are fun, flashy, and easy to latch onto. Should I main the sneaky but elegant Kafka, who uses damage-over-time skills to whittle her opponents away? Or should I use the brooding Blade, who unleashes huge attacks at the cost of his HP? Ah, I guess I’ll let my wallet decide — it is a gacha game, after all. —JL
+
+20. Chants of Sennaar
+
+Developer: Rundisc
+
+Where to play: Nintendo Switch, PlayStation 4, Windows PC, and Xbox One
+
+In Chants of Sennaar you climb up a kind of Tower of Babel, and your job is to decipher the distinct language each group of people speaks, eventually aiming to translate fluidly from one language to another. You do so by matching pictographic symbols — the characters for each language — to images of the nouns, actions, and concepts in a large dictionary-style book.
+
+It sounds complicated, but it’s wonderfully fun because the mechanics are so simple. You explore the isometric world — which is rendered in a gorgeous cel-shaded style — witnessing interactions between cultures and attempting to puzzle out the meaning of their written words. The game parcels out words for you to assign meaning to in little packets, to avoid overwhelming you. By the end, you’ll have translated numerous languages, and scaled your way to the top of the tower. Perhaps you’ll even change the tower itself. —N. Clark
+
+19. Metroid Prime Remastered
+
+Developer: Retro Studios
+
+Where to play: Nintendo Switch
+
+Few games from 2002 hold up as well as Metroid Prime, and the remastered version of the game — which was surprise-dropped during February’s Nintendo Direct — proves that Samus Aran’s first-person adventure is still worth experiencing, whether it’s for the first time or (in my case) the fourth.
+
+Retro Studios’ take on one of sci-fi’s most famous intergalactic bounty hunters controversially took her out of the 2D puzzle-platformer realm that made her famous (although Metroid Fusion also came out in 2002 — a gift for the 2D Metroid purists — which may also be why Fusion joined Nintendo Switch Online’s catalog shortly after Prime Remastered was released). By placing the player inside Samus’ helmet, Metroid Prime recontextualized the bounty hunter’s relationship with the hostile planets around her.
+
+As we donned Samus’ suit and explored strange planets, aggressive alien lifeforms could now get right in our faces, forcing us to dodge, strafe, and roll (in morph ball form, naturally) using all three dimensions. No longer would we sit back and watch as Samus dipped her toe into a pool of lava; in first-person, as molten fire spread over our visor, we’d really feel the pressure to find that Varia Suit upgrade. And perhaps most importantly, from behind Samus’ visor, we gained the ability to scan our enemies and environment, collecting and translating logs from the long-dead Chozo aliens who once inhabited these now-hostile places.
+
+The world of Prime is harsh and unrelenting. (Save points will, at times, be quite far from one another.) But it’s worth buckling down and pushing through the pain points to discover this world’s secrets. —M. Myers
+
+18. Shadow Gambit: The Cursed Crew
+
+Developer: Mimimi Games
+
+Where to play: PlayStation 5, Windows PC, and Xbox Series X
+
+Shadow Gambit: The Cursed Crew may very well be the most bittersweet entry on this list. It is, for my money, one of the best games to be released in 2023. It is also the swan song of Mimimi Games, one of the most underappreciated studios making games throughout the last decade. Mimimi announced its planned closure only two weeks after releasing its final game. This makes The Cursed Crew its swan song. It is also the team’s magnum opus.
+
+Set in a tropical world of zombie pirates, religious fanatics, and talking ships, The Cursed Crew sees you traveling freely across an archipelago as you revive your undead crew, deploy them on dioramic worlds constituting some of the finest level design in video games to date, and dispatching enemies with a mixture of tactical stealth and supernatural abilities. Taken at a distance, this mixture is undeniably niche. But seen up close, The Cursed Crew is as potent a creation as we’ve seen since 2016’s Shadow Tactics: Blades of the Shogun or 2020’s Desperados 3, which respectively established and cemented the studio’s brilliant design chops. I’ll miss Mimimi — but I can’t imagine a better farewell. —M. Mahardy
+
+17. Dredge
+
+Developer: Black Salt Games
+
+Where to play: Nintendo Switch, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+Dredge is a Lovecraftian horror experience masquerading as a simple fishing game.
+
+The open ocean is filled with terrible creatures that can and will damage or destroy your boat. And each of the major islands you visit comes with its own evil sea beasts that must be dealt with if you want to progress the story or fish peacefully. Dredge ultimately tells a dark parable about loss, and how obsession can own you if you aren’t careful.
+
+But what makes Dread so special — and one of the best games of 2023 — is that under its foreboding story and twisted environments is a fishing game that grows more complex with every outing, centered around an upgrade system that feels amazing to progress through. As the dangers around you grow, so too does your ship’s capabilities. And by adventuring into battles — metaphorical and otherwise — with the seas’ most dastardly critters, you’ll always come out on the other side with some upgrades that allow you to catch even better fish and build an even bigger boat.
+
+By the time you’ve spent 10 or so hours with Dredge, you’ll feel like a commercial fisherman who just happened upon something bigger and more foreboding than they could have imagined — and that, perhaps, you’ve stared deep into some kind of black abyss, only to escape forever changed. —RG
+
+Related Dredge invents and perfects the fishing horror genre
+
+16. Final Fantasy 16
+
+Developer: Square Enix
+
+Where to play: PlayStation 5
+
+Final Fantasy 16 kicks ass. The newest mainline entry in the long, winding series takes you on a lavish, unadulterated Game of Thrones-esque adventure. You play as a broody Clive Rosfield, a young man whose life’s work is to protect his little brother, Joshua. The story begins when Clive’s life takes a turn for the worse and he vows to destroy the monster who ruined his and his family’s legacy.
+
+Developed by Creative Business Unit III, Square Enix’s internal team behind the MMORPG Final Fantasy 14, 16 leans into patchwork territories of fantasy genre fare. There is palace intrigue, a whole lot of sex, and endless war between nations. But the developers then sprinkle in Final Fantasy elements like mother crystals, dazzling kaiju fights between summons (known as Eikons in this iteration), and of course, Chocobos.
+
+The quality of the story in this long and linear character-driven RPG waxes and wanes, but the action combat is among the best I’ve ever played. The gameplay grips you from the very beginning as Clive smoothly dashes, parries, and swings his giant sword and varied magic with a dazzling amount of style. The gameplay didn’t just help me stick with the game, but instead allowed my excitement to bubble over every time I took on a new mission. —Ana Diaz
+
+15. Cyberpunk 2077: Phantom Liberty
+
+Developer: CD Projekt Red
+
+Where to play: PlayStation 5, Windows PC, and Xbox Series X
+
+Like the best DLC, Phantom Liberty does as much to expand on the base game as it does to reframe it. Alongside the sweeping Patch 2.0, which revamped Cyberpunk 2077’s role-playing progression systems, improved its enemy AI, and course-corrected a litany of other details, Phantom Liberty also adds a whole new district to the dystopian world of Night City, complete with its own spy-thriller storyline.
+
+The resulting Cyberpunk 2077 is not an entirely different beast than the one that was released in 2020, but it is a more evolved one. It delivers on the promise of building a hacker-samurai in a neon-infused open world replete with futuristic heists, daunting choices, and striking characters. Phantom Liberty and Patch 2.0 may not completely erase the memory of CD Projekt’s initial botched release, but they come pretty damn close. Three years after we first set foot in V’s shoes, Cyberpunk 2077 has finally justified the hype. —M. Mahardy
+
+14. Dead Space
+
+Developer: Motive Studio
+
+Where to play: PlayStation 5, Windows PC, and Xbox Series X
+
+With The Last of Us on HBO and Resident Evil 4 back in the conversation, it’s already a banner year for survival horror. Motive Studio’s Dead Space remake is no exception. Following in the footsteps of Capcom’s aforementioned title, the original Dead Space brought the third-person-action focus of Resident Evil 4’s formula to a deteriorating ship in outer space. In the vein of Event Horizon, Sunshine, and Alien, Dead Space was a paragon for sci-fi horror in a confined and claustrophobic setting. Its remake has brought that same vision to gorgeous new life, bringing quality-of-life changes and underappreciated updates (it has made several previously useless weapons into viable tools in protagonist Isaac Clarke’s arsenal), making it hard to imagine ever going back to Visceral Games’ phenomenal original. —M. Mahardy
+
+Related The Dead Space remake changes all the right things
+
+13. Octopath Traveler 2
+
+Developers: Square Enix, Acquire
+
+Where to play: Nintendo Switch, PlayStation 4, PlayStation 5, and Windows PC
+
+The first Octopath Traveler was one of those games that was as enjoyable to play as it was painful: enjoyable because so much of it kicked ass, but painful because so much of it dragged the positive aspects down. In other words, it stood on the precipice of excellence, but couldn’t quite cross the line.
+
+Octopath Traveler 2 leaps across that boundary. In place of the original game’s repetitive level design, monotonous narrative structure, and sometimes awkward characterization, the sequel demonstrates an expert ability to challenge your expectations at every turn. Yes, your general goal is still to recruit eight playable characters (hence the name) and follow each of their separate plot threads to their respective conclusions, participating in turn-based battles and side quests along the way. But said plots vary greatly from character to character, and if you so choose, you can see a handful of characters through several major plot points before recruiting the whole gang. Octopath Traveler 2 finely toes the line between that comfort food-esque repetition of the best JRPGs, and the subversive nature of great genre storytelling. —M. Mahardy
+
+12. Dave the Diver
+
+Developer: Mintrocket
+
+Where to play: Nintendo Switch and Windows PC
+
+You could describe Dave the Diver as a fishing game and a restaurant management simulator, and that’d be correct. But that would also be underselling the game, and understating things quite a lot.
+
+Diving into the mysterious Blue Hole, Dave spends the first two quarters of his day swimming deeper into the colorful abyss, discovering both sea life and a story that’s equally absurd and earnest. When you’re not picking up sea urchins or spearfishing sharks, Dave is assisting the rest of Dave the Diver’s cast of characters — his sushi business partners, a community of seafolk, an anime-obsessed weapons expert, and a pair of dolphins. At night, Dave slings sushi and pours drinks at the restaurant, frantically running back and forth between clearing dishes, delivering sushi, and refilling the freshly ground wasabi. Between all that, Dave’s harvesting rice and vegetables on a farm, curating a hatchery, racing seahorses with mermaids, and taking down a suspicious group masquerading as environmental activists. Somehow, there’s even a well-done rhythm video game — starring one of those anime idols that the arms dealer loves — that makes perfect sense.
+
+It really shouldn’t work; I can’t imagine another game where all these disparate ideas coalesce so seamlessly. But Dave the Diver would feel less complete without any one of them. It makes for such a compelling loop, and a consistent advancement of the game’s story, that I kept finding myself in that “one more day” mindset, eager to jump back into the ocean for one more go. —N. Carpenter
+
+Related Management sim Dave the Diver is a delicate balancing act of absurdity and silliness
+
+11. Resident Evil 4 Remake
+
+Developer: Capcom
+
+Where to play: PlayStation 4, PlayStation 5, Windows PC, and Xbox Series X
+
+It turns out, Capcom is good at remaking games.
+
+The original Resident Evil remake all but set the bar for the format in 2002, with sleeker controls, more nuanced graphical details, and whole new areas to explore in the iconic Spencer Mansion. The Resident Evil 2 remake changed the entire perspective of its source material without sacrificing the focus on horror and survival. Resident Evil 3’s remake, as forgettable as it was, still brought the design conceits of the original game, warts and all, to a modern audience. And now we have Resident Evil 4 — and what a remake it is.
+
+In this reimagined version of the 2005 action-survival-horror game, Capcom has managed to erase many of the blemishes on one of the most beloved games in the series, if not all time. The remake is full of new flourishes and extra details in each of its three sprawling areas, making it less of a remake and more of a dramatic reinterpretation. It has also managed to add even more survival elements to the original’s action-centric combat, without sacrificing the camp and cheese that have made it such an enduring presence throughout the years. A lesser game would have shrunk in the face of such intimidating source material, but the Resident Evil 4 remake achieved the balancing act in spades. —M. Mahardy
+
+Related The Resident Evil 4 remake pulls off the same great trick
+
+Top 10
+
+10. Armored Core 6: Fires of Rubicon
+
+Developer: FromSoftware
+
+Where to play: PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+Nothing else feels like Armored Core.
+
+The giant robot you pilot heaves with the weight of a six-story building but flies into the sky as nimble as a hummingbird. You can skate along the ground, rocket into the air, and change directions in the blink of an eye. You are agile, resilient, deadly.
+
+With your hands tightly gripping the controller, you can unload four different weapons at once, weapons you’ve picked out of an armory that could rival a small nation. You target, aim, and fire while moving faster than a fighter jet, dodging streams of missiles, arcs of gunfire, bazookas, and flames.
+
+There have been many, many games in the franchise, but none have reached the heights of Armored Core 6: Fires of Rubicon. The levels have never had such ruined beauty, the enemies have never been as satisfying to fight, and the characters have never been more endearing. An ingenious new game plus mode packs the game’s story with surprises while you continue to build out your arsenal.
+
+Perhaps the decades-long wait for a new Armored Core game is part of the reason, because the lessons FromSoftware learned creating and popularizing Dark Souls are evident here. Bosses now put you through dastardly skill checks in classic Soulsian fashion. Many of them tower over the landscape, making you, the pilot of a giant robot, feel small. These set-piece fights are some of the most thrilling moments you could play in a game this year. They certainly have some of the most memorable lines.
+
+But Armored Core 6 doesn’t just get badass one-liners stuck in your head; its gameplay lingers, too. When you watch videos of it in motion, it simply makes you want to play it, to feel that movement, that motion, for yourself.
+
+This isn’t just because the series’ energetic action is unique, but because you decide exactly how your robot feels: how quickly its missiles get a lock, how fast its generator recharges, how far you boost when you swing your laser sword. Swapping components around as you scrutinize competing weight and power requirements is an engaging puzzle all its own. You become intimately familiar with a screen-filling spreadsheet of stats because all of those numbers add up to something that feels real. Tactile. Earned.
+
+Because nothing else feels like Armored Core. —CA
+
+Related Armored Core 6 brings mecha to the masses
+
+9. Jusant
+
+Developer: Don’t Nod
+
+Where to play: PlayStation 5, Windows PC, and Xbox Series X
+
+Boulderers, or rock climbers who don’t use safety gear but also don’t ascend very high, have a word for the routes they climb: problems. The idea is that, since you’re never that far from flat ground, completing your route is more a game of mind over matter. You don’t “finish” a problem. You “solve” it. Like a puzzle.
+
+When it comes to rock climbing, Jusant just gets it in a way few other games — if any — have.
+
+To be clear, Don’t Nod’s Jusant isn’t technically about bouldering. (A climbing game where you’re never more than 12 feet off the ground would have precisely zero stakes.) But it’s an apt conduit for the spirit of bouldering, in that every route you traverse is a problem to solve. By alternating triggers to dictate which hand goes on which handhold, you navigate these problems. Environmental hazards and a pesky stamina wheel make things progressively trickier. You’re always clear on your heading. (It’s up.) Figuring out how to get there is another matter.
+
+Even in games that prominently feature it, climbing is often functional, at best — whether it’s Link refusing to acknowledge handholds are a thing or Nathan Drake snapping to ledges with a level of magnetism only thought possible at CERN.
+
+Jusant is the first and only game I’ve played that gets it — that sees the inherent grace in the sport and portrays it on the screen, not as a means of getting somewhere, but as the reason to go there in the first place. —Ari Notis
+
+8. Marvel’s Spider-Man 2
+
+Developer: Insomniac Games
+
+Where to play: PlayStation 5
+
+Marvel’s Spider-Man 2 builds on the successes of the first game, both narratively and in its immensely satisfying gameplay. The game’s story takes a familiar Spider-Man narrative — that of friends turned foes — and adds new twists, building out compelling villains (and demanding ones) in the process. The game also sheds its predecessor’s odious Spider-Cop bits in favor of establishing a deeper connection between the Spider-Mans and their city, giving the game room to breathe while further immersing you in its heroes’ worlds and struggles.
+
+And then there’s the gameplay. For my money, there are few experiences more enjoyable in gaming than swinging around New York City with Spider-Man. It was fun in the early 2000s, and it’s still fun now. And with a bigger map to explore (and wings to fly, if you so choose to use them), there’s basically no limit to the fun you can get up to. The deployment of two protagonists is seamless — Peter and Miles play differently, bringing their own stories and desires to the table — and switching between them is effortless. It’s also the rare open-world game that doesn’t feel bloated with missions and side quests, instead leaving you wanting more Spider adventures. —PV
+
+7. Street Fighter 6
+
+Developer: Capcom
+
+Where to play: PlayStation 4, PlayStation 5, Windows PC, and Xbox Series X
+
+After getting knocked down — by a self-inflicted punch, no less — with the feeble Street Fighter 5, Capcom has hit the gym and returned stronger than before with Street Fighter 6. We rightfully called its latest Street Fighter the “ultimate fighting game toolbox” in Polygon’s review; from a robust single-player mode to solid online modes to a cast of memorable new and returning World Warriors, Street Fighter 6 is Capcom at its most confident.
+
+For newcomers and the lapsed Street Fighter fan wary of jumping into online play, Capcom delivered World Tour mode, a robust, single-player, RPG-lite beat-’em-up in the vein of Sega’s Yakuza games. In World Tour, players hit the streets of Metro City where, hilariously, everyone in town not only knows how to fight, but relishes impromptu fisticuffs with strangers. It’s a matter of local pride.
+
+The streets of Metro City are part training grounds, part beginning of a silly, epic worldwide adventure where you learn the basics of Street Fighter 6. Untethered from any serious game narrative canon, Street Fighter 6 lets players of all skill levels and stripes have fun in World Tour mode.
+
+Street Fighter 6’s approachability extends to its innovative new control scheme, an addition called Modern Controls. While the six-button layout from the very first Street Fighter is still available, after multiple attempts at giving players a simplified control scheme, Capcom’s finally cracked it. Modern Controls are not only comparatively easy to grasp — they’re pretty viable competitively.
+
+But it’s the finely honed one-on-one fighting mechanics, governed by a streamlined set of meters and flashy new moves, that give Street Fighter 6 its longevity. Thanks to a well-populated social space called the Battle Hub, and a rock-solid online infrastructure, there’s a robust community of other Street Fighter fans to battle against on a daily basis. Add a compelling new roster of characters led by classics like Ryu, Zangief, and Chun-Li, and dazzling newcomers Marisa, Manon, and Kimberly, and it’s clear why Street Fighter 6 is one of the best games of 2023, regardless of genre. —Michael McWhertor
+
+Related Street Fighter 6 is the ultimate fighting game toolbox
+
+6. Cocoon
+
+Developer: Geometric Interactive
+
+Where to play: Nintendo Switch, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X
+
+I think I’m still trying to wrap my head around Cocoon. On the surface, the game appears to have a relatively simple premise: You play as a buglike creature that picks up and places glowing orbs to solve puzzles. However, this is where Cocoon hides its brilliant twist. Each orb functions like a world unto itself, which you can explore, or from which you can extract a new power for your bug. As you collect orbs, you thread together puzzles that will have you weaving in and out of realms in a truly mind-bending experience.
+
+Created by Geometric Interactive, a studio founded by developers who previously worked on Limbo and Inside, Cocoon’s brain teasers unfold in a dark sci-fi world. The game goes light on a story that combines biological and mechanical philosophies alike. As you make your way through, you’ll hear the hum of engines and the moist squishy sounds of unknown creatures’ moving flesh.
+
+Cocoon has one-off puzzles that are downright brilliant, but what makes it truly great is the sum of its parts. The pacing of each section feeds smoothly from one challenge to the next. Like the best puzzle games, Cocoon presents instances where an earlier brain teaser might serve as an unsaid tutorial that teaches you a step for a later, more complicated puzzle. Cocoon presents challenges, but it’s also just a joy to play. It is one of the most memorable puzzle games I’ve ever played. —AD
+
+Related Cocoon is impossibly good
+
+5. Pikmin 4
+
+Developers: Nintendo EPD, Eighting
+
+Where to play: Nintendo Switch
+
+Pikmin 4 is like the perfect amalgamation of Pikmin games. There are fun mini-dungeon caverns, but they’re not filled with terrible bomb traps. There’s new types of Pikmin, but not at the cost of getting rid of the old ones. And there’s a dog now, and he helps corral the Pikmin and make operations run even more efficiently.
+
+The entirety of the game is a whimsical joy to play. Even as I completed every Dandori Challenge (which actually got pretty damn hard!) and collected every item, it never became a drag or a grind. It actually might be impossible to be angry while playing this game. Hearing the little Pikmin hum as they carry a huge peach (that they call a “mock bottom”) across the map is enough to melt anyone’s heart. In fact, I was pretty sad when the game ended. I could command these little guys and my puppy friend to collect things forever.
+
+All told, the game is beautiful, and, thanks to its quasi real-world setting, it makes me see my own world differently — there’s something special to be found everywhere, even in the tiniest corners. Maybe all my little trinkets go missing because a little guy needs it to return home. He can have it.
+
+Even if you’ve never played a Pikmin game before, this game is good, and it’s the perfect place to start. (And then you can play all the rest of them, which have been conveniently ported to the Switch!) —JL
+
+Related Pikmin 4 will turn you into an obsessive collector
+
+4. Super Mario Bros. Wonder
+
+Developer: Nintendo EPD
+
+Where to play: Nintendo Switch
+
+When you activate Super Mario. Bros. Wonder’s delightful whimsy — via the aptly named Wonder Flower — the game becomes more than a 2D platformer. Super Mario Bros. Wonder is a musical, a quiz show, a race, or a hidden object game. Pipes become inchworms, Piranha Plants burst into song, and Yoshi becomes a goddamn dragon. Wonder is the first side-scrolling 2D platformer in the Super Mario Bros. line since New Super Mario Bros. U in 2012, and it’s both a faithful rendition of the classic format and a complete reinvention of the series’ irresistible formula.
+
+Each and every level in Super Mario Bros. Wonder finds some new way to delight and surprise. It’s constantly introducing new ideas, enemies, and wrinkles, only to pull back on them just when it’s on the verge of becoming rote. Like everything else in the Flower Kingdom, a few enemies shift and change in bizarre ways when the Wonder Flower is activated, like Hoppo, the bouncy, round hippo equivalent that grows in size to create chaos in one of Super Mario Bros. Wonder’s many mesmerizing levels.
+
+All of this weirdness, combined with Nintendo’s platforming expertise, makes Super Mario Bros. Wonder an entrancing romp alone, with friends, or with strangers online. This is the freshest Mario has felt in decades, and it bodes well for the iconic plumber’s 2D future. —N. Carpenter
+
+3. Alan Wake 2
+
+Developer: Remedy Entertainment
+
+Where to play: PlayStation 5, Windows PC, and Xbox Series X
+
+There’s a body in the forest with a hole in its chest. The forest, like the body, is also missing its heart, and a woman must find both. In each, there are pages. This is a story, broken into pieces, we learn. One that ended badly before. One that will likely end badly again. Will you still put it together?
+
+Alan Wake 2 is full of words but few are in order. It is set in places of confused geography, full of people who don’t quite belong, in rooms that might be different each time you enter them. Alan Wake 2 is wrong, and you must make it right, if you can.
+
+Remedy Entertainment’s assured masterpiece is less about stories and more about dreams — the way they can slip from frightening to absurd at a moment’s notice, about how we can get lost in them, learning from our experiences or succumbing to insecurities. How video games can mimic their shape, or lack thereof.
+
+It is about repetition, and the way we find meaning in stories and people and places by returning to them over and over, wondering if we changed or they did.
+
+In Alan Wake 2, everyone’s story is happening at once, branching out in endless directions, and we might not know the genre until it’s too late. It’s a hypertext mystery, an ergodic game that molds itself to an audience raised online, though few computers are in sight. It’s a game for a world suspended in an endless second act — forever wars, live services, franchises, infinite scrolls — endlessly searching for a conclusion. —JR
+
+2. Baldur’s Gate 3
+
+Developer: Larian Studios
+
+Where to play: PlayStation 5 and Windows PC
+
+Baldur’s Gate 3 hit at the perfect moment. Despite the handful of truly great computer role-playing games that have been released since the early 2000s (Larian Studios itself made waves with its Divinity: Original Sin series in 2014 and 2017), the genre has largely remained a modern niche. But times have changed: Dungeons & Dragons has undergone something of a renaissance, thanks to actual-play series like Critical Role and Dimension 20. What’s more, Larian had two years of player feedback with which to build its new masterpiece. That masterpiece launched in August, and it garnered the kind of attention that catapults a game from niche interests to widespread acclaim.
+
+Old CRPG fans finally came home, the Mass Effect generation has discovered a new kind of RPG to sink its teeth into, and D&D fans have found an exceptional digital version of their beloved tabletop game to play alone or with their party in co-op.
+
+Like a good DM, Baldur’s Gate 3 teases out story beats that feel personal to you, cleverly luring you into experiences that seem like they wouldn’t make sense in anyone else’s campaign. Every act delivers quiet, memorable character moments and anxiety-inducing battles. All of these situations feel organic, allowing Baldur’s Gate 3 to replicate, perhaps as closely as a video game can, Dungeons & Dragons’ best feature: the intoxicating sense that anything could happen at any moment.
+
+The best games this year told their stories in interesting ways, be it ignoring your superpowers to bike through your old neighborhood in Queens, a musical number, or fractured memories hidden in a puddle. But Baldur’s Gate 3 takes experimental storytelling to another level. Every choice and every new direction is a simple success, fail, or crit away. One roll of the dice after another can take you all the way from a crashed Nautiloid to the city of Baldur’s Gate itself.
+
+In a year filled with beautiful stories and powerful moments, it’s the spinning whir of Baldur’s Gate 3’s d20 that defined video game storytelling in 2023. —RG
+
+1. The Legend of Zelda: Tears of the Kingdom
+
+Developer: Nintendo EPD
+
+Where to play: Nintendo Switch
+
+Princess Zelda is missing. Ganondorf has returned, somehow, and he’s really hot. So an age-old hero in a green tunic has to step in. We all know the beats — how could you possibly make that into anything new?
+
+Tears of the Kingdom definitely didn’t seem like it was poised to make that happen: a sequel to one of the most popular Zelda games ever made, originally conceived as DLC, and built on the same map. Yet, it is something else entirely. It’s not just that Breath of the Wild was a rough draft for Tears of the Kingdom — it’s that the entire Zelda series was a collection of stepping stones that led in winding, influential pathways to this wacky, wonderful, and thoroughly new world of Hyrule.
+
+I mean, Ultrahand alone. Just absolutely slathering pieces of wood in what amounts to magical Gorilla Glue and watching in wonder as the game’s physics engine roars to life in response. I went into Tears of the Kingdom thinking I wouldn’t build much — I’d just follow the story and get through it; I left feeling like a genius engineer, building all manner of bizarre contraptions (but mostly long bridges) to sail through skies and trundle over mountaintops.
+
+I still catch my breath remembering that first time diving deep into the darkness of the Depths — the amazement I felt upon discovering a whole other world underneath the one I knew, filled with skeleton horses and gloom-splattered Bokoblins.
+
+And I remember when I realized where Princess Zelda really was… and then, many hours later, learning where she really was.
+
+I never wanted to stop playing Tears of the Kingdom. I did stop, eventually — the year of 2023 in video games has spoiled us all with hearty meals and sweet desserts — but I never stopped thinking about it. Every now and then, I picked my Switch back up to seek out another Lightroot, or solve another shrine’s puzzle, until there were none left. And then I’d just wander, collecting ingredients, talking to Great Fairies, imagining the next adventure.
+
+Tears of the Kingdom feels like someone holding my hands very close as they lean in to whisper, with eyes twinkling, “Can I tell you something?” The ride was wild; I laughed, I cried. And I can’t wait for the next time, when it’s completely different. —M. Myers

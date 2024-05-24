@@ -1,0 +1,105 @@
+The Warlock is one of twelve classes in Baldur’s Gate 3. Warlocks are extreme knowledge-seekers who are willing to form a pact with otherwordly beings in order to gain ancient secrets that’ll bolster their magical arsenal.
+
+To deal with such powerful creatures, Warlocks need to have strong mental power. They need to be able to make a deal with the devil and survive. As such, their primary ability score is Charisma.
+
+There’s no single best class in Baldur’s Gate 3, and the game gives you as many opportunities for creative problem solving as it does for punching. Finding the best class really just boils down to how you want to play. Even when playing solo, you’ll still manage the rest of your party, so you’ll get to experiment with multiple classes at once.
+
+Read on to find out everything you need to know about the Warlock class in Baldur’s Gate 3, and learn all about the best Warlock subclass, feats, and build.
+
+Is Warlock the best class for you in BG3?
+
+Warlocks sacrifice the number of spells that they know for sheer power. Every Warlock spell slot is the same — the highest level available — and they recharge on a short rest instead of a long rest. Warlocks aren’t as versatile as other caster classes, but what they do, they do well.
+
+Warlocks are a great class for you if you want to play a dedicated caster class, but don’t want to deal with all the prep work that classes like Wizards require. You’ll still get to use (a lot of) magic, but you won't have to manage a binder full of spells every morning.
+
+Warlock class features
+
+Hit Points
+
+Hit Dice — 1d8 per warlock level
+
+1d8 per warlock level Hit Points at 1st Level — 8 + your Constitution modifier
+
+— 8 + your Constitution modifier Hit Points at higher levels — 5 + your Constitution modifier per warlock level after 1st
+
+Cantrips
+
+The Warlock starts with two cantrips from the Warlock cantrip list.
+
+Baldur’s Gate 3 Warlock Cantrips Cantrip Description Cantrip Description Blade Ward Take only half the damage from Bludgeoning, Piercing, and Slashing attacks Bone Chill Prevent the target from healing until your next turn. An undead target receives Disadvantage on Attack Rolls. Eldritch Blast Conjure 1 beam(s) of crackling energy. Friends Gain Advantage on Charisma Checks against a non-hostile creature. Mage Hand Create a spectral hand that can manipulate and interact with objects. Minor Illusion Create an illusion that compels nearby creatures to investigate. Poison Spray Project a puff of noxious gas. True Strike Gain Advantage on your next Attack Roll.
+
+Spells
+
+The Warlock starts with two spells from the Warlock spell list, two of which are exclusive to your subclass.
+
+Baldur’s Gate 3 Warlock Spells Spells Description Spells Description Armor of Agathys Gain 5 temporary hitpoints and deal 5 Cold damage to any creature that hits you with a melee attack. Arms of Hadar Prevent targets from using reactions. Burning Hands Each flammable target is hit with 3-18 Fire damage. (The Fiend exclusive) Charm Person Charm a humanoid to prevent it from attacking you. You gain Advantage on Charisma Checks in dialogue. Command Command a creature to flee, move closer, freeze, drop to the ground or drop its weapon. (The Fiend exclusive) Dissonant Whispers Frighten a creature: it will be easier to hit and cannot move. (The Great Old One exclusive) Expeditious Retreat Gain Dash immediately and as a bonus action on each of your turns until this spell ends. Faerie Fire All targets within the light turn visible, and Attack Rolls against them have advantage. (The Archfey exclusive) Hellish Rebuke React to your next attacker with flames that deal 2-20 Fire damage. Hex Make your attacks deal an addition 1-6 Necrotic damage to the target and give it Disadvantage on an Ability of your choosing. Protection from Evil and Good Protect an ally against the attacks and powers of aberrations, celestials, elementals, fey, fiends, and undead. Tasha's Hideous Laughter Leave a creature Prone with laughter, without the ability to get up. (The Great Old One exclusive) Sleep Put creatures into a magical slumber. Select targets up to a combined 24 hit points. (The Archfey exclusive) Witch Bolt Link yourself to a target with a bolt of lightning. Deal an additional 1-12 Lightning damage each turn by activating it.
+
+Actions
+
+Warlocks have one action, “Fey Presence,” which is exclusive to The Archfey subclass.
+
+Features
+
+Warlock Spell Slot — Used to cast Warlock spells, which can be regained by taking a short rest
+
+Proficiencies
+
+Weapons — Simple Weapons
+
+— Simple Weapons Armor — Light Armor
+
+— Light Armor Saving Throws — Wisdom and Charisma
+
+— Wisdom and Charisma Skills — Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+
+Warlock subclasses
+
+The Warlock has a total of three subclasses, which are unlocked at at the beginning of the game. During character creation, you must pick the otherworldy patron that you’ve decided to serve.
+
+The Fiend
+
+Warlocks with The Fiend subclass have struck a deal with a hellish fiend who strives for corruption and destruction. If you forge a pact with a fiend, you’ll receive a feature exclusive to The Fiend called “Dark One’s Blessing,” which will grant you four temporary hit points whenever you defeat a hostile creature.
+
+The Fiend also has two exclusive spells — Burning Hands and Command.
+
+The Great Old One
+
+Those serving The Great Old One are bound to a mysterious being from the Far Realm, who might not even know you exist, The Great Old One will grant you a feature exclusive to this subclass called “Mortal Reminder,” which will frighten a creature and any nearby enemies after you land a critical hit unless they succeed a Wisdom saving throw.
+
+The Great Old One also has two exclusive spells — Dissonant Whispers and Tasha’s Hideous Laughter.
+
+The Archfey
+
+If you choose The Archfey as your subclass, your patron is a lord or lady of the fey, a creature from before the time of mortal races. If you’re bound to The Archfey, you’ll gain an action named “Fey Presence,” which will charm or frighten nearby foes.
+
+The Archfey also has two exclusive spells — Faerie Fire and Sleep.
+
+Best Warlock subclass and build in BG3
+
+Baldur’s Gate 3 races don’t really have any direct impact on your class, but certain races and subraces come with features that play well with certain classes like extra movement or proficiency with certain weapons. For Warlocks, it’s best to focus on weapon and armor proficiencies:
+
+Drow ’s Drow Weapon Training adds weapons like the rapiers and hand crossbows
+
+’s Drow Weapon Training adds weapons like the rapiers and hand crossbows Humans ’ and Half-Elves ’ Civil Militia add spears, pikes, halberds, and glaives along with shields
+
+’ and ’ Civil Militia add spears, pikes, halberds, and glaives along with shields Githyanki Martial Prodigy means you get medium armor along with longswords and greatswords
+
+Martial Prodigy means you get medium armor along with longswords and greatswords Dwarven Combat Training gets you battleaxes, handaxes, light hammers, and warhammers. The Shield Dwarf subrace also gets you Medium Armor
+
+When you’re creating and leveling up your Warlock, Charisma (for spellcasting) is your most important stat. Your second most important stat kind of depends on how you play outside of combat, but Constitution is also a good option for the hit points — Warlocks, like Sorcerers, have a tendency to be glass cannons. Make Charisma your highest stat and Constitution your second highest.
+
+You’ll pick your Warlock subclass at level 1, but the pact you choose here is actually less important than the Eldritch Invocation you get at level 2 — that said, go with the Great Old One for the most broadly useful features. Your Eldritch Invocation powers up your Eldritch Blast spell — the bread-and-butter spell for Warlocks — and turns it into an Agonizing Blast.
+
+Best Warlock feats in BG3
+
+Every four levels, you’ll get the option to either increase your stats or choose a Feat. Feats are special talents that add features to your character. If you’re happy with your stats and start taking Feats, Warlocks can benefit from:
+
+Actor . Your Charisma Increases by 1, to a maximum of 20. Your Proficiency Bonus is also doubled for Deception and Performance Checks.
+
+. Your Charisma Increases by 1, to a maximum of 20. Your Proficiency Bonus is also doubled for Deception and Performance Checks. Elemental Adept . Your spells ignore Resistance to a damage type of your choice. When you cast spells of that type, you cannot roll a 1.
+
+. Your spells ignore Resistance to a damage type of your choice. When you cast spells of that type, you cannot roll a 1. Moderately Armored . You gain Armor Proficiency with Medium Armor and shields, and your Strength or Dexterity increases by 1, to a maximum of 20.
+
+. You gain Armor Proficiency with Medium Armor and shields, and your Strength or Dexterity increases by 1, to a maximum of 20. Spell Sniper. You learn a cantrip, and the number you need to roll a Critical Hit while attacking is reduced by 1. This effect can stack.
+
+For more information on the classes in Baldur’s Gate 3, consult our overviews on the Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, and Wizard classes. If you’re stumped by the choice, consult our guide on what class to start with.

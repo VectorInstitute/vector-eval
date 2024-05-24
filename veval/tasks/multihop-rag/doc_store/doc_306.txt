@@ -1,0 +1,73 @@
+As a result of today’s testimony, I am both more and less confused. I am clearer on what probably happened at FTX. What I don’t understand is why Gary Wang did it.
+
+Wang was the co-founder and chief technology officer of FTX, as well as the co-founder of Alameda Research. He owned only 10 percent of Alameda and 17 percent of FTX. He got a $200,000 a year salary, with no performance bonuses. (Okay, sure, at times he was a billionaire on paper.) By contrast, Bankman-Fried owned 90 percent of Alameda and 65 percent of FTX.
+
+Yet Wang’s testimony suggests he took bizarre risks for his own relatively small share. Bankman-Fried didn’t code, so none of his fingerprints are on the technical changes that let FTX allegedly defraud its customers and investors. Meanwhile, Wang supervised the code behind a key prosecution claim: that Alameda Research was afforded secret, special privileges with FTX’s funds. When FTX went down, Wang left himself with no plausible deniability. I cannot for the life of me understand why.
+
+Normal customers — the defense objected to “normal” but was overruled — could be automatically liquidated
+
+Today, the prosecution grilled Wang on a single, damning column in FTX’s databases. Called “allow_negative,” it allowed Alameda to have a negative balance. Alameda could withdraw money even when its accounts didn’t have any, and it had an enormous line of credit. Wang added that it could place orders faster than other users, and we already saw evidence that users may have unwittingly deposited money into Alameda rather than FTX.
+
+The alleged motivation for this — as Wang had to explain at painful length to a jury — was avoiding liquidation. Liquidation is a way for FTX to manage risk when people were engaging in risky bets on its platform. The cartoon version of futures trading is this: a futures exchange is the middleman that lets strangers bet with each other. It lives between the two ends of the bet, paying the winner and collecting from the loser. If the loser doesn’t pay up, the exchange still has to pay the winner, which is why exchanges require collateral.
+
+Under some circumstances, exchanges will automatically sell collateral to limit their losses. On FTX, this process was automated, Wang testified. It took about 30 seconds to find accounts that needed to be liquidated to minimize FTX’s losses.
+
+Normal customers — the defense objected to “normal” but was overruled — could be automatically liquidated, but not Alameda. Bankman-Fried “told me a few times to make sure that Alameda’s account is never liquidated on FTX,” Wang said. “The code addition was the result of those conversations.”
+
+It’s not Bankman-Fried’s name attached to the change. We saw a code commit from July 31st, 2019 from Nishad Singh titled “OTC trades and transfers to special accounts.” It was written in Python; the upshot was that it added two columns to the account database; the relevant one for our purposes was “allow_negative.” This was a toggle that, when it was on, let the account go negative. The feature was turned on the same day in a second set of code that also had Singh’s username on it. Wang said he supervised.
+
+That same day, Bankman-Fried tweeted, “Alameda is a liquidity provider on FTX, but their account is just like everyone else’s.” The tweet was, of course, shown in court. Never tweet.
+
+It was a tough day for the jury
+
+At first, Bankman-Fried said the change was to pay for expenses for the FTT token, which was issued by FTX, Wang said. (Wang described the FTT token as being “sort of equity” in FTX, which I think some crypto lawyers would dispute but would probably make the SEC happy.) But once it was implemented, the ability to go negative was used for other things including trading and unlimited withdrawals of FTX’s trading fees and customer money.
+
+I am summarizing briefly because Wang had to explain to the jury the difference between a front end and back end, explain futures trading, and read a bunch of stuff into the record, which took a while. It was a tough day for the jury — and probably for Wang, who spoke quickly, perhaps from nerves.
+
+The prosecution doesn’t just allege that Alameda had special, secret privileges — it claims they were used to obfuscate basic elements of FTX’s operations that exposed its supposed selling points as a lie.
+
+For instance, FTX advertised that it had a good liquidation system. In many crypto networks, if someone lost enough money, the exchanges could stick other traders with the losses too. FTX touted its automated liquidation as a way to avoid this, so that one customer going bankrupt wouldn’t affect the others.
+
+FTX lied about how much money was in the backstop fund
+
+In the process of liquidating, FTX would try to sell the collateral on the open market, but if it couldn’t finish, then backstop liquidity providers would step in. These were market makers, including Alameda, which could be compensated for the losses they take from a “backstop fund,” Wang said.
+
+But FTX lied about how much money was in the backstop fund, Wang said. In court we saw the code that generated the fake number published on the website: it took the daily trading volume on FTX, multiplied it by a random number, divided it by a billion, and added it to the existing number displayed on the site. It had nothing to do with the actual amount of money in the insurance fund.
+
+And when there wasn’t enough money in the fund, money was moved there from Alameda’s accounts in order to pay the insurance out, Wang said.
+
+In late 2019, Alameda had a negative balance on FTX. Because they sat in an open-plan office, Wang heard a trader ask Bankman-Fried if it was okay to keep withdrawing money from that account. Bankman-Fried said it was okay as long as it was lower than FTX’s total trading revenue. He was the CEO of both companies at the time.
+
+Alameda also allegedly kept FTX from looking bad by assuming some of its losses.
+
+The amount that Alameda was allowed to go negative began to creep up. Around 2019 or 2020, Wang checked the database and discovered that Alameda was negative by about $200 million, which was more than the $150 million FTX made in revenue. That had to mean Alameda was taking customer money. It surprised him and he says he discussed it with Bankman-Fried, who told him that he just needed to take into account the value of FTT. Wang said he trusted Bankman-Fried’s judgment and didn’t pursue the issue further. Later, though, Alameda’s balance was more negative than FTT and the trading revenue, and Wang had more conversations with Bankman-Fried about it. Wang said he knew at the time that Alameda was using FTX’s customers’ funds and that he knew it was wrong.
+
+We heard yesterday about the line of credit Alameda had on FTX, a staggering $65 billion. Today we saw it in the database. The line of credit didn’t start that big — Wang testified that Bankman-Fried had asked him to increase it a few times because Alameda kept running into its limits. First it was “a few hundred million,” then a billion, then even that wasn’t enough. It wasn’t clear how Wang arrived at $65 billion specifically, but he said he’d discussed the number with Bankman-Fried. Other customers didn’t have the same privileges.
+
+Alameda also allegedly kept FTX from looking bad by assuming some of its losses. In 2021, FTX was facing a “several hundred million dollar” loss from an exploit in MobileCoin, Wang said. (This seems to have happened in April 2021, though Wang didn’t give a month.) Bankman-Fried directed him to have Alameda take it on instead, because FTX’s balance sheets were visible to investors and Alameda’s weren’t.
+
+Yesterday, Paradigm Capital’s Matt Huang showed us the balance sheets he received from Bankman-Fried. They didn’t include the loss, which should have been included in the second quarter numbers he’d received — they showed $63 million in trading expenses and $63 million in “other expenses” in that quarter, and an estimated profit of $732 million.
+
+“FTX was not fine and assets were not fine.”
+
+By 2022, Alameda’s negative balance on FTX was a cause for concern for Caroline Ellison, Singh, and Wang. They created a spreadsheet to try to figure out how negative Alameda was. The spreadsheet we saw had several pages of attempts to reconcile. Wang figured that Alameda owed FTX about $11 billion. FTX’s revenue at the time was about $1.5 billion.
+
+Ellison, Singh, Wang, and Bankman-Fried met in the Bahamas office. Alameda’s lenders wanted their money back, and Bankman-Fried directed the group to pay back the lenders using FTX customer funds. Bankman-Fried considered shutting down Alameda, and even wrote a long memo about it. But Wang says that in a now-deleted Signal discussion about the memo, he told Bankman-Fried and Singh that they could not shut down Alameda because they couldn’t repay its debt.
+
+Another empty Signal chat, along with its setting to delete messages after a week, was shown to the court. Its members were Ellison, Singh, Wang, and Bankman-Fried.
+
+Things happened quickly for Wang in November. Wang and Bankman-Fried determined that about $8 billion in customer money was gone, but on November 7th, Bankman-Fried tweeted “FTX is fine. Assets are fine.” Another tweet in the thread said, “FTX has enough to cover all client holdings.”
+
+“FTX was not fine and assets were not fine because FTX did not have enough assets for customer withdrawals,” Wang said.
+
+While Bankman-Fried can try to blame Ellison for some of the decisions, the code shows she couldn’t have made all the calls
+
+FTX went bankrupt on November 11th. On November 12th, Bankman-Fried directed Wang to send customer funds to Bahamanian regulators, Wang said. At the time, customers couldn’t take their funds off the exchange because FTX had run out of money and its servers had been shut down. Bankman-Fried and his father met with lawyers while Wang waited outside with liquidators. The US lawyers wanted the remaining FTX assets transferred to the US, Wang said.
+
+That is not what he did. Bankman-Fried told Wang to stall the US lawyers and transfer the funds to Bahamanian regulators, who were more likely to let him stay in control of the company, Wang testified.
+
+On November 16th, Wang returned to the US and on November 17th, he met with the US government. Wang hadn’t been arrested or charged; he offered to cooperate immediately. He pled guilty to various charges a month later. Wang was clear: he was cooperating because he didn’t want to go to jail. He was hoping that his assistance means that a sentencing judge will be lenient, he said.
+
+This was the first full account of Alameda’s and FTX’s entanglements I heard in the trial, and it came from a co-owner of both companies. It was striking, though, that while there was evidence of the computer code that gave Alameda special privileges, there was no evidence of the conversations Wang recounted. Of course Wang turned himself in quickly; sooner or later, someone would find his code — and Singh’s, too.
+
+It also struck me that all of Bankman-Fried’s vanishing messages might not help him as much as he’d hoped. He said too many things in public to too many people. Even without the smoking gun of Signal messages, it’s hard to see how he wasn’t involved. Wang was a dev; the money wasn’t his area. And while Bankman-Fried can try to blame Ellison for some of the decisions, the code shows she couldn’t have made all the calls. After all, she wasn’t FTX’s CEO. And in 2019, she wasn’t Alameda’s CEO, either.

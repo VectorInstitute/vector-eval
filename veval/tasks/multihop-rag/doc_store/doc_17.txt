@@ -1,0 +1,125 @@
+Picking the best class in Baldurs Gate 3 is one of the most important decisions you’ll make in the game — and you have to do it right at the start, with minimal context to work off.
+
+Your class mostly determines how your character will fight in Baldur’s Gate, but with 12 classes — and 46 subclasses total across them all — it’s not really an easy decision. Here’s what to know about finding the best class (and the best subclass) for you in Baldur’s Gate 3.
+
+All BG3 classes are ‘good’
+
+The classes in Baldur’s Gate 3 — and in pen-and-paper D&D, for that matter — are all fairly well-balanced. There’s no single best class (barrelmancer aside) in Baldur’s Gate 3, and the game gives you as many opportunities for creative problem solving as it does for punching. Finding the best class really just boils down to how you want to play. Even when playing solo, you’ll still manage the rest of your party, so you’ll get to experiment with multiple classes at once.
+
+BG3 classes have strengths outside of combat
+
+Your character’s class is mostly about combat, but the underlying Ability Score that it relies on affects the other skills you’ll use to interact with the world. Baldur’s Gate 3 assigns your Ability Scores automatically (though you can tweak it in the character creator), so each class’s primary ability will be your highest score.
+
+Bards and Sorcerers are both Charisma-based classes, for example. Their high Charisma will also make them good at skills like Persuasion, Deception, and Intimidation. Out of combat, those classes will be better at talking their way out of (and into) trouble and lying. Wisdom-based classes like Clerics or Druids will be more insightful and perceptive of their surroundings.
+
+Should you play a custom or an Origin character in BG3?
+
+Baldur’s Gate 3 gives you the option to play as an Origin character, meaning you can just choose one of the NPCs from your party and play as them right out of the gate. It’s a perfectly fine way to play if you really don’t want to go through the process of picking out a race and background for your character.
+
+That said, you’ll also be limited to that character’s predetermined story. It’s a bit more work at the beginning, but you’ll have a lot more freedom to experience the entire story of Baldur’s Gate 3 if you make a custom character. With all that in mind...
+
+Which BG3 class (and subclass) is best for you?
+
+Distinctions like caster vs. puncher or melee vs. ranged don’t really work for Baldur’s Gate 3 (or D&D). There’s a lot of overlap in the classes — especially as you level up. And that means there’s no easy way to say one class is best (or even better). Instead, focus on what you want to do (or how you want to do it), and go from there.
+
+We’ll list them all below ranked (subjectively) by how difficult they are to play. We’ve put the caster classes toward the more difficult end simply because they’ve got more to manage with their spells and spell slots — punching things is easier than memorizing spells.
+
+Best melee class for beginners: Fighter
+
+Nothing against Fighters here, but they’re the easiest class to wrap your head around. You’re not going to need to manage spells or Ki Points. Instead, you’ll see a baddie and then you’ll stab said baddie.
+
+Fighters start out as a very straightforward melee class. With high strength, they get all armors and shields, and choose a method of combat to focus on (and get buffs to). They also get a way to heal themselves and way to get a second attack once per short rest.
+
+At level 3, you get to choose a subclass from Battle Master, Eldritch Knight, and Champion. Battlemasters get a set of Superiority Dice that let you perform Maneuvers to control the flow of battle and the battlefield. Eldritch Knights add magic into the Fighter’s arsenal. Champions keep it simple with a better change to deal a Critical Hit (for double damage).
+
+Champion is the best subclass for a Fighter. Consult our Fighter build guide for more details on why, and to see which skills and feats to pick.
+
+Best ranged class for beginners: Ranger
+
+Rangers are agile hunters that focus on Dexterity as their primary Ability. Rangers are an interesting mix of melee, stealth, skills, and magic. That also makes it harder to get the most out of the class. Rangers get Light and Medium Armors and some of the more basic weapons.
+
+Rangers also make a lot of choices during character creation (and leveling up) that determine how they play. At level 1, you’ll choose a Favored Enemy — a preferred quarry — and a preferred environment that grants you some magical spells.
+
+At level 3, you get to choose a Ranger subclass from Beast Master, Gloom Stalker, or Hunter. Beast Masters get a Companion animal that fights along side you, Gloom Stalkers focus on stealth, and Hunters get to specialize their melee abilities.
+
+Hunter is the best subclass for a Ranger. Consult our Ranger build guide for more details on why, and to see which skills and feats to pick.
+
+Best class for damage: Barbarian
+
+Barbarians are all about combat. They get light and medium armor (and shields), but they’ve also got the option to keep their AC up even without wearing armor. For weapons, Barbarians get a wide range of heavy hitters like battleaxes and warhammers. Every Barbarian gets the Rage ability that lets them hit even harder and reduce damage during combat (and only during combat).
+
+When you hit level 3, you get to choose from the Wildheart, Berserker, or Wild Magic subclasses. Wildheart lets you modify your Rage ability with animal-themed tweaks like healing, jumping, or a stampede. Berserker is a lot more straightforward and focuses on hitting (extra) things and throwing. And Wild Magic adds a magical flair to your Rage with a random magical effect and improved saving throws against magic for you and your allies.
+
+Berserker is the best subclass for a Barbarian. Consult our Barbarian build guide for more details on why, and to see which skills and feats to pick.
+
+Best class for magic: Druid
+
+Druids are the nature-based casters of Baldur’s Gate 3. Most of their magic is nature- or animal-themed and they get Skills to match. What they lack in armor proficiencies — they only get Light and Medium Armor — they make up for with the ability to shapeshift into a badger, wolf, spider, or cat.
+
+At level 3, Druids pick from the Circle of the Land, Circle of the Moon, and Circle of Spores subclasses. Circle of Land gets you some extra magic and the ability to cast more spells throughout the day, Circle of the Moon adds a bear to the repertoire of animal shapes you can shift into, and Circle of Spores adds in some extra fungus- and decay-based magic.
+
+Circle of the Moon is the best subclass for a Druid. Consult our Druid build guide for more details on why, and to see which skills and feats to pick.
+
+Best class for stealth: Rogue
+
+Rogues are Dexterity-based, sneaky fighters. They only get Light Armor, so they have to focus on staying unseen and quick. Their weapons tend to be simple and focus on ones that have the Finesse type — meaning you can add your Dexterity modifier instead of your Strength. All Rogues get to use Dash (double movement), Disengage (don’t provoke Opportunity Attacks), and Hide as Bonus Actions. They also get Sneak Attack combat actions that let them deal extra damage whenever they have Advantage.
+
+Level 3 Rogues choose from the Thief, Arcane Trickster, and Assassin subclasses. Thief Rogues get an extra bonus action, Arcane Tricksters mix in magic, and Assassins get advantages over surprised or unprepared enemies.
+
+Thief is the best subclass for a Rogue. Consult our Rogue build guide for more details on why, and to see which skills and feats to pick.
+
+Best class for melee and magic: Paladin
+
+Paladins start out mixing in (Divine) magic with their melee abilities. They’re the most magic-focused of the melee classes. They get all armors and shields, along with a good mix of weapons. Choosing from the three subclasses — Oath of the Ancients, Oath of Devotion, and Oath of Vengeance — determines what kind of magic you get. Oath of the Ancients adds in healing magic, Oath of Devotion gets defense-focused magic, and Oath of Vengeance adds offensive magic. Paladins also get a handful of other spells for dealing out even more holy justice.
+
+Oath of the Ancients is the best subclass for a Paladin. Consult our Paladin build guide for more details on why, and to see which skills and feats to pick.
+
+Best class for speed: Monk
+
+Monks are a melee class kind of like Fighters, but with a lot more pizzazz. Their best Ability is Dexterity, so their combat is more martial arts than swordplay. Monks don't get armor and only have a limited set of weapons available, but they make up for it with Unarmed Strikes that deal extra damage. Monks take a little more finesse to play than Fighters.
+
+Monk subclasses unlock at level 3 and include Way of the Four Elements, Way of the Open Hand, and Way of Shadow. Way of the Four Elements mixes in spells with your Monk abilities (and uses renamed spells from the caster classes). Way of the Open Hand expands your attacks to include things like knocking down enemies or pushing them with extra melee attacks. And Way of Shadow makes your Monk sneaky and stealthy (think of it as a ninja subclass).
+
+Way of the Open Palm is the best subclass for a Monk. Consult our Monk build guide for more details on why, and to see which skills and feats to pick.
+
+Best magic class for beginners: Warlock
+
+Warlocks are casters that made a deal with a higher power for their magic. They play a lot like Sorcerers, but with a slight emphasis on more academic Skills and fewer spells. Warlocks get Light Armor, so they’re a little less squishy than Sorcerers.
+
+Like Sorcerers, you’ll pick your Warlock subclass during character creation. You’ll choose from The Fiend, The Great Old One, and The Archfey subclasses that are all themed around where your magic comes from — and determine some of the spells you can use. The Fiend Warlocks get their magic from a demon-like fiend and have hell-themed spells, the Great Old One is more Lovecraftian horror-themed, and the Archfey draws power from a powerful Fey being.
+
+Great Old One is the best subclass for a Sorcerer. Consult our Sorcerer build guide for more details on why, and to see which skills and feats to pick.
+
+Best healer class: Cleric
+
+Clerics are the other side of the Paladin’s mix of magic and melee. They’re not quite as frontline in combat with only Light and Medium armors, but they get more (and more powerful) spells. Clerics also get an extra boost with Channel Divinity that gets them an extra (Divine) magic ability like Turning Undead to drive away zombies or Guided Strike that gives a +10 to Attack Rolls.
+
+When you make a Cleric, you choose a subclass (Domain) from a list of seven: Life, Light, Trickery, Knowledge, Nature, Tempest, and War. Each Domain has different spells, actions, and even proficiencies associated with hit. Broadly, Life Domain focuses on healing, Light emphasizes Radiant and Fire magic (in and out of combat), Trickery is good for sneaking, Knowledge gets extra Skills out of combat and brain-based spells, Nature is flavored a little more like a Druid, Tempest is a little more combat and Thunder damage-focused, and War is all about combat.
+
+Light Domain is the best subclass for a Cleric. Consult our Cleric build guide for more details on why, and to see which skills and feats to pick.
+
+Best support class: Bard
+
+Bards are a specialized kind of caster class that focus more on performance and charm than a weighty list of spells. Bards only get Light Armor and focus on Charisma as their primary stat, so they rarely belong on the front line of a fight. Where Bards come into their own, though, is with Bardic Inspiration — a way to boost the rolls of their allies — and their spells that are a nice mix of utility and offensive magic.
+
+Bards get three subclasses at level 3: College of Lore, College of Valor, and College of Swords. College of Lore Bards get a lot of useful skills to use outside of combat and get to use their Bardic Inspiration to make enemies weaker, College of Valor Bards help their allies hit even harder, and College of Swords Bards focus on a swashbuckling style of combat.
+
+College of Valor is the best subclass for a Bard. Consult our Bard build guide for more details on why, and to see which skills and feats to pick.
+
+Best class for magic damage: Wizard
+
+Wizards are the archetypical caster class. They are the only Intelligence-based class in Baldur’s Gate 3 and have the most spells — and the most spell slots to cast them — of all of the casters. Wizards don’t get any armor and are limited to just daggers and quarterstaffs (quarterstaves?) in combat, so they’re going to rely on magic to do any damage.
+
+Your Wizard subclass is chosen when you create the character. You’ll choose from eight schools of magic: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. Each subclass gets an extra ability themed to the school of magic. Broadly speaking, Abjuration is about protection and defense, Conjuration is about creating something from nothing, Divination gets to foresee (and change) rolls, Enchantment is about charming and controlling minds, Evocation shapes and controls spells, Illusion is about trickery, Necromancy controls life and death, and Transmutation focuses on alchemy and changing the world around you.
+
+Evocation is the best subclass for a Wizard. Consult our Wizard build guide for more details on why, and to see which skills and feats to pick.
+
+Best class for social interactions: Sorcerer
+
+Sorcerers get their magic from within themselves. Sorcerers are the most flexible and varied in the spells they can use. Their primary Ability is Charisma, so they’re also good at dialogue-heavy encounters out of combat. Sorcerers don’t get any armor, so you’ll have to keep them out of melee combat most of the time.
+
+You’ll pick your Sorcerer subclass when you create your character from the Wild Magic, Draconic Bloodline, and Storm Sorcery subclasses. Wild Magic leans into the chaotic and untamed nature of magic, Draconic Bloodline gives a dragon-based flavor to your magic, and Storm Sorcery lets you Fly whenever you cast a spell.
+
+Draconic Bloodline is the best subclass for a Sorcerer. Consult our Sorcerer build guide for more details on why, and to see which skills and feats to pick.
+
+For more information on the classes in Baldur’s Gate 3, consult our overviews on the Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, and Wizard classes.

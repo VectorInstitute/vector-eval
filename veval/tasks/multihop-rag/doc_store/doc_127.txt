@@ -1,0 +1,51 @@
+This week, Google took the wraps off of Gemini, its new flagship generative AI model meant to power a range of products and services including Bard, Google’s ChatGPT competitor. In blog posts and press materials, Google touted Gemini’s superior architecture and capabilities, claiming that the model meets or exceeds the performance of other leading gen AI models like OpenAI’s GPT-4.
+
+But the anecdotal evidence suggests otherwise.
+
+A “lite” version of Gemini, Gemini Pro, began rolling out to Bard yesterday, and it didn’t take long before users began voicing their frustrations with it on X (formerly Twitter).
+
+The model fails to get basic facts right, like 2023 Oscar winners:
+
+I'm extremely disappointed with Gemini Pro on Bard. It still give very, very bad results to questions that shouldn't be hard anymore with RAG. A simple question like this with a simple answer like this, and it still got it WRONG. pic.twitter.com/5GowXtscRU — Vitor de Lucca 🏳️‍🌈 / threads.net/@vitor_dlucca (@vitor_dlucca) December 7, 2023
+
+Note that Gemini Pro claims incorrectly that Brendan Gleeson won Best Actor last year, not Brendan Fraser — the actual winner.
+
+I tried asking the model the same question and, bizarrely, it gave a different wrong answer:
+
+“Navalny,” not “All the Beauty and the Bloodshed,” won Best Documentary Feature last year; “All Quiet on the Western Front” won Best International Film; “Women Talking” won Best Adapted Screenplay; and “Pinocchio” won Best Animated Feature Film. That’s a lot of mistakes.
+
+Science fiction author Charlie Stross found many more examples of confabulation in a recent blog post. (Among other mistruths, Gemini Pro said that Stross contributed to the Linux kernel; he never has.)
+
+Translation doesn’t appear to be Gemini Pro’s strong suit, either. It struggles to give a six-letter word in French:
+
+FYI, Google Gemini is complete trash. pic.twitter.com/EfNzTa5qas — Benjamin Netter (@benjaminnetter) December 6, 2023
+
+When I ran the same prompt through Bard (“Can you give me a 6-letters word in French?”), Gemini Pro responded with a seven-letter word instead of a five-letter one — which gives some credence to the reports about Gemini’s poor multilingual performance.
+
+What about summarizing news? Surely Gemini Pro, with Google Search and Google News at its disposal, can give a recap of something topical? Not necessarily.
+
+It seems Gemini Pro is loath to comment on potentially controversial news topics, instead telling users to… Google it themselves.
+
+I tried the same prompt and got a very similar response. ChatGPT, by contrast, gives a bullet-list summary with citations to news articles:
+
+Interestingly, Gemini Pro did provide a summary of updates on the war in Ukraine when I asked it for one. However, the information was over a month out of date:
+
+Google emphasized Gemini’s enhanced coding skills in a briefing earlier this week. Perhaps it’s genuinely improved in some areas — posts on X suggest as much. But it also appears that Gemini Pro struggles with basic coding functions like this one in Python:
+
+Tried gemini based Bard, and well, it still can't write intersection of two polygons. It's one of those rare relatively simple to express functions that wasn't ever implemented in python, there is no stack overflow post, and all these models fail on it. pic.twitter.com/RKjmkEw2Qr — Filip Piekniewski🌻 🐘:@filippie509@techhub.social (@filippie509) December 6, 2023
+
+And these:
+
+Trying out Gemini Pro: it is pretty disappointing for my example. I asked it to make an analog clock using HTML like this one that ChatGPT made. It can cite some code from Github but it's off by a few ms… pic.twitter.com/neb42Vzm3m — Mohsen Azimi (@mohsen____) December 7, 2023
+
+GPT 4 still greater than Gemini Pro. Created Tic Tac Toe game with ChatGPT and Bard(Running on Gemini Pro) See video for the result. ChatGPT wrote the code on first try(First Video). Bard on 3 tries(Second Video). pic.twitter.com/cYd9hepcgT — Edison Ade (@buzzedison) December 6, 2023
+
+Just tested Google's Bard with Gemini Pro update. No bugless snake game on 1st try; reported, asked to fix—couldn't. Tried ChatGPT 3.5 free version, got correct bug-free code on the first attempt! 🚀🐍 #ChatGPT #Bard #Gemini pic.twitter.com/WQfilgG21D — N KIRAN KUMAR (@NKIRANKUMARS1) December 6, 2023
+
+And, as with all generative AI models, Gemini Pro isn’t immune to “jailbreaks” — i.e. prompts that get around the safety filters in place to attempt to prevent it from discussing controversial topics.
+
+Using an automated method to algorithmically change the context of prompts until Gemini Pro’s guardrails failed, AI security researchers at Robust Intelligence, a startup selling model-auditing tools, managed to get Gemini Pro to suggest ways to steal from a charity and assassinate a high-profile individual (albeit with “nanobots” — admittedly not the most realistic weapon of choice).
+
+Now, Gemini Pro isn’t the most capable version of Gemini — that model, Gemini Ultra, is set to launch sometime next year in Bard and other products. Google compared the performance of Gemini Pro to GPT-4’s predecessor, GPT-3.5, a model that’s around a year old.
+
+But Google nevertheless promised improvements in reasoning, planning and understanding with Gemini Pro over the previous model powering Bard, claiming Gemini Pro was better at summarizing content, brainstorming and writing. Clearly, it has some work to do in those departments.

@@ -1,0 +1,33 @@
+As creative industries grapple with AI’s explosion into every artistic medium at once, separate calls from artists warning the world to take action before it’s too late are starting to converge. From fake Drake songs to stylized Instagram profile pictures, art conjured with newly sophisticated AI tools is suddenly ubiquitous — and so are conversations about how to rein in the technology before it does irrevocable harm to creative communities.
+
+This week, digital rights organization Fight for the Future partnered with music industry labor group United Musicians and Allied Workers to launch #AIdayofaction, a campaign that calls on Congress to block corporations from obtaining copyrights on music and other art made with AI.
+
+The idea is that by preventing industry behemoths like major record labels, for example, from copyrighting music made with the assistance of AI, those companies will be forced to keep looping humans into the creative process. But those same concerns — and the same potential strategies for pushing back against the onslaught of AI — exist across creative industries.
+
+“It’s funny because if you’ve talked to musicians who have these concerns, they say, ‘Well, authors have been very quiet.’ If you talk to others about these concerns, they say, ‘Well, musicians and photographers don’t seem to care at all,’” Fight for the Future Campaigns and Communications director Lia Holland told TechCrunch. “So part of it also is that the different creative fields, when it comes to this sort of work, are a little bit siloed.”
+
+“That was another intent with our launching this effort with the day of action, to try to illustrate how these are common concerns that are shared across artistic mediums. And to create an organizing point . . . because when artists of different mediums move together they have a lot more power.”
+
+The campaign targets potential corporate abuse of AI technology, but it’s realistic about the ways that musicians and some other creatives could benefit on an individual level from automating parts of their work. The goal is that AI tools “become ways for individual humans to make more money, work less, and compete with the corporations that exploit them.”
+
+“It’s really interesting from a music perspective, specifically, because . . . musicians are perhaps more familiar with the idea of AI,” Holland said. “Musicians in general are more familiar with things like music production software, and AI tools like MIDI drum loops . . . so I think that there is a certain amount of more progressive learning from them, when it comes to technology, and its ability to make their music better.”
+
+When it comes to art and AI, the conversation is complicated, to say the least. Musicians are nervous about industry giants copyrighting AI music and cutting them out of the process. Major record labels are worried about AI models training on their catalogues and stealing a slice of their considerable pie. Spotify erased thousands of AI-crafted songs from its platform but also recently globally launched an AI-powered DJ that curates music for listeners while talking to them in a synthetic voice.
+
+“The training of generative AI using our artists’ music . . . begs the question as to which side of history all stakeholders in the music ecosystem want to be on: the side of artists, fans and human creative expression, or on the side of deep fakes, fraud and denying artists their due compensation,” Universal Music Group said after a song using AI to imitate Drake and The Weeknd, two of its artists, went viral.
+
+These same conversations and contradictions are manifesting across creative industries, but artists themselves don’t always have a seat at the table. Independent artists in particular are learning that their voices resonate louder when coming together across disciplines to push back against what Holland describes as an “extraordinary spectrum of exploitation” that leverages their work.
+
+In a roundtable hosted by the FTC this week, the agency brought together figures from across creative industries — from voice acting and science fiction to screenwriting, music, illustration and even fashion — to delve into how generative AI is affecting creatives.
+
+“I know that generative AI in particular poses a unique set of opportunities and challenges to creative industries,” FTC chair Lina Khan said. “We’ve already heard significant concerns about how these technologies could virtually overnight significantly disempower creators and artists who may watch their life’s creation be appropriated into models over which they have no control.”
+
+In the comments, representatives from myriad creative communities expressed concerns around opt-out requirements that by default train AI models on artists’ original work, and how existing copyright law could be a useful if not comprehensive tool for setting out regulatory guardrails.
+
+In the conversation, a representative with the WGA emphasized that while striking writers obtained their own protections in a newly won agreement, the fight for artists’ livelihoods “doesn’t stop at the bargaining table.”
+
+Whether Congress mobilizes in time to address mounting concerns around AI and creative industries or not, for its part the FTC does appear to be very tuned into the technology’s risks — and the power of bringing voices together across industries.
+
+“Art is fundamentally human,” FTC commissioner Rebecca Slaughter said.
+
+“Humans may use technology to assist in creating art, but something cannot be art without human input. Technology is, by definition, not human . . . humans may endeavor to make generative AI that is ever more intelligent, [but] it cannot and will not replace human creativity.”

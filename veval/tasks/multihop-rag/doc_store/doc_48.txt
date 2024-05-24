@@ -1,0 +1,61 @@
+ChatGPT, OpenAI’s viral AI chatbot, turns one today.
+
+A year ago, OpenAI released ChatGPT as a “low-key research preview” — reportedly spurred in part by an intense rivalry with AI startup Anthropic. The goal, OpenAI leadership told the OpenAI rank-and-file at the time, was to gather more data on how people use and interact with generative AI to inform the development of OpenAI’s future models.
+
+Initially a basic free-to-use, web-based and chat-focused interface on top of one of OpenAI’s existing models, GPT-3.5, ChatGPT would go on to become the company’s most popular product… ever — and the fastest-growing consumer app in history.
+
+a year ago tonight we were probably just sitting around the office putting the finishing touches on chatgpt before the next morning’s launch. what a year it’s been… — Sam Altman (@sama) November 30, 2023
+
+In the months following its launch, ChatGPT gained paid tiers with additional features, including a plan geared toward enterprise customers. OpenAI also upgraded ChatGPT with web searching, document analyzing and image creating (via DALL-E 3) capabilities. And, leaning on speech recognition, voice synthesis and text-image understanding models developed in house, OpenAI gave ChatGPT the ability to “hear,” “speak,” “see” and take actions.
+
+Indeed, ChatGPT became priority number one at OpenAI — not simply a one-off product but a development platform to build upon. And, as often happens in a competition-driven marketplace, it shifted the focus at other AI firms and research labs, too.
+
+Google scrambled to launch a response to ChatGPT, eventually releasing Bard, a more or less comparable AI chatbot, in February. Countless other ChatGPT rivals and derivatives have arrived to market since, most recently Amazon Q, a more business-oriented take on ChatGPT. DeepMind, Google’s premier AI research lab, is expected to debut a next-gen chatbot, Gemini, before the end of the year.
+
+Stella Biderman, an AI researcher at Booz Allen Hamilton and the open research group EleutherAI, told me that she doesn’t see ChatGPT as an AI breakthrough per se. (OpenAI, which has released dozens of research papers on its models, tellingly never released one on ChatGPT.) But, she says, ChatGPT was a bonafide “user experience breakthrough” — taking generative AI mainstream.
+
+“The primary impact [ChatGPT] has had [is] encouraging people training AIs to try to mimic it, or encouraging people studying AIs to use it as their central object of study,” Biderman said. “Previously you needed to have some skill, albeit not be an expert, to consistently get usable stuff out of [text-generating models]. Now that that’s changed … [ChatGPT has] brought a very large amount of attention to and discussion about the technology.”
+
+And ChatGPT still gets a lot of attention — at least if third-party statistics are anything to go by.
+
+According to Similarweb, the web metrics company, OpenAI’s ChatGPT web portal saw 140.7 million unique visitors in October while the ChatGPT iOS and Android apps have 4.9 million monthly active users in the U.S. alone. Data from analytics firm Data.ai suggests that the apps have generated nearly $30 million in subscription revenue — a hefty amount considering that they launched just a few months ago.
+
+One of the reasons for ChatGPT’s enduring popularity is its ability to conduct conversations that are “convincingly real,” according to Ruoxi Shang, a third-year PhD student at the University of Washington studying human-AI interaction. Prior to ChatGPT, people were already familiar with chatbots — they’ve existed for decades after all. But the models powering ChatGPT are much more sophisticated than what many users were accustomed to.
+
+“Human-computer interaction researchers have studied how conversational interfaces can improve understandability of information, and the socialization aspects of chatbots bring increased engagement,” Shang said. “Now, AI models have enabled conversational agents to conduct conversations nearly indistinguishable from human dialogues.”
+
+Adam Hyland, also a PhD student studying AI at the University of Washington, points out the emotional component: conversations with ChatGPT have a palpably different “feel” than with more rudimentary chatbots.
+
+“In the 1960s, ELIZA offered a chatbot, the response to which was very similar to how people reacted to ChatGPT,” Hyland said, referring to the chatbot created by MIT computer scientist Joseph Weizenbaum in 1966. “Humans interacting with the system inferred emotional content and a narrative through line in chat messages.”
+
+Indeed, ChatGPT has impressed cynics like The New York Times’ Kevin Roose, who called it the “the best AI chatbot ever released to the general public.” In The Atlantic magazine’s “Breakthroughs of the Year” for 2022, Derek Thompson included ChatGPT as part of “the generative-AI eruption” that “may change our mind about how we work, how we think and what human creativity is.”
+
+ChatGPT’s skills extend beyond conversation, of course — another likely reason for its staying power. ChatGPT can complete and debug code, compose music and essays, answer test questions, generate business ideas, write poetry and song lyrics, translate and summarize text and even emulate a computer running Linux.
+
+An MIT study showed that, for tasks like writing cover letters, “delicate” emails and cost-benefit analyses, ChatGPT decreased the amount of time it took workers to complete the tasks by 40% while increasing output quality by 18%, as measured by third-party evaluators.
+
+“Because [the AI models powering OpenAI] have been trained extensively on vast amounts of data,” Shang added, “they [have] shifted focus from training specialized chatbots for specific domains to creating more general-purpose systems that can handle a variety of topics easily through prompting with instructions … [Chatbots like ChatGPT] don’t require users to learn any new form of language, as long as they provide a task and some desired output just like how a manager would communicate to an intern.”
+
+Now, there’s mixed evidence as to whether ChatGPT is actually being used in these ways. A Pew Research survey from August showed that only 18% of Americans have ever tried ChatGPT, and that most who’ve tried it use the chatbot for entertainment purposes or answering one-off questions. Teens might not be using ChatGPT all that often, either (despite what some alarmist headlines imply), with one poll finding that only two in five teenagers have used the tech in the last six months.
+
+ChatGPT’s limitations might be to blame.
+
+While undeniably capable, ChatGPT is far from perfect, owing to the way it was developed and “taught.” Trained to predict the likeliest next word — or likeliest next parts of words — by observing billions of examples of text from around the web, ChatGPT sometimes “hallucinates,” or writes answers that sound plausible but aren’t factually correct. (ChatGPT’s hallucinating tendencies got its answers banned from the Q&A site Stack Overflow and from at least one academic conference — and accused of defamation.) ChatGPT can also show bias in its responses, answering in sexist and racist, overtly Anglocentric ways — or regurgitating portions of the data that it was trained on.
+
+Lawyers have been sanctioned after using ChatGPT to assist in writing motions, discovering — too late — that ChatGPT invented fake lawsuit citations. And scores of authors have sued OpenAI over the chatbot regurgitating portions of their work — and not receiving compensation for it.
+
+So what comes next? What might ChatGPT’s second year hold, if not more of the same?
+
+Interestingly — and fortunately — some of the more dire predictions about ChatGPT didn’t come to pass. Some researchers feared the chatbot would be used to generate disinformation on a massive scale, while others sounded the alarm over ChatGPT’s phishing email-, spam- and malware-generating potential.
+
+The concerns pushed policymakers in Europe to mandate security assessments for any products using generative AI systems like ChatGPT, and over 20,000 signatories — including Elon Musk and Apple co-founder Steve Wozniak — to sign an open letter calling for the immediate pause of large-scale AI experiments like ChatGPT.
+
+But examples of ChatGPT abuse in the wild have been few and far between — so far.
+
+With the launch of GPTs, OpenAI’s tool for building custom conversational, action-taking AI systems powered by OpenAI’s models, including the models underpinning ChatGPT, ChatGPT could become more a gateway to a broader ecosystem of AI-powered chatbots than the end-all-be-all.
+
+With GPTs, a user can train a model on a cookbook collection, for example, so that it can answer questions about ingredients for a specific recipe. Or they can give a model their company’s proprietary codebases so that developers can check their style or generate code in line with best practices.
+
+Some of the initial GPTs — all created by OpenAI — include a Gen Z meme translator, a coloring book and sticker creator, a data visualizer, a board game explainer and a creative writing coach. Now, ChatGPT can accomplish these tasks given carefully engineered prompts and foreknowledge. But purpose-built GPTs drastically simplify things — and might just kill the cottage industry that emerged around creating and editing prompts to feed to ChatGPT.
+
+GPTs introduce a level of personalization far beyond that ChatGPT offers today, and — once OpenAI sorts out its capacity issues — I expect we’ll see an explosion of creativity there. Will ChatGPT be as visible as it once was after GPTs flood the marketplace? Perhaps not. But it won’t go away — it’ll simply adapt and evolve, no doubt in ways not even its creators can anticipate.

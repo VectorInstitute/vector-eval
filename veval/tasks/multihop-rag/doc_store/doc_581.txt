@@ -1,0 +1,27 @@
+Meltwater, which first made its name around media monitoring and then got active in business intelligence using AI and big data analytics techniques, is picking up a new investor. Verdane, a Norwegian private equity firm that earlier this year closed a $1 billion+ fund to make investments in scaling tech companies, is taking an 11% stake in Meltwater, at a company valuation of €542 million ($592 million), valuing the stake at around $65 million. But that’s not the only deal that is going down with this transaction.
+
+The investment is coming by way of Verdane taking a substantial stake in Fountain Venture, the investment vehicle controlled by the founder and current chairman of Meltwater, Jørn Lyseggen.
+
+Meltwater, until earlier this year, was traded publicly on the Norwegian stock exchange. Lyseggen oversaw the company going private again earlier this year in a deal with two private equity firms, Altor and Marlin, and held his remaining share via Fountain. (The take-private deal was the last disclosed valuation and the one that Meltwater currently cites.) Verdane invested in Fountain Venture rather than directly in Meltwater because the plan will be to partner with Fountain to make future investments together in startups working in areas like AI.
+
+Joakim Kjemperud, a principal at Verdane, said the deal also gives his firm a stake in an HR firm, Jobylon, although Meltwater is by far the bigger asset.
+
+“The deal here is that it’s very much a portfolio transaction,” he said. “We’re buying into Jørn’s investment company and acquiring an implied direct stake in Meltwater and Nordic HR firm Jobylon, but Meltwater is the biggest asset in the portfolio.” Jobylon’s ARR right now is around €5 million, while the ARR for Meltwater — which was founded in Norway but now calls San Francisco its headquarters — is around €500 million, he added.
+
+The deal underscores a couple of important themes in the world of European tech and VC.
+
+The first of these is the fact that tech companies continue to see huge pressure on their valuations. Meltwater’s current market cap of just under $600 million is actually less than the company raised over the years when it was a privately held startup (over $700 million, per PitchBook data), and less than half of its valuation when it went public in December 2020 at over $1 billion.
+
+The second is the nature of dealmaking at the moment and the efforts that investors are making to de-risk. The market is particularly tight at the moment in Europe: VC firm Atomico’s annual deep dive into the funding landscape in Europe (which it puts together with a number of third-party research firms and particpation from others in the ecosystem) found that funding in 2023 halved to just $43 billion, and private equity firms are making a much bigger appearance in deals to make up some of the drop from VC.
+
+In that context, it’s notable that Verdane opted to invest in Fountain Venture rather than directly in Meltwater. That will give Verdane not only the stake in Meltwater, but also a stake in Jobylon and whatever else Fountain and Lyseggen find interesting. That will, in turn, de-leverage a focus on just one business. Verdane itself has only recently started to spread its wings to invest in startups across all of Europe and beyond: tying up with a partner to help direct it is a very de-risked approach to take while trying to be more ambitious.
+
+In terms of technology, companies like Meltwater are at a crossroads these days. The company would have had its roots out of the businesses where humans would have physically sifted through piles of newspapers, daily, to clip mentions of a company’s name, collate those and send them on to those clients to help them better track how they are being covered in the media.
+
+The decline of print media digitized that effort, and then the rise of social media turned that into a wider game, sentiment analysis, and words became structured, and more usually unstructured data. The influx of a whole new set of tools to glean insight out of that data turned a media challenge into a technical one. Meltwater built AI in-house and has acquired a stream of businesses in an analytics consolidation play. (The most high-profile of these acquisitions undoubtedly was DataSift, the groundbreaking firm that was an early friend of Twitter’s in monetizing its firehose only for that relationship to turn sour.)
+
+But now, it has a much bigger competitive threat: Companies like OpenAI and innovations in generative AI will change the game again in terms of search — consumer and enterprise — and how any kind of business intelligence work gets carried out.
+
+Lyseggen, unsurprisingly, believes that although Meltwater’s focus feels a bit like a throwback to a problem that has now essentially been fixed — and may well be made more efficient by would-be competitors — he thinks there is more opportunity for his company regardless.
+
+“I consider OpenAI’s ChatGPT the ‘Netscape moment’ in ushering in this new era,” he said. That’s an interesting thing to say: Netscape certainly changed how the world looks for information, although it’s far from being part of what we use today. “AI is changing the game for players to challenge the old guard. I think Meltwater’s tech stock is already the most modern and AI-centric in its category. We will continue to invest in AI and that’s something we are very excited about. We are pushing very hard.” Meltwater today says it analyzes around 1 billion documents daily for clients in communications, marketing and PR.

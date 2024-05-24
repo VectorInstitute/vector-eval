@@ -1,0 +1,71 @@
+In perhaps the most unexpected tech news of the year, billionaire and AI evangelist Sam Altman has been ejected from his CEO role at OpenAI by the company’s board after an apparent vote of no confidence. Its exact wording in a release issued this afternoon: Altman’s “departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.”
+
+What the hell is happening at the most hyped company in the world?! Here are some totally speculative theories that occurred to us and others around the web.
+
+1. Did Altman circumvent the board in a major deal?
+
+Based on the board’s language and the way these giant tech companies work, this is the prevailing theory floating around right now. “Not consistently candid” is a very diplomatic way of saying Altman lied.
+
+It’s possible that Altman — and potentially OpenAI President Greg Brockman, who stepped down as chairman simultaneously, then resigned — wanted to make a bold move that he knew the board would not like. It’s not uncommon for these deals to be hammered out quietly in smoke- (or vape-) filled rooms and then presented as a fait accompli, but if it was controversial enough and the board found out about these maneuvers, it could be fuel for an ouster.
+
+But what kind of deal would be big and dangerous enough for a summary dismissal of the CEO and famous face of the company? The man was onstage two weeks ago; I just talked with him! What could have happened since then?
+
+Few would be shocked if Microsoft, which is deeply, deeply embedded in OpenAI as an investor and customer, is a factor here. Could Altman have been working with — or against — OpenAI’s patron in secret? If Altman wanted to kill the golden goose by going independent, that might have activated the board’s fiduciary or otherwise statutory duty. On the other hand, if he was negotiating some other deal, like an acquisition or deeper and more exclusive integration, it could also have caused the board to bristle, either at the idea itself or at being excluded.
+
+But if Microsoft was as shocked as the rest of us, as one report has it, it could hardly be the kind of high-stakes conspiracy some seem to be hoping for. But one must assume that Microsoft would say that either way. Even if they’d been working with Altman on some kind of secret plan, they can truthfully say they were surprised by his firing. (And they “remain committed to our partnership.”)
+
+2. Do they disagree on long-term strategy?
+
+Despite being the hottest tech company in the world right now and everyone talking about ChatGPT, OpenAI isn’t exactly a sound business. It’s shoveling money into the furnace as fast as it can by serving, by all accounts, a fantastically expensive product at bargain-bin prices.
+
+That’s all well and good for a year or two, but at some point that strategy changes from a growth hack to an existential liability. Could Altman and the board have had irreconcilable differences on where that point lies?
+
+This doesn’t seem so likely. The company has been very deliberately pursuing this very publicly, confidently and on a long-term basis. Altman and the board seem to be in sync on this, at least for the present.
+
+3. Do the numbers not add up?
+
+On the other hand, could OpenAI be losing even more money than Altman admitted or projected? It seems impossible, but the costs of running this operation have no precedent, nor really does the operation itself.
+
+Or what if, and again this is purely speculation, Altman has been secretly pursuing an internal project, perhaps at significant cost, against the advice of the board and without the necessary safety measures that probably should accompany such research? It sounds a little wild, but firing your CEO like this is also a little wild.
+
+Some kind of major mismatch in the financial department could be cause for dismissal, but it’s hard to imagine what Altman could have kept from the board and CTO that would be so damning.
+
+There’s also the possibility that Altman was making personal investments in a way that the board disagreed with. With OpenAI poised to be a kingmaker in the field, he would certainly be in a position of power. One would think that, as an ideologically driven person already rich beyond belief and at the head of the world’s leading AI company, Altman would have risen beyond having to do this kind of side deal, or at the very least that scrutiny on him and those close to him would prevent them. But one can never be sure.
+
+4. Could it be a major security or privacy incident?
+
+The idea that the company has experienced a major, perhaps pervasive, security issue is bolstered by the fact that Microsoft reportedly suspended use of ChatGPT internally a few days ago. OpenAI subsequently stopped allowing new signups. If there was a serious security problem in its biggest product and Altman downplayed it, that would obviously create distrust with the board.
+
+There is also the potential for misuse at scale with the enormous amount of personal data that travels through OpenAI’s APIs and services.
+
+Working against this theory is the fact that CTO Mira Murati was just elevated to interim CEO in Altman’s place. It seems unlikely that anything security-related would go through the CEO and not the CTO, or that the two would be at odds to the point where one could be fired like this and the other swapped in to clean up the mess. As the board’s statement notes, Murati is in charge of product and safety, among other things. Any significant snafu in that department would reflect on her, as well as Altman.
+
+5. Perhaps a difference of AI ethics or philosophy?
+
+Altman is a proud techno-optimist, and often speaks fondly of the possibilities of AGI, or artificial general intelligence, a theoretical software system that achieves human-like intellect and versatility.
+
+The board’s statement pointedly includes that “OpenAI was deliberately structured to advance our mission: to ensure that artificial general intelligence benefits all humanity” and that new leadership was necessary. It’s possible that Sam’s zeal for AGI, even absent a secret project or agreement, led to a major rift between him and the board.
+
+It’s been obvious to all that Altman took the company in a much more corporate direction from its origins, changing its legal status and aggressively pursuing enterprise and consumer applications. That doesn’t sound a lot like the “mission” the board wants to advance. Then again, this shift didn’t happen today, and it certainly doesn’t seem like a plausible reason for abruptly firing the CEO and a few others on a beautiful fall Friday afternoon.
+
+6. What about IP and legal liability?
+
+Altman told me at OpenAI’s Dev Day earlier this month that the company doesn’t want to incur any copyright problems by using (as I had asked about) datasets of pirated books. But a lot of research I’ve been reading contradicts that, as does pretty much every AI data scientist I talk to. It’s exceedingly hard to imagine that OpenAI built GPT-3 with the copyrighted books database (as seems to be the case) but not GPT-4 or succeeding models. (I was going to write this up next week, so thanks OpenAI board for eating my lunch.)
+
+If you were the board and facing the mounting accusations that your product was built on a dataset that includes thousands or millions of copyrighted works — and your CEO had systematically downplayed the potential liability there — how would you feel? I’d feel very hurt.
+
+But again, if copyright liability was the reason, it seems unlikely that the board would promote the CTO. Presumably, OpenAI’s Chief Science Officer Ilya Sutskever would also have been in the know, and he’s still on the board.
+
+7. Did CTO Mira Murati launch a coup?
+
+Probably not — she seems cool, and anyway what CTO wants to be CEO? Mira, answer my email!
+
+8. Was it a “personal matter”?
+
+When someone is kicked out in a hurry, it’s not uncommon that there was some kind of unprofessional behavior in the workplace. Some CEOs get a pass on things like having kids with direct reports, but not all.
+
+Altman also has three siblings, and his younger sister Annie has publicly accused him of abuse. We have no way of evaluating these allegations, which involve private matters.
+
+Our read on the board’s language in dismissing Altman, however, is that it was not a legal or personal problem that provoked the action, but a professional or business one.
+
+We probably won’t know the full truth on this for a long time, as the characters in the drama are likely to be NDA’ed up. Per various whispers and leaks, an all-hands meeting about the situation this afternoon didn’t produce any revelations beyond banal reassurances that the company is fine and they’ll get a fresh CEO soon. Expect to hear a lot of rumors before we hear the real thing.

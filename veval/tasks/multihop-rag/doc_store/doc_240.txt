@@ -1,0 +1,75 @@
+The US is the largest pharmaceutical market in the world. By virtue of its size, its ideal IP protection laws, and deep-pocketed insurers, most of the cutting-edge innovation in pharma tends to be concentrated here. For investors and general readers alike, one should be abreast of the latest pharmaceutical innovation taking place overseas. Will a weight loss pill be a reality? When will HIV be cured? What is the future of cancer treatments?
+
+Indian investors can access growth in manufacturing, banking, commodity, services or even IT in Indian markets; but for cutting-edge tech and pharmaceutical exposure, the US is the place to look to.
+
+Here, we highlight the largest unmet needs in medicine currently being addressed by US Big Pharma, such as Merck, Gilead, Eli Lilly, and also by big players based in Europe — Novo Nordisk and Roche.
+
+We also lay down the basic framework for investing in or assessing US pharma and the stocks that are in focus currently.
+
+Oncology
+
+From plain chemotherapy, to surgery, to radiation and now immunotherapy, cancer treatment has come a long way. Immunotherapy, as the name suggests, is a pharmaceutical way of using the body’s immune system to eradicate cancer cells.
+
+Pembrolizumab (Keytruda) approved in 2014 is the first major Monoclonal anti body or mAB from Merck. The product has raked in approvals for several cancers and has generated $20 billion in sales in 2022. This works by helping T-cells find and attack cancer cells. The PD-1 protein on T-cells is deactivated by PD-L1 protein found on the surface of a cancerous cell. Keytruda and Opdivo (from Bristol-Myers Squibb) that target PD-1 and Tecentriq (a PD-L1 inhibitor by Roche) can stop T-cells from switching off — by blocking the PD-1/PD-L1 interaction between a cancer cell and a T-cell. This allows for normal immune action on cancer cells.
+
+However, mABs have not had a high success rate. Treatment-resistant patient cohorts to mABs stood considerably high at 70-80 per cent.
+
+Combining the chemo route of toxicity and mABs’ targeted actions on cancer cells are Antibody Drug Conjugates or ADCs. These rely on an mAB to target cancer cells and then release the cytotoxin into the cancer cells. The link to join the mAB and the toxin makes ADCs a three-part drug.
+
+The three parts involved in this process, along with the fact that several mABs are available, have opened the ADC market. Compared to mABs, ADC market is dominated by smaller players. Gilead acquired Immunomedics for $20 billion for its leading ADC - Trodelvy; Roche’s leading drug trastuzumab (Herceptin) for breast cancer is now paired with a cytotoxin and branded as Kadcyla, which is expected to generate peak sales of $3-4 billion over the next two years. Merck paid $4 billion in upfront payments to Daiichi Sankyo to collaborate on ADC. The US FDA has approved 10 ADCs for cancer treatment, and more than 80 ADCs are under clinical trials.
+
+Another route of targeting cancer cells is CAR-T therapies. From the blood drawn from the patient, T-cells are isolated and collected. Chimeric antigen receptors (CAR), which can affect cancer cells, are then induced in these T-cells. This is done by infecting them with a nullified virus that is engineered to generate CARs. Such cells are cultured to multiply and then reinfused into the patient’s blood stream. For instance, leukemia and lymphoma cancers have CD-19 markers, which are targeted by the CAR-T cells and then they do their job of destroying the cancer cells. This segment has also witnessed significant M&A with Celgene acquiring Juno Therapeutics for $9 billion and Gilead acquiring Kite Pharma for $12 billion.
+
+These novel approaches may also address the shortcomings in hematological cancers (blood) which have not faced as much success as in solid cancers.
+
+Diabetes
+
+Antidiabetic treatment kicked off with the discovery of the first animal-made insulin around a century ago. From there, innovation brought forth insulin synthesised from humans, synthetic insulins, longer and shorter acting insulins.
+
+Apart from pills and the ever-reliable metformin, three leading categories operate in anti-diabetes. There are Dipeptidyl Peptidase IV inhibitors (DPP-IVs Januvia/Janumet), Sodium-glucose Cotransporter-2 Inhibitors (SGLT2s Jardiance, Farxiga) and Glucagon-like peptide-1 receptor agonists (GLP-1RAs Trulicity, Victoza, Ozempic).
+
+GLP-1RA is inching over the other categories with improved glycemic control in clinical trials. With positive impact on non-glycemic aspects as well including weight loss, cardiac events and kidney functions, GLPs will witness more product innovation and R&D commitment in the short term.
+
+GLP-1 is a normal peptide released by the intestine in response to a meal. This binds to GLP-1 receptors in the pancreas and activates insulin production, which is impaired in Type-2 diabetes patients. GLP-1 receptor agonists are external agents that bind to the GLP-1 receptors and elevate insulin secretion by the pancreas. But, GLP-1 receptors are also found in kidney, lung, heart, skin, immune cells, and several other tissues. This allows GLP-1RA to attain a multi-modal result, which improves cardiac and renal outcomes, and aids weight loss slower gastric emptying by binding to intestinal receptors. This feature separates GLP-1RA from other modes.
+
+Treatment regimens are now not just restricted to glycemic control. Novo Nordisk’s Semaglutide, a leading GLP-1RA regimen, has shown in studies that it can reduce an adverse cardiovascular event by 20 per cent in overweight patients. In Type-2 diabetes patients, Sema’s study to show improved outcomes in chronic kidney disease was successful even on interim analysis.
+
+Semaglutide, branded as Wegovy, showed a 17-18 per cent weight loss sustained over 68 weeks’ trial for obese patients treated with Wegovy. This has created a flutter as Pfizer, Eli Lilly and others have joined the race in the category.
+
+Convenience is another important dimension on which anti-diabetes treatments place a significant weight. Once-a week insulin, Ozempic, has been approved and once-a-week long-acting basal analogue is in the works. With frequent insulin injections being a primary complaint in diabetes treatment regimen, Novo Nordisk has also launched a pill version of its GLP-1RA, Rybelsus.
+
+HIV
+
+From being a near-fatal prognosis, HIV is now a chronic condition with near-normal life expectancy. The first antiretroviral therapy (ART) started with azidothymidine in the late 90s, which belongs to the nucleoside reverse transcriptase inhibitor (NRTI) class of medications. The current regimen is a combination of NRTIs, nonnucleoside NRTIs (NNRTI), protease and integrase inhibitors and casts a heavy pill burden, apart from side effects. ART therapy is focused on limiting viral replication at several levels of cell development. NNRTI and NRTI act at the cellular level, protease inhibitors work at the maturation phase, integrase inhibitors at the integration phase of the viral lifecycle.
+
+Truvada is the first approved PrEP (pre-exposure prophylaxis) treatment for those at risk of viral exposure. These work at very early stage of viral exposure and have found high success when taken regularly in the pill form.
+
+However, treatment resistance to ARTs from prior exposure is an increasing concern in HIV patients. Gilead’s Lenacapavir, approved last year, is a single-pill treatment regimen for patients with multi-drug resistance to ART regimen. This formulation also addresses the pill burden with a single pill.
+
+That said, by limiting viral replication, ARTs, by design, cannot cure or lead to remission of HIV. There is hope, though. By pinpointing a cohort of patients whose viral load was under control with limited treatment, researchers have identified broadly neutralising antibodies or bNAbs as a potential cure for HIV. Antibodies deal with viruses but fail to do so in HIV infection. By engineering bNAbs in a manner similar to mABs for cancer or vaccines (where antibody reaction to neutered virus generates immune protection), HIV cure may be on the horizon.
+
+Gilead’s several Phase-2 programmes with ART combination are in progress. Studies as recently as February 2023 presented proof of concept — 90 per cent participants showed virological suppression at 26 weeks. Incidentally, Gilead’s Sovaldi and Harvoni were the first cures for Hepatitis C. The World Health Organization (WHO) aims to eradicate the virus by 2030.
+
+Alzheimer’s
+
+The degenerative disease of the brain has proved to be a difficult challenge for pharmaceutical companies. Leqembi (lecanemab), developed by Eisai in collaboration with Biogen, was the first and only approved drug for Alzheimer’s in July 2023. This comes after several failed attempts, and one controversial false start in the recent years.
+
+Alzheimer’s disease is characterised by amyloid beta deposits on brain cells leading to shrinking and loss of cognitive abilities. Despite a clear marker of amyloid plaques and a target area to work on, pharma companies failed to address plaque removal or a statistical improvement in cognitive functioning after plaque removal, till the recent approval. Pfizer, Eli lilly, Merck and many others faced failure in the space. The amyloid theory itself was in question.
+
+Biogen’s adacanumab had a peculiar start. The company itself stopped development in 2019, but it surprisingly pursued a high-dose study into 2021. Later, FDA approved adacanumab with an accelerated approval for high-dose version, which faced sharp criticism. Three advisers resigned over the approval of the drug that could have cost $56,000 per annum to administer. However, with a “traditional” approval for Eisai-partnered lecanemab for Alzheimer’s (compared to accelerated approval for adacanumab), Biogen has the first approved treatment, putting adacanumab on the backburner.
+
+Cognitive function improvement is a critical marker for Alzheimer’s treatment and lecanemab delivers lower degeneration compared to placebo on this count. The treatment reduced clinical decline by 27 per cent at 18 months on clinical dementia scoring and on daily living scale delivered a 37 per cent improvement compared to placebo. As is evident, the development is satisfactory but a lot more progress is left to be made on Alzheimer’s treatment curve.
+
+Takeaways for Investors
+
+Analysing pharma stocks in the US rests on three factors: drugs about to expire, drugs in ramping up stage and the pipeline. With sharp fall post genericisation, drugs about to expire will be a major overhang for any company, without a portfolio in ramping up stages. Pipeline products cannot really offset absence of products in ramp-up stage, as pipeline assets are given lower probabilities of success. Generally, Phase-I/II/III assets get 10/20/50 per cent probability of success.
+
+So a good pharma stock should have low impact from expiries and fairly distributed pipeline. Along such lines, we earlier recommended Novo Nordisk (+140 per cent since July-21) and Abbvie (+27 per cent since Oct-21). We reiterate the recommendation on two stocks which are now trading at 31 times and 12 times FY24 earnings.
+
+Novo Nordisk, with sales ramp-up in weight loss, pill format and weekly injections of GLP-1RA, is well poised to grow even now. The pipeline will address NASH (untreated liver disease), hematology and other non-diabetic areas as well.
+
+Abbvie, despite Humira’s patent loss by end 2023 ($22 revenue billion in 2022) will continue to be powered by Rinvoq and Skyrizi in autoimmune, apart from deep pipeline assets. The Allergan acquisition, funded out of the cash flows from Humira as a replacement for Humira, can cushion the patent loss to an extent.
+
+Analyst focus for Merck (12 times FY24 EPS) will start shifting to Keytruda’s likely patent loss in 2028. Despite the overhang, investors can accumulate the stock on dips. The deep pipeline powered by Keytruda combinations in immunology, ADC and other cancers, and the balance sheet strength should support Merck’s stock. While biosimilar launches will impact Keytruda’s sales in 2028, the rate of decline may be lower owing to strong physician preference for Keytruda.
+
+Another important aspect to consider is the pipeline valuation. Here’s an example of how it is done. For instance, Biogen (and Eisai’s) Leqembi for Alzheimer’s (AD) is expected to generate peak sales of $7 billion by 2030. It has announced a list price of $26,500 for annual course and we assumed 50 per cent rebate to insurers on average here. Considering the 6 million patients in AD in the US, assuming 50 per cent are mild to moderate (applicable group according to FDA label) and 15 per cent on treatment by year 7, the drug alone can rake in $12 billion (halved to account for Eisai’s share) by 2030 in cumulative sales for a company whose market cap is $33 billion trading at 14 times FY24 EPS.

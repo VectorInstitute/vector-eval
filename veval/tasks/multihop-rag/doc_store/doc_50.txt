@@ -1,0 +1,963 @@
+A comprehensive list of 2023 tech layoffs From major layoffs at Google, Amazon and Microsoft to small fintech startups and apps
+
+Last year’s techwide reckoning continues. The tech industry has seen more than 240,000 jobs lost in 2023, a total that’s already 50% higher than last year and growing. Earlier this year, mass workforce reductions were driven by the biggest names in tech like Google, Amazon, Microsoft, Yahoo, Meta and Zoom. Startups across many sectors also announced cutbacks through the first half of the year. And while tech layoffs slowed down in the summer and fall, it appears that cuts are ramping up yet again.
+
+Many economists have cautioned against fears of a recession, which would seem like a reason for optimism. But the momentum for a tech sector rebound has been slow to build, resulting in tech companies continuing to cut back on their workforces and pivot from a growth mindset to one based on efficiency in the face of stubborn market conditions.
+
+But tracking these layoffs helps us to understand the impact on innovation, which companies are facing tough pressures and who is available to hire for the businesses lucky to be growing right now. Unfortunately, it also serves as a reminder of the deeply human impact of layoffs and how risk profiles could evolve from here.
+
+Below you’ll find a comprehensive list of all the known layoffs in tech that have occurred in 2023, to be updated monthly. If you have a tip on a layoff, contact us here. If you prefer to remain anonymous, you can contact us here.
+
+The running total of layoffs for 2023 based on full months to date is 224,503, according to Layoffs.fyi. Tech layoffs conducted to date this year currently exceed the total number of tech layoffs in 2022, according to the data in the tracker.
+
+Data visualization by Miranda Halpern, created with Flourish
+
+December 2023
+
+ShareChat
+
+Is cutting 15% of its workforce in a “strategic restructuring” effort for 2024.
+
+Insightec
+
+Is reportedly laying off 100 employees, with 60 from the company’s Israel headquarters.
+
+Udaan
+
+Reportedly laid off up to 150 employees in a restructuring effort. This month, the business-to-business e-commerce startup scored $340 million in new funding.
+
+Enphase
+
+Is reducing their workforce by around 10%, impacting roughly 350 contractors and employees, president and CEO Badri Kothandaraman wrote in a blog post December 18.
+
+Arm Holdings PLC
+
+Reportedly laid off more than 70 software engineers in China and will relocate some roles.
+
+Delivery Hero
+
+Is shutting down operations in Taiwan and Turkey and plans to eliminate roles at its Berlin headquarters, the company said December 18.
+
+eBay
+
+Is reportedly eliminating nearly 10% of its workforce in Israel. It’s the company’s second round of layoffs this year.
+
+Intel
+
+Will cut 235 employees at its Folsom office campus at the end of the year, the company reported to state employment officials December 15.
+
+Superpedestrian
+
+Is shutting down its U.S.-based shared scooter operation and exploring a sale of its European business, TechCrunch has exclusively learned.
+
+Bolt
+
+Confirmed it laid off 29% of its staff December 15. The e-commerce company known for its one-click checkout technology was at one time the subject of a federal probe.
+
+Cruise
+
+In an announcement obtained exclusively by TechCrunch, the embattled self-driving car company is cutting 900 employees, or 24% of its workforce, per a December 14 email from new president and CTO Mo Elshenawy.
+
+Etsy
+
+Is laying off 11% of its workforce. In a letter to employees December 13, CEO Josh Silverman cited a “very challenging macro and competitive environment.”
+
+Chipper Cash
+
+Has reportedly laid off 15 people across various departments. It would be the fintech unicorn’s fourth round of layoffs this year.
+
+SmileDirectClub
+
+Has shut down three months after filing for Chapter 11 bankruptcy, citing $900 million of debt.
+
+Sunfolding
+
+Is reportedly winding down its operations. On its website, Y Combinator categorizes Sunfolding as an “inactive” company.
+
+Zulily
+
+Will lay off more than 500 employees after closing fulfillment centers in Ohio and Nevada in February 2024.
+
+D2iQ
+
+Is shutting down its operations and selling its assets to Nutanix.
+
+Atmosphere
+
+Has reportedly eliminated a large part of its workforce. The business-focused streaming TV service raised $100 million in 2022.
+
+Tidal
+
+Is laying off more than 10% of its staff, the company confirmed to TechCrunch December 7.
+
+ZestMoney
+
+Is shutting down operations. The Goldman Sachs-backed “buy now, pay later” startup was once valued at $450 million.
+
+Navan
+
+Is cutting about 145 roles as the travel startup previously known as TripActions plans to become public.
+
+Incredibuild
+
+Is laying off 20% of its workforce. The software development startup previously raised $35 million in a Series B funding in 2022.
+
+Bill
+
+Will cut around 15% of its workforce, the company announced December 5, and close its Sydney office to increase profitability.
+
+CourseHero
+
+Announced December 5 it eliminated 23 employees across engineering, operations and development.
+
+Pivo
+
+Shut down operations December 5. The Nigerian fintech startup previously raised $2 million in a seed round.
+
+Twilio
+
+Announced hundreds of job cuts December 4, amounting to 5% of the company’s workforce.
+
+Spotify
+
+Is eliminating about 1,500 jobs, the company announced December 4. This marks Spotify’s third round of layoffs this year.
+
+Bending Spoons
+
+Has laid off the entire staff of Filmic, the team behind popular video and photo-editing apps that Bending Spoons acquired in July.
+
+November 2023
+
+Zepz
+
+Cut 30 roles November 30 after the fintech unicorn eliminated 26% of its workforce earlier this year.
+
+Domo
+
+Made reductions to 7% of staff, in addition to reductions in its contract workforce, CEO Joshua G. James announced in the company’s Q3 earnings call November 30.
+
+Mojo
+
+Is laying off 20% of its staff, the company announced to staff November 30. The A-Rod and Marc Lore-founded sports betting startup previously raised $100 million.
+
+Loco
+
+Is cutting its workforce by about 36%, co-founders Anirudh Pandita and Ashwin Suresh announced at a November 30 town hall.
+
+Unity
+
+Is laying off 265 workers November 29 after eliminating its Wētā Digital division, which it acquired in 2021.
+
+Tier Mobility
+
+Is cutting roughly 22% of its staff, CEO and co-founder Lawrence Leuschner announced November 28.
+
+Dataminr
+
+Is laying off about 20% of its staff starting November 28, citing “the recent rapid advancements of our AI platform,” according to a memo from founder and CEO Ted Bailey.
+
+Multiverse
+
+Will lay off nearly a third of their U.S. staff. It’s the second round of layoffs at the U.K.-based unicorn company in just over a month.
+
+ONE
+
+Is cutting its workforce by around 25% November 27, citing “market conditions” affecting the EV battery startup.
+
+ByteDance
+
+Started mass layoffs November 27 in its gaming department, Nuverse, after two years of tepid performance. The number of affected employees is unknown.
+
+Veev
+
+Is closing up shop, according to multiple reports, after reaching unicorn status in 2022.
+
+Tulip
+
+Laid off 25 employees, CEO Ali Asaria announced November 24.
+
+Anar
+
+Is shutting down operations and returning capital to investors, CEO Nishank Jain announced November 23.
+
+Alerzo
+
+Cut 100 workers November 21, reportedly due to increases in automation. The recent layoffs come after Alzero cut 15% of its workforce earlier this year and 5% in 2022.
+
+C3.ai
+
+Reportedly cut jobs across departments November 20, citing a need to reduce costs. People familiar with the matter told Bloomberg that several impacted employees received just one month of severance.
+
+Jodo
+
+Reportedly cut around 100 roles across engineering, customer success, data and sales November 20.
+
+Amazon
+
+Is reportedly laying off “several hundred” employees in their Alexa division and its freshly launched Artificial General Intelligence team.
+
+FreshBooks
+
+Laid off 6% of their workforce November 17 as the company shuts down operations in Raleigh, North Carolina. President Mark Girvan and CEO Don Epperson are also leaving the company.
+
+Beamery
+
+Is reportedly cutting 25% of its workforce amid a larger restructuring and cost-cutting effort.
+
+Paystack
+
+Laid off 33 employees in Europe and Dubai November 16 as the company cuts down on operations outside of Africa.
+
+Sega
+
+Is reportedly planning to “phase out” 80 temporary workers by 2024. The company is now facing an unfair labor practice complaint, with workers alleging the layoffs are retaliation for unionizing.
+
+Chewy
+
+Laid off more than 200 employees November 14. The cuts impact roles in HR, recruiting, data, business intelligence, plus directors and higher managers.
+
+Amazon
+
+Is cutting “just over 180” roles in its gaming division, VP Christoph Hartmann wrote in an email to employees November 13.
+
+Carta
+
+Is reportedly cutting more of its workforce. The number of positions affected are unknown, but it would be the unicorn startup’s third layoff round this year.
+
+Pico
+
+Is cutting a “few hundred” roles, a person familiar with the matter told TechCrunch November 9. ByteDance’s Oculus challenger held an internal meeting announcing it is halting its expansion this week.
+
+Cruise
+
+Started laying off contingent workers who supported driverless operations November 9. Those layoffs came after the company recalled 950 robotaxis and lost key commercial permits to operate in California.
+
+Snap
+
+Laid off fewer than 20 project managers November 8. CNBC reported that Snap’s vice president of engineering, ​​Nima Khajehnouri, will also be leaving.
+
+Amazon
+
+Started cutting workers in its music streaming division in Latin America, North America and Europe, the company confirmed November 8.
+
+Google
+
+Confirmed November 8 it eliminated “a small number of roles” in its consumer support staff, Google Users & Products.
+
+Virgin Galactic
+
+Said in a memo to staff November 8 it is cutting costs and reducing staff. The number of employees impacted is currently unknown.
+
+Ubisoft Montreal
+
+Confirmed November 7 it will cut 98 roles in business administration and IT. Ubisoft said 124 positions will be eliminated overall across Canada, including reductions in its global IT team and its VFX studio, Hybride.
+
+Nextdoor
+
+Revealed in its Q3 earnings that it is reducing its workforce by 25%.
+
+Beyond Meat
+
+Announced cuts November 6 affecting around 19% of its non-production employees. The plant-based meat company says it will also review its entire global operations for cost-cutting opportunities.
+
+Ava Labs
+
+Is cutting 12% of its workforce, CEO Emin Gün Sirer confirmed November 6.
+
+OpenSea
+
+Laid off about 50% of its staff, the company confirmed November 3. CEO Devin Finzer posted a statement on X saying the NFT marketplace is now focused on “OpenSea 2.0.”
+
+Starz
+
+Is laying off more than 10% of its staff ahead of the company spinning out from Lionsgate, CEO Jeffrey Hirsch announced November 3. The network and streaming app will also exit Australia and the U.K.
+
+Faire
+
+Laid off about 250 people November 3 as part of restructuring. The wholesale marketplace raised a $416 million extension at a $12.6 billion valuation last year.
+
+Niu
+
+Confirmed to TechCrunch November 3 that it is issuing a round of layoffs affecting about 10% of their workforce, citing “fierce competition.”
+
+100 Thieves
+
+Is reducing its workforce by 20%, CEO John Robinson announced November 2. The esports brand is spinning out its game studio as well as its energy drink brand, Juvee.
+
+OpenSpace
+
+Conducted a round of layoffs, CEO Jeevan Kalanithi announced November 2. The number of employees impacted by the layoffs has yet to be reported.
+
+Informatica
+
+Is laying off 10% of its global workforce, the cloud data management company announced in its Q3 results November 1.
+
+Splunk
+
+Is set to cut around 500 employees CEO Gary Steele said in a message to employees November 1 ahead of its planned acquisition by Cisco.
+
+October 2023
+
+Bungie
+
+Is laying off about 100 employees, CEO Pete Parsons announced 10/30. The Sony-owned game studio is also delaying two of its upcoming titles as a result.
+
+Karat
+
+Reportedly cut an estimated 10% of its workforce October 27 after the financial startup for creators raised a $70 million Series B round earlier this year.
+
+Hippo
+
+Plans to eliminate 120 roles, the company said in an SEC filing October 30.
+
+Liberty Mutual
+
+Plans to cut 850 members of its staff, the insurance company confirmed October 27.
+
+Salsify
+
+Cut 110 jobs and are moving some roles abroad, CEO and co-founder Jason Purcell announced October 25.
+
+Slync
+
+Is shutting down, months after its former CEO Chris Kirchner was arrested on fraud charges and sued the company to pay for his legal bills.
+
+Shipt
+
+Announced October 24 in a company statement that it laid off 3.5% of their workforce and will close many open roles.
+
+Pebble
+
+The X alternative previously known as T2 announced October 24 that it is shutting down its operations.
+
+Nokia
+
+Announced October 19 that it will cut up to 14,000 jobs, or 16% of its workforce, following a sizable dip in Q3.
+
+Roblox China
+
+Cut 15 roles on October 24, two years after the joint effort with Tencent abruptly paused its service.
+
+Tropic
+
+Eliminated 26 roles, CEO David Campbell confirmed in a LinkedIn post October 21.
+
+Convoy
+
+Is halting operations due to a “massive freight recession,” CEO Dan Lewis announced in a memo October 19, a week after laying off 20% of its workforce.
+
+LegalZoom
+
+Plans to lay off more than 100 workers in its sales division, the company disclosed in a Worker Adjustment and Retraining Notification Act letter.
+
+Plume
+
+Laid off more than two dozen workers, TechCrunch learned October 18, about a year after the trans healthcare startup raised a $24 million Series B.
+
+Google
+
+Eliminated at least 40 roles in its news division, Google confirmed October 18.
+
+Expedia Group
+
+Cut around 100 jobs, Skift reports, in its second round of layoffs in recent months. The cuts reportedly impacted employees across data and AI.
+
+Stack Overflow
+
+Laid off 28% of its staff, more than likely impacting 100 people, the Prosus-owned company announced October 16.
+
+Bandcamp
+
+Eliminated 50% of its staff on October 16 after ownership changed from video game company Epic to music licensing platform Songtradr.
+
+LinkedIn
+
+Confirmed October 16 that it will cut 668 more jobs, bringing the total to nearly 1,400 this year, with the bulk of the most recent cuts impacting those with R&D roles.
+
+Flexport
+
+On October 13 began laying off 20% of its workers, about 600 people, as it prepares for restructuring, and continues a cost-cutting campaign that began with rescinding offers and working to lease office space.
+
+Qualcomm
+
+Is cutting 1,258 jobs in two of its California offices. According to a filing with the California Employment Development Department, the semiconductor company plans to make the reductions in December.
+
+Blue Origin
+
+Laid off 40 people October 10, including software engineers and program managers, according to The Information.
+
+Stitch Fix
+
+Will lay off 558 employees after the personal styling subscription service closes a distribution center in Dallas.
+
+Synapse
+
+Confirmed October 6 that it had laid off 86 people, about 40% of the a16z-backed fintech company. Earlier in the year, Synapse laid off 18% of its employees after its growth slowed.
+
+Bird
+
+Issued a new round of layoffs after acquiring Spin, according to an email interim CEO Michael Washinushi sent to the company. The layoffs came one week after the company was delisted from the New York Stock Exchange, and the exact number remains unknown.
+
+Qualtrics
+
+Announced on October 4 that 780 roles are being eliminated and that “several hundred” roles are changing or moving locations in 2024.
+
+Hopper
+
+Is reducing its full-time staff by 30%, amounting to 250 job cuts, the company announced October 3.
+
+Chainalysis
+
+Announced October 2 that it is laying off around 15% of its workforce, affecting approximately 150 employees.
+
+September 2023
+
+IronNet
+
+In a regulatory filing published September 29, the cybersecurity startup has ceased all business activities as it prepares for Chapter 7 bankruptcy and has laid off its remaining staff.
+
+Naughty Dog
+
+Is reportedly cutting at least 25 contract developers, two sources familiar with the situation told Kotaku.
+
+Epic Games
+
+Announced on September 28 that the Fortnite maker is laying off 16% of its workforce, amounting to 870 people.
+
+Talkdesk
+
+An impacted employee confirmed on September 27 that at least 140 people, if not more, were affected by Talkdesk’s third round of layoffs in less than 14 months.
+
+Byju’s
+
+Announced on September 26, the company plans to cut 5,000 jobs due to restructuring efforts. The startup has eliminated more than 10,000 positions in the past two years.
+
+Roblox
+
+Confirmed to TechCrunch on September 21, Roblox let go of 30 employees in its talent acquisition organization. No other teams are impacted.
+
+Divvy Homes
+
+Announced on September 11 that it is laying off 94 employees.
+
+Sensor Tower
+
+Announced on September 8 that it laid off approximately 40 people out of the 270+ at the company, including C-suite executives.
+
+Roku
+
+Announced September 6 that it plans to lay off approximately 10% of its workforce, representing over 300 employees.
+
+August 2023
+
+Malwarebytes
+
+Announced on August 31 that it laid off 100 employees, mainly impacting corporate employees.
+
+Twiga
+
+Announced on August 21 that it is laying off 283 employees, or 33% of its workforce.
+
+SecureWorks
+
+Announced on August 14 that it will let go of 15% of its workforce, impacting about 300 employees. This is the company’s second round of layoffs this year.
+
+CoinDesk
+
+Announced on August 14 that it is cutting 16% of staff.
+
+NCC Group
+
+Confirmed on August 10 that it is making more layoffs, its second round of layoffs in just six months. The company declined to say how many employees are affected by this round of cuts. NCC Group cut 125 employees in February.
+
+Rapid7
+
+Announced on August 9 that it plans to lay off 18% of its workforce, affecting more than 400 employees globally.
+
+Mobile Premier League
+
+Announced on August 8 that it is laying off approximately 50% of its employees or 350 people.
+
+Astra
+
+Announced on August 4 that it has laid off 25% of its workforce since the beginning of the quarter.
+
+Discord
+
+Announced on August 3 that it has let go of nearly 40 employees or 4% of its workforce.
+
+HackerOne
+
+Announced on August 2 that it is laying off 12% of its workforce, approximately 50 employees.
+
+Tekion
+
+Announced on August 2 by Inc42, the startup laid off around 300 employees or 10% of its workforce. Of the 300 employees being let go, about 200 were from Tekion’s India office.
+
+Planet
+
+Announced on August 1 that it is laying off 117 employees, or 10% of staff.
+
+July 2023
+
+Dunzo
+
+Announced July 19 that it is postponing employee salaries for a month and plans a new wave of layoffs as soon as July 20. Dunzo executives informed employees that they will likely be cutting over 200 jobs, in what will be its third layoff this year. The company has eliminated about 400 jobs this year so far.
+
+Cameo
+
+Announced on July 18 that it intends to lay off 80 workers.
+
+Skill-Lync
+
+Announced on July 13 that the Indian startup has laid off 20% of its workforce, around 225 employees.
+
+Crunchbase
+
+Announced on LinkedIn on July 9 that the company is laying off 52 employees.
+
+Microsoft
+
+Announced July 10 that the company is eliminating additional jobs a week after the start of its 2023 fiscal year. These layoffs are in addition to the 10,000 layoffs announced in January.
+
+ClickUp
+
+Announced on July 4 that it has laid off 10% of its workforce, about 90 people.
+
+June 2023
+
+Niantic
+
+Announced June 29 that it laid of 230 employees — one year after it laid off around 90 employees.
+
+Plex
+
+Announced June 29 that it laid off approximately 20% of its staff, or 37 employees.
+
+Grab
+
+Announced the week of June 23 that it laid off more than a thousand people, or 11% of its staff.
+
+Olx Group
+
+Announced on June 20 that it has cut around 800 jobs globally. The news comes as the company started to close operations of its automotive business nit Olx Autos in some markets.
+
+Mojocare
+
+Announced on June 18 that the company will be laying off some 150 employees, a majority of the workforce.
+
+Tada
+
+Operated by Korean ride-sharing company Socar’s subsidiary VCNC announced on June 15 that it plans to let go of at least 50% of its staff or about 45 people at Tada.
+
+Better.com
+
+Announced on June 7 that it laid off its real estate team, it is not clear how many people were impacted.
+
+Ursa Major
+
+At least 14 people have been laid off from the rocket engine startup, announced on June 7. Ursa Major did not respond to TechCrunch’s inquiry into the layoffs, or the number of people affected. According to LinkedIn, 292 people are listed as currently working at Ursa.
+
+Spotify
+
+Announced June 5 that it will cut 200 jobs in its podcast unit, leading to a workforce reduction of 2%. This comes just a few months after the company announced a significant wave of layoffs.
+
+May 2023
+
+Taxfix
+
+Announced on May 30 that it has laid off 20% of staff—120 employees.
+
+Meta
+
+Announced May 24 that it is laying off about 6,000 people. In total, about 21,000 people have lost their jobs at Meta since November.
+
+JioMart
+
+Reliance Retail’s online shopping platform laid off over 1,000 employees on May 22, and plans to cut as many as 9,900 more roles over the coming weeks.
+
+Krebs Stamos Group
+
+Announced May 18 that the consulting firm laid off six people. In April, the firm had 18 employees including the founders. On May 18, the site shows only 14 team members.
+
+TuSimple
+
+Announced May 18 that it is laying off about 30% of employees.
+
+Prior to the layoff, TuSimple had about 550 employees in the U.S. and post reduction in force the company will have about 220, according to the company.
+
+Nuro
+
+Announced May 12 that it will lay off 30%, or about 340 employees across the company.
+
+LinkedIn
+
+Announced May 8 that it is cutting 716 jobs, or about 3.6% of total employees, and will phase out its local jobs app in China. Despite reducing some roles, LinkedIn also plans to open about 250 new jobs on May 15.
+
+Rapid
+
+Announced May 5 that Rapid (previously known as RapidAPI) has laid off another 70 employees less than two weeks after letting go of 50% of its staff. Just 42 people remain at the company, down from 230 in April, dropping a total of 82% in headcount.
+
+Meesho
+
+Announced May 4 that it has cut 15% of its workforce, or 251 roles. This comes after its first round of layoffs, which eliminated 150 roles about a year ago.
+
+Shopify
+
+Announced May 4 that it is laying off 20% of its workforce, impacting more than 2,000 people. It’s also selling its logistics business to Flexport for roughly 13% in stock.
+
+Bishop Fox
+
+Announced May 3 that it laid off around 50 employees — or 13% of its workforce — on May 2.
+
+Neato Robotics
+
+Announced May 1 that Vorwerk-owned Neato Robotics is shutting down, with nearly 100 employees impacted by the move.
+
+April 2023
+
+Clubhouse
+
+Announced April 27 that it has laid off more than 50% of staff. A spokesperson for Clubhouse declined to comment on the number of people impacted by today’s workforce reduction or the number of employees who remain at the company. Last October, Davison told TechCrunch that Clubhouse had close to 100 employees.
+
+Dropbox
+
+Announced April 27 that it would be laying off 500 employees or 16% of staff.
+
+Amazon
+
+Announced on April 26 that it is shutting down its Halo Health division, effective July 31, among other divisions. The layoffs are part of the 9,000 employees announced in March. Including the 18,000-person layoffs announced in January, this brings the total to 27,000 job cuts or 8% of Amazon’s corporate workforce this year.
+
+Rapid
+
+Announced on April 25, Rapid, previously known as RapidAPI, lays off 50% of its staff. The layoffs are believed to have impacted 115 people.
+
+Anthemis Group
+
+Announced on April 25 that it will lay off 16 people from its staff, or 28% of employees.
+
+Lyft
+
+Announced on April 21 that employees will learn whether they have a job or not via an email that will be sent out April 27.
+
+Lyft layoffs to affect 26% of workforce, or about 1,072 people as promised on April 27.
+
+Meta
+
+Announced April 18th that it is expected to lay off 10,000 jobs in the coming months. This is on top of the 11,000 jobs that were cut in November.
+
+Redfin
+
+Announced April 13th that it has laid off 201 employees, about 4% of its workforce. This is the third time the Seattle-based real estate company has reduced its workforce since June.
+
+Apple
+
+Bloomberg reported on April 3 that Apple is laying off a small number of roles on its corporate retail teams.
+
+March 2023
+
+Netflix
+
+Announced on March 31, Netflix confirms a “handful of layoffs,” which includes two longtime executives. The exact number of layoffs is unclear. Netflix is scheduled to report Q1 2023 results on April 18.
+
+Roku
+
+Announced March 30 that it is letting go of about 200 employees, or 6% of its workforce. The company had laid off 200 U.S. employees back in November.
+
+Unacademy
+
+Announced March 30 that it has laid off more than 350 roles, or 12% of its workforce — just over four months after cutting about 350 roles in November.
+
+Shift Technologies
+
+Announced March 29 that it laid off 30% of its workforce in Q1 2023.
+
+Lucid
+
+Announced March 28 that it is laying off 1,300 employees, or 18% of its workforce, to be completed by the end of Q2 2023.
+
+GitHub
+
+Announced on March 28 that it has eliminated over 100 jobs in the South Asian market, laying off virtually its entire engineering team in India. A GitHub spokesperson told TechCrunch that the layoff is part of the streamlining effort the firm had disclosed in February to cut roughly 10% of its workforce by end of Q1 2023.
+
+Disney
+
+On March 27 in an internal memo to employees, Disney revealed there will be three rounds of layoffs, the first beginning this week. The job cuts will impact approximately 7,000 employees, which was announced in February.
+
+Salesforce
+
+On March 24, Bloomberg reported that more layoffs could be on the way at Salesforce, quoting chief operating officer Brian Millham, who indicated that the company could be adding to the ongoing job cutting at the CRM leader and in tech in general. If the layoffs happen, it would come on top of the 10% cut in January.
+
+Accenture
+
+Announced March 23 that it plans to cut 19,000 jobs, or 2.5% of its workforce.
+
+Indeed
+
+Announced March 22 that it will lay off 2,200 employees, or 15% of its staff.
+
+Roofstock
+
+Announced March 22 that it has laid off 27% of its staff, approximately 100 employees.
+
+Twitch
+
+Announced March 20 that it will lay off 400 employees.
+
+Amazon
+
+Announced March 20 another round of substantial layoffs, this time 9,000 people are set to lose their jobs. TechCrunch is hearing that around 10% of today’s total came from AWS. As part of the new round of layoffs, Amazon is shutting down DPReview.
+
+Livespace
+
+Announced March 20 that it has laid off at least 100 employees, about 2% of the company’s workforce.
+
+Course Hero
+
+Announced March 16 that it has cut 15% of staff, or 42 people.
+
+Klaviyo
+
+Announced March 15 that it has laid off 140 of its staff across all teams.
+
+Microsoft
+
+As a part of its recent announcement to layoff 10,000 people, Microsoft laid off an entire team dedicated to guiding AI innovation that leads to ethical, responsible and sustainable outcomes. On March 27, Microsoft laid off 559 workers from its Bellevue and Redmond operations.
+
+Meta
+
+CEO Mark Zuckerberg confirmed rumors March 14 that the company will be cutting 10,000 people from its workforce and around 5,000 open roles that it had yet to fill.
+
+Y Combinator
+
+Announced March 13 that it will impact 20% of staff, or 17 team members.
+
+Salesforce…continued
+
+Salesforce first announced that it was laying off 10% of the workforce in January, but some employees didn’t know until February. The week of March 10, more employees are just learning they have been laid off. Salesforce confirmed that these layoffs were part of the 10%.
+
+Atlassian
+
+Announced on March 6, Atlassian is laying off about 500 employees, or 5% of its total workforce.
+
+SiriusXM
+
+Announced on March 6, the company laid off 475 employees, or 8% of its total workforce.
+
+Alerzo
+
+The Nigerian B2B e-commerce platform had a headcount of more than 2,000 before a first round of layoffs in September 2022. Alerzo has laid off 15% of its full-time workforce, the company confirmed on March 6, leaving about 800 employees at the startup.
+
+Cerebral
+
+Announced March 1, the company is letting go 15% of it’s workforce — roughly 285 employees.
+
+Waymo
+
+Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts in January, the self-driving technology company has let go of 8%, or 209 employees, of its workforce.
+
+Thoughtworks
+
+Announced on March 1, the company laid off about 4% of its global workforce — approximately 500 employees.
+
+February 2023
+
+Twitter
+
+Announced on February 26, the company laid off more than 200 employees, including Esther Crawford, Haraldur Thorleifsson and Leah Culver. Since Musk took over Twitter in October last year, the company’s headcount has fallen by more than 70%.
+
+Poshmark
+
+Announced February 24, Poshmark confirmed with TechCrunch that less than 2% of its workforce was affected, primarily in the U.S. The company employs roughly 800+ employees.
+
+Green Labs
+
+We do not have an exact figure of how many Green Labs plans to lay off its staff. Green Labs confirmed to TechCrunch that it is conducting a round of layoffs that could impact at least 50% of its workforce.
+
+Chipper Cash
+
+Announced on February 20, the African cross-border payments platform conducted a second round of layoffs just 10 weeks after it cut approximately 12.5% of its workforce. Chipper Cash relieved almost one-third of its workforce, about 100 employees.
+
+Evernote
+
+On February 17 the company confirmed laying off 129 people.
+
+Jumia
+
+Announced February 16 that it cut 20% of its staff, or more than 900 positions across its 11 markets, in Q4 of 2022.
+
+Convoy
+
+Announced on February 16 that it is shuttering its Atlanta office and laying off workers as part of restructuring. This is the third time in less than a year that the company has laid off workers.
+
+Sprinklr
+
+Announced on February 15 that it will impact 4% of its global workforce — or more than 100 employees.
+
+iRobot
+
+Announced on February 13 that it will lay off 7% of its workforce, roughly 85 employees.
+
+Twilio
+
+Announced on February 13 that it will impact around 17% of its global workforce, about 1,400 people.
+
+GitHub
+
+Announced February 9, 10% of its staff will be impacted through the end of the company’s fiscal year. Before this announcement, which was first reported by Fortune, GitHub had about 3,000 employees.
+
+Yahoo
+
+Announced on February 9, 20% of its staff, impacting 1,600 employees in its adtech business. Yahoo is the parent company to TechCrunch.
+
+GitLab
+
+Announced February 9 that it’s reducing its headcount by 7%. The round of redundancies will impact around 114 people, though that specific figure is dependent on its actual headcount as of February 9.
+
+Affirm
+
+Announced on February 8 that it is reducing its staff by 19%, or about 500 employees, and shutting down its crypto unit.
+
+Zoom
+
+Announced the cut of 15% of its staff, or 1,300 people on February 7.
+
+VinFast
+
+VinFast has not shared how many employees have been cut, but a LinkedIn post from a former employee said “nearly 35 roles” were affected. Announced on February 6.
+
+Dell
+
+Announced February 6, impacting 6,650 people, or 5% of worldwide workforce.
+
+Getaround
+
+Announced February 2, 10% of staff — about 42 employees.
+
+Pinterest
+
+Announced February 2, 150 employees impacted. This is the second job-cutting move within weeks of the first round in December 2022.
+
+Rivian
+
+Announced on February 1, cutting 6% of its workforce for the second time in less than a year.
+
+January 2023
+
+SoFi Technologies
+
+Announced on January 31, cutting 65 jobs, or about 5% of its 1,300-person workforce. First reported by The Wall Street Journal.
+
+NetApp
+
+Announced on January 31, impacting 8% of its staff — about 960 people.
+
+Groupon
+
+Impacting another 500 employees announced on January 31. The company said this new set of layoffs will be spread across the first two quarters of 2023.
+
+Impossible Foods
+
+Reportedly affecting 20% of its staff, over 100 employees, Bloomberg reported first.
+
+PayPal
+
+Announced on January 30, about 2,000 full-time employees, or 7% of its workforce, were affected.
+
+Arrival
+
+Announced on January 30, with a newly appointed CEO, slashing 50% of its workforce — 800 employees globally.
+
+Waymo
+
+The self-driving technology unit under Alphabet quietly laid off workers on January 24, according to The Information and several posts on LinkedIn and Blind. It’s not yet clear how many of Waymo’s staff will be affected.
+
+Spotify
+
+Announced on January 23, impacting around 6% of its global workforce — around 600 employees.
+
+Alphabet
+
+Google’s parent company announced laying off 6% of its global workforce on January 21, equating to 12,000 employees. These cuts impact divisions such as Area 120, the Google in-house incubator and Alphabet’s robotics division, Intrinsic.
+
+Fandom
+
+The entertainment company announced an unspecified number of employees impacted across multiple properties on January 20. According to a report by Variety, the company employs around 500 people, and the layoffs have affected roughly 10% of its staff across different sites.
+
+Swiggy
+
+Announced plans to lay off 380 jobs on January 20 and shut down its meat marketplace.
+
+Sophos
+
+Announced on January 18, 10% of its global workforce, about 450 people were let go.
+
+Microsoft
+
+As announced on January 18, 10,000 employees will be impacted.
+
+GoMechanic
+
+Laid off 70% of its workforce on January 18.
+
+Clearco
+
+Announced on January 17, impacting 30% of staff across all teams.
+
+ShareChat
+
+Announced on January 15, ShareChat laid off 20% of its workforce — or over 400 employees — just a month after eliminating more than 100 roles.
+
+SmartNews
+
+Announced on January 12 a 40% reduction of its U.S. and China workforce, or around 120 people.
+
+Intrinsic
+
+Alphabet’s robot software firm, Intrinsic, is laying off 40 employees TechCrunch confirmed on January 12. Amounting to around 20% of the headcount.
+
+Greenlight
+
+The fintech startup offering debit cards to kids laid off 104 employees on January 12, or over 21% of its total headcount of 485 employees.
+
+Career Karma
+
+Learning navigation platform Career Karma laid off another 22 people on January 12 across its global and domestic workforce.
+
+DirectTV
+
+Announced on January 12 plans to lay off about 10% of its management staff on January 20.
+
+Informatica
+
+Reported on January 11 that it will lay off 7% of it’s workforce, or 450 staffers globally.
+
+Carta
+
+Announced on January 11, the equity management platform cut 10% of its staff. Judging by LinkedIn data, the layoff could have impacted around 200 employees.
+
+Citizen
+
+Impacting 33 staff members on January 11.
+
+Coinbase
+
+To cut 950 jobs, or about 20% of its workforce, and shut down “several” projects, announced on January 10. This is the second round of major layoffs at the crypto exchange, which eliminated 18% of its workforce, or nearly 1,100 jobs last June.
+
+SuperRare
+
+The NFT marketplace is cutting 30% of its staff, announced on January 6.
+
+Amazon
+
+Announced on January 5, eliminating more than 18,000 roles. This announcement extends a previously announced round of layoffs in November of 2022. On January 19, the company announced it would end AmazonSmile.
+
+Salesforce
+
+Announced on January 4 that it’s cutting 10% of its workforce, impacting more than 7,000 employees. A month later, some Salesforce employees had just found out they were also a part of the 10% layoff announcement.
+
+Vimeo
+
+Announced on January 4, cutting 11% of its workforce.
+
+Editor’s note: Natasha Mascarenhas has contributed to this compilation.

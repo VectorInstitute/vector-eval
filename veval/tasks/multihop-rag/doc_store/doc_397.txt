@@ -1,0 +1,35 @@
+X (formerly Twitter) has been called out in the European Union for having the worst ratio of disinformation/misinformation to posts not spreading falsehoods among mainstream social networks.
+
+In a speech today discussing the latest updates from other platforms that have signed up to combat disinformation under a beefed up EU Code of Practice that’s been linked to compliance with the the bloc’s legally binding Digital Services Act (DSA), it commissioner for values and transparency, Vera Jourova, said X’s poor performance was assessed during a pilot phase of testing of new methodology developed by Code signatories.
+
+“A big novelty under the Code is now the publication of the first set of structural indicators such as how easy it is to find disinformation content, how much engagement such content receives or indicators about sources. These indicators — developed by the signatories — constitute an unprecedented and novel insight into disinformation on online platforms,” she suggested. “Such insight is crucial to understand how effective platforms efforts are to fight this threat even more efficiently. This is a very valuable industry proposal that has great potential while it has to be still further developed.
+
+“Here, signatories have decided to run a pilot phase in three Member States to evaluate the methodology on two of those indicators. X, former Twitter, who is not under the Code any more is the platform with the largest ratio of mis/disinformation posts.”
+
+The Elon Musk-owned platform exited the EU’s Code of Practice on Disinformation back in May, shortly after EU lawmakers warned that policy shifts executed after Musk’s takeover were boosting Kremlin propaganda and criticised the company for patchy reporting. The EU’s top diplomat also took a public shot at Twitter for ending free access to its APIs for researchers, saying the action could threaten the study of disinformation.
+
+Last year the Commission also warned Musk over “huge work” ahead if the platform was to avoid falling foul of the incoming DSA.
+
+Under Musk, X has pushed the use of an existing crowdsourced fact-checking feature (rebranded as Community Notes) which essentially seeks to outsource the issue to a hands-length process of aggregating views from platform users, some of which may be appended as contextual notes to dubious tweets. At the same time the erratic billionaire has set about removing signals Twitter users were previously able to rely on to help assess the quality of information tweets contained, such as removing state-affiliated media labels from propaganda outlets and replacing legacy account verifications with pay-to-play.
+
+X was contacted for a response to the EU’s analysis of the ratio of disinformation it’s spreading. It replied with an automated email reading: “Busy now, please check back later.”
+
+Update: X’s global government affairs account has posted a thread responding to the EU’s criticism in which it claims the data shows other social networking services saw greater changes in subscriber growth and total growth for pro-Kremlin accounts, and for engagement and volume; it also writes that: “More than 700 unique Community Notes have appeared on posts related to the Ukraine conflict. Through Community Notes’ new ‘Notes on Media’ feature, which automatically matches notes on an image or video to other posts that contain matching media, these notes appeared on over 1,200 additional posts. These notes are in numerous languages and are written specifically for local audiences.”
+
+Back in April, X/Twitter was named as one of 19 larger platforms that face the strictest level of regulation under the EU’s DSA. The law puts an obligation on so-called very large online platforms (VLOPs) to assess societal risks attached to their use of algorithms — and put in place “reasonable, proportionate and effective mitigation measures” for identified risks, with their reporting and mitigation plans subject to independent audit and oversight by the Commission.
+
+We’ve reached out to the Commission with questions about how it plans to respond to this latest analysis of X’s role in spreading disinformation.
+
+Update: A Commission spokesperson told us:
+
+While the Code is voluntary, compliance with the DSA is not. The DSA is now legally binding on X/Twitter. This includes in particular the obligation of Very Large Online Platforms, such as X/Twitter to mitigate the risks their platforms pose for the spread of disinformation. The TrustLab study to measure two Structural Indicators covers signatories of the Code at the time of the launch of the exercise, which at the time included X/Twitter. During this period the DSA had not entered into force yet for VLOPs and VLOSEs, including X/Twitter. The Commission cannot comment further on the substance of the risk assessments. We are analysing the available information on a range of issues and we are in close contact with X but we cannot comment on specifics and timelines. As stated by Commissioner [Thierry] Breton, minor protection and integrity of elections are priorities in the enforcement of the DSA.
+
+Penalties for breaches of the DSA can scale up to 6% of global annual turnover and the Commission has previously wanted that not following the Code of Practice on Disinformation would be factored into its assessments. So the price for X ignoring the EU’s warnings on disinformation could be steep — albeit its ad revenue has cratered since Musk’s takeover, as a result of his failure to tackle toxicity and harmful disinformation encouraging an advertiser exodus — and shrinking earnings would effectively downsize any future penalties X could face under the DSA.
+
+Subscription revenues to a revamped Twitter Blue paid offering (now called X Premium) don’t appear to have been substantial enough to plug the ad gap — which may explain Musk’s recent suggestion he plans to charge all users a small fee. However ending free access to X could be the final nail in the coffin of the platform as a real-time information network if it triggers a further/final exodus of remaining legacy users whose knowledge and engagement lent Twitter its original value.
+
+Disinformation and spammers may rush in to fill the gap, generating a parody of activity, but without a critical mass of genuine users to pay attention and contribute value and vitality — aka the life-blood of a bona fide information network — X really will mark the spot of Twitter’s demise.
+
+Also today, a report by misinformation watcher NewsGuard found that a decision by Musk to remove labels denoting state-run or government-affiliated media accounts led to a surge in propaganda spreading on X, with Russia’s RT seeing the biggest gains per the analysis.
+
+From the report:

@@ -1,0 +1,51 @@
+The grip Twitter, now called X, has on the market may be stronger than some believed. Unfortunately, that’s led to the first casualty among Twitter alternatives, as the startup Pebble (formerly T2), is shutting down. The would-be X rival had grown a small but engaged community on its microblogging service that aimed to dupe Twitter’s features, from its verification systems to functionality like DMs. But the company says they’ve run out of time to make Pebble happen — the app maxed out at 3,000 daily active users, out of 20,000 registered users. That daily user figure fell to 1,000 daily users following its rebranding from T2.
+
+In part, the sizable competition coming from other Twitter rivals was to blame, says co-founder and CEO Gabor Cselle, who had exits to Google and Twitter prior to starting Pebble.
+
+“I think the competitive landscape evolved faster than we had thought,” he explains. “I didn’t think that quite as many people — established organizations and newcomers — would try to do the same thing that we were doing and in very similar ways.”
+
+Today, the market for Twitter alternatives is a crowded one, to say the least. There are numerous services for consumers to try, including the open source-based platform Mastodon, a soon-to-be decentralized system from Bluesky, plus smaller startups like Spill, Spoutible and Post, as well as a new app from Meta called Instagram Threads.
+
+Then, of course, there’s the X factor to consider. The default platform for short posts retains some pull, despite — or perhaps because of — new owner Elon Musk’s antics. Though the company may not have yet succeeded from a business and financial perspective, it’s been hard for others to duplicate its function as a breaking news platform and place for spirited debates.
+
+“I think Threads and others have encountered this as well,” adds Pebble co-founder and CTO Michael Greer, previously Discord engineering head. “The durability of the network effect of Twitter is stronger than anticipated,” he says.
+
+Despite these challenges, Pebble initially had decent retention. By week four, it was seeing retention rates of 30%, in fact. Its invite list was also working, as 60% of people who received a Pebble invite converted to become users. In addition, some 10,000 users arrived at that list from early press, like TechCrunch’s coverage of its first outside funding — a $1.1 million angel round that included investors like former Google VP Bradley Horowitz, Android co-founder Rich Miner and the former CEO of Wikipedia, Katherine Maher. Data from Similarweb indicates the Pebble website topped 99,300 visits last month, indicating repeat usage.
+
+The company’s hypothesis was that consumers were hungry for a Twitter alternative that prioritized trust, safety and moderation from the start. To that end, Pebble’s founding team included co-founder Sarah Oh, Twitter’s former human rights advisor.
+
+Pebble continues to believe its approach to moderation was correct, even if it was not ultimately a factor in driving growth.
+
+“We came in with a particular angle: kinder, safer. Trust and safety. And I think our approach to moderation that we did have on the site did work,” says Cselle, adding that Pebble didn’t have some of the issues other federated platforms faced. For example, TechCrunch reported that Bluesky earlier this year had strained its relationship with Black users, as it failed to crack down on bigotry on the site. Later, users on Bluesky were even creating usernames with racial slurs, and yet the platform didn’t issue a public apology. Pebble never faced any such controversies.
+
+But it may have positioned itself a little too far into the “kindness” territory, the founders now believe.
+
+“We were really seized by people saying they wanted something that felt safer, where they could speak openly without dogpiling,” says Oh. “And so we were confident that was an important thing to hit. Are there other things that are equally important and a great user experience? Yes.”
+
+“Twitter is you have real people…saying real things,” Oh continues. “At the expense of using a word that’s overused, ‘authentic.’ And our theory was always if you can create a space where people really feel like they can let down their hair, then you would get that authentic content. We didn’t quite get there,” she admits.
+
+Cselle agrees, noting that, perhaps, Pebble should have opened up enough space for disagreement to happen, while still drawing a hard line on the most disagreeable parts of running a Twitter-like platform.
+
+“I think we could have maybe moved a little bit further towards that,” he says. “There’s a lot of nice things that are said on Pebble, but maybe not enough breaking news. Not enough conversation.”
+
+There were other things that may have hurt Pebble’s traction, too, including its lack of a native mobile app. As T2, the startup prioritized building for the web to be agile and more flexible, but lost out on the opportunities for discovery driven by the app stores. Notes Greer, “that might have been a mistake.”
+
+In retrospect, Cselle also questions if the rebranding from T2 to Pebble may have been an issue.
+
+“I’m wondering if the Pebble rebrand had actually softened the value prop[position] because T2 just encapsulated it so much — that it was really duplicative [of Twitter],” he says.
+
+Like most startup shutdowns, the answer as to “why” is not any one thing but a combination of factors. For Pebble, that’s certainly true. It was a perfect storm of competition, X’s continued traction, the lack of a native app, a brand that didn’t resonate and a space that was maybe a little too safe to be as addictive and as fun as the original.
+
+With Pebble’s winddown, being announced to users today at 9 AM PT, early adopters will have the option of exporting their Pebble archive as a zip file that loads a mini web page showcasing all their old posts. Pebble won’t be directing users back to X however, or any other social network.
+
+As for where the founders will now hang out?
+
+“I don’t know. Maybe LinkedIn,” Cselle jokes.
+
+Pebble is also returning a small amount of the funds left over to its investors, more as a courtesy to show financial responsibility. The Pebble website will be shut down on November 1st and there aren’t further plans for the IP at this time.
+
+The founders don’t regret their experience building Pebble, even though it didn’t turn out as they hoped, they said.
+
+Says Cselle, “One thing that I learned is that there’s absolutely an audience that wants to see a new kind of Twitter-like platform built and will ask for the features that Twitter has.” He suspects the team might stay together to work on something new after Pebble wraps, taking the learnings from Pebble with them. That includes better communicating to users what great content should look like on a platform, and how they can win.
+
+“We’re at an inflection point in social media,” says Oh. “We had one hypothesis with T2 and Pebble. It obviously didn’t pan out the way that we wanted it to. But I think we’ll look back and see this past year is a really important turning point for the role that social media plays in our lives,” she adds.

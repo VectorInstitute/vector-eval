@@ -1,0 +1,35 @@
+European Union regulators have sent Amazon a formal statement of objections setting out competition concerns over its proposed acquisition of robot vacuum maker, iRobot.
+
+The step does not confirm the EU will seek to block the deal but it shows antitrust regulators do remain concerned. It could therefore push Amazon to offer remedies to EU authorities to settle the investigation and avoid the risk of the acquisition being blocked.
+
+Amazon has already lowered its acquisition price for iRobot — which was originally an all-cash offer of $1.7 billion back in August 2022 — by 15% owing to increased debt taken on by its target while regulatory snags delayed closing the deal at the original purchase price.
+
+The bloc has been closely scrutinizing the Amazon-iRobot deal since July when the EU announced its in-depth probe. The Commission said at the time it was worried the transaction would allow Amazon to restrict competition in the market for robot vacuum cleaners (RVCs) and strengthen its position as online marketplace provider in a number of ways.
+
+Today’s announcement by the EU, following several months of in-depth examination looking at how the transaction might impact competition, lays out formal concerns for Amazon to respond to. The EU’s objections focus on foreclosure risks.
+
+The EU says its concerns focus on whether the deal will give Amazon the ability and incentive to foreclose iRobot’s rivals by deploying strategies aimed at preventing competitors from selling RVCs on Amazon’s marketplace and/or making it harder for them to do so — such as by delisting rival products; reducing their visibility in both non-paid (i.e. organic) and paid results (i.e. ads) displayed on its marketplace; limiting their access to certain widgets it operates (such as the “other products you may like” feature) or “certain commercially-attractive product labels” (e.g. ‘Amazon’s choice’ or ‘Works With Alexa’); and/or by directly or indirectly raising the costs of iRobot’s rivals to advertise and sell their RVCs on its marketplace.
+
+“Amazon may have the ability to foreclose iRobot’s rivals because Amazon’s online marketplace is a particularly important channel to sell RVCs in France, Germany, Italy, and Spain,” the Commission writes in a press release. “RVC customers in these countries particularly rely on Amazon both in terms of product discovery as well as for their final purchasing decision.”
+
+The Commission is also worried Amazon may have the incentive to foreclose iRobot’s rivals because it may be economically profitable for it to do so. “The merged entity would likely gain more from additional sales of iRobot RVCs, than it would lose from fewer sales of iRobot’s rivals and other related products on Amazon. Such gains include benefits from additional data gathered from iRobot’s users,” it suggests.
+
+Were Amazon to deploy such foreclosure strategies the Commission’s view at this stage of the probe is it could restrict competition in the market for RVCs, leading to “higher prices, lower quality, and less innovation for consumers”.
+
+The EU has reached this pass of laying out formal concerns after conducting what it describes as a “wide-ranging investigation to understand the market and the potential impact of the deal”, which it says included analysing internal documents provided by Amazon and iRobot and gathering views from market participants such as suppliers of RVCs and other smart home devices, as well as from providers of online sales channels.
+
+It also says it closely cooperated with other competition authorities during both the initial investigation and the in-depth investigation, adding that it will continue to do so during the remainder of the in-depth investigation. Although the U.K.’s competition authority already cleared the deal back in June.
+
+Amazon was contacted for a response to the EU’s statement of objections. A company spokesperson sent us this statement in which it claims iRobot faces “intense competition” from other RVC suppliers:
+
+We continue to work through the process with the European Commission and are focused on addressing its questions and any identified concerns at this stage. iRobot, which faces intense competition from other vacuum cleaner suppliers, offers practical and inventive products. We believe Amazon can offer a company like iRobot the resources to accelerate innovation and invest in critical features while lowering prices for consumers.
+
+Late last year the EU settled with Amazon over two earlier competition probes — one delving into antitrust concerns about Amazon’s use of merchant data to bolster its own retail business; and a second one looking at how it operated the “Buy Box” and its Prime loyalty program.
+
+In those cases Amazon agreed a series of commitments to end the probes — including saying it would stop using non-public data from its marketplace sellers and boost transparency for merchants; and pledging to treat all sellers equally, regardless of whether they pay for its logistics services.
+
+At the time the EU’s then competition chief, Margrethe Vestager, trumpeted the outcome as setting what she dubbed “new rules for how Amazon operates its business in Europe” — arguing the settlement meant the ecommerce giant could “no longer abuse its dual role” as marketplace operator and own brand retailer; and further claiming the outcome would ensure “competing independent retailers and carriers as well as consumers will benefit from these changes opening up new opportunities and choice.”
+
+Given the commitments the EU already extracted from Amazon after those earlier investigations it’s interesting to see the bloc remains concerned over levers the ecommerce behemoth still has its disposal to potentially influence competitive outcomes on its marketplace vis-à-vis iRobot vs rival robot vacs.
+
+Since then Amazon has also been named a gatekeeper under the EU’s shiny new ex ante competition regulation, the Digital Markets Act — which lists its marketplace as a core platform service. This designation means Amazon must comply with a series of up-front obligations, which include restrictions on self preferencing.

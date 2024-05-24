@@ -1,0 +1,37 @@
+U.K. femcare-turned-gynaecological-health startup, Daye, has expanded its tampon-based home screening service to add STI testing. The startup is billing this “non-invasive screening” service for sexually transmitted infections as a “world first”.
+
+The “STI Diagnostic Tampon” service uses Polymerase Chain Reaction (PCR) testing tech to detect the presence of pathogens. Daye is launching with the ability to test for five STIs — namely: Chlamydia, gonorrhoea, trichomonas, mycoplasma and ureaplasma — which were selected because they are the most common STIs. But more tests are planned.
+
+The move comes a year after the startup took the wraps off an ambitious push into gynaecological health — with the launch of a vaginal microbiome screening service. Daye tells TechCrunch it’s had “thousands” of customers for that service — which is a little more complicated to engage with as samples need to be sent back along with an ice pack (and hopefully minimal postal delays) in order that the lab can detect live pathogens.
+
+The STI test is simpler as the PCR test is looking for genetic material — dead or alive; this type of test doesn’t distinguish — so the user just needs to pop their sample in the extraction solution provided before they post it off for analysis.
+
+Daye sells tampons for regular, menstrual use too, of course. But it’s always been interested in doing more with the staple female hygiene product than just catching flow. Its signature product is a CBD-infused tampon for combating period cramps. Though it also sells a “nude” version (i.e. no CBD) — and that core offering is the basis for a growing range of vaginal- and sexual-health-screening services which repurpose the basic tampon as a novel sample collecting device.
+
+The clever twist here is it makes what could be an intrusive test into something its customers are likely to be intimately familiar with — and literally as easy as inserting and removing a tampon.
+
+Daye didn’t invent the idea of using tampons to test for STIs, as founder Valentina Milanova explained when we dug into its wider mission last year. U.K. university researchers pioneered menstrual tampon screening back in the 1990s. But Milanova is on a mission to expand the technique’s use and utility — seeing it as a convenient way to help women learn a heck of a lot more about their own bodies from the comfort of their own bathrooms.
+
+The startup also claims tampons make a better testing device than the swabs or other protocols a patient might be administered at a sexual health clinic or doctor’s office since its test tampons collect more vaginal fluid and cover a larger surface area — so it contends this is both a more accurate way to STI test than a swab and more comfortable than a speculum.
+
+PCR testing, meanwhile, has gotten very familiar after the COVID-19 pandemic. Daye’s STI test uses the same principle as this gold standard detection test for coronavirus — but in this case it’s looking for trace (or more) amounts of genetic material from pathogens that cause STIs.
+
+“The specificity of PCRs ensures that false-positive results are reduced, providing a more reliable diagnosis,” it suggests, also noting the test can simultaneously detect multiple pathogens in a single sample. So full marks for convenience.
+
+More convenience is coming, too, as it adds more tests, too: Daye says HPV is next on its list — an STI which has been linked to increased cervical cancer risk.
+
+Another on its list to add “soon” is to offer GBS screening for pregnant patients. “GBS is a common bacteria often carried in the intestines or lower genital tract. While usually harmless in adults, it can cause severe infections in newborns if transmitted during delivery. Testing pregnant women for GBS allows for the timely administration of antibiotics during labour, significantly reducing the risk of neonatal infections,” Daye tells us.
+
+The startup also plans to offer herpes screening for everyone down the line.
+
+The STI testing service is being launched in the U.K. first — at a cost of £99 a pop — with the US slated to get the service “soon”. Daye is also aiming to expand screening services elsewhere in Europe, saying it’s currently working on building out an aftercare offering to support patients across the EU.
+
+How does the STI testing service work? The user receives a test kit in the post and, after self administering a vaginal swab by inserting and removing the test tampon and then preserving their sample as instructed, they post it sample back to Daye’s partner lab for analysis — getting results digitally, via Daye’s app, in a few days.
+
+For a further £29 they can also get a “comprehensive” consultation about their results with a nurse. Users who don’t purchase this optional extra, but do test positive for an STI, will receive a free five minute call to walk them through their results and advise on next steps, per Daye.
+
+One question we had is related to how sexual health clinics may routinely test for HIV when a patient attends — i.e. even if they’re at the clinic for another sexual health worry. So if more people choose to adopt at-home testing for STIs, thanks to Daye’s convenient alternative, they may be missing out on the chance to acquire important health info — since clinics or doctor’s offices can often nudge an attending patient to take the opportunity to test more widely while they’re there in person.
+
+Asked how it’s mitigating this risk, Daye told us: “We enable our patients to book in-clinic appointments for HIV screening, and in the future, we may also expand to at-home blood testing for HIV. We ensure that our patients are well-educated on the risks associated with HIV and are reminded of the need for regular testing. We’d like to play a meaningful role in destigmatising sexual health and provide medically-backed advice on the recommended cadence of screening.”
+
+The startup also gave us a breakdown of the main customers for its novel vaginal microbiome screening service a year+ on from that launch — saying there are three main groups:

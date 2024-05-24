@@ -1,0 +1,101 @@
+After marathon ‘final’ talks which stretched to almost three days European Union lawmakers have tonight clinched a political deal on a risk-based framework for regulating artificial intelligence. The file was originally proposed back in April 2021 but it’s taken months of tricky three-way negotiations to get a deal over the line. The development means a pan-EU AI law is definitively on the way.
+
+Giving a triumphant but exhausted press conference in the small hours of Friday night/Saturday morning local time key representatives for the European Parliament, Council and the Commission — the bloc’s co-legislators — hailed the agreement as hard fought, a milestone achievement and historic, respectively.
+
+Taking to X to tweet the news, the EU’s president, Ursula von der Leyen — who made delivering a regulation to promote “trustworthy” AI a key priority of her term when she took up the post in late 2019 — also lauded the political agreement as a “global first”.
+
+The 🇪🇺 AI Act is a global first. A unique legal framework for the development of AI you can trust. And for the safety and fundamental rights of people and businesses. A commitment we took in our political guidelines – and we delivered. I welcome today's political agreement. — Ursula von der Leyen (@vonderleyen) December 8, 2023
+
+Prohibitions
+
+Full details of what’s been agreed won’t be entirely confirmed until a final text is compiled and made public, which may take some weeks. But a press release put out by the European Parliament confirms the deal reached with the Council includes a total prohibition on the use of AI for:
+
+biometric categorisation systems that use sensitive characteristics (e.g. political, religious, philosophical beliefs, sexual orientation, race);
+
+untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases;
+
+emotion recognition in the workplace and educational institutions;
+
+social scoring based on social behaviour or personal characteristics;
+
+AI systems that manipulate human behaviour to circumvent their free will;
+
+AI used to exploit the vulnerabilities of people (due to their age, disability, social or economic situation).
+
+The use of remote biometric identification technology in public places by law enforcement has not been completely banned — but the parliament said negotiators had agreed on a series of safeguards and narrow exceptions to limit use of technologies such as facial recognition. This includes a requirement for prior judicial authorisation — and with uses limited to a “strictly defined” lists of crime.
+
+Retrospective (non-real-time) use of remote biometric ID AIs will be limited to “the targeted search of a person convicted or suspected of having committed a serious crime”. While real-time use of this intrusive AI tech will be limited in time and location, and can only be used for the following purposes:
+
+targeted searches of victims (abduction, trafficking, sexual exploitation),
+
+prevention of a specific and present terrorist threat, or
+
+the localisation or identification of a person suspected of having committed one of the specific crimes mentioned in the regulation (e.g. terrorism, trafficking, sexual exploitation, murder, kidnapping, rape, armed robbery, participation in a criminal organisation, environmental crime).
+
+The Council’s press release on the deal emphasizes that the provisional agreement “clarifies that the regulation does not apply to areas outside the scope of EU law and should not, in any case, affect member states’ competences in national security or any entity entrusted with tasks in this area”. It also confirms the AI act will not apply to systems exclusively for military or defence purposes.
+
+“Similarly, the agreement provides that the regulation would not apply to AI systems used for the sole purpose of research and innovation, or for people using AI for non-professional reasons,” the Council added.
+
+Civil society groups have reacted sceptically — raising concerns the agreed limitations on state agencies’ use of biometric identification technologies will not go far enough to safeguard human rights. Digital rights group EDRi, which was among those pushing for a full ban on remote biometrics, said that whilst the deal contains “some limited gains for human rights”, it looks like “a shell of the AI law Europe really needs”.
+
+Real-time public facial recognition (RBI): disappointingly, but not surprisingly, member states resisted a full ban. The Parliament fought hard to narrow exceptions and add more safeguards, but it doesn't look like it will be enough to stop widespread biometric mass surveillance; — Ella Jakubowska (@ellajakubowska1) December 9, 2023
+
+Rules for ‘high risk’ AIs, and general purpose AIs
+
+The package agreed also includes obligations for AI systems that are classified as “high risk” owing to having “significant potential harm to health, safety, fundamental rights, environment, democracy and the rule of law”.
+
+“MEPs successfully managed to include a mandatory fundamental rights impact assessment, among other requirements, applicable also to the insurance and banking sectors. AI systems used to influence the outcome of elections and voter behaviour, are also classified as high-risk,” the parliament wrote. “Citizens will have a right to launch complaints about AI systems and receive explanations about decisions based on high-risk AI systems that impact their rights.”
+
+There was also agreement on a “two-tier” system of guardrails to be applied to “general” AI systems, such as the so-called foundational models underpinning the viral boom in generative AI applications like ChatGPT.
+
+As we reported earlier, the deal reached on foundational models/general purpose AIs (GPAIs) includes some transparency requirements for what co-legislators referred to as “low tier” AIs — meaning model makers must draw up technical documentation and produce (and publish) detailed summaries about the content used for training in order to support compliance with EU copyright law. For “high-impact” GPAIs (defined as the cumulative amount of compute used for their training measured in floating point operations is greater than 10^25) with so-called “systemic risk” there are more stringent obligations.
+
+“If these models meet certain criteria they will have to conduct model evaluations, assess and mitigate systemic risks, conduct adversarial testing, report to the Commission on serious incidents, ensure cybersecurity and report on their energy efficiency,” the parliament wrote. “MEPs also insisted that, until harmonised EU standards are published, GPAIs with systemic risk may rely on codes of practice to comply with the regulation.”
+
+The Commission has been working with industry on a stop-gap AI Pact for some months — and it confirmed today this is intended to plug the practice gap until the AI Act comes into force.
+
+While foundational models/GPAIs that have been commercialized face regulation under the Act, R&D is not intended to be in scope of the law — and fully open sourced models will have lighter regulatory requirements than closed source, per today’s pronouncements.
+
+The package agreed also promotes regulatory sandboxes and real-world-testing being established by national authorities to support startups and SMEs to develop and train AIs before placement on the market.
+
+Penalties and entry into force
+
+Penalties for non-compliance can lead to fines ranging from €35 million or 7% of global turnover to €7.5 million or 1.5 % of turnover, depending on the infringement and size of the company, per the parliament.
+
+The Council’s PR further stipulates that the higher sanction (7%) would apply for violations of the banned AI applications, while penalties of 1.5% would be levied for the supply of incorrect information. Additionally, it says sanctions of 3% could be imposed for violations of other AI Act obligations but also notes that the provisional agreement allows for “more proportionate caps” on administrative fines for SMEs and start-ups in case of infringements. So there looks to be some scope for AI startups to face smaller penalties for infringements than AI giants may invite.
+
+The deal agreed today also allows for a phased entry into force after the law is adopted — with six months allowed until rules on prohibited use cases kick in; 12 months for transparency and governance requirements; and 24 months for all other requirements. So the full force of the EU’s AI Act may not be felt until 2026.
+
+Carme Artigas, Spain’s secretary of state for digital and AI issues, who led the Council’s negotiations on the file as the country has held the rotating Council presidency since the summer, hailed the agreement on the heavily contested file as “the biggest milestone in the history of digital information in Europe”; both for the bloc’s single digital market — but also, she suggested, “for the world”.
+
+“We have achieved the first international regulation for artificial intelligence in the world,” she announced during a post-midnight press conference to confirm the political agreement, adding: “We feel very proud.”
+
+The law will support European developers, startups and future scale-ups by giving them “legal certainty with technical certainty”, she predicted.
+
+Speaking on behalf of the European Parliament, co-rapporteurs Dragoș Tudorache and Brando Benifei said their objective had been to deliver AI legislation that would ensure the ecosystem developed with a “human centric approach” which respects fundamental rights and European values.
+
+Their assessment of the outcome was equally upbeat — citing the inclusion in the agreed text of a total ban on the use of AI for predictive policing and for biometric categorization as major wins.
+
+“Finally we got in the right track, defending fundamental rights to the necessity that is there for our democracies to endure such incredible changes,” said Benifei, who just a few weeks ago was sounding doubtful a deal could be found. “We are the first ones in the world to have a horizontal legislation that has this direction on fundamental rights, that supports the development of AI in our continent, and that is up to date to the frontier of the artificial intelligence with the most powerful models under clear obligation. So I think we delivered.”
+
+“We have always been questioned whether there is enough protection, whether there is enough stimulant for innovation in this text, and I can say, this balance is there,” added Tudorache. “We have safeguards, we have all the provisions that we need, the redress that we need in giving trust to our citizens in the interaction with AI, in the products in the services that they will interact with from now on.
+
+“We now have to use this blueprint to seek now global convergence because this is a global challenge for everyone. And I think that with the work that we’ve done, as difficult as it was — and it was difficult, this was a marathon negotiation by all standards, looking at all precedents so far — but I think we delivered.”
+
+The EU’s internal market commissioner, Thierry Breton, also chipped in with his two euro-cents — describing the agreement clinched a little before midnight Brussels’ time as “historic”. “It is a full package. It is a complete deal. And this is why we spent so much time,” he intoned. “This is balancing user safety, innovation for startups, while also respecting… our fundamental rights and our European values.”
+
+Clear road ahead?
+
+Despite the EU very visibly patting itself on the back tonight on securing a deal on ‘world-first’ AI rules, it’s not quite yet the end of the road for the bloc’s lawmaking process as there are still some formal steps to go — not least the final text will face votes in the parliament and the Council to adopt it. But given how much division and disagreement there has been over how (or even whether) to regulate AI the biggest obstacles have been dismantled with this political deal and the path to passing the EU AI Act in the coming months looks clear.
+
+The Commission is certainly projecting confidence. Per Breton, work to implement the agreement starts immediately with the set up of an AI Office within the EU’s executive — which will have the job of coordinating with the Member State oversight bodies that will need to enforce the rules on AI firms; and overseeing the most advanced AI models, including by contributing to fostering standards and testing practices. A scientific panel of independent experts will be appointed to advise the AI Office about GPAI models. “We will welcome new colleagues… a lot of them,” said Breton. “We will work — starting tomorrow — to get ready.”
+
+Opposition to the inclusion in the AI package of tiered rules for general purpose AIs has been led, in recent weeks, by France — and French AI startup Mistral, which had been lobbying for a total carve out from obligations for foundational models/GPAIs. In the event the deal agreed by the Spanish presidency does contain some obligations for GPAIs and foundation models. So it’s not the total carve out Mistral and its lobbyists have been pushing for.
+
+Responding to news of the political deal last night, France’s digital minister’s office put out a statement attributed to Jean-Noël Barrot which said (translated from French using AI): “We will be carefully analyzing the compromise reached today, and in the coming weeks we will ensure that the text preserves Europe’s ability to develop its own artificial intelligence technologies, and safeguards its strategic autonomy.”
+
+It remains unclear how much of a carve out Mistral’s business might enjoy under the deal agreed. Asked about this during the press conference, Artigas suggested the French AI startup would — once commercialized — be likely to fit in the “low tier” for GPAIs, meaning it would have only limited transparency obligations, since she said it does not hit the high capacity compute threshold triggering the systemic risk obligations (as she said it’s using what’s thought to be 10^23 of compute, not 10^25).
+
+However, as Mistral is currently still in an R&D and pre-training phase for their models, she said they would be excluded from even the low tier compliance requirements.
+
+This report was updated to include the response from the French digital ministry; link to the Council’s PR; and with additional details from the presser — including remarks about how the law might apply to Mistral. We also added details on civil society’s response

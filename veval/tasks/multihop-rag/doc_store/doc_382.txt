@@ -1,0 +1,113 @@
+What’s happened?
+
+MBW Explains is a series of analytical features in which we explore the context behind major music industry talking points – and suggest what might happen next. MBW Explains is supported by JKBX , a technology platform that offers consumers access to music royalties as an asset class.
+
+As we said last week: Welcome to the future.
+
+Seven days ago (November 16), YouTube unveiled a revolutionary new experiment – ‘Dream Track’ – enabling creators to clone the vocals, via AI tech and with official consent, of well-known stars.
+
+Charlie Puth’s voice is on there. John Legend’s voice is on there. Demi Lovato’s voice is on there.
+
+In fact, the voices of a number of well-known recording artists signed to Warner Music Group and Universal Music Group – or labels within each major – are on there.
+
+Yet something conspicuous is not on there: any endorsement whatsoever from the world’s second-biggest recording company, Sony Music Entertainment, or its artists.
+
+Why is Sony missing?
+
+MBW understands that Sony Music (the recorded music arm of Sony Music Group) has, like Universal and Warner, been in discussions for months with YouTube over potentially licensing the ‘Dream Track’ experiment.
+
+During this period of discussion, YouTube has made a number of positive announcements regarding the biggest issue for any rightsholder regarding AI-driven voice replication of artists: their ability to police it.
+
+In August, YouTube and Universal Music Group jointly announced that the video platform was launching an ‘AI Music Incubator’ – a program by which new tools and innovations will be developed at YouTube in close conjunction with artists and the music biz. To progress this ‘incubator’, YouTube said it was working behind the scenes with a number of UMG-affiliated artists;
+
+and jointly announced that the video platform was launching an – a program by which new tools and innovations will be developed at YouTube in close conjunction with artists and the music biz. To progress this ‘incubator’, YouTube said it was working behind the scenes with a number of UMG-affiliated artists; Also in August, YouTube publicly committed to three principles/pledges behind its development of music-based generative AI tools . These pledges promised “appropriate protections… for music partners who decide to participate” in said tools. They promised “invest[ment] in the AI-powered technology” that, amongst other things, would help YouTube “protect our community of viewers, creators, artists and songwriters… [from] trademark and copyright abuse” . This all seemed to hint at a desire to build a ‘Content ID’-style system on YouTube to control and police content made by cloning artists’ voices;
+
+publicly committed to three principles/pledges behind its development of music-based . These pledges promised in said tools. They promised that, amongst other things, would help YouTube . This all seemed to hint at a desire to build a on YouTube to control and police content made by cloning artists’ voices; Then, earlier this month, YouTube announced it was developing a specific system for music partners that allowed them to request the removal of content on its platform that “mimics an artist’s unique singing or rapping voice”.
+
+Evidently, all of this was enough for Universal Music Group and Warner Music Group to dip their toe into the ‘Dream Track’ experiment – though not without caution.
+
+Sir Lucian Grainge, Chairman and CEO of Universal Music Group, said of UMG’s decision to offer a limited license to ‘Dream Track’: “We have a fundamental responsibility to our artists to ensure the digital ecosystem evolves to protect them and their work against unauthorized exploitation, including by generative AI platforms.
+
+“At the same time, we must help artists achieve their greatest creative and commercial potential – in part by providing them access to the kind of opportunities and cutting-edge creative tools made possible by AI.”
+
+“We have a fundamental responsibility to our artists to ensure the digital ecosystem evolves to protect them and their work against unauthorized exploitation, including by generative AI platforms. At the same time, we must help artists achieve their greatest creative and commercial potential…” Sir Lucian Grainge on UMG’s decision to license YouTube’s ‘Dream Track’ experiment
+
+Robert Kyncl, CEO of Warner Music Group – and an ex-high flyer at YouTube – commented: “With each major leap in technology, the music industry navigates a fresh set of challenges and opportunities.
+
+“It’s not always the case that, from the outset, tech platforms partner with artists, songwriters, labels, and publishers to experiment, iterate, and find possible solutions.
+
+“YouTube is taking a collaborative approach with this Beta. These artists are being offered the choice to lean in, and we’re pleased to experiment and find out what the creators come up with.”
+
+Why, then, did Sony Music not join its rivals in granting YouTube and ‘Dream Track’ access to any of its active artists’ licensed voices?
+
+Especially when SME has shown its own willingness to experiment with generative AI music platforms this week via this announcement about a project with David Gilmour, The Orb, and AI company Vermillio?
+
+Sources close to Sony Music’s HQ in New York have suggested to MBW that the company is taking an “artist-led” approach to its experiments with any AI platform that can manipulate the work (or voice) of its roster.
+
+In the case of YouTube’s ‘Dream Track‘, MBW understands, SME first offered the opportunity to participate to a number of its artists, but this group of acts did not show enthusiasm about participating.
+
+(If one of these artists was Bad Bunny, signed to Sony’s The Orchard, you can see why: The Puerto Rican superstar expressed fury the other week about a popular track on TikTok that had cloned his vocal stylings via AI.)
+
+But last month something else happened that, we hear, effectively scuppered any chance that Sony Music would get involved with ‘Dream Track’ at this juncture.
+
+On October 30, Google – the parent of YouTube within Alphabet Inc. – issued a filing with the US Copyright Office that outlined its core position on ‘Artificial Intelligence and Copyright’.
+
+The contents of this document have caused some alarm at Sony Music HQ.
+
+What was in the Google document?
+
+You may have read on MBW last week that Ed Newton-Rex – a generative AI pioneer, but also a published composer – decided to quit his role at Stability AI over concerns over the company’s position on “fair use” within its own recent US Copyright Office filing.
+
+‘Fair use’ is, as it sounds, the argument that there are cases where copyrighted material can be used and even replicated that are, well, fair enough.
+
+A clumsy example: I read a great book, then I meet you for breakfast, where I tell you about the story and quote a couple of my favorite passages to you.
+
+To suggest I’ve just committed copyright infringement wouldn’t only be silly – it would mean that copyright protections were getting in the way of the commercial furtherment of the author/rightsholder (i.e. you might go and buy the book on my recommendation).
+
+Google’s submission to the USCO contains a number of passages that posit a similar position… but for generative AI models. The document argues that the ingestion of copyrighted material for the training of generative AI platforms shouldn’t be hampered by copyright law.
+
+You can read the full Google USCO submission here, but below are a few of the choicest sections on this topic:
+
+“The doctrine of fair use [within existing US copyright law] provides that copying for a new and different purpose is permitted without authorization where — as with training Al systems — the secondary use is transformative and does not substitute for the copyrighted work .”
+
+[within existing US copyright law] provides that copying for a new and different purpose is permitted without authorization where — as with — the secondary use is transformative and .” “If [AI] training could be accomplished without the creation of copies, there would be no copyright questions here. Indeed that act of “knowledge harvesting”… like the act of reading a book and learning the facts and ideas within it , would not only be non-infringing , it would further the very purpose of copyright law. The mere fact that, as a technological matter, copies need to be made to extract those ideas and facts from copyrighted works should not alter that result .”
+
+could be accomplished without the creation of copies, there would be no copyright questions here. Indeed that act of “knowledge harvesting”… like the , would not only be , it would further the very purpose of copyright law. The mere fact that, as a technological matter, .” “Some might object to this logic in the context of generative Al systems, arguing that even if such a system produces content that is not substantially similar to any of the content it was trained on, the output of that model might compete in the marketplace with works used for training or, more broadly, with the authors of those works … This argument misunderstands both the nature of the fair use inquiry and the creative markets that copyright is intended to protect. Even if generative-Al-assisted outputs do compete with existing works that were used in training, or with future works by the authors of those works, the pro-competitive nature of copying for the purpose of “knowledge harvesting” has traditionally been a reason to favor a holding of fair use , not a reason to reject it.”
+
+the output of that model might … Even if generative-Al-assisted outputs do compete with existing works that were used in training, or with future works by the authors of those works, the pro-competitive nature of copying for the purpose of “knowledge harvesting” has traditionally been a reason to , not a reason to reject it.” And then the kicker: “Any prohibition or limitation on the use of copyrighted materials for purposes of Al training would therefore undermine the purpose of copyright and foreclose the many opportunities that come with this technology.”
+
+To be fair to Google, its submission does make note of the importance of US copyright law, including when applied to generative AI, striking “the right balance between the legitimate interests of rightsholders and the equally legitimate interests of the public and succeeding generations of creators”.
+
+Yet it could clearly be argued that Google’s take on copyright “harvesting” by generative AI models sits in odd contrast to the copyright-related reassurances that YouTube has been careful to make to the music industry during the pre-development, development, and trial launch of ‘Dream Track’.
+
+A final thought…
+
+MBW’s sources close to Sony Music were keen to point out that the company’s general ongoing relationship with YouTube and YouTube Music is a harmonious one.
+
+(YouTube is, after all, now the second largest commercial partner of the major record companies – with a stated ambition to catch up with Spotify in the years ahead. YouTube says it paid out over USD $6 billion to music rightsholders in the year to end of June 2022, with around $2 billion of that coming just from ads on user-generated content.)
+
+However, the October US Copyright Office filing from Google has definitely put the cat amongst the pigeons at Sony Music HQ. As we’re sure it has at the other two major record companies.
+
+“Any prohibition or limitation on the use of copyrighted materials for purposes of Al training would undermine the purpose of copyright and foreclose the many opportunities that come with this technology.” Google filing with the US Copyright Office, October 30
+
+Witness Universal Music Group’s own filing with the US Copyright Office on the topic of AI. It couldn’t offer a starker contrast to Google’s assertion that “prohibition or limitation on the use of copyrighted materials for purposes of Al training would undermine the purpose of copyright and foreclose the many opportunities that come with this technology”.
+
+(Example from UMG’s filing: “The wholesale appropriation of UMG’s enormous catalog of copyright-protected sound recordings and musical compositions to build multibillion commercial enterprises [in AI] is anything but fair use.”)
+
+As well as part-explaining Sony Music’s refusal to be included in ‘Dream Track’ thus far, Google’s USCO filing also perhaps explains the careful words selected by Robert Kyncl and especially Sir Lucian Grainge in their respective comments endorsing YouTube’s AI experiment.
+
+(Grainge’s statement, remember, began: “We have a fundamental responsibility to our artists to ensure the digital ecosystem evolves to protect them and their work against unauthorized exploitation, including by generative AI platforms…”)
+
+One interesting final observation on the clutch of artists who agreed, with their record companies, to enter the YouTube ‘Dream Track’ trial?
+
+They’re stars, for sure. But in both the case of Universal Music Group and Warner Music Group, they’re – currently anyway – not the biggest megastars on either company’s books.
+
+You might not expect, at this early stage, for the likes of UMG to put forward Drake, Taylor Swift, or The Beatles – or for WMG to put forward Ed Sheeran or Dua Lipa – to be guinea pigs in any early AI music experiments, even if they’re run by ‘friends’ of the music industry like YouTube.
+
+You might, then, also understandably wonder if there have been significant licensing payments made by YouTube to UMG and WMG for the right to play with the AI vocals of artists who have signed off on ‘Dream Track’ thus far. And, if so, if these payments are being placed against any as-yet-unrecouped advances that some of these artists may have on their label accounts.
+
+More broadly, you might ponder a bigger question.
+
+When the day comes that YouTube asks the world’s biggest superstars to wholeheartedly embrace ‘Dream Track’, will Google’s recent US Copyright Office filing give said superstars – and their record companies – pause for thought?
+
+JKBX (pronounced "Jukebox") unlocks shared value from things people love by offering consumers access to music as an asset class — it calls them Royalty Shares. In short: JKBX makes it possible for you to invest in music the same way you invest in stocks and other securities.Music Business Worldwide

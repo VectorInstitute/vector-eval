@@ -1,0 +1,57 @@
+Temu, the Chinese e-commerce company whose app is now attracting longer engagement times than Amazon, is Apple’s most downloaded free app in the U.S. for 2023. The Cupertino-based tech giant today released an App Store feature that showcases the top iPhone apps of the year, free and paid, as measured by app installs — its proxy for overall popularity. This year, apps from Chinese-based companies have taken over spots previously held by U.S. tech giants like Meta and Google, as CapCut and TikTok, which hail from Beijing-based ByteDance, came in at No. 3 and No. 5, respectively.
+
+Meta, which last year held the No. 3, No. 4 and No. 9 spots with WhatsApp, Instagram and Facebook, respectively, showed up in the top 10 this year with a slightly different mix. Gone from the charts is Facebook, while Meta’s new app Instagram Threads was the No. 3 app by U.S. downloads. Instagram and WhatsApp followed at No. 6 and No. 9, slipping in position from their ranking last year.
+
+Google, meanwhile, had dominated last year’s list with the No. 2 app YouTube, just behind TikTok, as well as No. 5 Google Maps, No. 6 Google Search and No. 7 Gmail. In 2023, however, Google’s only two apps in the top 10 by downloads included No. 7 Google Search and No. 8 YouTube, both also slipping in ranking from last year.
+
+The shift in downloads could represent that U.S. tech giants are nearly at a market saturation point, where their apps aren’t as in demand as they were in previous years because many already have them installed. It also points to the growing demand for apps from Chinese firms, like ByteDance, which are attracting younger users’ attention along with government scrutiny, with TikTok being banned from a number of government devices over concerns about its China ties. Montana also attempted to ban TikTok in its state, but that ruling was put on hold by the courts for the time being as TikTok’s lawsuit progresses.
+
+The negative attention TikTok has received in the year may account for its slip from being the No. 1 app last year to now the No. 5 app. But U.S. consumers haven’t sworn off Chinese apps by the looks of things, given Temu’s No. 1 position. Data from Apptopia, reported by Bloomberg, noted that consumers were spending 18 minutes per day in Temu’s app, compared with 10 minutes in Amazon. Younger users spent even higher amounts of time, at 19 minutes per day, on average. While Temu attracts users with in-app games, its real draw may be its bargain prices — which have more of an appeal during an economic downturn. It’s also a heavily-marketed app, just as TikTok was in the months leading up to its No. 1 ranking last year.
+
+The only other top app in the list not from Meta, Google or a Chinese firm was Max (formerly HBO Max), which showed up as the No. 3 app by downloads in the U.S.
+
+The top paid apps list showcases a different market, more often of smaller developers or those building useful productivity tools, creative apps or utilities that users are willing to pay for. Here, the top 10 included (in order): Shadowrocket, HotSchedules, Procreate Pocket, The Wonder Weeks, 75 Hard, AutoSleep Track Sleep on Watch, Goblin Tools, TonalEnergy Tuner & Metronome, SkyView and AnkiMobile Flashcards.
+
+The top free games, meanwhile, included several of last year’s winners, like Roblox, Call of Duty: Mobile, Subway Surfers and Parking Jam 3D, as well as some new additions. This list’s No.1 app was MONOPOLY GO!, followed by Roblox (up from No. 3 last year), Royal Match, Subway Surfers (down from No. 2 last year), Gardenscapes, Call of Duty: Mobile (up from No. 8 last year), Block Blast!, Makeover Studio: Makeup Games, Parking Jam 3D (ranked the same as last year) and Survivor!.io.
+
+The top paid games in the U.S. were led by Microsoft-owned Minecraft, and also included Heads Up!, Geometry Dash, Bloons TD 6, MONOPOLY, Papa’s Freezeria To Go!, Plague Inc., Red’s First Flight, Five Nights at Freddy’s (which became a movie this year, too) and Grand Theft Auto: San Andreas.
+
+Apple’s feature also includes separate lists of the top iPad apps and games, both free and paid, for the year, as well as top Apple Arcade games. The latter offers the only glimpse into Apple’s subscription gaming store, which is otherwise a black box as it doesn’t feature a Top Charts section like the larger App Store does.
+
+There’s some overlap in these lists, though streaming apps make a better showing among the free iPad apps. That list includes (in order) Max, YouTube and Netflix in the top three spots and Disney+, Prime Video and Peacock at No. 5, 8 and 10, respectively. Top iPad games also include more kid-friendly titles, like Toca Life: Hospital (No. 5) and Teach Your Monster to Read (No. 7).
+
+The complete set of lists are below:
+
+Top Free iPhone Apps
+
+Temu: Shop Like a Billionaire CapCut – Video Editor Max: Stream HBO, TV, & Movies Threads, an Instagram app TikTok Instagram Google YouTube: Watch, Listen, Stream WhatsApp Messenger Gmail – Email by Google
+
+Top Paid iPhone Apps
+
+Shadowrocket HotSchedules Procreate Pocket The Wonder Weeks 75 Hard AutoSleep Track Sleep on Watch Goblin Tools TonalEnergy Tuner & Metronome SkyView AnkiMobile Flashcards
+
+Top Free iPhone Games
+
+MONOPOLY GO! Roblox Royal Match Subway Surfers Gardenscapes Call of Duty: Mobile Block Blast! Makeover Studio: Makeup Games Parking Jam 3D Survivor!.io
+
+Top Paid iPhone Games
+
+Minecraft Heads Up! Geometry Dash Bloons TD 6 MONOPOLY Papa’s Freezeria To Go! Plague Inc. Red’s First Flight Five Nights at Freddy’s Grand Theft Auto: San Andreas
+
+Top Free iPad Apps
+
+Max: Stream HBO, TV, & Movies YouTube: Watch, Listen, Stream Netflix Google Chrome Disney+ Goodnotes 6 TikTok Amazon Prime Video Temu: Shop Like a Billionaire Peacock TV: Stream TV & Movies
+
+Top Paid iPad Apps
+
+Procreate Shadowrocket Nomad Sculpt forScore Toca Life: Hospital Bluebeam Revu for iPad Teach Your Monster to Read AnkiMobile Flashcards Endless Paper ToonSquid
+
+Top Free iPad Games
+
+Roblox Magic Tiles 3: Piano Game Subway Surfers Royal Match Among Us! Duet Cats: Cute Cat Games Stumble Guys MONOPOLY GO! Bridge Race Gardenscapes
+
+Top Paid iPad Games
+
+Minecraft Geometry Dash Bloons TD 6 Stardew Valley MONOPOLY Five Nights at Freddy’s Red’s First Flight Poppy Playtime Chapter 1 Plague Inc. Garten of Banban 2
+
+Top Apple Arcade Games

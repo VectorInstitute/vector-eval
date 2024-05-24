@@ -1,0 +1,53 @@
+The push to bring iMessage to Android users today adds a new contender. A startup called Beeper, which had been working on a multi-platform messaging aggregator, is now launching a new app called Beeper Mini which will allow Android users to send and receive end-to-end encrypted iMessage chats for just $1.99 per month. Beeper Mini was made possible because the team behind the app has managed to reverse-engineer the iMessage protocol, they say.
+
+“That’s the big breakthrough,” explains Beeper co-founder and CEO Eric Migicovsky, previously the founder of smartwatch startup Pebble. “We’re not actually a middleman anymore. The research that we’ve done is actually reverse-engineering the iMessage protocol, down to the lowest layer of the protocol. So Beeper Mini doesn’t use a Mac server as a relay like all the other apps — they have a Mac Mini in a data center somewhere. And when you send a message, you’re actually sending a message to the Mac Mini, which then forwards it to iMessage,” he explains. “Beeper Mini is a native implementation of the iMessage protocol.”
+
+Beeper does not have access to the contents of users’ messages, the company claims. And unlike the recently paused efforts by Sunbird, which had been trying to solve the same problem, messages are not sent in clear text.
+
+Instead, the message you send from an Android phone using Beeper Mini is end-to-end encrypted to the recipient, the startup says. It’s encrypted on the device before it leaves the app. Encryption keys are exclusively stored on your phone within the Android filesystem, similar to other apps like Signal and WhatsApp. The app doesn’t connect to any servers at Beeper itself, only to Apple servers, the way a “real” iMessage text would.
+
+That means that Beeper Mini can function as a true iMessage client, supporting high-resolution photos and videos, threads, replies, read receipts, direct messages and group chats, tapback emoji reactions, editing and unsending messages, as well as support for stickers, GIFs, voice notes and more. Not yet supported are features like live location sharing, message effects and support for FaceTime audio and video calls. Users will not need an Apple ID to use Beeper Mini.
+
+“It’s a full-blown iMessage app,” Migicovsky says. “For all intents and purposes, Beeper Mini looks like an iPhone [sent it].”
+
+Apple, then, may not be able to simply block Beeper Mini texts automatically if it wanted to take action against the company, though the co-founder admits how Apple will react is still uncertain.
+
+However, he points to a provision in copyright law, The Digital Millennium Copyright Act (DMCA 1201 F), which says that reverse-engineering for the purposes of interoperability is protected. That won’t necessarily prevent Apple from sending Beeper legal a Cease and Desist, of course. Apple previously sued spyware maker NSO Group to block it from using Apple’s services, and it could likely make a legal case here, as well, if it chose to. What may hold it at bay is the Digital Markets App (DMA), a law in Europe that says big tech companies will have to have an interoperable interface for their chat networks. There are also stirrings of antitrust efforts in the U.S., where Apple is under federal scrutiny, which could make for bad timing to target Beeper, too.
+
+But to be fully trusted, Beeper Mini will need to be audited by a third party — something it has not yet done. In addition, Beeper uses certificate pinning, which makes network traffic analysis more difficult to perform in order to verify its claims. The company says its external audit is still “in progress” but it has performed an internal audit. The company is publishing those results on its blog along with a detailed, more technical description of how Beeper Mini works.
+
+For example, the team explains here how it needed to build a new service, called Beeper Push Notification service (BPNs), to make the service work:
+
+A persistent connection to APNs is needed to be notified of new incoming messages in real-time. On an iPhone, an APNs connection is maintained by the operating system, and connected at all times. In Beeper Mini, the connection can only be maintained when the app is running, since Android does not support APNs natively.
+
+To work around this limitation, the team built BPNs to connect to Apple’s servers on the user’s behalf when the app isn’t running.
+
+In tests, Beeper Mini worked as described, able to send iMessage texts from an older Android phone on Google Fi’s wireless network with its own phone number (not associated with an Apple ID) to an iPhone 15 Pro Max with a different phone number that is associated with an Apple ID. Full-res photos and other features like tapbacks and typing indicators also worked. When the Android phone’s battery died, however, the texts reverted to green bubbles and did not make it to Beeper’s app — they went to Google Messages instead.
+
+The company is also hoping to gain trust by building in public, with 50-plus projects that it’s published to GitHub with the open source code that goes into the app. Plus, the founders themselves are known individuals with a history of building promising tech, including the Pebble smartwatch.
+
+Founded in 2020, Beeper comes from former Y Combinator partner Eric Migicovsky and CTO Brad Murray, previously of wholesale marketplace startup Faire and Fitbit. The co-founders met at Pebble, the smartwatch company Migicovsky founded, building out the hardware brand that was later acquired by Fitbit.
+
+Migicovsky said he was inspired to build Beeper out of a personal need as a lifelong Android user.
+
+Initially, Beeper launched a multi-network chat app that supported around 15 different networks, including WhatsApp, Messenger, Telegram, Signal, Slack, Instagram, LinkedIn, Discord, Google Chat, Android SMS, iMessage and others.
+
+“Until I started Beeper, I didn’t really understand this whole iMessage thing. I didn’t really understand why people loved it so much,” Migicovsky says. “I think one of the reasons is that it’s so deeply built into iOS, that it’s second nature for you as an iPhone user. When you want to get in touch with someone, you open the Messages app.”
+
+His experience with messaging had differed, though, having lived in Europe and Asia at times, where he collected friends across a wider network of applications. He didn’t understand the draw that iMessage had in the U.S. in particular, as he was simply left out of friends’ iMessage chats for being the friend with a green bubble.
+
+The original Beeper app had 50,000 sign-ups in the first week and now has around 100,000 testers in a closed beta. That app, which spans mobile and desktop, supports RCS (via Beeper’s open source bridge). Beeper Mini will be able to send and receive SMS and RCS soon. The earlier Beeper will now transition to become rebranded as “Beeper Cloud” as the iMessage-only Beeper Mini goes to launch. Over time, Beeper Mini will add the other networks back into the platform, as well as SMS and RCS, and Beeper Cloud will be sunset. At that point, Beeper Mini will become known as just Beeper once again.
+
+Beeper Mini is competitively priced at $1.99 per month, with a seven-day free trial, compared with $15 per month for the recently acquired competitor Texts.com bought by Automattic. The startup says that it’s able to keep costs down by targeting a wider market that includes Android, iPhone, Mac, Windows and Linux.
+
+However, Beeper also has venture capital to lean on, with $16 million raised to date through its Series A, led by Garry Tan of Initialized Capital, now president and CEO at Y Combinator. Other backers include SV Angel, Samsung Next, Liquid2 Ventures, Niv Dror from Shrug Capital, Kevin Mahaffey and others. Beeper is a 25-person distributed team, while Migicovsky is based in Palo Alto.
+
+Asked if Samsung’s investment means the company could be interested in a later acquisition, Migicovsky only responded “no comment.”
+
+“They have been very supportive,” he added.
+
+Beeper Mini is available to the public today on Google Play Store.
+
+Additional reporting by Zack Whittaker.
+
+Correction, 12/5/23, 2:55 PM ET: the price of Beeper Mini was listed incorrectly in one part of the article. It’s $1.99/mo, not $2.99/mo; 12/6/23, 2:33 PM ET added “[sent it]” to clarify that the Beeper app does not look like an iPhone app.

@@ -1,0 +1,83 @@
+Palestine’s growing tech industry has been literally blown apart by the war between Israel and Hamas
+
+Gaza, despite being one of the most economically challenged regions in the world, has ironically always been a tech hub — not only for Palestine and Palestinians, but also for the world: International companies have, for many years, sought out a presence there to collaborate with talented tech freelancers and the startups that gradually emerged from the region. For example, according to sources who helped build those bridges, Nvidia, famed for its role in the new AI boom, has been working with at least 100 engineers from the region for years. (Tragically, the initiative to employ Palestinians in this outsourcing was that of Mellanox founder Eyal Waldman, whose daughter was brutally murdered in the attacks by Hamas).
+
+Since at least 2008, TechCrunch been covering technology companies out of Palestine, some serving their direct audience, some serving the tech world internationally. Silicon Valley had taken an increasing interest in Palestine as a tech hub, but like the ecosystem itself, it’s nascent: To date, those working in the region estimate that as much as $10 million has been invested in the Palestinian tech ecosystem.
+
+Notably, in 2017, Salesforce founder and CEO Marc Benioff joined Silicon Valley luminaries in backing the first-ever coding academy to be created in Gaza.
+
+Gaza Sky Geeks, an Alphabet-backed initiative based in Gaza that provides pre-seed investments, training and technology resources to Palestine’s Gazan population, has been a beacon of entrepreneurship in the region.
+
+All of that is now effectively gone, like the buildings in Gaza itself.
+
+Israel is currently retaliating militarily against the attacks on its people, on its soil, and the hostages subsequently taken by Hamas — the ruling organization in Gaza that kidnapped at least 150 people and took them into Gaza during brutal attacks on Israel last weekend that killed 1,300 people.
+
+That strategy has seen Israel pummeling the “Gaza Strip” with bombs to eradicate it of Hamas and to get its hostages back. Over 1,500 people in Palestine so far have been killed as a result. The tech industry in Israel — the country’s biggest export and its biggest single contributor to GDP — is also taking a big knock, but inevitably the impact on the smaller and more fragile ecosystem in Gaza has been significantly more serious. The physical, economic and societal destruction resulting from that leaves any future for the tech industry there in doubt.
+
+Quite simply, there is no escaping the consequences of the war for anyone, let alone tech workers.
+
+“What is happening to tech in Gaza is that Israel is crunching it. Obliterating it,” one source inside the territory told TechCrunch.
+
+Israel has now amassed soldiers near the north of Gaza, ahead of an expected ground offensive into the densely populated enclave. About 1.1 million people living in northern areas have been told to leave in the next day. The UN has warned of “devastating humanitarian consequences” from these latest moves. A total blockade on the territory is being enforced with fuel, food and water running out. Israel says it won’t lift the restrictions unless Hamas frees all hostages.
+
+Speaking to Ryan Sturgill, an American national and former head of the Gaza Sky Geeks (GSG) accelerator run by sponsor Mercy Corps, an NGO aid organization, the situation on the ground appears dire, after waves of shelling by the Israeli military.
+
+“The area around the the Mercy Corps building, which housed Gaza Sky Geeks, has been leveled. The structure is standing but blown out. The front of it is sort of ripped off,” he said.
+
+Gaza Sky Geeks is the largest tech hub in Palestine, providing a wide range of tech training at scale. In 2022, 5,000 coders and developers from across the West Bank and Gaza graduated from the program.
+
+Video evidence (and pictured above) posted on LinkedIn shows a blown-out building with the Mercy Corps sign.
+
+“Who knows what’s going to happen. The offices are destroyed, the fiber lines are destroyed. The universities are destroyed. Three main universities in Gaza that produce all the computer science grads are leveled. I don’t even know if people will ever be able to go back to Northern Gaza after what’s happening today.The educational institutions that are there are gone,” Sturgill added.
+
+He had been helping Palestinian tech startups raise capital in the West Bank and Gaza since January.
+
+“Until now, there had been a pretty significant growth. A lot of companies in Saudi Arabia have been setting up back offices [in Palestine] for development for all sorts of new companies and even apps that are now growing in the Gulf, because Saudi has been growing so quickly on the tech front. Nvidia, and other international companies, has outsourcing operations in Palestine. Apple has outsourcing operations, Microsoft has R&D, and they would even like to see those expand. There’s companies that had 200 developers sitting in offices in Ramallah,” he said.
+
+“I’ve talked to all of the heads of these different offices; most of them are in in Israel. They are very positive people who want to try to support the tech industry there and those efforts have been working well and growing,” he added.
+
+Indeed, one of the main Palestinian VC funds, Ibtikar, had recently raised its second fund of $30 million.
+
+High-growth companies emerging from Palestine include Mena Analytics (data analytics, invested in by Flat6Labs); Olivery (last-mile logistics, Flat6Labs, Gaza Sky Geeks Ibtikar Fund); Coretava (employee and customer loyalty); and SellEnvo (an Amazon fulfillment partner).
+
+Sturgill said that as well as the intensely difficult conditions in Gaza, which is being hit by Israeli missiles, the situation in Ramallah is “super tense. I feel like the situation is going to get significantly worse there over the coming weeks.”
+
+Iliana Montauk, co-founder and CEO of Manara — a social impact startup funded by Y Combinator, Seedcamp, Reid Hoffman, Eric Ries, Marc Benioff, Paul Graham, and Jessica Livingston, among others — told TechCrunch via email that connectivity has decreased significantly in the past 24 hours.
+
+“Though Gaza has been bombed many times before, this time is completely different for the tech sector for several reasons. Electricity was cut off to the entire [Gaza] strip. A significant amount of infrastructure has been bombed (including both ISPs and many tall apartment buildings that hold cell phone towers). Entire middle-class neighborhoods are being destroyed.”
+
+She said in the past if an entire neighborhood got destroyed, it was usually one bordering Israel and a poorer area, thus less impacting the tech sector.
+
+“The tech sector is almost completely unable to function in Gaza right now,” she said. “Most people are in too much danger to be able to work; some have evacuated three times in the past 24 hours, moving from friend’s house to family house, because each neighborhood they end up in is the next one being bombed. They usually receive warnings to evacuate their homes 10 minutes before a bombing, so they don’t sleep and monitor the situation constantly ready to evacuate in a minute’s notice.
+
+“Most people have lost cell phone connections and internet access completely, or have some access to 2G only on their cell phones. Electricity is no longer being provided even for a few hours a day now, and people are running out of gas for their generators,” she added.
+
+Manara has around 100 software engineers in Gaza, some working remotely for tech companies in Silicon Valley/Europe.
+
+Montauk said one software engineer who works at Upwork disappeared for several days, until being found alive.
+
+Dalia Awad, whose Medium post about getting into Google from Gaza went viral in 2021 (it was at one point #1 on Hacker News and tweeted by Paul Graham), returned to Gaza after her internships at Google and Datadog to graduate from university. She had a full-time job offer at Datadog in Paris but decided to stay home in Gaza and look for a remote job so she could be close to family.
+
+On Tuesday she wrote to Montauk, saying: “Tonight was the worst night ever. My family and I are good, thankfully. The bombing was everywhere and we couldn’t know where it was because there was no internet. Many of my friends lost their houses in the Rimal area. There is no wifi internet, we connect to the cellular data on our phones but it’s only 2G and it connects for a few minutes then cuts off. We can only send Whatsapp messages. So we can’t really read news on social media. In the morning we saw these videos from our friends who shared it on whatsapp but it takes FOREVER to download a video of a few seconds.”
+
+Montauk said Awad had not responded to her in the past day.
+
+Montauk, a former director of Gaza Sky Geeks, said: “Before this escalation, the Gaza tech scene was growing. I was just in Riyadh and met companies that hire entire software development teams in Gaza. Upwork and other Silicon Valley companies are now hiring software engineers remotely from Gaza. In addition, some had left to work abroad at companies like Google, Amazon, Qualtrics, etc. Last time I was in Gaza a year ago, almost everyone I talked to asked me how they could get a job and leave Gaza. They were worried about more bombings and wanted to bring their children up in a place without such a high risk. These people just want to live normal lives.”
+
+Those who are living in the West Bank say the activity in Gaza has had an inevitable impact.
+
+“For a Palestinian young woman like me living in the West Bank, I can confirm that there has been a noticeable freeze in terms of activity,” said Leen Abubaker of Flow Accelerator and co-founder at Sawaed19. “Tech companies are either operating on a very limited scale, with employees struggling to reach their offices in the West Bank due to unsafe roads blocked by Israeli occupation forces and settlers, or they have been forced out of business entirely in Gaza.”
+
+She added that a number of buildings in Gaza that are key to the tech industry there, such as Burj Al-Watan, had been destroyed by Israeli airstrikes and that the tech industry is not the first priority for people in the urgent situation. “How can you possibly detach from the distressing reality and cling to the remaining shreds of hope for your business?”
+
+Mohammad Alnobani is a Palestinian founder of The Middle Frame, an Arab stock image platform powered by AI tools that aims to shatter stereotypes about the Arab world through images and reducing bias in AI.
+
+He told me he was on his way back from the One Young World Summit in Belfast, speaking about peace and reconciliation, and about to reach the borders to cross to Palestine to get back to his family, when the war broke out.
+
+“The borders closed down and I had to turn around and go back to Jordan,” he said. “I am still there, continuously checking on my family in Jerusalem, and trying to reach out to my connections in Gaza.” His co-founder, Raya Fatayer, is in Ramallah, staying at home with her baby and husband, not able to travel.
+
+“Our fellow entrepreneurs in Gaza had their homes demolished by air strikes, some we can’t even reach anymore since the electricity is out and they have no power,” he said. “Dealing with the situation while trying our best to move forward with our work is a daily challenge.”
+
+He said this outbreak of hostilities with Israel is clearly different: “Before, every time Gaza faced air strikes, we knew that certain areas were almost safe. Clearly today, nobody is safe.”
+
+(This piece was later edited to include relevant information about the attacks by Hamas).

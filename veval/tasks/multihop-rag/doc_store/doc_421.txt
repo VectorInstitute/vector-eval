@@ -1,0 +1,33 @@
+For the next few weeks, TechCrunch’s robotics newsletter Actuator will be running Q&As with some of the top minds in robotics. Subscribe here for future updates.
+
+Part 1: CMU’s Matthew Johnson-Roberson
+
+Part 2: Toyota Research Institute’s Max Bajracharya and Russ Tedrake
+
+Part 3: Meta’s Dhruv Batra
+
+This time it’s Boston Dynamics CTO, Aaron Saunders. He has been with the company for more than 20 years, most recently serving as its vice president of Engineering.
+
+What role(s) will generative AI play in the future of robotics?
+
+The current rate of change makes it hard to predict very far into the future. Foundation models represent a major shift in how the best machine learning models are created, and we are already seeing some impressive near-term accelerations in natural language interfaces. They offer opportunities to create conversational interfaces to our robots, improve the quality of existing computer vision functions and potentially enable new customer-facing capabilities such as visual question answering. Ultimately we feel these more scalable architectures and training strategies are likely to extend past language and vision into robotic planning and control. Being able to interpret the world around a robot will lead to a much richer understanding on how to interact with it. It’s a really exciting time to be a roboticist!
+
+What are your thoughts on the humanoid form factor?
+
+Humanoids aren’t necessarily the best form factor for all tasks. Take Stretch, for example — we originally generated interest in a box-moving robot from a video we shared of Atlas moving boxes. Just because humans can move boxes doesn’t mean we’re the best form factor to complete that task, and we ultimately designed a custom robot in Stretch that can move boxes more efficiently and effectively than a human. With that said, we see great potential in the long-term pursuit of general-purpose robotics, and the humanoid form factor is the most obvious match to a world built around our form. We have always been excited about the potential of humanoids and are working hard to close the technology gap.
+
+Following manufacturing and warehouses, what is the next major category for robotics?
+
+Those two industries still stand out when you look at matching up customer needs with the state of art in technology. As we fan out, I think we will move slowly from environments that have determinism to those with higher levels of uncertainty. Once we see broad adoption in automation-friendly industries like manufacturing and logistics, the next wave probably happens in areas like construction and healthcare. Sectors like these are compelling opportunities because they have large workforces and high demand for skilled labor, but the supply is not meeting the need. Combine that with the work environments, which sit between the highly structured industrial setting and the totally unstructured consumer market, and it could represent a natural next step along the path to general purpose.
+
+How far out are true general-purpose robots?
+
+There are many hard problems standing between today and truly general-purpose robots. Purpose-built robots have become a commodity in the industrial automation world, but we are just now seeing the emergence of multi-purpose robots. To be truly general purpose, robots will need to navigate unstructured environments and tackle problems they have not encountered. They will need to do this in a way that builds trust and delights the user. And they will have to deliver this value at a competitive price point. The good news is that we are seeing an exciting increase in critical mass and interest in the field. Our children are exposed to robotics early, and recent graduates are helping us drive a massive acceleration of technology. Today’s challenge of delivering value to industrial customers is paving the way toward tomorrow’s consumer opportunity and the general purpose future we all dream of.
+
+Will home robots (beyond vacuums) take off in the next decade?
+
+We may see additional introduction of robots into the home in the next decade, but for very limited and specific tasks (like Roomba, we will find other clear value cases in our daily lives). We’re still more than a decade away from multifunctional in-home robots that deliver value to the broad consumer market. When would you pay as much for a robot as you would a car? When it achieves the same level of dependability and value you have come to take for granted in the amazing machines we use to transport us around the world.
+
+What important robotics story/trend isn’t getting enough coverage?
+
+There is a lot of enthusiasm around AI and its potential to change all industries, including robotics. Although it has a clear role and may unlock domains that have been relatively static for decades, there is a lot more to a good robotic product than 1’s and 0’s. For AI to achieve the physical embodiment we need to interact with the world around us, we need to track progress in key technologies like computers, perception sensors, power sources and all the other bits that make up a full robotic system. The recent pivot in automotive towards electrification and Advanced Driver Assistance Systems (ADAS) is quickly transforming a massive supply chain. Progress in graphics cards, computers and increasingly sophisticated AI-enabled consumer electronics continues to drive value into adjacent supply chains. This massive snowball of technology, rarely in the spotlight, is one of the most exciting trends in robotics because it enables small innovative companies to stand on the backs of giants to create new and exciting products.

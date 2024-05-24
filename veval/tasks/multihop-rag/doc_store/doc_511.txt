@@ -1,0 +1,31 @@
+Automakers and technology companies are building ever-more sophisticated digital platforms into the future generations of cars and other vehicles. Today, a startup that’s built a system to make it easy to connect that software and hardware to wireless networks has picked up a major round of funding.
+
+Cubic Telecom, which provides a software-based networking solution for vehicles (and other devices) to link up with mobile networks in whichever country they happen to be, has picked up €473 million ($513 million at today’s rates) from SoftBank Corp. SoftBank is taking a 51% stake in the Dublin-based startup, valuing it at just over $1 billion (€927 million).
+
+This effectively makes Cubic Telecom a consolidated subsidiary of SoftBank. Barry Napier will stay on as CEO and will have a seat on the board of the company. Daichi Nozaki, SoftBank’s SVP of global business, plus two other SoftBank-appointed people (still unnamed) will join the board, with the remaining three board seats occupied by existing Cubic Telecom investors, which include CARIAD (the Volkswagen Group) and Qualcomm.
+
+The funding will be used to continue building out Cubic Telecom’s technology and business. Today, it has partnerships with 90 national and multinational mobile network operators and provides connectivity to 17 million+ vehicles in 190 countries and regions.
+
+That’s only between 7% and 10% of the current market, Cubic Telecom COO Shane Sorohan said in an interview. (It might be actually slightly lower: Juniper Research estimates that the number of connected vehicles in the market today is around 192 million.)
+
+But the size of this particular round is due to how fast the company is growing right now. Cubic Telecom is currently linking up 450,000 new vehicles — consumer cars, trucks and more — using its platform each month, and orders in the books are going to raise that rate “exponentially” over the next five years, the company said. Cubic Telecom cites forecasts from McKinsey noting that some 95% of new vehicles will be sold with wireless connectivity built into them by 2030. Juniper puts the number of new cars on the road by then that will be “connected” at just under 400 million.
+
+Growth in the industry is due to a few factors: networks continue to improve, in particular with 5G especially suited to IoT deployments; cloud-based data services and vehicles themselves are getting more advanced; and thanks to the evolution of other connected devices like smartphones, watches, televisions and so much more, consumers and business are expecting more functionality in their vehicles.
+
+To be clear, Cubic Telecom’s investment is coming from SoftBank Corp., not SoftBank Group, nor the company’s storied Vision Fund, known — and occasionally notorious — for its outsized venture deals.
+
+In this case, the Japanese telecoms and IT division in Tokyo is putting in the money as a strategic investment.
+
+The pair have been working together in Japan, where Cubic Telecom has been integrating SoftBank’s wireless network to provide connectivity to connected cars. And now, SBC sees an opportunity to expand internationally not through costly builds of more network, or by acquiring other carriers, but by taking a stake in a partner that it sees is getting strong traction as an IT partner globally precisely in that area where telecoms meets technology — a holy grail-type goal for carriers, especially these days as their networks become further commoditized.
+
+Cubic plans to continue building more connectivity for vehicles, Sorohan said, but he added that the company’s infrastructure and partnerships can work in a number of other verticals, such as the agricultural industry, where national and multinational companies are now using a multitude of connected tooling and autonomous equipment in remote areas.
+
+Cubic Telecom’s business goes back to before connected cars were a significant business — it actually appeared at TechCrunch’s first-ever Battlefield in 2007, when it was focused more on helping consumers connect mobile phones to international networks when roaming. But it was its current focus on vehicles that turbo-charged the business, attracting investment from the likes of Audi and Qualcomm.
+
+The bigger gap in the market that the company has been targeting and building to plug for the last several years has been that, while tech companies and automakers have been working on ways to build more functionality into vehicles — whether that be more clever ways to manage and respond to diagnostics on the vehicle, or give you an easier way to listen to Spotify, or to help drive a car altogether — the piece that has remained more tricky is the internet connectivity to make all of that work.
+
+Typically, car makers will have to cut deals with individual carriers region-by-region, which is time-consuming, costly and does nothing for creating a seamless experience at the front end for users, either. Cubic’s platform acts as a wholesale aggregator, and it essentially helps to manage all of that automatically and at a lower cost, so that cars come delivered into a market ready to use, and if those cars are then driven into another region, they will continue to work there, too.
+
+As vehicles continue to get more sophisticated, it’s a fair bet that technology companies and automakers themselves will come up with more seamless ways themselves to manage that connectivity. Looking at what Apple and others are building with eSIMs is a sign of how there will be easier ways to provision services as easy as it is today for most people and businesses to install, or uninstall, software. But for now, the Cubic approach is one that is helping to bring down the cost of building and managing it, and that gives it a key role for some years to come.
+
+“In line with our ‘Beyond Japan’ strategic growth initiative, we are extremely pleased to be teaming up with Cubic Telecom to make a full-fledged entry into the fast-growing market for high-value IoT asset connectivity,” said Junichi Miyakawa, president & CEO of SoftBank Corp., in a statement.

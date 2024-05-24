@@ -1,0 +1,71 @@
+Fate of US venture capital in China teeters on uncertainty Tech crackdown in China and US scrutiny drive some of these VCs to look abroad
+
+On a weekday afternoon at Red Rock Coffee, the café known for spotting venture capitalists in Silicon Valley, one is likely to overhear a few conversations in Mandarin. With China reopening its borders this spring following three years of COVID-19 restrictions, managers of U.S. funds in the country have been flocking to the Bay Area. While these trips were routine before the pandemic, they have now taken on a fresh purpose of discovering deals beyond China.
+
+USD-denominated funds in China have long been drawing inspiration from Silicon Valley startups, using them as benchmarks for investment targets back home. They would seek out the equivalents of Facebook, Amazon and Uber on the other side of the Pacific Ocean and hope they become winners in the country’s largely untapped internet market.
+
+This dealmaking strategy of American funds in China has become less effective in the face of shifting global and domestic landscapes. Driven by a confluence of factors, from China’s crackdown on the tech industry to escalating U.S.-China tensions, some of these investors are now turning their gaze to opportunities abroad, tracing the footsteps of a new generation of Chinese-founded startups that are expanding overseas.
+
+Between a rock and a hard place
+
+Since their entry into China in the late 1990s, American venture capital firms, led by powerhouses like Sequoia Capital, IDG Capital and GGV, have played a major role in funding high-risk, high-reward startups in the country’s consumer internet sector. This two-decade-long mutually beneficial relationship, however, now hangs in the balance as changes at home and abroad diminish the pool of investment opportunities for outside financiers.
+
+In recent years, Beijing’s sweeping tech crackdowns have introduced a new sense of uncertainty to investors. VCs fear that their portfolio companies might encounter a fate akin to that of Ant Group, whose colossal initial public offering was called off, and Didi, which weathered an extensive data security probe that eventually led to its delisting from New York. With China tightening its grip on overseas IPOs, investors who once relied on taking Chinese firms public in the U.S. are no longer assured of an exit channel.
+
+In the meantime, Washington has stepped up restrictions on the flow of U.S. money into China amid an escalating tech war between the two superpowers. In August, President Joe Biden signed an executive order barring U.S. investments in three strategically critical sectors in China — artificial intelligence, quantum computing and semiconductors.
+
+As USD funds in China await further clarity on the scope of the ban, they are practicing more discretion than ever before. They slow down capital deployment even amidst a global AI fervor that has given rise to a parallel AI universe in China. At the same time, domestic RMB funds play an increasing role in funding critical tech sectors. Zhipu AI, one of China’s most ambitious challengers to OpenAI, for instance, raised financing in RMB instead of USD.
+
+Even having the Chinese branches of famed American VCs listed on the cap table might deter U.S. investors from funding Chinese founders in their backyard. Local investors are now shunning Chinese “links”, of which definition is ever evolving and broadening, at all costs.
+
+The country’s USD investors continue to deploy capital in industries that aren’t in the crosshairs of U.S.-China competition, but overall, their activity has dwindled significantly due to the changing regulatory and geopolitical currents, coupled with a slowing economy. The year 2022 saw just $14.5 billion invested in Chinese companies by U.S.-headquartered VCs, compared to $45.4 billion the year before, according to a report from research firm PitchBook. The number of deals nearly halved to 595, and the share of deals with U.S. investor participation dropped to 18.2% in 2022 after hovering above 30% for half a decade.
+
+The scaleback is most notable in prolific investors like Sequoia Capital China, which recently changed its name to HongShan after splitting off its China operation. Despite its proactive move to decouple, Sequoia still faces scrutiny from the U.S. government over its decades of activity in China. For the first three quarters this year, HongShan completed just 47 deals, compared to 99 deals in the same period of 2022, according to Crunchbase data.
+
+The reversing turtles
+
+As China’s domestic investment appeal wanes, some investors start to look for opportunities beyond its borders. Rather than a complete departure, they are merely following the footsteps of Chinese talent who have already embarked on global expansion. (We’ve covered the topic extensively here and here.)
+
+Chinese startups have a long history of going abroad, and every wave has assumed its own approach. Previously, many companies would venture out only after succeeding in China. These days, more are eyeing global expansion from day one, sometimes even skipping their home market.
+
+Many in the current generation of globalizing Chinese founders have studied or worked overseas. Captivated by the Chinese internet’s rapid growth, they returned home in the late 2010s to join the likes of Tencent, Baidu, Alibaba and ByteDance. Having gained an insider’s look into Chinese tech titans, they set out on their own entrepreneurial journey with the hope of becoming the next Jack Ma, the founder of Alibaba.
+
+In China, they are called haigui, or those who “return from overseas,” a homophone of “sea turtles.” Their dreams started to crumple following the fall from grace of Ma, whose Ant Group and Alibaba became prominent targets of China’s tech crackdown. They soon realized that China had entered a new era, where the regulatory hurdles for running a startup have significantly heightened.
+
+The year 2022 saw just $14.5 billion invested in Chinese companies by U.S.-headquartered VCs, compared to $45.4 billion the year before.
+
+To launch an AI service in China, for example, a company needs to navigate a multitude of complications, which can include obtaining a license for its large language model, seeking regulatory approval for its algorithms and implementing a costly censorship mechanism to comply with censorship requirements.
+
+“You need to pick sides. You either focus on China or go overseas, otherwise, you end up doing double the workload but with a lot less funding secured from the last two years,” said one of the five China-based VCs we interviewed for the story. We also spoke to six diaspora Chinese entrepreneurs. Due to the sensitivity of the topic, all of them have asked to remain anonymous.
+
+Some ambitious, well-funded AI startups want to target both sides. To that end, they would create two entities each tailored to the Chinese and non-Chinese markets while raising capital in USD and RMB separately.
+
+Not every startup has the resources to pursue a dual-market strategy, so many “sea turtles” wound up leaving China again. While foreign markets present their own sets of challenges — competition and skepticism toward outsiders — these entrepreneurs perceive a broader, more predictable opportunity in AI in the West. This reversal of their trajectory has earned them the moniker, guihai, or those who “return overseas.”
+
+Following the turtles
+
+At home, the Western-educated and -trained Chinese entrepreneurs are darlings of local VCs. In Silicon Valley, they are little known to investors. Occasional media reports that stress their Chinese background further erode trust in potential investors and customers at a time when concerns about national security already run high.
+
+Even having the Chinese branches of famed American VCs listed on the cap table might deter U.S. investors from funding Chinese founders in their backyard, three founders said. Local investors are now shunning Chinese “links,” of which definition is ever evolving and broadening, at all costs to avoid geopolitical risks.
+
+“If you speak like a local, know how to pitch like a confident Silicon Valley founder, have not taken any money from Chinese VCs, have all your staff in the U.S., have generated good traction in the local market, and are working on getting a green card, you might get a chance to raise local money,” said a Chinese founder based in San Francisco. “Don’t even think about it if you still run your R&D out of China.”
+
+This financing gap presents an opportunity for the USD fund managers who are hunting beyond China’s borders. “It’s just a lot easier to raise their first round from China’s USD funds,” said a former investor at one of China’s top VC firms. “In some sense, the entrepreneurs are taking these investors on an international expedition.”
+
+VC activity with U.S. participation in China during 2023 will hit a nine-year low, followed by a decade low in 2024.
+
+Besides the low-hanging fruit of the diaspora community, Chinese VCs flying in from Beijing and Shanghai have limited avenues to source deals in the U.S. American startups are courted by a plethora of local investors, let alone the geopolitical risks of accepting Chinese-managed money. These parachuting investors also run into competition from local investors already tailored to U.S.-China cross-border opportunities, most famously UpHonest Capital.
+
+“VCs thrive on information arbitrage. In the U.S., we don’t really have that same extensive network as at home,” said an investor from the China arm of a global VC firm who now spends a third of their time abroad.
+
+A transitory phase
+
+Venturing out of China is not a “pivot” for the USD fund managers, said one of the investors we spoke to. Rather, the partners and their associates are mostly looking for something to get their hands on in the midst of a tepid market. Some are contemplating a career change, but it’s difficult to find any job that matches their enviable pay.
+
+“Chinese VCs are most anxious about the U.S. building cars behind closed doors. They don’t want to fall behind, especially given the speed AI is evolving, so they are going to the Bay Area to figure it out themselves,” the investor added.
+
+The recent influx of Chinese VCs into the Bay Area should also be viewed in a broader context. Many of these investors, who have family ties in the U.S., have been going stateside regularly for years. COVID-19, which shut down trans-Pacific flights and introduced costly and harsh quarantines, created a pent-up demand for travel. Naturally, many investors rushed to the Bay Area as soon as the borders reopened, but the surge in activity might soon start to subside, said a partner who spent the past summer in California.
+
+There are no signs that USD funds’ dealmaking in China will bounce back to its heights in the foreseeable future. The PitchBook report predicts that VC activity with U.S. participation in China during 2023 will hit a nine-year low, followed by a decade low in 2024. Many Chinese general partners have already been sourcing capital from the Middle East, which might eventually limit the impact of U.S. investors’ pullback. But the question is whether Chinese tech firms, now under a new stringent regulatory regime, can deliver the same level of strong growth and returns they experienced in the previous laissez-faire era.
+
+If the U.S. market turns out to be too challenging to penetrate due to competitive and geopolitical factors, there are still other markets to explore. Japan, known for its openness to new technologies, has been particularly popular among China’s SaaS startups venturing abroad. Sniffing opportunity, China’s USD fund managers, still anchored in the Middle Kingdom, will likely follow them to the neighboring country or any other market that will help hedge against uncertainties presented at home and abroad.

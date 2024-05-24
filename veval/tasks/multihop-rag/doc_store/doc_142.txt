@@ -1,0 +1,31 @@
+Meta wants to shift the burden of monitoring social media usage among teens back to the app stores — and to parents. In a blog post published today, Meta’s global head of Safety, Antigone Davis, argues that parents should be responsible for approving their teens’ app downloads and staked Meta’s position in supporting federal legislation that would require parental approval for app downloads for users under the age of 16.
+
+Guiding its reasoning, Meta pointed to recent Pew research that indicated that 81% of U.S. adults were in favor of requiring parental consent for teens to create social media accounts. While this may speak to popular opinion around parental sentiment, it doesn’t mean that parents have thought through who should be responsible for preventing or allowing teens’ access to social media, or how those apps should operate to protect teens.
+
+A coalition of 42 states and D.C. are currently suing Meta over its harms to teens and young users, in part referencing findings from Meta whistleblower Frances Haugen. The former employee had provided to news outlets a treasure trove of documents that appeared to indicate Meta understood the harms it was causing — including things like body image issues among teens — but didn’t take action. Instagram head Adam Mosseri was later hauled before Congress in December 2021 to defend the app’s teen safety record, but so far, legislators have not come to any decision about how to regulate teen usage of these platforms.
+
+Instead, Meta began regulating itself, adding new defaults and features that would restrict teens’ access to content on its apps, protect their privacy and limit ad targeting to teens, as well as introducing parental controls.
+
+In more recent weeks, a second Meta whistleblower, Arturo Bejar, has come forward to express concerns that Instagram’s approach to protecting teens wasn’t working to keep them safe from sexual predators and unwanted sexual advances and harassment. Hired as a consultant on the matter, Bejar eventually blew the whistle on Meta after seeing issues remain unresolved following years of work. His argument essentially was that the improvements and safety features Meta was implementing were not enough and not effective.
+
+However, a policy position like the one Meta announced today is not something that would have been rushed out in a matter of days as a PR response to Bejar’s claims, but something Meta has been stewing on for some time. After all, the app stores already have age guidelines, so it would seem to follow that they should also enforce them, if enforcement is to be regulated — or that seems to be Meta’s thinking.
+
+If anything, the call to bring the app stores into the fight is a response to the lack of action in Congress to pass online child safety regulations, like the hotly debated KOSA (the Kids Online Safety Act) leaving U.S. states to individually create laws due to a void of federal guidelines.
+
+Utah, for instance, passed a measure that will require social networks to give Utah parents access to their children’s posts, messages and comments, and would block social media access during certain hours. The governor also signed a bill to prevent social media companies from adding features designed to addict minors to their platforms. A judge in Arkansas recently blocked a law that would have required parental permission for minors to create social media accounts.
+
+Beyond Meta, Montana also became the first state to ban TikTok, claiming it was being used by the Chinese Communist Party using TikTok to spy on Americans. But Meta’s threat, in terms of teen usage, isn’t one of a foreign power collecting private data on users, but rather risks to teen mental health, body comparison issues and exposure to sexual predators. Montana could easily turn its eyes to Meta next, after the TikTok bill went through.
+
+The overhead of managing apps to meet individual state regulations would be a headache for Meta, but Davis also argues it would lead to a lack of teen protection, in some cases.
+
+“U.S. states are passing a patchwork of different laws, many of which require teens (of varying ages) to get their parent’s approval to use certain apps, and for everyone to verify their age to access them,” she wrote. “Teens move interchangeably between many websites and apps, and social media laws that hold different platforms to different standards in different states will mean teens are inconsistently protected,” Davis said.
+
+Meta’s proposed “better way” of requiring parents to manage a teen’s app downloads pushes the burden back to the app stores and to parents, who often today do not monitor or manage their teens’ smartphone use. But while it’s true that the app stores and smartphone makers would know the ages of their users, requiring parents to approve apps is the equivalent of overriding parental discretion and choice.
+
+Other entertainment ratings — like those for TV, movies or video games — are meant to be guidelines for parents, not laws. Meta’s position that apps are somehow different, then, is a fairly extreme position to take.
+
+“Instead of designing its products with kids’ safety and privacy in mind, Meta would rather push blame onto parents and other companies to obscure the damage they’ve already done to young people,” said Sacha Haworth, executive director of the Tech Oversight Project, a nonprofit devoted to reigning in Big Tech, in reaction to the news. “No one disputes that Google and Apple need to do more to protect children on their platforms, apps and devices. That fact does not absolve Mark Zuckerberg or Meta for years of willful negligence, and this announcement shows that the company’s outright hostility toward protecting kids is sewn into the fabric of its profit model.”
+
+Apple and Google did not return requests for comment.
+
+Updated, 11/15/23, 4:40 PM ET, with comment from Tech Oversight Project.

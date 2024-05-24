@@ -1,0 +1,45 @@
+If you buy something from a Polygon link, Vox Media may earn a commission. See our ethics statement .
+
+Your time — and money — is precious. Polygon’s What to Buy has rounded up the best in gaming hardware, entertainment, tabletop, merch, and toys, and how to get them for the best value, so you spend less time shopping and more time enjoying.
+
+A power bank, also commonly referred to as a portable charger, is an essential purchase for anyone who’s on the go with a phone, tablet, or a gaming handheld like a Nintendo Switch or a Steam Deck. It lets you recharge your precious gadgets one or more times via a USB connection, so you can keep talking, texting, or gaming throughout the day.
+
+Power banks range in price depending on a few factors: how compact it is, what kind of ports it has, how much battery capacity it contains (typically measured in mAh), and how quickly it can recharge your devices.
+
+Best portable charger for your phone and tablet
+
+Today’s phones and tablets may differ in terms of their peak wired charging speeds, yet we’ve found some battery packs that should work well no matter what device you have. It’s true that some outliers, like Samsung’s Galaxy S23 phone, can recharge at 25 W or higher depending on the model, but many other Android phones and iPhones recharge via a wired connection at under 20 W — even less when you’re charging wirelessly.
+
+How to pick the best power bank/portable charger for you Get one that lists the Power Delivery capability (noted as “PD” in the specs), and it should ideally match, or come close to, the peak charging speeds (in watts) of the devices that you intend to charge with it. The batteries we recommend for phones and tablets are also a good pick for the Nintendo Switch. However, the Steam Deck needs more juice, as do some mightier laptops that can receive power via USB-C.
+
+In terms of tablets, picking either of the two power bank options we recommend below should be a good fit for what you may have. For reference, all iPads currently ship with 20 W power adapters, and so far, tablets from other manufacturers like Samsung and Amazon haven’t deviated far from that charging speed.
+
+Whichever you choose, it never hurts to get some extra USB-C-to-USB-C cables. You can get this two-pack at Amazon for $15.99, so you can keep one at home and then put the other in a bag you bring around during everyday travels.
+
+Best power bank for your Switch
+
+The Nintendo Switch console with detachable Joy-Cons can receive a maximum of 18 W through its USB-C charging port (the Switch Lite is slightly less demanding). So, the very same compact power bank we recommend for phones and tablets can be used to charge your Switch.
+
+Same note as before: We suggest buying more charging cables than you’ll immediately need (stow one permanently in the bag you frequently use). You can get this two-pack of 100 W-ready, six-foot-long, USB-C-to-C cables at Amazon for $15.99.
+
+Related The best Nintendo Switch accessories
+
+Best power bank for your Steam Deck
+
+Each Steam Deck console includes a 45 W USB-C wall adapter, so it’s a good idea to find a power bank that can meet that power level when you’re on the go. Thankfully, some options exist that can do this. One thing to note during your search is that only batteries that support the PD 3.0 spec, including the two options below, can recharge the Steam Deck at its fastest speed.
+
+Related The best Steam Deck accessories
+
+Best portable charger for your laptop
+
+The number of laptops that can recharge via USB-C is growing, making it possible to use the same charger to refill your laptop as you do your phone or Nintendo Switch. For instance, Apple’s entire MacBook lineup allows it, as do several popular Windows laptops, like the Dell XPS 13, Razer’s Blade gaming laptop, and more. The thing is, different laptops have different power requirements, so one power bank may not work well across multiple laptops.
+
+If you have a 13-inch MacBook Air or Pro, or a similarly sized Windows laptop, the chances are very good that a 65 W power bank should be fast enough to recharge your laptop as you use it (check your power supply’s wattage to be sure). Keep in mind that if you’re trying to play games, or do other resource-intensive tasks, your battery may recharge slowly, or it may continue to discharge if your power bank isn’t powerful enough.
+
+For more powerful laptops, there are bigger, more powerful batteries to match that can supply up to 140 W of recharging power. That’s currently a top-of-the-line spec, costing significantly more than our other options, and you’ll even need a compatible USB-C-to-USB-C cable to reach the 140 W top speed, as well as a laptop that supports the PD 3.1 USB-C charging spec.
+
+One of the chargers we recommend below can match the speed delivered by Apple’s 140 W wall charger that’s included with 16-inch MacBook Pro laptops. On the Windows side of things, most laptops don’t go above 90 or 100 W at peak USB-C recharging speed, so you should be set with our picks.
+
+It might be tough to justify spending $100 to $150 on a power bank just to charge a laptop. I get it. However, it’s easier to justify getting one if you frequently travel with multiple power-guzzling devices that you’d like to recharge simultaneously, as these are but a few available that can manage multitasking.
+
+Update (Nov. 17): Checked prices and stock for accuracy.

@@ -1,0 +1,35 @@
+Thanksgiving Thursday, when stores in the U.S. are closed and many are spending time off work, has become the de facto start of the holiday shopping season both for those looking to get bargains online and for online retailers to kick off holiday sales deals to meet that demand. But if there is a message from this year’s Thanksgiving sales, it is that consumers are holding steady, but don’t hold your breath for a growth boom.
+
+Adobe Analytics said that people in the U.S. on Thursday spent $5.6 billion online, which it calculates at an increase of just 5.5% on last year.
+
+Salesforce, which also calculates sales based on data collected by its Commerce Cloud division, noted that globally, online sales reached $31.7 billion with its U.S. tally at $7.5 billion — both up only 1%. Salesforce’s calculations of average order value were equally modest. Globally, average orders were up just 2% to $103 per “basket” while in the U.S. they were up a paltry 1% to $119.
+
+Mobile devices had a standout year: Adobe said that some $3.3 billion was spent over mobile devices on Thanksgiving, up 14% and an all-time record for the day.
+
+Salesforce added that online traffic in general to e-commerce sites, which includes browsing, was up too, but again only in single digits of 4% globally and 6% in the U.S.
+
+The two are actively tracking sales for today, Black Friday, and for the whole of the “Cyber Weekend” — which not only kicks off holiday shopping but has a particularly strong showing in online sales due to people traveling to be with family. As a bellwether for the rest of the holiday period — traditionally the biggest period for retail sales in the year — the flat sales speak to another tough year for online retailers.
+
+Adobe Analytics is predicting $37.2 billion in online spend for the full five days, up just 5.4% year on year and accounting for 16.8% of all holiday spend. And Black Friday will see $9.6 billion in sales, up roughly the same, 5.7%, versus figures last year. (The published figures in 2022 were $9.13 billion.) Salesforce has not provided forecasts.
+
+For some context on today’s Thanksgiving figures, last year’s published figures from Adobe were $5.29 billion, which actually represents an increase of just under 4%. (It’s likely Adobe Analytics readjusted its final figures for last year, which is why we see a higher percentage of growth.) Today’s 5.5% rate is definitely an improvement on last year’s 2.9%. But it’s nothing compared to the years preceding COVID-19, such as 2017, where we were seeing growth of 18% or more.
+
+Inflation is making an impact but not as much as the worry around consumer spending, said Adobe, which said that spending is being led actually by more discounts to encourage buying, rather than less buying of more expensive products. That leads one to wonder what kind of impact that’s having on retailers’ margins.
+
+“Cyber Week is off to a strong start with Thanksgiving driving a record $5.6 billion in online spend as consumers took advantage of strong discounts and continued their shopping plans, virtually,” said Vivek Pandya, lead analyst, Adobe Digital Insights, in a statement. “Mobile shopping hit an all-time high, as shoppers took to their smartphones to get the best deals during holiday gatherings, further solidifying mobile’s growing importance in e-commerce.”
+
+Adobe Analytics’ figures are based, it says, on 1 trillion visits to U.S. retail sites, 100 million SKUs and 18 product categories. Salesforce says it taps data from 1.5 billion consumers in its research. (Both companies work with a number of giant and smaller retailers, so they have the infrastructure to provide this kind of intel to these customers on an ongoing basis.)
+
+Breaking out some of the trends in how people are shopping:
+
+— Overall, desktop sales are still exceeding other kinds of screens when it comes to conversions and number of items purchased, but mobile is the standout device in the evening hours, when it accounted for a whopping 59% of all online sales (likely because people were using that time to socialize and buy on the sly).
+
+— More on mobile: Salesforce said that for the day, mobile accounted for 79% of all online traffic globally and 82% in the U.S., and that mobile wallets were really making a mark for reducing some of the buying friction on the smaller devices. Apple Pay saw transactions up by 47% compared to 44% up for all mobile wallets overall. Social on mobile — think Instagram links, TikTok and Snapchat — has become an influencer in itself. These collectively accounted for 13% of all traffic referrals to sites. Notably, they are not where the purchases are being made for the most part, though.
+
+“Mobile traffic and sales are soaring as people are on the go once again this holiday weekend,” said Salesforce VP and GM, Retail, Rob Garf, in a statement. “Consumers are embracing mobile wallets to break down friction between discovering on social and purchasing on mobile.”
+
+— Retailers are really pushing out discounts to get people more willing to spend money this year. Both Adobe and Salesforce said in the U.S. discounts were up by about 28%. Categories that saw dramatic markdowns included toys, electronics and computers, per Adobe’s figures; respectively these saw sales up by 182% and 113% over last month.
+
+— Buy Now Pay Later (BNPL) remains a popular option for paying upfront. BNPL drove $390 million in online spend, Adobe said, up 7.5% on last year.
+
+We’ll update with more data later, and with Black Friday figures as they start to emerge.

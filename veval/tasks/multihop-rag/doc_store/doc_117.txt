@@ -1,0 +1,41 @@
+Hey, folks, and welcome to Week in Review (WiR), TechCrunch’s newsletter covering the past week (or so) in tech industry happenings. This week marked OpenAI’s first-ever dev conference, where the Microsoft-backed AI startup announced a host of new products. But that was far from the only item of note.
+
+In this edition of WiR, we spotlight Brian’s review of the 16-inch M3 Max MacBook Air and M3 iMac 24-inch; Mozilla betting on a decentralized social networking future; Ford shuttering a company that was building an app for plumbers, electricians and other trades; and Tim Cook’s thoughts on generative AI. Also on the agenda is WeWork officially filing for bankruptcy, Bumble getting a new CEO, and the spectacular failure of EV startup Arrival.
+
+It’s a lot to get through, as always — so we won’t delay. But first, a reminder to sign up here to receive WiR in your inbox every Saturday if you haven’t already done so.
+
+Most read
+
+OpenAI throws a dev day: OpenAI hosted its first-ever developer conference on Monday, and the company had a lot to talk about. Some of the more notable items announced were tools to create custom “GPTs” (i.e., domain-specific chatbots), new text-to-speech models, an API for the text-to-image model DALL-E 3, and an improved version of OpenAI’s flagship model, GPT-4, called GPT-4 Turbo.
+
+Mac attack: Brian reviewed Apple’s new 16-inch M3 Max MacBook Pro and the M3 iMac 24-inch. He found the iMac to be lacking and not necessarily worth the upgrade from the 2021 model, excepting the M3 chip, which brings “impressive” performance gains over the already-powerful M1. As for the M3 Max MacBook Pro, Brian reports that, at $2,500 (plus some pricey add-ons), it successfully splits the difference between the Mac Studio and MacBook Air.
+
+Mozilla bets on a decentralized future: Sarah spoke with Mozilla senior director of content Carolyn O’Hara, who outlined Mozilla’s strategy where it concerns the “fediverse” — a collection of decentralized social networking applications, like Mastodon, that communicate with one another over the ActivityPub protocol. The idea, O’Hara said, is to rethink social networking from the ground up.
+
+Ford shutters SaaS app for field work: Ford has shut down VIIZR, a software-as-a-service company that, along with Salesforce, built an app to help tradespeople like plumbers, locksmiths and electricians to schedule field appointments, send invoices and manage customers, Kirsten reports. VIIZR, which was announced in December 2021, was a separate company majority owned by Ford, with Salesforce as a minority investor.
+
+Apple bets on generative AI: Apple CEO Tim Cook pushed back against the notion that the company was behind in AI on Apple’s Q4 earnings call with investors, as he highlighted technology developments that Apple had made recently that “would not be possible without AI.” Cook also said that Apple was working on generative AI technologies, lending credence to reports suggesting the company is on track to spend $1 billion per year on developing generative AI products.
+
+WeWork goes bust: As predicted, flexible office-space firm WeWork has filed for Chapter 11 bankruptcy protection, listing over $18.6 billion of debt in a remarkable collapse for the once high-flying startup co-founded by Adam Neumann and bankrolled by SoftBank, BlackRock and Goldman Sachs.
+
+Slack’s loss, Bumble’s gain: Dating app Bumble announced a doozy this week: It’s replacing founder CEO Whitney Wolfe Herd with Slack CEO Lidiane Jones. Jones only started as CEO at Slack last year, stepping in for another founder CEO, Stewart Butterfield. Ron and Sarah write that — while Bumble now has a clear line of succession — the move leaves Slack in a bit of a pickle.
+
+Arrival fails to deliver: Arrival set out eight years ago to make electric vehicle production “radically more efficient.” So far, its plan to forgo the gigafactory for local microfactories has proved anything but, writes Harri — thanks to missed production targets, low cash reserves, layoffs and a pivot.
+
+Audio
+
+It’s winter, it ain’t getting warmer (at least here in NYC), and I’d argue that there’s no better place to be than snuggled up indoors with a podcast for company. If you’re in need of material, TechCrunch has a few that should definitely be on your radar.
+
+This week on Equity, the crew dove deep into the encouraging signs from the fintech startup market, starting with Klarna’s Q3 results. From there, they looked at buy now, pay later consumer behavior and fintech fundraising results with a 2021 flavor.
+
+Meanwhile, Found featured Nasrat Khalid of Aseel, which started as an e-commerce company making it possible for local artisans in Afghanistan to sell to customers across the world. It has evolved into working in humanitarian aid, delivering emergency food supplies to people in need in Afghanistan and Turkey.
+
+TechCrunch+
+
+TC+ subscribers get access to in-depth commentary, analysis and surveys — which you know if you’re already a subscriber. If you’re not, consider signing up. Here are a few highlights from this week:
+
+Another superconductor disappointment: Tim writes that a new, supposedly room-temperature superconducting material isn’t what the scientific community hoped it would be. With the Nature-published paper detailing the material facing retraction, the odds of researchers discovering a room-temperature superconductor are looking even longer.
+
+Klarna inches toward an IPO: Mary Ann and Alex write that Swedish fintech Klarna is taking steps toward an eventual IPO. The company has initiated a process for a legal entity restructuring to set up a holding company in the U.K. as an important early step in its plans for an initial public offering, a Klarna spokesperson tells TechCrunch+.
+
+The unicorn’s legacy isn’t over: It’s been 10 years since Cowboy Ventures’ founder Aileen Lee coined an incredibly catchy nickname for what were very rare startups at the time: Unicorns. TechCrunch+ spoke with Lee about how she feels about the term 10 years later, now that her venture firm is also a decade old.

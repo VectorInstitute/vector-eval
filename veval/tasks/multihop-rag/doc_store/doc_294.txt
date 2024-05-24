@@ -1,0 +1,53 @@
+In the break after Caroline Ellison stepped down from the stand, Barbara Fried engaged defense lawyer Christian Everdell in an animated conversation. Fried, the defendant’s mother, was gesticulating and clearly had a strong opinion about something. Everdell walked off, and Mark Cohen talked to her for a bit after that.
+
+Fried seemed frustrated, and I couldn’t blame her. The defense absolutely biffed the cross-examination of Ellison and, to make matters worse was unable to keep a recording of an all-hands meeting where Ellison confessed to taking customer funds from being played for the jury. Is this really the best the defense can do?
+
+In Cohen’s disorganized cross-examination, he mostly bored the jury
+
+Before this case, I had been told that Everdell and Cohen were “workman-like,” which I took to mean that they were unshowy but competent. I now believe that comment was an insult. I have been waiting for a juicy cross-examination, as I live for chaos and drama. I am beginning to think I am not going to get one.
+
+Ellison had given, in her direct testimony, fairly damning evidence tying FTX CEO Sam Bankman-Fried to the conspiracy to take FTX customer funds. There were fake balance sheets, one of which was sent to crypto lender Genesis. After a Genesis representative received the balance sheet, he texted Ellison to tell her he’d spoken to Bankman-Fried — strongly suggesting that Bankman-Fried was aware of the contents of the fake balance sheet. Not great!
+
+Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, is on trial for seven counts of wire fraud and conspiracy. FTX was a fraud “from the start,” the Securities and Exchange Commission alleges — with a “multi-billion-dollar deficiency caused by his own misappropriation of customer funds.” Follow along for all the latest news and regular updates from the trial.
+
+But a lot of testimony relied on Ellison recounting conversations she’d had in person, or on auto-deleting text messaging platforms. This gave the defense an opportunity to try to make her sound unreliable. After all, she had an incentive to flip on Bankman-Fried: the possibility of leniency in her sentencing. Given her fun tweets about speed, the fact that she was Bankman-Fried’s ex-girlfriend, and that she’d apparently written a bunch of stuff down, I was expecting fireworks. For the first time in this trial, maybe the defense had an opening.
+
+Instead, I got a sad trombone. In Cohen’s disorganized cross-examination, he mostly bored the jury. At one point, two different jurors appeared to be asleep.
+
+Midway through the morning I began wondering if there was a mercy rule for cross-examinations. Prosecutor Danielle Sassoon had run an effective direct examination, creating an easy-to-follow narrative. By contrast, Cohen appeared to be bumbling around, taking up one topic only to abruptly pivot. Sure, we’re still in the prosecution’s case, but Cohen had all night to prepare his lines of questioning.
+
+Apparently, Alameda had a problem with retaining accountants
+
+We established that Bankman-Fried had a much larger appetite for risk than Ellison. I thought perhaps it might be building to something, but this line of questioning was quickly dropped. We established that Bankman-Fried and Ellison reacted differently to stress, and that they also had different approaches to media: namely, that Ellison avoided it while Bankman-Fried sought it out. Okay?
+
+We discovered that there was one accountant at Alameda in 2021, and two more junior accountants were hired in 2022. Apparently, Alameda had a problem with retaining accountants, which didn’t surprise me much; CEOs generally don’t do the balance sheets for their companies. I was ready to hear this pursued further — but then it, too, was dropped.
+
+I think the defense was also trying to suggest that the government had coerced Ellison’s testimony, by suggesting that she had pleaded guilty to a charge of defrauding investors that she couldn’t have been involved in. After all, she didn’t prepare materials for them. Unfortunately, she did say that she had conversations with investors as part of their due diligence — and, of course, Alameda was taking on losses from FTX to keep FTX’s balance sheet pristine. This line of questioning felt like a waste of time.
+
+There were rather a lot of sidebars during the cross-examination, to the point that when one occurred, several jurors looked entertained. There were a few yesterday, too, including one in which the prosecution complained that Bankman-Fried was visibly scoffing at Ellison’s answers, according to the court transcript. (I did observe him occasionally shaking his head, and sometimes quivering at points during her testimony, but didn’t have a view of his face.)
+
+At one point, Ellison appeared to even be toying with Cohen
+
+As we were approaching lunch, several jurors looked annoyed, and Cohen looked clueless. He asked Ellison to define what “buy on the way down” meant, as though it were a term of art. (It means what you think it means, to purchase an asset that’s losing value.) This seemed to puzzle her. At other times, Cohen seemed to forget what she had testified to, bringing up things she hadn’t said. I don’t know if this was an attempt to trap her in a lie or just poor preparation, but much like FTX employee Adam Yedidia before her, Ellison was fastidious about making sure a question was clear and her answer was precise.
+
+At one point, Ellison appeared to even be toying with Cohen. She’d testified on direct about Luna, a cryptocurrency token. It had a sister token, Terra, that was a paired algorithmic stablecoin. (If you don’t understand what that means, it doesn’t matter, because they were both nonsense.) Cohen asked her about Terra/Luna and she pointed out she’d only spoken about Luna, leaving him to fumble about how to explain the relationship between the two tokens. She kept a straight face on the stand while I chuckled from the press seats.
+
+During the opening statement, Cohen had blamed Ellison for not taking out a hedge on some of the risks Alameda was trading. We heard more about this hedge in cross-examination, and friends, it was stupid. Forget evaluating the trade itself (hedging being long crypto by selling Nasdaq futures). Was she supposed to have taken more customer funds to put on the hedge? Was that the defense, that she didn’t take enough of them? Was it that she should have taken them sooner? What the fuck?
+
+When Sassoon got up for a quick redirect, she demolished any points Cohen had attempted to make. But I didn’t really appreciate her cleverness until after Ellison left the stand, and the jurors left the room. She’d managed to set a neat little trap for Cohen.
+
+In the recording, Ellison did indeed confess to stealing customer funds with Bankman-Fried’s approval
+
+On the direct examination, near the end, Sassoon asked about an Alameda all-hands meeting, without bringing up many specifics. During the cross, Cohen asked Ellison what topics were covered in the meeting, while avoiding details. That opened the door for Sasson on redirect to work in that Ellison had confessed to stealing billions of FTX customers’ money, at Bankman-Fried’s direction.
+
+There had been an open question of whether jurors would hear the tapes of Ellison’s remarks. The testimony set up an argument for the prosecution to bring in those tapes. The judge ruled in favor of the jury hearing the recordings and we briefly recessed.
+
+That was when Bankman-Fried’s mother approached the defense lawyers.
+
+The late afternoon was short and snappy. Christian Drappi, a former Alameda software engineer who looked like a handsome funeral director in a black suit and tie, testified briefly to set up the tape. When Changpeng Zhao, the CEO of Binance, announced on Twitter that he intended to acquire FTX, Ellison confessed the theft of customer funds to him and a few other employees, Drappi said. The all-hands took place the following day, and was secretly recorded by an employee who’d joined Alameda three days before.
+
+In the recording, Ellison did indeed confess to stealing customer funds with Bankman-Fried’s approval. Drappi said he resigned less than 24 hours after the meeting. The recording was later sent to Drappi, who sent it to the government. Joseph Bankman, the defendant’s father and a senior advisor to FTX’s philanthropic arm, wasn’t in the room for the recording. Barbara Fried looked unhappy, rubbing her left temple as though she had a tremendous headache.
+
+And in a small miracle of pacing, the government got Zac Prince, the founder and former CEO of crypto lender BlockFi, on the stand just long enough to blame FTX’s bankruptcy for BlockFi’s subsequent bankruptcy before we broke for the day.
+
+I’ve been asked by some people why the reporting coming out of the trial seems so skewed toward the prosecution. There’s an answer for this: the prosecution has put together a strong, comprehensive indictment of Bankman-Fried’s behavior at FTX and Alameda. The defense, so far, has managed to do almost nothing in response. I don’t know if Cohen and Everdell have bad facts, a bad client, or are simply untalented themselves (or some combination of all three?). But I do know that I haven’t yet seen any good reason to doubt the very convincing story I’m hearing from the prosecution.

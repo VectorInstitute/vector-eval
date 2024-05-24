@@ -1,0 +1,39 @@
+There’s something going on with AI startups in France In just a few months, dozens of French entrepreneurs have turned their focus to AI
+
+Last night, Motier Ventures held a tech meetup focused on AI startups featuring some of the most hyped tech startups in the French tech ecosystem: Dust, Finegrain, Gladia, Mistral AI and Scenario — all of them are portfolio companies of Motier Ventures. And you could feel a sense of excitement both onstage and in the audience.
+
+Artificial intelligence, just like in the U.S., has quickly become a buzzy vertical within the French tech industry. But this time, France seems particularly well positioned to become one of the main AI hubs of the world.
+
+And it shouldn’t come as a surprise. Tech giants have historically set up AI research labs in Paris, as there’s a large talent pool of PhD students in math, computer science and engineering. They usually graduate from Polytechnique, ENS or Inria. They sometimes move to the U.S. for postdoctoral research and then move back to France to join a research lab.
+
+For instance, Facebook (now Meta) created its Paris research lab back in 2015 with Yann LeCun at the helm of the AI initiative — this research group is called FAIR, for Facebook Artificial Intelligence Research. Google followed suit with its own AI research center dedicated to AI in Paris.
+
+“The FAIR team is extremely impressive. Just look at what they’ve done with Llama,” an entrepreneur told me yesterday. He recently had a private meeting with some of the engineers and scientists working on AI projects.
+
+And if you look at the founders of Mistral AI, the French AI startup working on open source large language models that raised a €105 million seed round ($112 million at today’s exchange rate), all three co-founders (Arthur Mensch, Timothée Lacroix and Guillaume Lample) previously worked at Google’s DeepMind or FAIR.
+
+Last night, Mistral’s co-founders put together a demo of Mistral AI in a ChatGPT-like interface called Mistral AI Chat. The demo was based on a new model called “mistral-70b-instruct-alpha01,” indicating that the team is actively working on a new model with more parameters so that it can be more competitive with sophisticated LLMs. According to a recent report from The Information, Mistral AI plans to raise as much as $300 million in the coming weeks.
+
+Mistral isn’t the only high-profile AI company in France. Poolside, a company that recently raised a $126 million seed round, plans to use AI to make it drastically easier to write code. Co-founded by Jason Warner, the former CTO of GitHub, and Eiso Kant, a serial entrepreneur who worked on Athenian and source{d}, the company has picked Paris as its home base.
+
+Dust, a company that is working on integrating large language models with internal corporate data from GitHub, Notion or Slack, also took the stage for a demo last night. At Dust’s office warming party, I realized that Dust shares its beautiful office building with Nabla, another French AI startup focused on helping doctors leverage large language models and co-founded by former FAIR engineers. This proves once again that an AI ecosystem is emerging.
+
+The founders of Mistral AI and Dust had to leave the meetup quickly after their demos as they were both invited for dinner at the Elysée Palace, the residence of Emmanuel Macron. So there’s also some public support for AI startups in France. An entrepreneur recently told me that multiple AI startups are working together on public tenders for government grants worth millions of euros as part of France 2030.
+
+One thing that might differentiate European AI startups from AI giants like OpenAI and Anthropic is that they’re thinking about regulation and compliance from day one. An interesting French AI startup in this field is Giskard, which is developing an open source testing framework, or “the best LLM antivirus in the market,” as Giskard co-founder and CEO Alex Combessie told me. I’ll have more to write about Giskard in the coming days.
+
+And another wave of stealth AI startups
+
+Earlier this week, The Information reported that Adaptive, an AI startup based in Amsterdam and co-founded by French AI researcher Julien Launay, was about to raise a seed around at a $100 million valuation. Adaptive helps companies iterate on their AI applications without relying on external data or annotations.
+
+A source confirmed that Index Ventures is leading the Adaptive round, with Iconiq and Motier Ventures participating.
+
+Another source told me that Index Ventures is also leading a seed round for an AI startup with a team split between Paris and London.
+
+In other news, I’ve heard that Steeve Morin, a key member of the team behind Zenly, a popular consumer app that was acquired by Snap, is also creating an AI startup called ZML. The team will focus on improving machine learning inference and other low-level tools.
+
+Maxime Germain, the founder of mental health startup Jour, which was acquired by Alan, is leaving Alan to start Heart Hands, an AI startup that is developing a “second brain in your pocket,” as an investor described it to me.
+
+Pierre Valade, the founder of Sunrise and Jumbo, is putting together a team for an AI startup currently called Chief of Staff. Hugo Mercier is working on an AI startup in stealth mode as well.
+
+I think it’s safe to call this new wave of startups a trend. While the overall tech ecosystem is still experiencing a downturn, there’s an absurd amount of activity among French startups at the early stage with new AI startups getting founded at a rapid pace and VC firms fighting for the most competitive funding rounds.

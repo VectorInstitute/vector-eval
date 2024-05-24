@@ -1,0 +1,39 @@
+The world is watching the humanitarian crisis in Gaza unfold in real time through firsthand accounts documented on, of all places, Snapchat.
+
+Israel has retaliated against Hamas’ October 7 attack with unprecedented force against the Palestinian territory, claiming over 9,000 Palestinian lives according to Gaza Health Ministry numbers reported by the Associated Press.
+
+The Committee to Protect Journalists reports that at least 30 journalists have been killed since Israel’s bombardment and total blockade of the region began, and journalists in Gaza say that without consistent access to food, water and power, it’s becoming “impossible” to continue reporting. Misinformation about the escalating violence is rampant on social media.
+
+Amid calls for a ceasefire, TikTok and X (formerly Twitter) users are urging followers to view the devastation of Gaza for themselves on Snap Maps, which has displayed hot spots throughout northern Gaza since the Israeli airstrikes started last month. You don’t need an account to view Snap Map — the desktop version of the map is publicly accessible.
+
+“Snap Maps is a WEALTH of real-time information and is an important source for all journalists who aren’t on the ground right now,” X user inejmydarling posted.
+
+Snap didn’t provide TechCrunch with hard data, but confirmed to TechCrunch that since October 7, the company has seen a “moderate” increase in submissions to public Stories from Gaza. The company also said that more people from around the world are viewing content from the region. In the weeks since Israel’s blockade of the territory began, screen recordings of the map, which displays bright red hotspots throughout northern Gaza, have been shared online.
+
+In recent videos posted from Gaza City on Thursday night, for example, users recorded bombings from their windows. Videos posted from the previous morning showed smoke rising from remaining buildings, demolished neighborhoods and people crowding around medical vehicles for treatment.
+
+I’m begging you guys to please PLEASE check snap maps. Look at the difference between the living conditions just a few miles away. The people of Gaza are posting these publicly for us to see and share. Please listen to them. These are all from today. You can check yourselves pic.twitter.com/L7LWjigk5t — 𝓜 ❀ ◓ (@uchihassasusaku) October 29, 2023
+
+Snap Map first launched in 2017 as a location-sharing feature that lets users see where their friends are posting Stories from, displayed on an interactive map. Users can also share their content to “Our Story,” a collaborative public archive of Stories posted from popular locations, which are displayed as hotspots on a “heat map.” If many users are posting Stories from around the same location, like a music festival, it’ll show up on the heat map.
+
+In the years since Snap Map launched, it’s become an unexpected resource for keeping up with current events and highlighting political protests. Following the mass shooting at a high school in Parkland, Florida in 2018, students used the map to document and archive the nationwide classroom walkout demanding stricter gun control. During the Black Lives Matter protests in 2020, Snapchat users posted videos expressing solidarity and recording instances of police violence against protestors.
+
+This also isn’t the first time that Snap Map has been used to demonstrate the disparity between Israeli cities and occupied Palestinian territories. The May 2021 court ruling to evict Palestinian families from Sheikh Jarrah prompted weeks of protests internationally, and violent fighting between Hamas and Israel. On Snapchat’s heat map, Stories posted throughout Israel showed users washing their cars and celebrating their birthdays. Stories posted from Gaza documented a neighborhood reduced to rubble.
+
+Snap Map is especially relevant as other mapping sites limit features in the region at the request of the Israel Defence Forces (IDF). Google disabled live traffic conditions in Israel and the Gaza Strip for Google Maps and Waze last week, Bloomberg reports, “out of consideration for the safety of local communities.” Users can still use navigational features to get around, but aren’t able to see real-time traffic data, according to Bloomberg, because live updates could reveal the Israeli military’s movements. The Hill reports that Apple Maps took similar action in compliance with the IDF’s request.
+
+The company isn’t indifferent to geopolitical conflict, however. Last year, Snap disabled its heat map in Ukraine as a “safety precaution,” The Verge said, to prevent Russia from tracking civilian evacuations. Instead, Snap displayed a “curated feed” of public Stories.
+
+A spokesperson for Snap told TechCrunch that Snap Map will stay live to allow users to continue sharing their experiences during the crisis, and that the company is monitoring hot spots for content that may spread misinformation or incite violence. Snap will “closely assess” if it needs to take additional action.
+
+The spokesperson also acknowledged that Snap Map is a crucial resource for “authentic user-generated content” from perspectives that may not be reflected by traditional news outlets.
+
+Snap Map has served as an alternative source of eyewitness accounts during times of social unrest, as young people increasingly perceive news media reporting as “biased.” Trust in legacy media is waning in younger generations — a 2022 Pew Research Center survey found that American adults under 30 trust information from social media nearly as much as they trust information from national news outlets. A report conducted by the Knight Foundation earlier this year concluded that perceptions of political bias in news have increased, and young people hold more negative perceptions of news media than their predecessors. Younger people also consume the most online news, but report the lowest trust in national news outlets.
+
+Although Snapchat isn’t immune to misinformation, it’s worth noting that spreading fake content via Our Story isn’t as easy as reposting a video on X or TikTok. Users can upload content from their camera roll to their own Stories, but it won’t be eligible for Our Stories. Snap encourages users to “capture what’s happening” around them to increase their chances of making it to Our Stories. The submission guidelines say that the company looks for “Snaps that provide a window into everyday life.”
+
+Users are also turning to Snapchat for information about Gaza as accusations of shadowbanning Palestinian content fuel distrust in platforms like Instagram and Facebook. Meta’s policies aren’t dissimilar to Snap’s Community Guidelines, which prohibit pornographic content, content that advocates or advances terrorism and content that portrays gratuitous or graphic violence. Allegations of censorship against Snapchat aren’t as frequent as they are against Meta’s platforms, but many users are still urging others to screen record Stories posted from Gaza in case they are taken down.
+
+Some are also concerned that internet access in Gaza, which was partially restored after Israel imposed a communications blackout, will be cut again. TikTok creator divergentredhed posted that she watched the blackout happen in real time on Snapchat.
+
+“Right there in Gaza it was like a hotspot of Snapchat Stories. It was yellow and green and red … all of it just went dark. The entire Gaza Strip went dark before my very eyes,” she said. “I’m just going to spend the next few days uploading all of the content I have from Snapchat, from the people themselves.”

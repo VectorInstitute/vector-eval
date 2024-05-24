@@ -1,0 +1,91 @@
+Hi, friends! Welcome to Installer No. 14, your guide to the best and Verge-iest stuff in the world. (If you’re new here, welcome, you’re my favorite, so happy you’re here, and also, you can read all the old editions at the Installer homepage.)
+
+I also have for you a rundown of the best tools for managing money, new gadgets from Valve and Humane, way too many writing apps, new stuff from ChatGPT, and much more.
+
+As always, the best part of Installer is your ideas and tips. What are you into right now? What have you been reading / watching / learning / doing that everyone should know about? Tell me everything: installer@theverge.com. And if you know someone else who might enjoy Installer, forward it to them and tell them to subscribe here.
+
+Big week in the Installerverse! Let’s get to it.
+
+Installer / A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe. Email (required) Sign up By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+The Drop
+
+Group project
+
+Last week, I asked you to share what systems you use for managing money. With the news that Mint was shutting down (which, ugh), I think a lot of people were left suddenly looking for a new way to easily keep track of their budget and spending. I figured y’all might have some good ideas. (The Verge’s Barbara Krasnoff also put together a list of Mint alternatives, and it’s a really good place to start.)
+
+Once again, you came through! I got a ton of emails, texts, and mentions with good ideas for apps and systems for making this all work. Also, a lot of people who are very cranky with Mint, and trust me, I feel you on that.
+
+One note before we get into it: you should, of course, be careful about where you manage your money and financial information and to whom you give access to any of that data. Many of the apps we’re about to talk about are popular and highly regarded, but you should always be cautious with this stuff. My credit score also once got dinged because I had signed up for too many personal finance apps — true story — so there are lots of reasons to be thoughtful here.
+
+Cool? Cool. Let’s run through some of your ideas and findings:
+
+YNAB is the big winner. YNAB, which stands for You Need A Budget, was the overwhelming most popular recommendation I got this week. Folks liked that you can sync all your accounts and cards, that it’s an independent app you pay for instead of being bombarded by ads and credit card deals, and that it has a specific set of principles and systems you can just pick up and start using.
+
+YNAB, which stands for You Need A Budget, was the overwhelming most popular recommendation I got this week. Folks liked that you can sync all your accounts and cards, that it’s an independent app you pay for instead of being bombarded by ads and credit card deals, and that it has a specific set of principles and systems you can just pick up and start using. Copilot is the other go-to. Copilot is much more polished than YNAB, and people love the app’s design, its dataviz tools, and just how easy it is to interact with. It’s only for iOS and Mac, which is unfortunate, but as finance apps go, it seems to be unbeatably fun to use.
+
+Copilot is much more polished than YNAB, and people love the app’s design, its dataviz tools, and just how easy it is to interact with. It’s only for iOS and Mac, which is unfortunate, but as finance apps go, it seems to be unbeatably fun to use. There are a lot of apps worth a look. Other apps you recommended, in rough order of popularity: Qapital , Buddy , Empower , HomeBank , Expenses , Quicken , EveryDollar , Nudget , Ledger , and Dime .
+
+Other apps you recommended, in rough order of popularity: , , , , , , , , , and . Don’t sleep on spreadsheets. I heard from a number of people who said they’d tried the apps and built the systems but ultimately landed on a good ol’ spreadsheet in Excel or Google Sheets for tracking their spending. Especially for folks who just want a rough “here’s what I have, here’s where I want it to go” outline, you can’t beat the ‘sheet. (Is that a thing people say? I’m going with it.)
+
+I heard from a number of people who said they’d tried the apps and built the systems but ultimately landed on a good ol’ spreadsheet in Excel or Google Sheets for tracking their spending. Especially for folks who just want a rough “here’s what I have, here’s where I want it to go” outline, you can’t beat the ‘sheet. (Is that a thing people say? I’m going with it.) Templates are your friend! A few people recommended Tiller as a way to make the Excel and Google Sheets setup a little cleaner and more automatic. This Notion template got some love, too.
+
+A few people recommended as a way to make the Excel and Google Sheets setup a little cleaner and more automatic. got some love, too. The manual way can be the way… but it’s more work. Some of you love having custom-built systems that you can tend to for a few minutes a week, and there’s certainly no beating “it’s just a file on your computer that you own.” But almost everyone who recommended this strategy also said it’s a lot of work and can be too easy to give up on.
+
+Some of you love having custom-built systems that you can tend to for a few minutes a week, and there’s certainly no beating “it’s just a file on your computer that you own.” But almost everyone who recommended this strategy also said it’s a lot of work and can be too easy to give up on. Or maybe just use your bank. A lot of banks now offer budget tools from right within your banking app, so you can manage your money right next to where it lives. (I hear good things about SoFi’s features on this front.) If you do most or all of your banking in one place, a few folks said this is the way.
+
+Personally, after reading all your notes and doing some research, I’m going to give Copilot a run. I’ve tried YNAB in the past, and it’s great, but I just did a bad job keeping up with it. I’m also going to make an epic 2024 budget spreadsheet and see how far that gets me.
+
+Screen share
+
+Kevin Nguyen, a deputy editor at The Verge, warned me when I first asked him to do this that he had four different writing apps on his homescreen. To which I said: sold, bring it on, we love an obsessive homescreen setup.
+
+Then Kevin followed up and said, “Oh, sorry, it’s actually five writing apps.” Kevin gets it. Here’s Kevin’s homescreen, plus some info on the apps he uses and why:
+
+The phone: iPhone 15 Pro (already lightly scratched my screen).
+
+The wallpaper: My background is actually my partner, but she would be mortified if I posted a photo of her here, next to a bunch of apps, so you guys just get Toshiro Mifune.
+
+The apps: Years ago, I read this interview with novelist Donna Tartt about her writing process. I assumed, as a famous person of letters, she would have an elaborate, possibly pretentious system — at least an especially fancy leather Moleskine. It turns out she just kept four different notebooks: cheap ones, sporting different Beatles album covers, each serving a different purpose. I forgot what each was for, but it was something like “Revolver is for characters, Sgt. Pepper’s is for plot.”
+
+I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer, Google Docs, Bear, Apple Notes, and Scrivener, and they all have more weaknesses than strengths. Each feels like it’s been designed for a fairly specific use case. But that’s not really the point. I know that when I open iA Writer, it’s to try and get words down as quickly as possible. Docs is for revising and fidgeting. Bear is for thoughtful notes. Notes is for garbage notes (I really hate that app, but it also syncs our household grocery list). Scrivener is its own beast, built from the ground up for real sickos (authors).
+
+I’m sure five apps that do essentially the same thing sounds like a nightmare to some people. But for me, writing and editing is a messy process, like trying to capture lightning in a bottle. Or I guess, in this case, five different bottles.
+
+Non-writing apps: Wallet, Google Authenticator, Photos, Camera, Google Maps, Settings, Clock, Chase, Arc (the iOS app is fairly incomplete, but it will sync with your sidebar, so I’ll open a bunch of tabs, then read those links on my phone when I get on the subway), Slack, Hello Weather (my salvation since the death of Dark Sky), Pins (I use Pinboard to save longform stories, and I meticulously tag them with the kind of notes you might expect from a features editor), Letterboxd (quietly the best social app and a great way to triangulate what’s out, streaming, or in theaters — if two or three friends have all logged an older film recently, it probably means it just hit Criterion or there’s a revival at IFC).
+
+As always, I also asked Kevin to share a few things he’s into right now. Here’s what he sent back:
+
+Surround by Hiroshi Yoshimura . This recently released ambient record was originally made to be the music of… prefab homes? But it reveals so much on closer listen: shimmering drone, swirls of pleasing synths, a touch of humor. Still, if you’re lazy like I am most days, you can just put it on while you work and let it wash over you.
+
+This recently released ambient record was originally made to be the music of… prefab homes? But it reveals so much on closer listen: shimmering drone, swirls of pleasing synths, a touch of humor. Still, if you’re lazy like I am most days, you can just put it on while you work and let it wash over you. Same Bed Different Dreams by Ed Park . I’m halfway through Ed Park’s long-awaited second novel, and so far, it’s a funny, genre-busting saga that is deeply obsessed with Korean history. For fans of anyone who is wanting a big, immersive read who is usually daunted by a big, immersive book.
+
+I’m halfway through Ed Park’s long-awaited second novel, and so far, it’s a funny, genre-busting saga that is deeply obsessed with Korean history. For fans of anyone who is wanting a big, immersive read who is usually daunted by a big, immersive book. Anatomy of a Fall. I reviewed this courtroom thriller when it premiered at New York Film Festival, and now you can catch it in select cities. A dark, twisty murder mystery that surrenders itself to a much richer set of questions than your usual whodunit. The best thing in theaters at the moment! (And in general, I recommend going to the theater. Replace your screen time with the biggest-possible-screen time.)
+
+Crowdsourced
+
+Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.
+
+“There’s a website called RetroAchievements that adds trophies to old-school games. It’s a great excuse to go back and play games from your childhood or games you never got around to playing.” – Nick
+
+“Fluttermind, the Moonring dev, hasn’t ported the game to Mac yet, but I did discover some of their other games, and I’ve started to play Spellrazor. It’s a very interesting haunted arcade game.” – Drake
+
+“Just finished The Kids of Rutherford County, the new podcast from the Serial folks, and it was great. Reading Adam Grant’s new book, Hidden Potential. Not done yet, but it’s excellent so far, especially for someone like me who struggles with imposter syndrome.” – Nick
+
+“Castro, my favorite podcast app. I appreciate the way that it treats episodes more like emails so I can queue, save for later, or delete them individually. After using it, I can’t move to any other podcast app.” – Mike
+
+“Found the show Detroiters. Really fun 30-minute comedy starring Tim Robinson and Sam Richardson, with their sensibilities.” – Travi
+
+“I’m playing a game called Chants of Sennaar right now, and it is unlike any other puzzle / logic game I have played. You wake up in a tower with different classes of people on each level, and they all speak different languages (and obviously, you don’t know any of them). You try to learn each language through context from people or environment. It is super chill but challenging.” – Bahadir
+
+“I stumbled upon the Beli app for tracking and discovering restaurants, and it is by far the best option for that sort of thing, far better than a crowded Google Maps or noisy FourSquare. It has a lot of potential in its ability, and you get to keep discovering features as it learns about your preferences.” – Rich
+
+“I have recently gotten into the 60 Songs That Explain the ‘90s podcast. I am definitely not an early adopter here but am loving the deep dives on the songs paired with just the right amount of sarcasm and history.” – Antek
+
+“I’m pumped for the finale of Scavengers Reign! Really enjoyed the season with fantastic planet symbiotic flora, Aeon Flux adult animation / themes, and not everyone is making it out alive.” – BG
+
+“For over 15 years I have made a regular pilgrimage to Kriegs.net to check out the wallpaper that he puts out consistently by the start of the month. The design is usually themed to the season and comes with the option of a calendar in the image. I don’t know if this is a widely known resource, but it has always felt like a little secret that only I know about, which I am now willing to share.” – Jonathan
+
+Signing off
+
+This weekend, pour one out for Tumblr, one of the most interesting social networks on the internet, which appears to be in trouble. It’s not dying, but it’s not… not dying, you know? Whatever happens next, this state of affairs is a bummer for a lot of reasons, including that Tumblr promised to work with ActivityPub — which would have been a big win for the fediverse — and I think is still maybe the web’s best and most versatile posting tool. Matt Mullenweg, the CEO of Automattic (which owns Tumblr), spent a bunch of time this week answering people’s questions about the future of Tumblr, and it paints a sad but interesting picture of what it really takes to build a better social network. It’s all making me root for Mastodon even harder.

@@ -1,0 +1,65 @@
+Apple sells MacBooks equipped with its own M-series chips in a wide range of sizes and price points. The offerings start with the 13-inch MacBook Air from 2020 at $999 and go all the way up to the latest 16-inch MacBook Pro starting at $2,499. But finding a deal on a current Mac with an M1, M2, or even the new M3 chip — as well as the higher-end M3 Pro and M3 Max — is actually not that difficult.
+
+While Macs may not experience perpetual discounts, it’s not uncommon to see various current models discounted by as much as $400. Alternatively, purchasing refurbished options directly from Apple is another way to save money without as much waiting for the changing winds of deals to blow your way. Apple’s refurbished store provides a one-year warranty on all products and generally offers discounts of up to 15 to 20 percent off the price of a new unit.
+
+But if you want to buy new and you’re looking to save whatever you can, here are the best MacBook Air, MacBook Pro, and Mac Mini deals available right now.
+
+A note about discounted Intel-based Macs At this point, we don’t recommend buying any older Intel-based Macs. Retailers may try to tempt you with very low prices on leftover new or refurbished stock, but there’s a reason nobody wants them anymore. They’re completely outclassed by all the newer models, unless you have some super-niche Windows Boot Camp needs — and even then, consider what Windows apps you really need and if they work with Parallels.
+
+The best MacBook Air deals
+
+M1 MacBook Air
+
+The MacBook Air is Apple’s entry-level laptop. It’s best suited for typical productivity work, with a comfortable keyboard, an excellent trackpad, and all-day battery life. The redesigned M2 version of the MacBook Air has been with us for a bit — there’s now even a 15-inch M2 Air — but the 2020 version with an M1 processor and fanless design remains in the lineup as the budget option. For many people, the M1 Air still ticks the right boxes when it comes to performance and price, even if it’s long enough in the tooth to have been fully dethroned in our guide to the best laptops.
+
+The base MacBook Air with the M1 chip comes with 8GB of RAM and 256GB of storage. It typically sells for $999, but Amazon and Best Buy are currently discounting it to $749.99 ($250 off), matching its lowest price. The M1 Air may be a few years old now but it’s still hard to beat in terms of value — especially when it comes to everyday performance and battery life.
+
+M2 MacBook Air
+
+As for the newer, fancier 13-inch MacBook Air with M2, the base model with 256GB of storage and an eight-core GPU recently got a price drop. Along with introducing a 15-inch M2 Air, Apple announced during this year’s WWDC that the 13-inch model now starts at $1,099 instead of $1,199. As for deals, the 13-incher is currently selling for $899 ($200 off) at B&H Photo, Additionally, Best Buy and B&H Photo are offering an equal diacount on the upgraded configuration, which can be had with a 512GB SSD and 10-core GPU for $1,199 ($200 off).
+
+The M2 MacBook Air is a super slim and light laptop with a 1080p webcam that’s actually usable as well as a handy magnetic charger that frees up one of its precious two USB-C ports. Its M2 processor didn’t kick-start a revolution like the M1 generation, but it’s a great performer for any user outside of more demanding creatives.
+
+It does have some slight downsides, like slower storage in the base 256GB configuration and a notch cutout in its otherwise excellent screen. But even so, there hasn’t been a more travel-friendly laptop offered by Apple since the days of the polarizing 12-inch MacBook, and this one’s good enough to be the No. 1 laptop we now recommend in our buying guide.
+
+The newer 15-inch MacBook Air with M2 is a lot like a blown-up 13-inch Air, and judging from our glowing review, there’s nothing wrong with that. Like its smaller counterpart, it has an M2 chip, two Thunderbolt 4 / USB-C ports, MagSafe charging, and its base model comes with a 256GB SSD and 8GB of RAM. But it differs by having a larger, 15.3-inch notched screen with 2880 x 1864 resolution, six speakers instead of four, a 10-core GPU that costs extra on the 13-inch, and a higher starting price of $1,299. Bumping up to a larger, faster 512GB of storage will run you $1,499.
+
+Surprisingly, the 15-inch M2 Air started receiving some discounts even before it shipped, which let early adopters save between $50 and $100. As of right now, you can get it $300 off by ordering it at Amazon or Best Buy, where it’s currently selling for $999. The expanded 512GB model is also $300 off at Best Buy, selling for $1,199.
+
+The best MacBook Pro deals
+
+The MacBook Pro line is once again in a transitional phase. Apple announced Macs using a new M3 processor at its “Scary Fast” event the night before Halloween, including a new 14-inch MacBook Pro that replaces the 13-inch M2 model. That means Touch Bar Macs are finally dead, but some of those outgoing M2 models are still available for now. You’ll find any deals on them further down, but first, let’s focus on the new M3 generation.
+
+M3 and M3 Pro MacBook Pro
+
+The new entry point into the MacBook Pro world is a MagSafe-equipped MacBook Pro that uses the existing 14-inch design and slightly pares it down. The 14-inch M3 MacBook Pro has the same 3024 x 1964 resolution display and 120Hz refresh rate as its pricier siblings, and in addition to a MagSafe charging port, it has an SD card slot and HDMI port. However, it starts with just 8GB of RAM and lacks the third USB-C / Thunderbolt port found on the M3 Pro and M3 Max models (as well as Thunderbolt 4 speeds).
+
+The M3 MacBook Pro may be a bit of an odd middle child in some ways, but it’s still a very good laptop — especially if you can get it on a deal that puts more price distance between it and the M3 Pro version. We’ve already seen the base model with 512GB of storage on sale for $150 off during Black Friday and Cyber Monday, and right now, it’s actually available for an even better $1,399 ($200 off) at Amazon, Best Buy, and B&H Photo. The 1TB configuration is also selling for its all-time low of $1,599 ($200 off) at Best Buy and B&H Photo, while the configuration with base storage and 16GB of RAM is selling for $1,599 ($200 off) at B&H Photo. That said, if you plan on going with a higher-spec configuration than that, you’ll likely want to spring for the M3 Pro model instead (see below).
+
+The 14- and 16-inch MacBook Pros for late 2023 are another round of spec-bump models, much like their previous 2022 incarnations. Now starting with the M3 Pro chip (or the speedier M3 Max) and 18GB of base RAM instead of 16GB, the new models remain targeted at creatives doing content work like video editing, photo processing, and other graphical work. Like their predecessors and the M1 Pro generation before that, they offer MagSafe charging, three USB-C / Thunderbolt 4 ports, HDMI-out, and a full-size SD card slot, with prices starting at $1,999 for the 14-inch and $2,499 for the 16-inch. You can, of course, spec them up the wazoo if you’re willing to pay more, as exhibited by the review unit Apple sent us of the 16-inch model, which cost an eye-watering $7,199.
+
+While these models are still quite new, versions that actual humans buy have begun receiving discounts. The 14-inch MacBook Pro in its base configuration with the M3 Pro (11-core CPU / 14-core GPU), 18GB of RAM, and 512GB SSD is currently on sale for $1,749 ($250 off) at B&H Photo. A similar version with 1TB of storage and a 12-core / 18-core M3 Pro is down to $2,149 (also $250 off) at B&H Photo. As for the base 16-inch MacBook Pro with the M3 Pro (12-core CPU / 18-core GPU), 18GB of RAM, and a 512GB SSD, it’s selling for $2,249 ($250 off) at Amazon and B&H Photo.
+
+M2 Pro MacBook Pro
+
+As for the 14- and 16-inch MacBook Pros from early 2023 with M2 Pro / Max processors, they’re still more than capable — they may even be a better buy than the new models if you can find them at a steep discount.
+
+For example, the base 14-inch MacBook Pro with an M2 Pro chip, a 512GB SSD, and 16GB of RAM is selling for $1,629 ($370 off) at Amazon, which is a new low price that may not last very long. However, the 14-inch model with 1TB of storage, a 12-core M2 Pro CPU, and 19 GPU cores is down to $1,999 (a steep $500 off) at B&H Photo. Now we’re talking!
+
+Sadly, the situation isn’t quite as good for the 16-inch MacBook Pro with the M2 Pro. The best (and only) deal available right now on the creator-friendly laptop is at Amazon, where you can grab the base M2 Pro model for $2,299.99 ($200 off) with 512GB storage. That’s not great, but hopefully we see better deals before the laptop is no longer available new.
+
+M1 Pro and M1 Max MacBook Pro
+
+For now, the older 2021 MacBook Pros can occasionally be had for some steep discounts that actually make a two-generation-old laptop still worth considering. You’re unlikely to find any base models still kicking around, but if you want a souped-up configuration on the cheap, you may be in luck.
+
+The 16-inch MacBook Pro from 2021 with 16GB of RAM and an expanded 1TB of storage is available at B&H Photo for $1,799 ($900 off). However, you can also get a tricked-out M1 Max (10-core CPU / 32-core GPU) model with 64GB of RAM and 2TB of storage for $2,499 ($1,800 off) at B&H Photo. I know that’s not exactly affordable, but that laptop once sold for $4,299 and still performs well in 2023.
+
+The best Mac Mini deals
+
+The latest Mac Mini comes in a base configuration with Apple’s M2 processor or in a more powerful configuration with the M2 Pro. It’s an excellent upgrade to one of the most affordable yet performant desktop computers you can get (as long as gaming isn’t your priority). The M2 Mac Mini starts with 8GB of RAM and a 256GB SSD for $599, while the M2 Pro model features a superior processor plus gigabit ethernet, 16GB of RAM, and 512GB of storage for $1,299.
+
+The latter model also features an expanded port selection, from two USB-C ports to four. It’s almost like getting an M2 Pro-powered MacBook Pro 14 but in desktop form. However, keep in mind that buying any Mac Mini means you have to provide your own mouse, keyboard, and monitor.
+
+Right now, the base M2 Mac Mini is selling for a new all-time low of $479 ($120 off) at Amazon and B&H Photo, while the M2 Pro version is selling for a respectable $1,149 ($150 off) at B&H Photo. The M2 Mac Mini remains a great value for a desktop computer, with the M2 Pro version functioning like a baby Mac Studio for much less.
+
+Related The best thing about my Mac Studio is its mustache

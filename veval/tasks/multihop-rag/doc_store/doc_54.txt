@@ -1,0 +1,69 @@
+It is honestly kind of incredible to watch a man torpedo his own credibility on direct testimony. We’re not even at the cross yet, and the judge has already instructed him to answer the question he’s being asked by his own lawyer.
+
+The jury is watching all of this intently.
+
+The main thing that’s been clear so far from Bankman-Fried’s testimony is that the man really loves the sound of his own voice. So far, the count of “Objection, narrative!” to Bankman-Fried’s answers, followed by “Sustained” is at three.
+
+Also, sometimes when Bankman-Fried says “we,” he only means himself.
+
+Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, has been found guilty on seven counts including charges of wire fraud. FTX was a fraud “from the start,” the Securities and Exchange Commission alleged — with a “multi-billion-dollar deficiency caused by his own misappropriation of customer funds.” Follow along for all the latest news and regular updates from the trial.
+
+Yesterday, during an evidentiary hearing, Bankman-Fried was repeatedly scolded by Judge Lewis Kaplan for not answering prosecutor Danielle Sassoon’s questions on cross-examination. Today, Bankman-Fried was scolded by Kaplan for not answering his counsel Mark Cohen’s questions on direct examination. Bankman-Fried has also occasionally interrupted Cohen with “yes” and “yup.”
+
+We spent a lot of the morning explaining vocabulary. I will spare you the full list, though I will say that explaining “Amazon Web Services” and “database” was a bit too detail-oriented. Then Bankman-Fried tried to define “market manipulation.” After Bankman-Fried gave his definition, Kaplan told the jury that he was the final authority on that, thanks.
+
+In fairness to Bankman-Fried, he has been clearer and much easier to understand than he was at the evidentiary hearing yesterday. There was a minimum of word salad today. I don’t know if he was more relaxed, or he’d just been more rehearsed, but I will certainly be watching to see if he suddenly becomes much less coherent when Sassoon gets him for the cross.
+
+Here is the story of FTX, from his point of view.
+
+Bankman-Fried, who informed us he’s “somewhat introverted, naturally,” gave us a rather prolonged tour of his pre-Alameda Research life, which I will skip. In 2017, during a crypto bull run, he started his cryptocurrency trading firm. He knew “basically nothing” about cryptocurrency at the time, he explained, but he wanted to do arbitrage on it anyway.
+
+Alameda Research was named for Alameda County in California, which was where its first office was set up. As for its name, here’s what Bankman-Fried said on the stand:
+
+Effectively, we wanted to be under the radar at that point in time. I didn’t want to call it Sam’s Crypto Trading Firm or anything like that. We — there are a lot of competitors and people who we didn’t particularly want to know what we were building out because they would race to do it. “Research” was a sort of generic word, which filled out the company name. And that was — it was far better than the internal name that we had at that point, which was Wireless Mouse.
+
+I would find this much more believable if I hadn’t already watched a video of Bankman-Fried explaining on a podcast that the name made it easier to get a bank account. That happened during the first day of Gary Wang’s testimony. Bankman-Fried was there, too. You know who else was there? The jury.
+
+Anyway, Bankman-Fried went on a hiring spree for Alameda. He rounded up his merry gang of alleged co-conspirators. First, Wang, to program the computers. Then, Nishad Singh, about a month after founding Alameda Research. Finally, Caroline Ellison.
+
+Not having a risk team, when you are any kind of financial anything, is certainly a choice
+
+Though Bankman-Fried was the CEO, and also the majority owner, he wanted to be clear: he did not supervise Wang’s direct work. Anyway, after a bunch of wildly successful arbitrage — 50 percent to 100 percent annualized returns, per his testimony — he decided to found a cryptocurrency exchange, FTX. He figured he’d fail; that there was only a 20 percent chance of success. Bankman-Fried did not define what he expected the time period to be on this estimate, but arguably 20 percent was a much higher chance of success than FTX would enjoy once Alameda dipped into the customer deposits.
+
+By the way, because he was such a good guy, Bankman-Fried made a point of “periodically” handling support tickets himself. “I worried if I didn’t, I would lose touch with the actual concerns of the customers,” he testified. What he did not do was create a risk team, which he is now characterizing as a “big mistake.”
+
+Risk is an inherent part of a futures exchange, which is even more like a casino than regular cryptocurrency. Not having a risk team, when you are any kind of financial anything, is certainly a choice. It is especially a choice when you go around telling everyone your crypto exchange is very good and safe.
+
+FTX’s big selling point was its “risk engine,” which was supposed to prevent big losses that would then be spread around all the rest of the customers. But Bankman-Fried testified that in 2020, the “risk engine was effectively sagging under the weight” of the exchange’s rapid growth. So its time to liquidation went up — it took minutes to determine which accounts needed to be liquidated. As a result, at one point the risk engine got stuck in a catastrophic feedback loop that would have created losses in the “trillions of dollars,” Bankman-Fried testified. As part of that feedback loop, Alameda teetered on the brink of liquidation, which “would have disastrous consequences” for FTX.
+
+“At the time, I wasn’t entirely sure what was happening.”
+
+Because of that experience, Bankman-Fried suggested an “alert” or “delay” that would keep Alameda from being liquidated by a bug. This is the supposed origin story of “allow_negative,” which Bankman-Fried says was the eventual result of that conversation, and that he says he didn’t know about until very recently.
+
+There is a problem with this story. “Allow_negative” was coded and switched on in 2019. I saw the code in court, and so did Bankman-Fried, who was also there for the testimony. Perhaps you are wondering, was the jury also there? Reader, it was.
+
+Bankman-Fried denied he knew about the effectively infinite line of credit Alameda Research received from FTX. This argument was peculiar; essentially my take-away was that the CEO of a financial company simply didn’t pay attention to finances.
+
+FTX couldn’t get bank accounts right away. Bankman-Fried anticipated it would take a year or two. Rather than wait, he decided to use Alameda as the “payment provider” for bank transfers. “My understanding at the time was that there were teams managing the process,” he said. “At the time, I wasn’t entirely sure what was happening.”
+
+Well, sure, understandable! He’s an introvert!
+
+Bankman-Fried definitely did not know that Singh, his employee, had backdated interest payments to get FTX “over the line” to $1 billion
+
+In 2021, FTX was growing to millions of users, with $1 billion of revenue. Bankman-Fried said he worked 12 to 22 hours a day, and took one day off every couple of months. Because FTX had grown so much, he could no longer run both companies, he said. Bankman-Fried handed the company off to Caroline Ellison and Sam Trabucco, who immediately after being named co-CEO promptly drifted away to early retirement. (Quiet quitting king!) Bankman-Fried did remain involved in hedging and risk at Alameda, though.
+
+About that $1 billion of revenue in 2021: Bankman-Fried definitely did not know that Singh, his employee, had backdated interest payments to get FTX “over the line” to $1 billion. See, he’d just asked his employees to check and see if there was any source of funds that was missing to get to $1 billion. This testimony was especially rambling.
+
+Oh, also that MobileCoin loss? The one Wang said Alameda took to keep off FTX’s balance sheet? Yeah, so it was a totally innocent thing where what actually happened was that Bankman-Fried thought it was appropriate that Alameda take the position as a backstop liquidity provider, that’s all.
+
+In June 2022, Bankman-Fried heard about the account called “fiat@ftx” tracking how much money Alameda owed to FTX, he testified. He did not know what it was and did not bother to find out. He was busy! That was when Bankman-Fried directed Ellison to repay Alameda’s lenders, because he thought Alameda was good for it. He also gave BlockFi and Voyager, two crypto lenders, some capital infusions for good measure.
+
+He was “very surprised!”
+
+Remember that testimony Adam Yedidia gave about a conversation with Bankman-Fried in August 2022 about the enormous amount of money Alameda owed FTX? Well, Bankman-Fried remembers it differently. See, Yedidia was just asking about Alameda’s risk profile, and Bankman-Fried wasn’t talking about insolvency at all.
+
+Also, when Singh and Bankman-Fried had the dramatic balcony conversation at their penthouse, it was just that Singh thought Alameda’s liabilities had gotten too high, and FTX was spending too much money on marketing. But Bankman-Fried still thought that Alameda had more assets than liabilities, so it was all fine, and besides, if Singh thought he was going to be better at marketing, he could take it over. It didn’t have anything to do with the money Alameda owed FTX at all.
+
+Of course not! Bankman-Fried didn’t learn about the $8 billion liability associated with Alameda until October 2022, he said. And he learned it all by himself, by looking at a computer database. When he found it, he was “very surprised!”
+
+Besides the two obvious lies Bankman-Fried told on the stand — about Alameda Research’s name and about “allow_negative” — I have been struck by how little he seems to know about his own companies. Apparently, Singh, Wang, and Ellison were out there just doing whatever their little hearts desired. Because Bankman-Fried was a CEO, but definitely not the kind that pays any attention to money at his crypto trading firm and futures exchange.

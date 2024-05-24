@@ -1,0 +1,33 @@
+Norway’s data protection authority has asked a European Union regulator to take a binding decision on whether its emergency sanction on Facebook and Instagram tracking and profiling users for ad targeting without their consent should be made permanent and applied across the EU single market, not just locally.
+
+The move could lead to a blanket ban on Meta running tracking ads without consent across the EU single market if the European Data Protection Board (EDPB) agrees the action is merited. Meta may also switch to asking users for their permission to run “personalized ads” before any Board action, as it has claimed it intends to.
+
+The Datatilsynet issued a local ban on Meta tracking and profiling users without consent back in July — using powers in the General Data Protection Regulation (GDPR) which enable concerned regulators to apply temporary measures (lasting for three months) in their markets if they see an urgent need to act to protect citizens’ data. So while Meta’s lead regulator for the GDPR remains the Irish Data Protection Commission (DPC), which would normally lead on any enforcement, the Norwegian DPA’s emergency action circumvents the regulation’s so-called “one-stop-shop” mechanism — and gives the Norwegian authority the option to refer ongoing concerns to the EDPB, as it has now done.
+
+Meta has continued to flout the Datatilsynet order — which includes a daily fine of up to one million NOK (~$100,000) per day for non-compliance — ignoring the authority’s requirement not to run tracking ads without permission, per a spokesperson for the DPA.
+
+The tech giant instead sought a court injunction against the order. However, earlier this month, an Oslo court rejected Meta’s arguments, affirming the DPA’s right to act.
+
+Reached by email the EDPB confirmed receipt of the authority’s request. “The EDPB Secretariat will now assess completeness of the file. Once this assessment is complete, the deadline under art. 66(4) GDPR starts running and the Board will have two weeks to adopt its urgent binding decision,” a spokeswoman told us.
+
+She declined to offer any steer on how long the Board’s assessment of the Datatilsynet’s request will take to complete.
+
+The Board already took one binding decision vis-a-vis Meta ads: Late last year it settled a dispute between DPAs on a complaint against the legal basis the adtech giant claimed for running the ads — which led on, in January, to a final decision being issued by the DPC rejecting Meta’s claim of contractual necessity to justify the processing.
+
+Since then Meta tried another switch of legal basis for the processing — to a claim of legitimate interests — but the EU’s top court quashed that gambit with a ruling in July, related to a separate challenge brought by Germany’s competition authority, which confirmed Meta cannot claim a legitimate interest to run its “personalized ads” in the absence of user consent.
+
+That landmark strike was followed at the start of August by Meta announcing an “intention” to legalize its tracking ads business in the region by asking users for their permission. But it has still not done so — continuing to run unlawful ads. Hence why the Norwegian DPA decided to take emergency action — pointing out that millions of EU people’s rights are being infringed.
+
+Reached for a response to the DPA’s referral the EDPB, Meta spokesperson, Matt Pollard, sought to deflect attention off-of the current lack of compliance — writing in an emailed statement:
+
+We are surprised by the NDPA’s [Norwegian data protection authority’s] actions, given that Meta has already committed to moving to the legal basis of consent for advertising in the EU/EEA. We remain in active discussions with the relevant data protection authorities on this topic via our lead regulator in the EU, the Irish Data Protection Commission, and will have more to share in due course.
+
+Asked when Meta will be moving to a lawful basis for tracking and profiling users in the region Pollard declined to specify a timeframe. “We have not announced a date. We are still working through with policymakers what our transition to Consent will look like, and will have more to share in due course,” he added.
+
+The referral to the EDPB may concentrate minds at Meta on the need to make good on its pledge to ask users’ permission sooner rather than later.
+
+The company has sought to get ahead of events on this issue by using PR tactics that present a narrative where it appears to retain some control (hence its blog post sketching a future “intention” to switch to consent, just without fixing a date — so keeping control of the timings and seeking to normalize the ongoing delay to rectifying its unlawful “personalized ads”); even as EU regulators have, collectively, forced the looming paradigm shift to its privacy-hostile business model.
+
+The bottom line here is that, in the not-too-distant future, surveillance capitalism’s poster child will — at least in a major international region for its business — have to end the consentless tracking and profiling it exploited for years to build up its adtech empire, at the expense of web users’ privacy.
+
+In the meanwhile, people in the EU’s single market are once again being directed to wait on Ireland’s DPC to enforce their privacy rights. But if the Irish authority is too slow to rectify Meta’s lack of consent this time there is now the backstop option of the Board stepping in a second time and finishing the job for it.

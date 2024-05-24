@@ -1,0 +1,85 @@
+With Amo, the founder of Zenly wants to make social apps social again The startup raised $20 million and is launching ID today
+
+In 2018, I wrote a TechCrunch article stating that 2018 was “the year social networks were no longer social.” Reflecting on that article, I’m not sure that 2018 was the turning point. But the premise of the article still holds up well.
+
+At some point, social networks were no longer about connecting with your closest friends, keeping up with long-distance family members and feeling a special connection with people you love.
+
+TikTok, Instagram, Snapchat, Facebook, YouTube and X (formerly Twitter) are all slowly evolving to become the same infinite scrollable feed of algorithm-optimized short videos from top performers.
+
+And it turns out that I’m not the only one who has noticed that social networks have been slowly drifting away from their original purpose. Amo, a small team based in Paris, has been working for the better part of 2023 on a brand new social app called ID.
+
+ID is a social app launching today on iOS that lets you connect with your friends in a creative way. In many ways, it feels like the early days of blogs, Myspace’s highly-personalized profile pages and the golden era of Tumblr.
+
+But first, some context about Amo. There’s a lot of hype and anticipation surrounding Amo’s launch, as the company has been co-founded by Antoine Martin, who was the co-founder of Zenly with Alexis Bonillo. Zenly was a popular social app focused on location sharing that encouraged you to spend more time with your friends and discover new places.
+
+Snap spent more than $200 million to acquire Zenly and kept the same team to iterate on it, as a separate app. Under Snap’s ownership, Zenly became one of Europe’s biggest social apps of all time. At its peak the company had 18 million different users opening the app every day.
+
+And then… it disappeared.
+
+As part of Snap’s cost-cutting efforts, the company decided to shut down Zenly altogether. From what I’ve heard, this move even triggered discussions between French politicians at the highest level and Snap CEO Evan Spiegel.
+
+Many key members of the Zenly team are now working at Amo. In fact, there are 10 co-founders. In addition to Martin, Corentin Kerisit, Michael Goldenstein, Claire Pluvinage, Charly Delaroche, Julien Martin, Quentin Perez, Nicolas Fallourd, Alexis Druon and Jean-Baptiste Dalido are all Amo co-founders and all former Zenly people.
+
+The second reason Amo’s launch is highly anticipated is that the startup closed a $20 million (€18 million) funding round in February or March at a valuation around €100 million with New Wave leading the round, and Coatue and DST Global Partners also participating. There are also 80 angel investors on Amo’s cap table.
+
+This is a highly unusual funding round, as it happened in 2023 (during a VC funding downturn), Amo is a mobile consumer startup (no source of revenue for now) and the startup didn’t have any product out there.
+
+An empty canvas
+
+In 2010, Jürgen Schweizer from Cultured Code, the company behind personal task management app Things, wrote a blog post shortly after Steve Jobs introduced the original iPad. In that post, he compared the iPad to an empty canvas.
+
+“If you want to understand what makes the iPad special, you cannot look at what it has, but what it doesn’t have. The iPad is so thin and light, it becomes the display, and the display becomes the application. No input devices. The device vanishes and turns into the application you are using. The technology is transparent,” Schweizer wrote.
+
+And this analogy applies particularly well to ID and Amo’s work as well. There are many things that you can do with ID. There are also many things that we take for granted in a social app that simply aren’t there.
+
+ID is an empty canvas paired with creative tools that help you express yourself. You can use it to create a profile that perfectly describes your interests in a visual manner. But there’s a social twist as you can both see your friends’ profiles and add things to their own profiles.
+
+When you first create your profile on ID, you get an empty whiteboard that is waiting for content. You can fill it yourself in four different ways.
+
+You can add stickers from your sticker library (more on that later), you can grab content from your photo library, you can write text or you can draw. When you choose a photo, ID automatically creates a cut-out of the main object or subject in the photo using PhotoRoom’s technology.
+
+This will feel immediately familiar to Pinterest users who love to build mood boards or software developers who cover their brand new laptop lid with stickers.
+
+Every virtual object can be moved, resized and rotated. After a while, your profile becomes this sort of spatial canvas. You can make things so small that they sort of disappear… unless you zoom in.
+
+You can create small islands that define what’s on your mind right now. For instance, you can have a Los Angeles corner with the favorite buildings you saw during your vacation, group photos with your friends, the cup of your favorite coffee shop there, etc. You can also have a restaurant corner with photos of food from fancy restaurants where you’ve recently been.
+
+Everything feels smooth and natural. You scroll, zoom in, zoom out, jump from one profile to the other. There’s a sense of depth and space that I’ve never seen in any other app. Photos never feel pixelated and you don’t feel like you’re waiting for something to load.
+
+If you’ve been using ID for a while, things can become messy — but so is life. “And it’s fine. My personality is chaotic — our personalities are chaotic. They’re multifaceted and they’re not neatly arranged in a 3×3 grid,” Amo CEO Antoine Martin said.
+
+Emergent gameplay
+
+As you start browsing around the app and looking at what’s new on your friends’ profile page, you may want to steal something for your own wall. ID lets you add content from other profiles to your sticker library so that you can either add it to your own profile or put it on someone else’s profile.
+
+I’ve been using the app for a little bit more than a week, and I can already see some trends spreading around the small community of beta users. You can see who originally created a sticker as it moves around from one wall to another. Some users have put nice shelves so they can neatly categorize everything that matters to them. A user created a guestbook section on her profile. “If you’re dropping by, please leave a note here,” she wrote.
+
+A few video games rely heavily on the player’s creativity to have fun, such as Minecraft or recent Zelda games. In these games, you can create your own fortress or build your own vehicle.
+
+And that’s also the main concept behind ID. Amo gives you the creative tools and a limitless Figma-like canvas. Now, it’s up to the community to figure out what they want to do with it. And the best part is that it doesn’t look like any other social app out there.
+
+Maybe Amo will end up fostering a creator economy with exclusive content that can really make your profile stand out. Maybe the company will add some premium features over time. For now, Amo wants to find a hit.
+
+“We’re prioritizing scale because my goal is to create an indestructible company. And it’s Zenly’s founder who is saying that! I used to think that 18 million [daily active users] would be enough to make a company indestructible. But I was wrong. I think you need 100 million [daily active users],” Martin told me.
+
+Curing loneliness
+
+When the Amo team started working on ID, they wanted to find a way to cure loneliness. It seems a bit counterintuitive to build a social app as people spend so much time on their phone already. But, according to Antoine Martin, it’s just that existing social apps don’t have your best interests in mind.
+
+“The [World Health Organization] now calls it the loneliness epidemic. And if they say that it’s an epidemic, it’s because it’s actually infectious. In other words, if you’re isolated, your loved ones are too because you’re unreachable. So during the two hours you’re on TikTok, they have no one to talk to,” Martin told me.
+
+“And at the same time, the human needs that the social consumer space can fulfill are no longer covered by these products, whereas they used to be,” he added. “In the early days of Facebook, I don’t know if you remember, profiles were sort of a mash-up. There were drawings, games, photos, text. You’d write long comments, it could be a poem . . . And on the other hand, it was a reminder that you mattered to these people.”
+
+According to him, the current generation of social networks are very passive. You don’t have to do much to spend two hours on TikTok or YouTube because these companies want you to spend as much time as possible in these apps. “We aspire to go back to these earlier precepts and make them work,” Martin said.
+
+That’s also the reason why Amo doesn’t want you to spend hours in the app. When you have a few minutes, you can open the app to check what’s new on your friends’ profiles by swiping up on the notification cards.
+
+When you’ve reached the last card, ID shows you a message that says “get some fresh air.” And then, the app closes itself. You’re back on the home screen, you can put your phone back in your pocket.
+
+Amo & ID
+
+ID is an opinionated take on social apps, but is it going to work? Given the past experience of the team and Amo’s deep pockets, if there’s one team that has a shot at trying something radically new in the space, it’s Amo.
+
+“We’re deliberately shipping something eight or nine months after the launch of the company because we swore to ourselves that it wouldn’t take us a year to get started, that we’d learn more by building in public,” Martin said.
+
+While ID is Amo’s first idea, the company most likely has other ideas in the consumer social space — Amo didn’t name its app “Amo” after all. So it’s going to be interesting to follow the launch of this new app, but also Amo’s story as a company.

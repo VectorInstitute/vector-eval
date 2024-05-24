@@ -1,0 +1,31 @@
+Senator Charles Schumer (D-NY) once again played host to Silicon Valley’s AI leaders on Tuesday as the US Senate reconvened its AI Insights Forum for a second time. On the guest list this go around: manifesto enthusiast Marc Andreessen and venture capitalist John Doerr, as well as Max Tegmark of the Future of Life Institute and NAACP CEO Derrick Johnson. On the agenda: “the transformational innovation that pushes the boundaries of medicine, energy, and science, and the sustainable innovation necessary to drive advancements in security, accountability, and transparency in AI,” according to a release from Sen. Schumer’s office.
+
+Upon exiting the meeting Tuesday, Schumer told the assembled press, "it is clear that American leadership on AI can’t be done on the cheap. Almost all of the experts in today’s Forum called for robust, sustained federal investment in private and public sectors to achieve our goals of American-led transformative and sustainable innovation in AI.
+
+Per National Security AI Commission estimates, paying for that could cost around $32 billion a year. However, Schumer believes that those funding challenges can be addressed by "leveraging the private sector by employing new and innovative funding mechanisms – like the Grand Challenges prize idea."
+
+"We must prioritize transformational innovation, to help create new vistas, unlock new cures, improve education, reinforce national security, protect the global food supply, and more," Schumer remarked. But in doing so, we must act sustainably in order to minimize harms to workers, civil society and the environment. "We need to strike a balance between transformational and sustainable innovation," Schumer said. "Finding this balance will be key to our success."
+
+Senators Brian Schatz (D-HI) and John Kennedy (R-LA) also got in on the proposed regulatory action Tuesday, introducing legislation that would provide more transparency on AI-generated content by requiring clear labeling and disclosures. Such technology could resemble the Content Credentials tag that the C2PA and CAI industry advocacy groups are developing.
+
+"Our bill is simple," Senator Schatz said in a press statement. "If any content is made by artificial intelligence, it should be labeled so that people are aware and aren’t fooled or scammed.”
+
+The Schatz-Kennedy AI Labeling Act, as they're calling it, would require generative AI system developers to clearly and conspicuously disclose AI-generated content to users. Those developers, and their licensees, would also have to take "reasonable steps" to prevent "systematic publication of content without disclosures." The bill would also establish a working group to create non-binding technical standards to help social media platforms automatically identify such content as well.
+
+“​​It puts the onus where it belongs: on the companies and not the consumers,” Schatz said on the Senate floor Tuesday. “Labels will help people to be informed. They will also help companies using AI to build trust in their content.”
+
+Tuesday’s meeting follows the recent introduction of new AI legislation, dubbed the Artificial Intelligence Advancement Act of 2023 (S. 3050). Senators Martin Heinrich (D-NM), Mike Rounds (R-SD), Charles Schumer (D-NY) and Todd Young (R-IN) all co-sponsored the bill. The bill proposes AI bug bounty programs and would require a vulnerability analysis study for AI-enabled military applications. It’s passage into law would also launch a report into AI regulation in the financial services industry (which the head of the SEC had recently been lamenting) as well as a second report on data sharing and coordination.
+
+“It’s frankly a hard challenge,” SEC Chairman Gary Gensler told The Financial Times recently, speaking on the challenges the financial industry faces in AI adoption and regulation. “It’s a hard financial stability issue to address because most of our regulation is about individual institutions, individual banks, individual money market funds, individual brokers; it’s just in the nature of what we do.”
+
+"Working people are fighting back against artificial intelligence and other technology used to eliminate workers or undermine and exploit us," AFL-CIO President Liz Shuler said at the conclusion of Tuesday's forum. "If we fail to involve workers and unions across the entire innovation process, AI will curtail our rights, threaten good jobs and undermine our democracy. But the responsible adoption of AI, properly regulated, has the potential to create opportunity, improve working conditions and build prosperity."
+
+The forums are part of Senator Schumer’s SAFE Innovation Framework, which his office debuted in June. “The US must lead in innovation and write the rules of the road on AI and not let adversaries like the Chinese Communist Party craft the standards for a technology set to become as transformative as electricity,” the program announcement reads.
+
+While Andreesen calls for AI advancement at any cost and Tegmark continues to advocate for a developmental “time out,” rank and file AI industry workers are also fighting to make their voices heard ahead of the forum. On Monday, a group of employees from two dozen leading AI firms published an open letter to Senator Schumer, demanding Congress take action to safeguard their livelihoods from the “dystopian future” that Andreessen’s screed, for example, would require.
+
+“Establishing robust protections related to workplace technology and rebalancing power between workers and employers could reorient the economy and tech innovation toward more equitable and sustainable outcomes,” the letter authors argue.
+
+Senator Ed Markey (D-MA) and Representative Pramila Jayapal (WA-07) had, the previous month, called on leading AI companies to “answer for the working conditions of their data workers, laborers who are often paid low wages and provided no benefits but keep AI products online.”
+
+"We covered a lot of good ground today, and I think we’ll all be walking out of the room with a deeper understanding of how to approach American-led AI innovation," Schumer said Tueseay. "We’ll continue this conversation in weeks and months to come – in more forums like this and committee hearings in Congress – as we work to develop comprehensive, bipartisan AI legislation."

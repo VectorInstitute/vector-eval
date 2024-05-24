@@ -1,0 +1,55 @@
+Twitch has had a tense year, in part due to community backlash over policy changes that affect the way creators can monetize their content.
+
+Last year, the company announced that it would end the 70/30 subscription revenue split deal that it had offered select streamers in favor of prioritizing ad revenue. In June, Twitch launched the Partner Plus program, a new monetization tier that would grant eligible creators a 70/30 subscription revenue split on the first $100,000 they make per year. The program further strained its relationship with its community, because the requirements to qualify excluded the vast majority of streamers. Streamers need at least 350 monthly paid subscriptions, and gift subs and monthly subs that come with an Amazon Prime account don’t count.
+
+In response, Twitch pivoted eligibility to a points-based system, assigning a value to each subscription tier. The higher-priced subscriptions now count more toward the point total.
+
+📣 We’re updating how we calculate progress toward the Partner Plus program. To recognize deeper support from your community, Tier 1, 2, and 3 subs will earn you 1, 2, and 6 points respectively towards qualifying for the program. pic.twitter.com/HdOiLvg3qC — Twitch Support (@TwitchSupport) August 28, 2023
+
+Twitch also walked back its policy restricting embedded ads and other sponsored content, following fallout from streamers who depend on branded content as the bulk of their income.
+
+The company’s CEO Dan Clancy, who took over earlier this year, has prioritized engaging with Twitch streamers, and involving their perspectives in policy changes going forward. The company’s receptiveness to community feedback has marginally lessened animosity from its streamers, and community sentiment toward Twitch at this year’s TwitchCon in Las Vegas was significantly more positive than it was last year. New features and policy changes announced during the convention’s keynote address, including granting streamers more control over ad breaks and allowing simulcasting to other livestreaming platforms, also appeased the Twitch community.
+
+In an interview with TechCrunch, Twitch’s Chief Monetization Officer Mike Minton discussed the unpopular policy decisions, supporting smaller creators through branded partnerships and what Twitch is doing to mend its relationship with its community.
+
+TechCrunch: I’m going to start with a maybe unpleasant question, but Twitch has made some unpopular decisions in terms of monetization. Is there anything that Twitch is doing to appease irate creators?
+
+Mike Minton: Two years ago, we said we’re no longer gonna do these deals that weren’t objective in terms of eligibility criteria. We ended that program. It affected a relatively small number of creators, but what it really impacted was the community going, “I don’t have anything to work for.” And that led to us recently announcing Partner Plus. There was some feedback saying, “Hey, we’re going to need a lot of subs,” and we reacted to it by making it eligible by sub points so that your higher price point subscriptions cost more, and that was actually received quite positively.
+
+Both Dan and I have said in different forms, that this is the beginning. It’s not the end and we’re going to continue to work to provide access to higher rev shares as we can over time, to more streamers.
+
+What would that look like?
+
+The simple answer is now, 350 was the criteria we established, right? And that number is arbitrary and could easily come down. Now, our target and our goal in this program still remains the same. We’re looking to benefit the creators, where livestreaming is a meaningful part of what they’re doing as a creator. That allows us to focus on those streamers that are really at a point where it will matter most for them in terms of keeping them as a livestreaming creator.
+
+Right, and that decision to change the revenue split also came out of a decision to prioritize ad revenue. Creators and viewers have said that integrating ads in their streams is very frustrating. What kind of feedback is Twitch going to provide in response to that?
+
+Let’s level set a couple things. So one of the things we knew with ads, if we’re going to get streamers to buy into ads as a good way to monetize, is that we had to increase the rev share, which we did, and launch the ad incentive program.
+
+We’re helping streamers understand that with ad running, you have to think about it consistently over time in order to earn predictable revenue. It’s a very reliable source of income for many streamers.
+
+So I think the combination of making it easier to run, increasing the rev share and then recently in the keynote, we talked about two new features to allow moderators to know when an ad break is coming, and adjust the ad break around the content because the problem in livestreaming, as you’re aware, is that people don’t want to miss out. So we’re very focused on improving the ad experience by allowing the ad breaks to be synchronized with the content and enrolling moderations and eventually the community in adjusting those ad breaks.
+
+Like you said, livestreaming is very different from static content, and tactics for monetization that work for Instagram or TikTok just don’t really work for Twitch or any livestreaming platform. In those cases, what has Twitch done differently from those more standard platforms in terms of making monetization more seamless?
+
+One thing we’ve done since the beginning, where we are a leader, is getting people to take their wallets out and support creators through subscriptions, gifting, cheering. I think that sets us as a unique community-based platform where viewers are directly supporting creators in that way.
+
+Other services have tried it but from what I can tell them, what streamers have told me, is that Twitch is really the leader in that way. We’ve spent a lot of time on advertising, because there’s no social media, content distribution service in the world that doesn’t rely on advertising as a component. So ads have been a big focus.
+
+And the third piece, which is where we’re behind, is sponsorships. We’re now focused a lot on growing sponsorship opportunities for streamers and ensuring that we have three — based on what size you are, where you’re located, how experienced you are, what type of content you’re creating, where you’re located in the world — three options to support you as a creator.
+
+I’ve spoken to a lot of creators over the course of my career, and a common gripe seems to be that they can’t subsist off of just subs and ad revenue. They have to have these branded partnerships that are difficult to land for midsize creators and smaller creators. What is Twitch doing specifically to diversify its branded partnership content?
+
+We have this unique opportunity, being part of the third largest and fastest growing advertising business in the world, AKA Amazon. So what we’re actively working on is, as advertisers that come in through Amazon advertising, that they understand the magic of Twitch, that they can easily set up influencer deals programmatically. And ultimately, you don’t have the measurement that they expect.
+
+But because of Amazon’s diversity of advertisers, this is where before it was more focused on endemic advertisers, game publishers, et cetera. And now we’re able to expand that reach to a much broader set of advertisers and serve the needs of both the affiliate marketing end of sponsorships, which is more of a performance model, as well as more of the top of the funnel, where you’re looking for more brand awareness.
+
+Obviously a lot of this discord among Twitch’s community also comes at a time when other streaming platforms like YouTube or Kick are starting to take off, and enticing streamers with better revenue splits. A common complaint that I’ve heard is that bigger streamers are going to be making money wherever they are, but smaller streamers who have less of an audience don’t qualify for Partner Plus will get a better deal at YouTube or Kick than at Twitch. What is Twitch doing to keep those streamers?
+
+There are a couple of things that I’ll point out. One is acknowledging what Dan has done as the CEO to get out and engage with streamers, hear their concerns, and really influence our priorities as a company, is really a consequence of him both being an active streamer as well as being extremely engaged within the community.
+
+And then, more broadly for both Jeremy [Jeremy Forrester is VP of Community Product] and myself as the product leaders, building the product is continuing to innovate and ensure that we are absolutely a unique service. Whether that’s features, like we’re working on Stories, whether that’s monetization — it’s all in service of ensuring that livestreaming creators can be more successful on Twitch.
+
+For a long time, there was a sort of exclusivity with Twitch, where there were exclusive deals, and simultaneous streaming on other platforms was forbidden. I have to wonder if those decisions to change these policies were in response to competition from other platforms.
+
+I would say it this way: I think they are an acknowledgement, and maybe a closer connectivity to the community via Dan specifically. I credit Dan in his short time as CEO to really make some big, hard decisions. Both the launch of Partner Plus, as well as simulcasting, the embed stuff we talked about in the keynote — these are three things that I think are very much an acknowledgement of the feedback from the community. We’ve made that change, so I wouldn’t call it out of competitive pressures. I would call it out of focus on the community.

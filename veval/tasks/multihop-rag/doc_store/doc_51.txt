@@ -1,0 +1,85 @@
+This was a year of upheaval in video games. The industry has shapeshifted over the past 12 months, and it’s not all due to Microsoft’s lengthy acquisition of Activision, Blizzard and King. While Xbox executives were defending the legality of a $69 billion deal that would create the third-largest video game studio in the world, smaller companies were firing staff and shutting down entire teams, even amid fervent collective-bargaining efforts. It’s been a wild ride.
+
+In 2023, the main factors molding the video game landscape were consolidation, layoffs and unionization, with each of these phenomena feeding into each other. This past year, the video game industry shrank, even as it grew financially.
+
+Consolidation
+
+When Microsoft's purchase of Activision-Blizzard-King was finally approved on October 12, 2023 after nearly two years of regulatory hurdles, it became the world’s third-largest video game studio by revenue. As the owner of the Xbox ecosystem, Microsoft was already a massive player in video games, but purchasing a tentpole AAA studio solidified its position in the top three. Activision and Blizzard are the owners of Call of Duty, Diablo, Overwatch, World of Warcraft and Starcraft, but the real meat of this deal comes from King, the mobile division. King operates Candy Crush Saga, a game with 238 million monthly active users, which is more than twice as many as Activision Blizzard’s combined player bases. Candy Crush Saga has generated more than $20 billion in lifetime revenue, and King routinely outperforms Activision and Blizzard in terms of quarterly returns. Mobile gaming remains a huge business, especially in the Chinese market, which represents the largest and most lucrative audience in video games.
+
+Though the $69 billion Activision deal was the biggest in Microsoft’s history — that would be its $26 purchase of LinkedIn in 2016 — it wasn’t the company’s first video game acquisition. Microsoft owns nearly 40 developers and it bought a chunk of those in the past five years. The Xbox umbrella covers 343 industries, Arkane Studios, Bethesda, Compulsion Games, Double Fine Productions, id Software, Infinity Ward, Mojang Studios, Ninja Theory, Playground Games, Tango Gameworks and Turn 10, among dozens more.
+
+Charley Gallay via Getty Images
+
+With these studios at its back, Microsoft is leaning hard into cloud gaming while attempting to build a device-agnostic ecosystem powered by the Xbox brand. These moves are designed to unlock the mobile market even more, putting Xbox games on all devices, everywhere, all the time.
+
+Still, Sony is bigger than Microsoft by revenue. Though Microsoft is often the face of the game-studio acquisition spree, Sony is the owner of 21 development teams, including Bungie, Guerrilla Games, Haven Studios, Housemarque, Insomniac Games, Media Molecule, Naughty Dog and Sucker Punch Productions. Sony has been subtly expanding its roster — more subtly than Microsoft, at least — over the past three years, and it’s also made heavy investments in studios like Epic Games and FromSoftware.
+
+With this lineup, Sony is betting heavily on ongoing games, and it has 12 live-service titles in production right now, on top of Bungie’s Destiny franchise. These include Haven’s Fairgame$ and a multiplayer Horizon title from Guerilla.
+
+“By expanding to PC and mobile, and… also to live services, we have the opportunity to move from a situation of being present in a very narrow segment of the overall gaming software market, to being present pretty much everywhere," Sony Interactive Entertainment president and CEO Jim Ryan said in 2022.
+
+For the companies at the top, total domination is the goal.
+
+Even still, Tencent is bigger than both Sony and Microsoft. Tencent is not a console manufacturer, so it isn’t a household name among most players, but it’s one of the largest companies in the world, and it wields a ridiculous amount of financial power in video games. Tencent owns a portion of Bloober Team, Bohemia Interactive, Don’t Nod, Epic, Paradox Interactive, PlatinumGames, Remedy Entertainment, Roblox and Ubisoft, among others. It has a majority stake in Supercell, Grinding Gear Games, Klei Entertainment, Tequila Works, Techland, Yager Development and others. It fully owns Riot Games, Funcom, Sharkmob, Turtle Rock Studios, and, of course, others. It also runs multiple internal development companies, including the Level Infinite and Tencent Games publishing labels.
+
+Xinhua News Agency via Getty Images
+
+Sure, Sony has a stake in Epic, but Tencent’s is bigger. This investment alone means any time you buy a game built on Epic’s Unreal Engine, Tencent (and Sony) is getting a cut. Tencent is the biggest investor in games, with thousands of tendrils across the industry — if you played something this year, Tencent was probably involved.
+
+On a smaller scale, companies like Netflix and Devolver Digital have also dabbled in acquisitions recently. Devolver started buying studios in 2020, and it now owns Croteam, Dodge Roll, Doinksoft, Firefly Studios, Nerial and System Era Softworks. Annapurna Interactive bought South African studio 24 Bit Games in November. Netflix launched its Games division in 2021, and it’s already purchased four studios, including Oxenfree developer Night School and Alphabear company Spry Fox.
+
+Night School co-founder Sean Krankel told Engadget in June that the move to Netflix was a boon for the studio, providing financial security, a dedicated working space and plenty of marketing support for its projects.
+
+“A small subset of teams are good to go for the next 10 years, but others have these peaks and valleys, and we were somewhere in between,” Krankel said. “We weren't in danger of anything going sideways. But we were at a spot where we're like, it would be cool to tether to somebody who has a similar vision, and somebody that we could work with that would like, de-risk us.”
+
+Netflix
+
+This is the short-term benefit of being bought by a larger company, but there are downsides to relinquishing independence. Having a corporate overseer can result in rigid production timelines, hindering a studio’s ability to pivot, and despite all of the promises otherwise, developers may be forced to adhere to a specific tone, vibe or game-development structure. Owned studios are held accountable by people outside of the actual development of a game, and the bigger the company, the further away its bosses are from the creative process.
+
+The most extreme negative outcomes for an acquired indie studio are, of course, layoffs and closures. We saw a lot of these in 2023.
+
+Layoffs
+
+The post-acquisition power dynamic is playing out in public and in real-time. It’s estimated that more than 9,000 people in video games were laid off this year and the firings affected teams of all sizes. This is a crisis amount of cuts. In 2022, just 1,000 video game jobs were lost, according to layoffstracker.com.
+
+The Embracer Group provides the clearest example of rampant, surprise layoffs in 2023. Embracer has spent the past few years acquiring prominent midsize studios, including Gearbox Software (Borderlands), Crystal Dynamics (Tomb Raider), Eidos-Montreal (Deus Ex) and Square Enix Montreal (Deus Ex Go). In the past decade, Embracer grew its portfolio to cover more than 100 game studios, including Volition (Saints Row), Coffee Stain (Goat Simulator), Free Radical Design (TimeSplitters) and Zen Studios (Pinball FX). The holding company also secured the rights to The Lord of the Rings in 2022, promising to turn it into “one of the biggest gaming franchises in the world.”
+
+Volition
+
+In June 2023, Embracer announced a six-year, $2 billion funding deal had fallen through, and it was going to restructure — meaning, layoffs and studio closures. Since this announcement, Embracer has shut down Volition, Free Radical Design and Campfire Cabal, it divested Goose Byte and it’s fired developers at Saber Interactive. More than 900 people lost their jobs during these moves. Meanwhile, Embracer’s share price rose by 11 points in November.
+
+This wasn’t the only layoff round of the year. Unity lowered its headcount three times in 2023, affecting about 900 jobs. In its quarterly financial results in November, Unity reported a yearly revenue increase of 69 percent and it told investors, “We continued to manage costs well.”
+
+Sony cut 100 jobs at Bungie, a company it bought for $3.6 billion in 2022. According to developers that are still there, Sony executives are attempting to use this upheaval to wrest more control of the studio from Bungie founders and leaders.
+
+Epic Games fired roughly 830 people this year, or 16 percent of its staff. This included significant job cuts at Mediatonic, the studio behind Fall Guys that Epic purchased in 2021.
+
+Mediatonic
+
+“For a while now, we've been spending way more money than we earn,” CEO Tim Sweeney wrote about the layoffs. He continued, “I had long been optimistic that we could power through this transition without layoffs, but in retrospect I see that this was unrealistic.”
+
+Electronic Arts was one of the first video game companies to institute significant layoffs this year, with a reduction of 6 percent of its workforce, or about 800 employees, in March. EA later cut jobs at Dirt and F1 studio Codemasters, which it purchased in 2021 for $1.2 billion. EA culled an estimated 1,130 jobs in 2023.
+
+CD Projekt RED and Sega each laid off about 100 people in the past 12 months, while Ubisoft fired an estimated 255 employees. Microsoft cut 10,000 jobs across its businesses early in the year, and that included about 100 people at Halo studio 343 industries.
+
+343 industries
+
+These are just some of the biggest names in layoffs in 2023. Looking back on the carnage, it feels like a warning — as consolidation efforts increase, more game studios will be controlled by just a handful of companies, and they’ll be vulnerable to moves like mass layoffs and closures. We’re laying the foundation for the future of video games right now, and consolidation only makes the industry smaller and more generic, as accountants, investors and shareholders push for low-risk concepts, rather than innovation and change.
+
+What will rampant consolidation mean for all of these acquired studios in five years’ time? What will it mean when these teams aren’t shiny, new investments any longer, and the people at the top are ready to get lean again? Remember that many of the shuttered studios listed above were purchased within the past three years.
+
+Being acquired is a cost-benefit analysis for smaller studios, where the benefits are immediate and the costs are potential. It’s easy to say that won’t happen to us. But it can happen, and it does, and as consolidation increases, bulk layoffs are only going to occur more often.
+
+Unions
+
+Unionization is one approach that can help protect the livelihoods of people in the video game industry, and there was progress on this front in 2023. Developers at multiple studios now have union support, from small indies to AAA powerhouses.
+
+Microsoft is currently the home of the industry’s largest union, with representation for more than 300 quality assurance workers at ZeniMax Media. ZeniMax is the parent company of Bethesda, id Software and Arkane, and Microsoft purchased the whole caboodle for $7.5 billion in 2021. Microsoft formally recognized the ZeniMax union this January and the parties started negotiating in April. In December, Microsoft announced it would hire 77 contract workers as full-time employees under the ZeniMax Workers United-CWA union. The deal guaranteed a pay raise, paid holidays and sick leave, and a copy of Starfield, the game they helped ship.
+
+Bethesda Softworks
+
+“We are now stronger at the bargaining table and are working to secure a fair contract for all workers — direct employees and contractors," ZeniMax union member Chris Lusco said. "We are all a part of ZeniMax Studio’s success and we all deserve our fair share. We hope to set a new precedent for workers across Microsoft and the entire gaming industry so that all workers, regardless of their employment status, are able to improve their working conditions through collective bargaining."
+
+Meanwhile, executives at Microsoft’s newest acquisition, Activision Blizzard, spent the past few years stalling internal unionization efforts. However, QA employees at Raven Software, a subsidiary of Activision, successfully voted to unionize in May 2022. Microsoft has vowed to respect organization attempts now that Activision-Blizzard-King is under its control.
+
+Other companies with unions established in the past two years include Avalanche Studios, Anemone Hug, CD Projekt RED, Experis Game Solutions, Keywords Studios, Sega of America, Tender Claws and Workinman Interactive.

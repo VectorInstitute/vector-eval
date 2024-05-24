@@ -1,0 +1,41 @@
+In the occupied Palestinian territories, there are cameras everywhere. In Silwan, in occupied East Jerusalem, residents say cameras were installed by Israeli police up and down their streets, peering into their homes. One resident named Sara said she and her family “could be detected as if the cameras were just in our house … we couldn’t feel at home in our own house and had to be fully dressed all the time.”
+
+Surveillance cameras now cover the Damascus Gate, the main entrance into the old city of Jerusalem and one of the only public areas for Palestinians to gather socially and hold demonstrations. It’s at that gate that “Palestinians are being watched and assessed at all times”, according to an Amnesty International report, Automated Apartheid. These cameras have created a chilling effect on not just the ability to protest but also on the daily lives of Palestinians who live under occupation, according to Amnesty investigators. The organization had previously concluded that Israel has established a system of apartheid against Palestinians.
+
+Among the vendors behind these surveillance cameras is a company that has been accused of aiding what the US has categorized as a genocide: Hikvision. Based in Hangzhou, China, the company is one of the world’s largest makers of video surveillance equipment. Already infamous among international human rights groups, it has been blacklisted by the US and identified by the UK as a security threat for being complicit in China’s repression of the Uyghur ethnic minority.
+
+The presence of Hikvision cameras in the West Bank was first revealed in the May report by Amnesty, which documented facial-recognition and surveillance-camera technology that the human rights organization concluded is being used to reinforce Israel’s occupation of the West Bank in an act of “digital repression”. Amnesty surveyed two West Bank neighborhoods, East Jerusalem and Hebron, where Israeli settlers have set up homes in violation of international law, and found that facial-recognition systems “are providing the Israeli authorities with powerful new tools for curbing freedom of movement … adding further layers of technological sophistication to the system of apartheid that Israel is imposing on Palestinians”.
+
+The Amnesty report identified dozens of Hikvision devices in the old city in East Jerusalem, nearly 40 of which were found on security infrastructure and illegal settlements in the Silwan neigborhood. The devices were “operated by Israeli police and by private settlers” and were “mounted to military infrastructures and residential areas in and around the old city of East Jerusalem, in particular Damascus Gate, the Armenian quarter, the Muslim quarter, and Silwan”.
+
+The report is newly relevant in the weeks after the 7 October Hamas attacks that the Israeli government said killed 1,400 people. Since then, settlers have escalated their violence against West Bank Palestinians and the Israeli army has conducted raids in West Bank cities and refugee camps.
+
+Hikvision has marketed facial-recognition features that would, it claimed, automatically detect Uyghur people. It has also advertised features meant to discern any person’s ethnicity, age and race based on an image of their face. The Guardian first reported that Hikvision enabled police clients to set up alarms for when cameras detect any type of protest activity such as “gathering crowds to disrupt order in public places”, “unlawful assembly, procession, demonstration” and threats to “petition”.
+
+Hikvision did not respond to Amnesty’s report on the use of its products , nor did the company provide an on-the-record response in time for publication. But Hikvision previously told the Guardian that it “has strictly followed all applicable laws and regulations in the UK and all countries where we operate to ensure complete compliance.
+
+“Hikvision has never knowingly or intentionally committed human rights abuses itself or acted in willful disregard and will never do so in the future,” the company’s statement reads.
+
+Experts on surveillance tools used in the repression of Uyghurs argued the company’s history shows Hikvision has not followed through on previous commitments to preserve human rights.
+
+“Hikvision’s critical role in surveilling and oppressing Muslims in Xinjiang and the company’s failure to take accountability shows that the company is not serious about ethics or protecting human rights,” said Conor Healy, the director of government research at surveillance research publication Internet Protocol Video Market (IPVM) in a statement to the Guardian.
+
+The Hikvision headquarters in Hangzhou, in eastern China’s Zhejiang province. Photograph: AFP/Getty Images
+
+The report identified specific products deployed in the West Bank that come enabled with human and vehicle recognition features out-of-the-box. Amnesty could not confirm definitively that facial recognition had been activated in all the products identified, but investigators said they were “concerned” the cameras “are potentially being used together with facial recognition tools”. Amnesty investigators said the cameras are at high risk of being connected to Mabat 2000, an Israeli police-run facial-recognition surveillance network that spans the entire city of East Jerusalem. The vast surveillance system “enables Israeli authorities to identify protesters and keep Palestinians under constant observation, even as they go about their ordinary daily activities”.
+
+Ultimately, Palestinians “don’t need to see” that the cameras are employing facial recognition to “know that they are being watched at every turn”, said Matthew Mahmoudi, an Amnesty International researcher on AI and human rights. Their fears are not unfounded. In 2021, the Washington Post revealed the existence of a vast database called Wolf Pack, which contained images of and all the information available on all 3 million Palestinians in the West Bank.
+
+“These technologies are deployed to restrict the freedom of movement of Palestinians,” Mahmoudi said. “In particular, your ability to move, to access work, to access education, to access medical facilities is stifled based on the usage of AI-based surveillance like facial recognition.”
+
+The Palestinian health ministry has said that more than 170 Palestinians have been killed in the West Bank in the past month. The intensity of the violence in the West Bank has forced the displacement of at least 11 Palestinian communities, whose residents have historically refused to leave despite the difficulties posed by both settlers and the Israeli Defence Forces.
+
+“We see how the technology ends up being used to deter Palestinians in places like Silwan in East Jerusalem from resisting and dissenting the expanding illegal settlements,” Mahmoudi said.
+
+United Nations experts have warned that “the Palestinian people are at grave risk of genocide” as the Israeli army has bombarded Gaza, killing more than 10,000 Palestinians over the past month, according to the Gaza health ministry.
+
+“Even their family life and the sort of very mundane everyday actions suddenly become acts of resistance in the face of this ubiquitous surveillance apparatus that underpins much of how apartheid is exacted on Palestinians,” Mahmoudi added.
+
+In addition to the daily impact on Palestinian life that the vast surveillance network in the West Bank has had, there have been longer-term ramifications. According to the report, Amnesty International’s Digital Verification Corps analyzed and verified the authenticity of 15 videos that showed Palestinians being detained “where surveillance technologies appeared to have been used for registration, identification or recording”. In one instance, Israeli police posted a video showing how they were able to identify a protester they had been monitoring through closed-circuit television (CCTV) cameras. They then showed that police officers were able to pick the particular individual out of a crowd, according to Mahmoudi.
+
+“In protests in particular, regardless of you being in a crowd, you’re subjected to potentially being picked out and identified and persecuted,” he said. “These technologies are being used in profoundly problematic ways when it comes to human rights.”

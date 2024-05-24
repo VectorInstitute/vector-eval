@@ -1,0 +1,89 @@
+The first full week of December features several significant companies slated to announce their quarterly results. These earnings releases hold considerable implications for various sectors, including energy, software, retail, autos and semiconductors.
+
+Among the companies scheduled to release financial figures are NIO (NYSE:NIO), GameStop (NYSE:GME), DocuSign (NASDAQ:DOCU), ChargePoint (NYSE:CHPT), Dollar General (NYSE:DG), C3.ai (NYSE:AI) and Broadcom (NASDAQ:AVGO). Additionally, reports are expected from Toll Brothers (NYSE:TOL), Campbell Soup (NYSE:CPB), AutoZone (NYSE:AZO), Lululemon (NASDAQ:LULU), MongoDB (NASDAQ:MDB), Signet (NYSE:SIG) and Chewy (NYSE:CHWY).
+
+Below is a curated list of earnings due in the weeks of December 4 to December 8:
+
+Monday, December 4
+
+GitLab Inc. (GTLB) is due to post its Q3 results after the market closes on Monday. With a 10% surge in the stock this year, Seeking Alpha's Quant Rating system suggests a Hold, expressing concerns about valuation. This contrasts with Wall Street analysts, who advocate a Buy rating.
+
+Recently, Raymond James has rated the stock with a Market Perform rating, citing potential market exuberance and growth potential in fiscal 2025 due to a large total addressable market, healthy customers, and a value proposition favoring consolidation over fragmentation.
+
+On the other hand, Cantor Fitzgerald started coverage with an Overweight rating and a $55 price target, as the company anticipates benefits from product consolidation and the generative artificial intelligence wave.
+
+Consensus EPS Estimates: -$0.01
+
+Consensus Revenue Estimates: $141.04M
+
+Earnings Insight: GitLab has beaten EPS and revenue expectations in 8 straight quarters.
+
+Also reporting: Science Applications International Corporation (SAIC), Fusion Fuel Green PLC (HTOO), IDT Corporation (IDT), JOANN (JOAN), RGC Resources(RGCO), and more.
+
+Tuesday, December 5
+
+NIO (NIO)
+
+NIO (NIO) is all set to release its Q3 earnings before the bell on Tuesday. The Wall Street consensus remains at Buy, while Seeking Alpha’s Quant Ratings maintain a Hold rating on the stock due to concerns about profitability and valuation.
+
+On Friday, the EV maker announced that deliveries rose 12.6% Y/Y but dipped roughly 1% M/M to 15,959 vehicles in November.
+
+Stone Fox Capital, an SA Investing Group leader, notes that NIO's stock has fallen below $8, attributing the move to fluctuating monthly delivery numbers and inconsistent EV deliveries. Despite achieving an electric vehicle delivery record in Q3, the recent 10% workforce reduction raises concerns for Q4, Stone Fox Capital noted. The stock is currently trading at its 2023 lows, but the analyst sees potential for a doubling to $16.
+
+Consensus EPS Estimates: -$0.23
+
+Consensus Revenue Estimates: $2.66B
+
+Earnings Insight: NIO has missed EPS estimates consistently in the past 8 quarters and revenue expectations in 50% of those quarters.
+
+Also reporting: MongoDB (MDB), SentinelOne (S), Asana (ASAN), The J. M. Smucker Company (SJM), AutoZone (AZO), Stitch Fix (SFIX), Box (BOX), AeroVironment (AVAV), Yext (YEXT), Signet Jewelers Limited (SIG), Dave & Buster's Entertainment (PLAY), Ocuphire Pharma (OCUP), Hovnanian Enterprises (HOV), Designer Brands (DBI), HealthEquity (HQY), Ferguson (FERG), G-III Apparel Group (GIII), The Descartes Systems Group (DSGX), Phreesia (PHR), Core & Main (CNM), J.Jill (JILL), Daktronics (DAKT), Lands' End (LE), and more.
+
+Wednesday, December 6
+
+GameStop (GME)
+
+Video game retailer GameStop (GME) is scheduled to post its Q3 earnings after the closing bell on Wednesday. Analysts expect losses to narrow Y/Y with relatively flat revenue.
+
+Over the past 5 days, GameStop stock has experienced a surge of over 20% amid the recent volatility in one-time meme stocks. BTIG technical strategist Jonathan Krinsky attributes this upward trend to renewed buying interest in this group.
+
+Wall Street analysts recommend selling GME stock, whereas Seeking Alpha's Quant rating system advises a Hold.
+
+Seeking Alpha author Josh Arnold writes, "GameStop faces fundamental headwinds, including poor margins and declining sales, making it a structurally unprofitable company."
+
+Consensus EPS Estimates: -$0.08
+
+Consensus Revenue Estimates: $1.18B
+
+Earnings Insight: GameStop has beaten EPS estimates in only 3 of the past 8 quarters and revenue expectations in 5 of those reports.
+
+Also reporting: ChargePoint Holdings (CHPT), C3.ai (AI), Veeva Systems (VEEV), Chewy (CHWY), Campbell Soup Company (CPB), Toll Brothers (TOL), Brown-Forman Corporation (BF.B), Powell Industries (POWL), United Natural Foods (UNFI), Ollie's Bargain Outlet Holdings (OLLI), Semtech Corporation (SMTC), Braze (BRZE), Verint Systems (VRNT), Sprinklr (CXM), Argan (AGX), Sportsman's Warehouse Holdings (SPWH), Korn Ferry (KFY), John Wiley & Sons (WLY), Amtech Systems (ASYS), Couchbase (BASE), Vera Bradley (VRA), Barnes & Noble Education (BNED), Oxford Industries (OXM), and more.
+
+Thursday, December 7
+
+DocuSign (DOCU)
+
+Online signature company DocuSign (DOCU) is scheduled to release its Q3 results on Thursday following the closing bell. After surpassing expectations in Q2, the company guided Q3 revenue to between $687M and $691M and boosted its full-year sales guidance to $2.73B to $2.74B from prior expectations of $2.71B and $2.73B. Seeking Alpha author The Asian Investor points out that DocuSign's net dollar retention rate is decreasing and top-line growth is slowing. A drop below 100% could potentially trigger a negative stock catalyst, the analyst argued, as shares have historically been volatile after earnings. Wall Street analysts are adopting a cautious stance on the stock with a Hold rating, in contrast to the optimistic recommendation of a Buy from Seeking Alpha's Quant Rating system. Consensus EPS Estimates: $0.63
+
+Consensus Revenue Estimates: $690.12M
+
+Earnings Insight: The company has beaten EPS estimates in 7 of the past 8 quarters and revenue in 100% of those reports. Broadcom (AVGO) Broadcom (AVGO) is set to announce its Q4 results after Thursday's closing bell. The California-based semiconductor company has seen its shares surge over 67% this year, fueled by the AI wave. This growth far outpaces the broader market, underscoring the company's robust position and resilience in the current economic climate. On Friday, Broadcom announced plans to let go of 1,300 California-based VMware employees following the completion of its multi-billion-dollar acquisition of VMware on November 22, marking a significant step in its $61B cash-and-stock diversification strategy from semiconductors to the cloud. Meanwhile, on Wednesday, a report surfaced that Broadcom (AVGO) is evaluating strategic alternatives for VMware's End-User Computing and Carbon Black cybersecurity units. The consensus rating among sell-side analysts maintains a Buy stance, while Seeking Alpha's Quant Rating system transitioned to Strong Buy from Hold in mid-November. SA author Mike Zaccardi believes that Broadcom offers tech and AI exposure at a lower price, with a strong semiconductor product portfolio and solid technical background. With earnings beat history, strong expense control, and robust profitability, it's an attractive investment, he contended. Consensus EPS Estimates: $10.96
+
+Consensus Revenue Estimates: $9.28B
+
+Earnings Insight: Broadcom has beaten EPS and revenue estimates in 8 consecutive quarters. Also reporting: Lululemon Athletica (LULU), Dollar General Corporation (DG), Ciena Corporation (CIEN), Smartsheet (SMAR), Vail Resorts (MTN), Planet Labs PBC (PL), Guidewire Software (GWRE), The Cooper Companies (COO), HashiCorp (HCP), Lakeland Industries (LAKE), Greif (GEF), Liquidity Services (LQDT), GMS (GMS), Methode Electronics (MEI), Hooker Furnishings Corporation (HOFT), DLH Holdings (DLHC), SecureWorks (SCWX), and more.
+
+Friday, December 8
+
+Hello Group (NASDAQ:MOMO) will release its Q3 earnings results before the opening bell on Friday. Following upbeat Q2 results, the company saw a softer Q3 and anticipated a drop in revenues of 10.3% to 7.2% Y/Y.
+
+The Seeking Alpha's Quant Ratings moved to a Hold recommendation just days before the earnings announcement. Meanwhile, Wall Street analysts maintain a Buy rating on the stock.
+
+Individual Trader, a Seeking Alpha author, suggests that MOMO's recent downtrend may be concluding, pointing to signs of a bottom forming. The analyst added that the combination of cheap earnings and a high dividend yield makes it an appealing investment option.
+
+Consensus EPS Estimates: $0.35
+
+Consensus Revenue Estimates: $413.43M
+
+Earnings Insight: The company has a track record of beating EPS and revenue estimates in 7 of the past 8 quarters.
+
+Also reporting: Johnson Outdoors (JOUT), Canadian Western Bank (OTCPK:CBWBF), and more.

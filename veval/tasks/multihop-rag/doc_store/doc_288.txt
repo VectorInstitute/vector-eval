@@ -1,0 +1,45 @@
+Apple has at least one more trick — or possibly a treat — up its sleeve this year. On October 30, the night before Halloween, the company is hosting another event. This one is dubbed “Scary Fast,” which is a strong indicator that Apple will have some speedy new hardware to show off. Unusually, Apple is holding this event in the evening. It starts at 8PM ET.
+
+This year's iPhones and Apple Watches are out in the wild already, but Apple has a bunch of other product categories that it could focus on here. There's always the chance that we might get iPad updates. But, if rumors are to be believed, Apple's focus during the Scary Fast event will be on Macs and a fresh batch of chipsets to power them.
+
+M3 chip
+
+Apple won't be talking about speed advancements without having new hardware to discuss. That could all start with upgraded chipsets. It's been nearly 17 months since Apple's M2 system on a chip (SoC) debuted. With many manufacturers having an annual cadence for their chipsets, it may be time for Apple to move onto the next generation. (No, shoving two M2 Max chips together isn't quite the same thing.) For what it's worth, the M2 series debuted 19 months after the M1. So, if Apple announces the M3 at the Scary Fast event, the latest SoC would be arriving after a similar period of time.
+
+Apple analyst Ming-Chi Kuo has suggested that "M3 series MacBook Pro" will be the focus of the event, indicating that the company will have more than one new SoC to reveal. As such, there's a chance that we could see an M3 Pro and maybe even an M3 Max during the Scary Fast showcase.
+
+iMac
+
+A new 24-inch iMac could make its debut at the Scary Fast event. Bloomberg's Mark Gurman reported that a fresh model is expected to arrive this month. He noted that the iMac is in short supply at Apple retail stores, which is another sign that an upgrade is imminent.
+
+The 24-inch iMac is well overdue for a refresh, and there have been rumblings for a while that an M3 variant was in the pipeline. The most recent model was an M1-powered machine that arrived in April 2021. Making the leap to M3 — assuming that the new chip lineup is more capable than the M2 series — may make any new iMac worth the upgrade for many users.
+
+MacBook Pro
+
+Devindra Hardawar/Engadget
+
+There's a very good chance Apple will have at least one MacBook Pro refresh to show off at the event. Both Kuo and Gurman have indicated that will be the case.
+
+Gurman pointed out that the 13-inch, 14-inch and 16-inch MacBook Pro all currently have extended shipping times on Apple's web store. That's often an indicator that the company is winding down the supply of existing products. Furthermore, Gurman reported that Apple has been testing M3 Max and M3 Pro MacBook Pro models. Those could now be ready for prime time.
+
+However, Kuo doesn't expect Apple to have a huge inventory of new MacBook Pro units to sell this year. He previously didn't anticipate that Apple would start selling M3-powered laptops before the end of the year due to limited supply of between 400,000 and 500,000 units. Unless demand drops, Kuo said supply may remain tight until early 2024.
+
+MacBook sales have waned this year, mainly due to "the limited M2 computing power upgrade," Kuo wrote on X. That might be a reason why Apple is willing to start shipping M3 MacBook Pros now, even if supply is constrained. Announcing new models just a few days before reporting quarterly earnings could help give investors confidence in the company (recent increases of Apple TV+, Apple Arcade and Apple News+ prices could play into that too).
+
+If M3-powered models don't lead to a boost in sales, though, Kuo suggests it's more likely that a MacBook Pro with a new design will arrive in 2025. Furthermore, Apple may try to beef up the division with a more budget-friendly MacBook that has an annual sales target of between 8 million and 10 million.
+
+USB-C accessories
+
+Rumors also point to Apple unveiling more USB-C accessories as it shifts away from the Lightning port. Gurman suggests we'll see USB-C versions of the Magic Trackpad, Magic Mouse and Magic Keyboard at the event.
+
+This makes a lot of sense. Apple ditched the Lightning port in all iPhone 15 models, while it started adopting USB-C on iPads several years back. The company also recently unveiled an Apple Pencil that has a USB-C charging port. This change was prompted by European Union rules that require a standard charging port on certain devices. Having the same port on all Apple devices and accessories will mean consumers have fewer types of cables to worry about.
+
+iPad Pro
+
+Nathan Ingraham / Engadget
+
+While Gurman may have poured cold water on the idea, we can't disregard our hunch that we'll see at least one iPad at Apple's event. With the focus likely to be on M3-powered products, the chances are that any new iPad will be of the Pro variety with one of those chips inside.
+
+It has only been a year since the most recent iPad Pro debuted. Other than a few small tweaks, Apple only really swapped in the M2 in place of the M1. The next iPad Pro will probably need more changes to make it more palatable for anyone who picked up the previous two models, which means Apple might need more time to get it ready. If that's the case, the company might be content to give the iPad Pro a spec bump for the time being.
+
+Other iPads could also get a refresh at the event, just in time for the holidays. We won't have to wait too long to find out either way. We'll have full coverage of everything you need to know from the Scary Fast event at Engadget, so while you're waiting for Halloween trick-or-treaters to show up, slip into your jammies, grab a mug of cocoa and join us on Monday evening.

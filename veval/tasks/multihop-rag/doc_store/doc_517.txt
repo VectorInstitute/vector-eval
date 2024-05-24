@@ -1,0 +1,49 @@
+Sam Altman has been fired from OpenAI, Inc., the 501(c)(3) nonprofit that acts as the governing body for OpenAI, the AI startup behind ChatGPT, DALL-E 3, GPT-4 and other highly capable generative AI systems. He’ll both leave the company’s board of directors and step down as CEO.
+
+In a post on OpenAI’s official blog, the company writes that Altman’s departure follows a “deliberative review process by the board” that concluded that Altman “wasn’t consistently candid in his communications” with other board members, “hindering its ability to exercise its responsibilities.”
+
+Tip TechCrunch
+
+Do you work at OpenAI and know more about Sam Altman’s departure?
+
+Do you work at OpenAI and know more about Sam Altman’s departure? Get in touch with TechCrunch
+
+“The board no longer has confidence in [Altman’s] ability to continue leading OpenAI,” the blog post reads.
+
+In a post on X (formerly Twitter), Altman wrote that he “loved his time at OpenAI” and will have “more to say about what’s next later.”
+
+i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people. will have more to say about what’s next later. 🫡 — Sam Altman (@sama) November 17, 2023
+
+OpenAI’s dramatic leadership change will also see Greg Brockman — who was a member of the team that co-founded OpenAI, as was Altman — step down as chairman of the board but remain as OpenAI’s president, reporting to the company’s newly-appointed interim CEO, Mira Murati. Murati was previously OpenAI’s CTO.
+
+OpenAI says that it’ll begin conducting a formal search for a permanent CEO immediately.
+
+“OpenAI was deliberately structured to advance our mission: to ensure that artificial general intelligence benefits all humanity,” the board wrote in a joint statement. “The board remains fully committed to serving this mission. We are grateful for Sam’s many contributions to the founding and growth of OpenAI. At the same time, we believe new leadership is necessary as we move forward. As the leader of the company’s research, product, and safety functions, Mira is exceptionally qualified to step into the role of interim CEO. We have the utmost confidence in her ability to lead OpenAI during this transition period.”
+
+Sam Altman is a hero of mine. He built a company from nothing to $90 Billion in value, and changed our collective world forever. I can't wait to see what he does next. I, and billions of people, will benefit from his future work- it's going to be simply incredible. Thank you… — Eric Schmidt (@ericschmidt) November 17, 2023
+
+OpenAI’s board of directors now consists of OpenAI’s chief scientist Ilya Sutskever; Quora CEO Adam D’Angelo; tech entrepreneur Tasha McCauley; and Helen Toner, the director of strategy at Georgetown University’s Center for Security and Emerging Technology.
+
+Altman’s removal comes unexpectedly, to say the least. The company just last week hosted its first developer conference, OpenAI DevDay, which Altman emceed. Altman spoke at the Asia-Pacific Economic Cooperation conference and an Oakland, California event on Thursday. And according to The Verge and The New York Times, citing multiple internal sources, OpenAI employees learned of Altman’s firing when it was announced publicly.
+
+Altman has a long history steering OpenAI. After co-founding the company alongside Peter Thiel, LinkedIn cofounder Reid Hoffman and others, Altman, who formerly headed startup accelerator Y Combinator and also holds a seat on the board at Worldcoin, the ambitious cryptocurrency project, initially served as a co-chair of OpenAI alongside Elon Musk. Musk left in 2018 to avoid a conflict of interest with Tesla.
+
+Altman over the past several months played an active role in attempting to shape regulators’ responses to AI, appearing at U.S. congressional hearings and meeting personally with world leaders including President Joe Biden, German Chancellor Olaf Scholz and French President Emmanuel Macron, among others, on an international policy tour.
+
+More important than being one of the most brilliant and impactful people our industry has ever had Sam is one of the most generous and caring people I know. I've never met someone who has supported and lifted up more people around them than him. Couldn't be a prouder brother. — Jack Altman (@jaltma) November 17, 2023
+
+It’s unclear what missteps Altman might’ve made helming OpenAI… at present. But they evidently relate to his relationship with OpenAI’s rather unusual board makeup and corporate governance structure — and perhaps OpenAI’s active talks to raise substantial new capital.
+
+As a recent piece in VentureBeat explored, OpenAI’s for-profit subsidiary, OpenAI Global, LLC, is fully controlled by OpenAI’s nonprofit. While the for-profit subsidiary is permitted to commercialize its tech, it’s subject to the nonprofit’s mission: attaining artificial general intelligence (AGI), or AI that can — as OpenAI defines it — “outperform humans at most economically valuable work.”
+
+The nonprofit OpenAI’s board has the power to both determine when the company has achieved AGI and exclude this AGI from IP licenses and other commercial terms, including with Microsoft, one of OpenAI’s biggest investors and a steadfast integrator of OpenAI’s various technologies.
+
+Microsoft has poured $13 billion into OpenAI so far and has what amounts to a 49% stake in the company. The former’s stock price fell more than 1% in the last 30 minutes of trading, after Altman’s departure was announced; Axios reports Microsoft was notified Altman would be leaving “minutes” before the public announcement.
+
+OpenAI was founded as a nonprofit in 2015, but restructured in 2019 as a “capped-profit” company to raise capital — an acknowledgement of the huge costs associated with training cutting-edge AI systems. Underlining the point, Altman said in an interview this week with the Financial Times that he “hoped” Microsoft would increase its investment to help pay for “huge” imminent model training costs.
+
+When contacted via email, OpenAI’s press relations declined to comment beyond the official blog post. But Microsoft PR gave this statement from Frank Shaw, its chief communications officer: “We have a long-term partnership with OpenAI and Microsoft remains committed to Mira and their team as we bring this next era of AI to our customers.”
+
+Nadella later published a statement:
+
+“As you saw at Microsoft Ignite this week, we’re continuing to rapidly innovate for this era of AI, with over 100 announcements across the full tech stack from AI systems, models and tools in Azure, to Copilot. Most importantly, we’re committed to delivering all of this to our customers while building for the future. We have a long-term agreement with OpenAI with full access to everything we need to deliver on our innovation agenda and an exciting product roadmap; and remain committed to our partnership, and to Mira and the team. Together, we will continue to deliver the meaningful benefits of this technology to the world.

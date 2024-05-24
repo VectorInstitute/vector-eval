@@ -1,0 +1,43 @@
+Palo Alto Networks’ stock price has been on the rise on the back of strong earnings and growing demand for cybersecurity services, and now the company is using that momentum to do a little shopping.
+
+TechCrunch has confirmed with multiple sources that Palo Alto is in advanced negotiations to buy not one, but two, security startups out of Israel for around $1 billion altogether to expand its portfolio of services.
+
+Specifically, it is looking at Talon Cyber Security — which has developed an enterprise browser aimed at security distributed workforces — for between $600 million and $700 million; and Dig Security — a specialist in securing data across public clouds — for between $300 million and $400 million. Palo Alto is publicly traded and currently has a market cap of close to $70 billion.
+
+Both startups are less than three years old, and in both cases these would be strong outcomes compared to their existing valuations.
+
+Talon has raised around $143 million, and Dig has raised only around $45 million. Respectively, their investors include Entrée Capital, Evolution Equity and LightSpeed; and Signal Fire, Okta, CrowdStrike, Samsung and Felicis. The two share common investors, too: the cybersecurity specialist investors Team8 and Cyverse Capital.
+
+From what I understand, Palo Alto approached both startups proactively: neither was in the market to be acquired.
+
+Palo Alto Networks and Dig declined to comment for this story; Talon has yet to respond to us. But multiple sources close to the deal contacted by TechCrunch have confirmed the prices and said that the negotiations are in an advanced phase — although not closed.
+
+For another steer on the deals in progress, Israeli publication Calcalist has in the past week reported on both of the deals with the same figures we’ve been hearing (here and here).
+
+The deals underscore some key trends playing out in the cybersecurity industry right now.
+
+First and foremost, security continues to be a huge priority for enterprises and smaller businesses.
+
+A McKinsey report from last year notes that breaches are on track to collectively cost $10.5 trillion annually by 2025, a 300% increase on 2015 figures. While a lot of companies have clamped down on spending and IT budgets over the last couple years, security is one area where they have returned to spending even when other categories have remained frozen or constrained.
+
+“For end customers, security is still a big business risk, so budgets are back in action and we’re seeing sales picking up in Q3 and Q4,” one source said. “Security companies will want to tap into this opportunity aggressively.”
+
+Second, cybersecurity remains a moving target. Malicious hackers are turning to technologies like AI to break into networks, so, as smaller startups come up with new cyber techniques themselves, they become acquisition targets for larger companies looking to stay ahead of the curve.
+
+Other examples of this include CrowdStrike acquiring security startup Bionic for $350 million, and IBM buying Polar earlier this year for $60 million — a deal IBM made, we understand, partly in response to Palo Alto buying Cider Security in 2022.
+
+There are mega deals in this trend, too, such as Cisco’s plan to buy Splunk for $28 billion.
+
+For security companies, it becomes a question of competitive edge both against malicious hackers and other security companies. “Palo Alto is buying partly in reaction to these deals,” one source said. Some Palo Alto competitors like Wiz, now valued at $10 billion, are also a part of that competitive threat.
+
+Both Talon and Dig are working in newer areas of the security market, which would make them especially attractive to a larger acquirer. (We understand that there appeared to be others previously looking at both.)
+
+Dig’s efforts in securing data in the cloud, working across fragmented data across multiple clouds, taps into a growing area of the market — cloud spend is one of the only other areas where budgets are not being curtailed right now. It’s a very crowded field, but also a prime opportunity to emerge as a leader in matching solutions to how companies are actually working in the real world.
+
+In contrast, Talon’s focus on the concept of an enterprise browser — a platform for large organizations to operate all of their apps and services, built from the ground up with security in mind — is still relatively new in the market, but it has already started to catch on big with customers and competitors (Island is another company in the same space, so that’s another one to watch).
+
+“They’re creating a new category that has the potential of being bigger than endpoint security altogether,” one source said. “They’re reinventing the operating system.”
+
+In the world of IT, the pendulum definitely swings between giant all-in-one platforms and customers opting for best-in-class point solutions. These days in cybersecurity, considering the number of acquisitions we keep hearing about, the swing definitely seems to be in the direction of large platforms, and that is playing out here with these two deals in the works. The big question is how well those doing the buying are digesting these companies and how that gets presented to end users.
+
+A source tells us that customers that are parting ways with Palo Alto these days are doing so in part because “they feel like the product is disconnected” — the company has more than 30 products and services now, and it’s made 17 acquisitions in total. If these two close, the question will be how Palo Alto Networks’ CEO Nikesh Arora plans to present a holistic view of tackling what remains a very fragmented and dangerous threat landscape.

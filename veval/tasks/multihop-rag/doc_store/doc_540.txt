@@ -1,0 +1,189 @@
+The Code Conference wrapped up a few days back, and we’re bringing you the last of our interviews from the event. My friend and colleague, Verge deputy editor Alex Heath, sat down to chat with Roblox CEO David Baszucki live onstage.
+
+Earlier this year, Roblox announced grand plans to build an audience of adults. You probably think of Roblox as a kid thing — we reported in 2020 that half of all US kids under 16 had played it — but the last time David and Alex chatted, the company had big plans to change all that, and Alex asked how all of that was going.
+
+Listen to Decoder, a show hosted by The Verge’s Nilay Patel about big ideas — and other problems. Subscribe here!
+
+Roblox is determined to be a platform, even more than a product — something users can develop games and experiences within. It sounds quite a lot like a metaverse idea, but you’ll hear David say he doesn’t particularly like using that term.
+
+And of course, it was the Code Conference, so David and Alex talked about AI, which was a real theme of our show. David said support for AI is woven all through Roblox’s business, starting with largely invisible functions like efficiency, translation, and safety. But he also sees a lot of opportunity for generative AI to help content creators on the Roblox platform in the not-so-distant future.
+
+Okay, this is a good one. David Baszucki, CEO of Roblox, live onstage at Code with Alex Heath. Here we go.
+
+This transcript has been lightly edited for length and clarity.
+
+Please welcome to the stage the founder and CEO of Roblox, David Baszucki.
+
+Thank you.
+
+Thanks for doing this, Dave. You are fresh off of your annual developer conference, just two weeks ago in San Francisco. I watched the opening keynotes. It seemed like the biggest crowd reaction you got was PlayStation support actually. So I guess my first question is, what took so long?
+
+It’s a great question, and thank you for having me here. We’ve put so much focus on mobile quality over the last couple years. It’s our hugest market. We started as a PC product, went to Mac, and the vision of connecting people around the world on every platform has always been the vision. Mobile, we got into really good shape, Xbox in good shape, and then we started rolling out new platforms. As you can imagine, the creator community loves PlayStation because all of their existing creations are going to work there. So for all of these creators that are making a living and making new businesses, it’s just an immediate expansion of their business.
+
+Was there anything unique about PlayStation from an economics or business partnership perspective that took time, or was it all technical?
+
+Nothing too unique. I think every platform has been very thoughtful in when they start to allow social cross-platform everywhere. I think five or 10 years ago, when we started this notion, Xbox and PlayStation were arguably a little more walled garden-ish, but that vision of connecting and communicating in a 3D space no matter where you are with the best user interface, the best camera, the best motion, whether it’s a phone or a console, I think has really come to bear right now.
+
+There’s a lot of product, big-picture stuff I want to get into — AI, etc. First, though, I want to touch quickly on the layoffs that you guys recently did in your recruiting division.
+
+Yeah.
+
+I think you had not done layoffs during the pandemic, am I correct?
+
+We actually are continuing to hire. We’ve never done layoffs. One thing I think you can see, though, is probably in Q1 of 2023, we were growing our headcount at 50 percent a year, which is very rapid, and that requires a very, very large recruiting team. We’ve committed and we’ve shared the notion that over next year, our bookings are going to grow faster than our headcount, so our headcount growth is probably not going to be 50 percent next year.
+
+So that doesn’t say anything bigger about the state of your business?
+
+No, absolutely not. I think we’ve done this amazing job of just continuing to grow steadily through all of this over the last two years.
+
+Let’s talk about aging up the platform. So you have been making this big push to get people above 17 on the platform with exclusive experiences. You’re verifying identity with ID. It’s relatively new. You’re only, I think, a couple months in or so. How’s it going? Actually, I made a new Roblox account from scratch.
+
+I did it purposefully to see the experience, so this is about two hours ago. And the front page for me after I put my age and everything, was still a lot of games that, frankly, I’m not going to play. Kids games. So it seems like you’re still kind of lagging on that content that would get someone like me on the platform.
+
+The fastest-growing segment on the platform is users aged 17 to 24, growing north of 33 percent year on year
+
+I think that’s a leading indicator. If we roll back the clock four, five, six, seven years when we were much smaller pre-public, that vision of creating an immersive platform that connects people around the world, that allows them to socialize, do things together, we even saw back then this has to be in every country. This has to be in all ages. So we started with the notion that this is going to be a platform for six-year-olds and 60-year-olds. The most recent earnings report, we shared that 17 through 24 is the fastest-growing segment on the platform, growing I think north of 33 percent year on year. So we’ve actually stopped using the term “aging up” right now. We have a very substantial over-17 user base. The thing you were experiencing is we have started allowing our creators, when you’re validated with your photo ID and we know for sure you’re 17, to start easing into some of those more mature experiences that you might consider kind of grown-up experience.
+
+I’ve seen some trailers, like there was one you guys showed at RDC a couple of weeks ago that looked like Grand Theft Auto in Roblox. I mean, the graphics were very impressive. It’s not the blocky kind of thing that you think of with Roblox, and so I can see where it’s going. But I guess right now when you’re telling me that that demographic is growing the fastest, what are they doing on the platform? Because I don’t see the experiences that —
+
+It’s surprising the amount of older people that play just a wide range of experiences and come to socialize. I was in Canada hanging out with some third cousin at a family reunion, a 24-year-old guy who works on the railroad as an engineer, and he said, “Yeah, I’m really excited to meet you because all of the mechanics at CN Railroad [Canadian National Railway] are playing Roblox.” And I said, “What is going on? That’s too good to be true.” And they’re like, “Yeah, we’re playing Jailbreak, and we’re playing some of these experiences.” So they are playing these experiences. The level of social, the level of immersion, the level of being together with your friends no matter where they are is somewhat universal. So that’s doing surprisingly well for us.
+
+This is kind of a big-picture question, but I’m curious about what you want to be. I think there’s this interesting gap between where Roblox is today, what it’s been historically, and how you talk about the company.
+
+In my mind, you could easily be content to just go after the entire gaming market. I mean, it’s bigger than the music and the movie industry combined. But you seem more focused on building a next-generation almost social network. You talk about this as a communications platform. Why go that direction? Is the gaming industry not big enough?
+
+“Our belief is, this type of technology is bigger than gaming”
+
+I think that’s a great question. I mean, we’ve shared publicly that our goal would be to get to a billion daily active people on the platform. And I think our vision of what we’re working on goes really almost to the future of communication. It goes to the evolution of the mail system, to the telegraph system, to the phone system, to, as we saw in covid, the video system. We just think inevitably there’s a generation beyond that, which is immersive 3D communication, whether it’s playing together, whether it’s trying to graduate from high school together during the midst of covid, whether it’s a simulation of our Roblox office inside Roblox. We go and have a simulation of our office, and we come together for serendipitous events, whether it’s going to a concert. So our belief is, this type of technology is bigger than gaming. Gaming is a part of it, side-by-side concerts and working together, so I think we’ve evolved to a utility vision of this type of platform.
+
+I think you made a prediction at RDC a couple of weeks ago about dating. You think people are going to be dating in Roblox.
+
+It was really fun when we made this prediction because we were very careful on that slide. And then you saw the 17-plus people ID validated in 17-plus experiences.
+
+So parents don’t have a heart attack.
+
+Yeah, yeah, yeah, given our history of safety and civility and the focus on that. But ultimately, what’s really interesting about the dating market, there’s probably a third of the population that won’t go on Bumble or Tinder or Hinge or whatever just because of awkwardness. In an immersive 3D avatar-type communication where you can be Shrek and I can be whoever I want to be, there’s actually a certain way to... I’ll be Donald Duck.
+
+Okay. [Laughs]
+
+There’s actually a little bit of a breakdown of the friction, of the fear of a video call, so I actually do believe that’ll happen. I do believe someday someone will build a dating app on Roblox. It’ll be very safe. It’ll be for 17-and-up people, and it’ll be an interesting way for people to connect.
+
+Talk to me about this advertising push you guys are also making and how it connects to the changing demographics of the user base. Are they related? And how big do you see the ads business becoming?
+
+I think it’s really interesting. The amount of engagement is north of 5 billion hours per month on the platform, and more and more of that is north of 17-year-old engagement. And when we think about what advertising is, a lot of it is fandom. It’s seeing a poster of something I like, maybe historically seeing something in a newspaper. More recently seeing something as a web banner, and then more recently seeing something as a very native natural video segment or something like that. But we do believe there’s something beyond that, which is the 3D experience. For example, if we’re in a retail store together and we’re shopping and we can remember what’s on the shelf and how it looks, whether it’s shoes or makeup or whatever, and we do think that’s going to be a very, very powerful experience for brands.
+
+We already have hundreds of brands on the platform. I was just seeing the most revised Gucci experience, which is radically amazing. It’s a simulation of their runway show. And in those experiences, there’s both brand recognition, which is maybe harder to measure. There starts to be the acquisition of virtual goods: Gucci purses and those kinds of things. And then, ultimately, there’ll be at some point, not yet really announced or promised, physical shopping as well. That kind of shopping with your friend is a very social, fun experience.
+
+How big do you see the ads business being? Is it something that could potentially be as big as your core business today?
+
+“Our CFO’s friend was ... walking by a Vans store, and younger people wanted to go in there because they were familiar with that from Vans World on Roblox.”
+
+It’s interestingly big. We’re in a great position because we generate a really good business without advertising. So it gives us an opportunity to layer this in for older people in a very civil way, in a very careful way. But I think it’s arguably undetermined how big it is. We will see based on the power of the memories that people have in their brands. Anecdotally, our CFO’s friend was in Santa Monica and walking by a Vans store, and younger people wanted to go in there because they were familiar with that from Vans World on Roblox. So building digital memories and connecting with brands that are fun and exciting and then merging that with the physical world is new, uncharted territory.
+
+On the topic of growth, this is something I haven’t heard you talk about since you went public. A big part of your growth narrative when you went public, it was mentioned many times in the prospectus, for example, was this joint venture you had with Tencent in China. And less than a year after you went public, it got shut down without explanation.
+
+Yeah.
+
+I saw that your head of China is now your head of Japan.
+
+That’s right.
+
+Where are you with China?
+
+Tencent continues to be an amazing partner. We’re being very, very careful in China. The dynamics in China right now have gone to the point where, rather than envisioning a fully connected-type network, we have to imagine an autonomous network. We’re, in a sense, modernizing our infrastructure to the point where we can literally print a copy of Roblox in China and bring it to market there. So we continue to be very involved in China. We’re optimistic about it. We have a great partnership with Tencent, but we’re working on the infrastructure to support that.
+
+What does that mean, “an autonomous version” of Roblox?
+
+I think as you would look at any other platform or any other social media-type company, we would look back over the last three to four years and see less and less information going back and forth between the US and China to the point where I think the future will be very little goes back, for example, in a China situation.
+
+So you haven’t given up on China?
+
+Absolutely not. No.
+
+Okay, interesting. So you recently put Roblox on the Meta Quest headset, and it’s not officially in the store yet, but you got 1 million installs in five days, and it was just in a beta where you have to go find it. You can’t just go download it from the store.
+
+That’s right, that’s right.
+
+Where do you see VR going as it relates to Roblox? There’s the Vision Pro. Have you tried the Vision Pro?
+
+I have not tried a Vision Pro.
+
+You’ve got to try it. Will you guys be on Vision Pro? Are you a big believer in this headset wave that’s coming?
+
+I’m a big believer, long term, that the most immersive form of 3D experience will be VR-type experience. There’s some great sci-fi around what the far-off future of VR is. I think our vision is, because we are a platform and because we work so hard on… young creator shows up, builds something on Roblox, pushes a button, runs on any device, is auto-translated into any language, possibly that can build a business on top of that, there’s a huge benefit to being very, very good on all devices and tracking the growth of devices. So we can contribute to the growth of Meta Quest, and I’m excited about that. If someday there are 500,000 or 500 million VR headsets, Roblox will be a huge part of it, but I think we’re not in the position of predicting the growth of any hardware device.
+
+What about AR? So not fully immersive, but AR glasses.
+
+AR is also super interesting, right? Is the future going to be mixed reality? Is the future going to be lighter weight, less overlaid type stuff? Is the future ultimately going to be some of the vision of some of the companies that have been started? Someday, I think I wrote a blog post about it 10 years ago, we will have full overlay, whether it’s contact lenses, and it’ll be lightweight and all of that. I think AR is very interesting when we think about immersive 3D communication because there’s communication where we’re simulating this world and we’re sitting here together. There’s also communication where grandma and grandpa are sitting at the kitchen table, and I think AR starts to support that vision of some people are on VR devices, some people are on AR devices. You can either put grandma and grandpa in the chair, or you can go to the favorite family destination. So I think it’s very interesting.
+
+We’re going to have time for Q&A in a few minutes, so get your questions ready. We’ll have time for three or four questions.
+
+You and I, a few months ago when we did the interview for Decoder, we talked a lot about AI and this kind of analogy to... I don’t know if people have seen the last season of Westworld. The main character has this job where she just goes in and talks to a computer and creates virtual worlds as a narrator. And you said you see that happening on Roblox in the not-too-distant future. You all talked a little bit more about this at RDC a couple of weeks ago. Where does generative AI intersect with what Roblox does?
+
+I think one way to think about this is three big AI clouds that are accelerating creation and supporting the platform. One of these clouds has been there for two or three years, no one knows it. Safety, automatic translation, moderation, efficiency, we’ve been working on that for two or three years, and we probably have 70 AI pipelines to drive the efficiency of the business and the quality of the business.
+
+The middle cloud, which I think is a lot of energy right now — generative — how easy is it to make creation happen for everyone? Vision on Roblox would be in addition to, say, competing on Project Runway and using digital scissors and a digital sewing machine, we would also use prompts. I’d like a blue shirt, buttons this color, and AI will start to generate that.
+
+So AI generative is very interesting for avatars, for clothing, for 3D experiences to really bring creation to everyone, and we’re deep in on that. We’ve already shipped AI code generation to help creators create. We’ve shipped AI material generation. I think having a company with amazing... A lot of user data flowing can help support and train those types of models.
+
+“There’s a third cloud way out there, which is starting to imagine having a virtual doppelganger ... that’s the more sci-fi future.”
+
+There’s a third cloud way out there, which is starting to imagine having a virtual doppelganger, for example. If you wanted someone to take your place, if you wanted someone to meet me for five minutes before our meeting to just kind of figure things out, I think that’s the way-off-far future. And it’s not just generative AI, but it’s generative AI that might look and act like you in a virtual space. So that’s the more sci-fi future.
+
+So that’s an AI trained on my Roblox persona and data to be like me?
+
+That’s right. If you so choose and you so want that, then that could be an opportunity.
+
+Audience Q&A
+
+Alex Heath: Dave is very good at these Q&As. He does them a lot at his conferences.
+
+David Baszucki: I don’t. Oh, I do them with developers.
+
+AH: Yeah, I’m just saying give him good questions. Give him hard questions.
+
+DB: Thank you, I think.
+
+Cathy Hackl: Hi Alex and David. Cathy Hackl. I’m a tech and gaming executive at Journey, a Roblox player, and the mother of an 11-year-old Roblox developer that makes about a hundred dollars a month from his builds.
+
+DB: Oh, my gosh.
+
+CH: So, yay. Yeah. During RDC, you gave one of your predictions. You said a top fashion designer will be discovered on Roblox without having any experience in physical fashion. What is the role of fashion in the future of Roblox and direct-to-avatar?
+
+DB: It’s huge, right? Karlie [Kloss] is on our platform. Parsons [School of] Design did a partnership with us. At RDC, we saw a couple of the gowns that had been done in concert with some of the students there. They were absolutely amazing. So one could imagine reducing the friction of creativity for a fashion designer to ultimately virtual design — and then, ultimately, AI-supported design.
+
+It’s interesting to imagine this as a prototype environment for fashion. You can try a lot of things more quickly than building the physical. You can get crowd feedback. There will someday be experiences where early designs are voted on. We’ve had things like that in a more simplistic way, and then you can imagine almost predicting what types of designs from top designers would be welcomed. So I think it’s really big. Thank you.
+
+Neil Shankar: Hi, my name is Neil Shankar. I’m a content creator. I have always thought of Roblox as largely a metaverse company. In fact, my introduction to the metaverse concepts was from a series of essays that Matthew Ball wrote a few years ago that Roblox was largely the center of. Recently, I’ve become aware of a brand marketing push, I believe by your sports division, to distance yourselves from metaverse connotations. Can you please tell us about that?
+
+DB: I wouldn’t say that’s a distancing. We have evolved the terminology we’ve used. We’ve always used the term “human co-experience” or “bringing people together.” The metaverse context, as we know, was coined with the book Snow Crash a long time ago. And it’s interesting. It’s gone and ebbed through various flows. But I guess we imagine this more as a communication and connection platform. We’ve never really used the term metaverse a lot, and I think going forward, we’ll probably always think of ourselves as a communication and connection platform.
+
+Alex Kruglov: Hi, my name is Alex Kruglov. I run a startup called pop.in, which is also in the social gaming space but for a much older user base. I’m curious: when you think about 24 hours in a day and you talk about the future that you see with a billion daily actives and all kinds of time spent not just playing games but anything from dating to shopping and so on, what are people not going to be doing and switching? Clay Christensen has this concept of jobs to be done. Who are they firing? What jobs are they firing in order to be on Roblox?
+
+I asked this from the point of view of a parent of three kids, the middle of whom — for all intents and purposes, it’s crack when it comes to Roblox. It’s highly, highly regulated by her parents.
+
+AH: Yeah, how dystopian is this going to be?
+
+DB: Yeah. We’re actually very optimistic. And I think we’re optimistic because, in the specter of social media, there’s a wide range of things that people do on social media. Some consume a lot of short video content and trigger dopamine. Some are “compare my life with your life and accelerate FOMO.” Some are hopefully similar to the feeling of, “Well, my kid’s on the phone with their friends. They’re connecting, inventing, hanging out.” So I’m actually somewhat optimistic that the future of our direction is bringing people together when they can’t be in real life.
+
+Casey Newton: Hi. Casey Newton from Platformer. When I look at Roblox, I see something that looks a lot like an app store that increasingly looks like it wants to be an operating system, which to me, would seem to put it on a kind of collision course with an iOS or an Android or maybe even the Oculus Store. So I wonder how you think about that and how you think you can get to that billion daily active people without owning your own hardware.
+
+DB: One thing to think about when we imagine millions of creators and we can go to ancient Egypt or we can go to our office or whatever in immersive 3D is that content cannot all be shipped to the device. It’s just impossible to have that much content. So that content needs to come to the device in a very unique architecture where there’s very low latency, there’s a lot of local 3D simulation, but at the same time, on the cloud, that content needs to load and connect very fast. And I think this architectural inevitability of a 3D connection platform where we can go everywhere instantly is maybe what you’re thinking about or referring to. I would say, Apple, these platforms, are very aware of this inevitable architecture for 3D and are actually very big supporters of it.
+
+Andrew Melnizek: Hey. Andrew with The Verge. Last week, we saw some leaked internal emails from Microsoft’s Xbox CEO Phil Spencer, and he talked about the future of AAA game publishing and development. It’s just really expensive. People have to take bigger bets to succeed, and it’s getting harder and harder. I wanted to get your take, as someone who I would argue has defined the iPad kids generation, in what their relationship with games is going to be in the future as the model continues to change.
+
+“We have nothing near a bull’s-eye on AAA gaming”
+
+DB: Internally, we have nothing near a bull’s-eye on AAA gaming. Internally, there’s always a struggle to have all of our engineers working on midrange Android phones as a primary, very difficult platform. So I think our focus is on performance, on midrange, low-end devices, rather than the high-end. Over time, you could imagine even those low-end devices start to support more and more realism, and it becomes easier to deploy on the cloud, have an existing social network, and those kinds of things. So there may be some natural evolution but definitely nothing deliberate on our part.
+
+Jay Peters: Hi. Jay Peters with The Verge. You mentioned walled gardens in terms of PlayStation and Xbox, but I kind of feel like Roblox is its own walled garden. We see lots of other shared virtual experience apps like Fortnite or Meta’s Horizon Worlds. Is there any chance or any thinking on some kind of interoperability between all that stuff?
+
+DB: I think there are two types of interoperability. One would just be on valuable items like a pair of shoes from Nike and whether the NFT supports the interchange. That may not be a 3D graphical technical spec; that may be a little bit more of a cloud ownership spec. I think that this genre is evolving so quickly to network hundreds of people to have realistic 3D. Are my shoes ultimately made of leather? Do they actually bend and flex? The technology is going to go so quickly here that any 3D interchange is going to be almost like a five-year-old file format. So I think, if you see maybe less interchange, I think it’s less that way. We do bring in every type of industry file format that we can, and we’re trying to open that up as fast as we can.
+
+JP: Do you think five years out, will there be energy toward creating some kind of interchangeable file format or is that something —
+
+DB: I think there is already. I think because Roblox is based on, under the covers, really trying to be a 3D world simulator. The wheels fall off the car, the car falls on the ground, your clothing is made of cloth, those kinds of things — those file formats may not support a kind of physically rich description. So I imagine, for a long time, when we bring in avatar files or something, we’ll be using AI to upsample them into a physical manifestation.
+
+JP: Thank you.
+
+AH: Alright, we’re getting pulled off the stage here. Dave, thank you for the time.

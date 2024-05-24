@@ -1,0 +1,117 @@
+One of the grand challenges in climate science is to reduce uncertainty in estimates of climate sensitivity, which quantifies how much Earth’s surface warms in response to a doubling of carbon dioxide relative to preindustrial levels. This uncertainty is large because climate sensitivity aggregates myriad processes, from microscale aerosol-cloud interactions to planetary-scale atmospheric and ocean circulations, into one number. Clouds, which are notoriously difficult to measure and simulate, are the main driver of the uncertainty.
+
+Various lines of evidence are used to estimate climate sensitivity, including climate model simulations of varying complexity, observations over the past century, proxies that measure climate change in the distant past, and theory. The likely range of estimates of climate sensitivity was stubbornly constant at a distressingly imprecise 1.5–4.5 K for several decades, but the research community’s efforts have recently chipped away at this range (Figure 1).
+
+Early in the 2010s, a substantial discrepancy was noted between estimates of climate sensitivity derived from climate models and estimates based on the observed warming record and radiative balance, the balance between incoming and reflected solar radiation and outgoing terrestrial radiation. Estimates based on observed warming pointed to much lower values than those derived from models. A key breakthrough toward solving this conundrum has been the recognition of the pattern effect, the process whereby climate sensitivity depends on the geographic pattern of surface warming. This advance was rated as one of the most promising avenues for further constraining climate sensitivity in the future [Forster et al., 2021].
+
+Forcing, Feedbacks, and Climate Sweet Spots
+
+Adding greenhouse gases to Earth’s atmosphere leads to a global energy surplus (less terrestrial radiation escapes to space), referred to as forcing. To restore the energy balance, the planet must warm. But warming causes changes in the climate system: The concentration of water vapor—a greenhouse gas—in the atmosphere increases, the spatial coverage of highly reflective snow and sea ice decreases, and cloud properties change. These and other radiative feedbacks amplify or dampen how much the planet warms in response to the forcing. Hence, for a given forcing, the feedbacks determine the climate sensitivity.
+
+A degree of global warming spread out evenly will cause a different radiative response than if that same warming is concentrated in a climate sweet spot.
+
+For decades, researchers assumed that global mean radiative feedbacks mostly depend on global mean temperature [Gregory et al., 2004]. However, they also depend on the spatial pattern of surface warming: Much like applying a force uniformly over someone’s entire body will elicit a very different reaction than tickling the soles of that person’s feet, a degree of global warming spread out evenly will cause a different radiative response than if that same warming were concentrated in a climate sweet spot (a location where surface warming produces efficient radiative damping).
+
+A wide variety of processes affect the evolution of surface temperature, from greenhouse gas forcing and regional aerosol forcing to natural oscillations involving the ocean and atmosphere to the continental boundary conditions and the extent of ice sheets and sea ice. The pattern of surface temperature change over the past 40 or so years featured a pronounced spatial structure, with some locations even cooling in spite of the global mean warming on the order of 1 K (Figure 2, bottom left).
+
+Fig. 2. At left is the surface and vertical structure of warming observed over the past few decades in the tropical Pacific. Strong warming in regions of deep convection such as the western Pacific is communicated throughout the troposphere and leads to strong warming aloft, enhancing radiative emission to space. In contrast, parts of the eastern Pacific have cooled. Warming aloft and cooling at the surface enhance the lower tropospheric inversion strengths in the eastern Pacific and promote extensive shallow cloud cover that reflects solar radiation and keeps Earth relatively cool. At right is a typical representation of climate change simulated with coupled climate models, which create their own surface warming pattern that differs from the observed one. In coupled model simulations, warming aloft is less pronounced, and relative to the observed case, the lower tropospheric inversion strength is decreased, and cloud cover is reduced through time. Both factors lead to less efficient cooling near Earth’s surface in models than in nature.
+
+Feedbacks involving clouds and the atmospheric temperature structure are most sensitive to spatial differences in warming. Deep convection in the warmest tropical regions readily communicates surface conditions upward throughout the troposphere (up to about 10–15 kilometers) and then horizontally across much of the globe, making the western Pacific a climate sweet spot. This warmer air sitting atop the relatively cool waters in the eastern Pacific or Southern Ocean acts to stabilize the lowermost troposphere, allowing more extensive low-lying stratus and stratocumulus clouds to develop. Because of their location and structure, these low clouds efficiently cool the planet and offset some of the initial warming (Figure 2, top left).
+
+Approaching the Problem from Different Angles
+
+Three strands of research have converged over the past few years, highlighting that understanding the pattern effect benefits from contributions from virtually all climate research communities.
+
+Historically, three strands of research have highlighted the dependence of radiative feedbacks on the surface warming pattern. The first strand came from analyses of climate feedbacks and sensitivity in model simulations of unequilibrated, transient climate change. If feedbacks were constant, the expected equilibrium temperature change (climate sensitivity) could be estimated using a very simple energy balance model that linearly extrapolates the relationship between global temperature change and radiative imbalance [e.g., Gregory et al., 2004]. When longer, fully equilibrated simulations became available, it became evident that the simple estimation methods assuming constant feedbacks systematically underestimate the actual equilibrium climate sensitivity. The reason for this underestimation is indeed the evolution of the surface warming pattern, which initially emphasizes more stabilizing radiative feedbacks but later, during equilibration, emphasizes less stabilizing radiative feedbacks [e.g., Senior and Mitchell, 2000; Rugenstein et al., 2020].
+
+The second strand related the idea of constant feedbacks to the efforts of estimating equilibrium climate sensitivity from the historical record, as mentioned above. Feedbacks calculated from observations or from atmosphere-only model simulations forced with the observed surface warming pattern over the past couple of decades imply less warming than those from model simulations with a fully interactive ocean, which have the freedom to create their own surface warming patterns [e.g., Gregory et al., 2020].
+
+The third strand of research came from oceanography, showing that the atmospheric cooling effect of ocean heat uptake differs depending on where it occurs: One unit of ocean heat uptake in high latitudes cools Earth more effectively than the same unit taken up by the low-latitude oceans. This difference is relevant because the largest heat uptake by the ocean occurs at higher latitudes. The effect, termed ocean heat uptake efficacy, turns out to be another manifestation of the dependence of radiative feedbacks on surface temperature patterns [Winton et al., 2010; Lin et al., 2021].
+
+The three strands of research have converged over the past few years, highlighting that understanding the pattern effect benefits from—and perhaps requires—contributions from virtually all climate research communities studying large-scale ocean-atmosphere coupling and the dynamics that set regional to global responses to external forcing.
+
+To foster this work across communities, 140 scientists from around the world and from different disciplines gathered for a US CLIVAR (U.S. Climate Variability and Predictability Program) workshop in May 2022 in Boulder, Colo. Below, we present the current consensus that emerged during the workshop and raise questions that require urgent attention from scientists.
+
+The Past Is a Poor Analogue for the Future
+
+Research on the pattern effect has exposed limitations of using equilibrium climate sensitivity to constrain future warming and, conversely, of using recently observed warming to constrain equilibrium climate sensitivity. The foremost implication of the pattern effect is that historically observed climate change does not constrain the upper limit of climate sensitivity [Sherwood et al., 2020; Forster et al., 2021].
+
+The reason for the poor predictive power of the climate record from past decades is that the observed surface warming pattern caused feedbacks that were more stabilizing than the ones projected for the future. The warming was particularly pronounced in the sweet spots of the western Pacific and the subtropical eastern Pacific—a perfect combination for enhanced radiative damping (Figure 2, left). In particular, low-lying cumulus clouds in the eastern Pacific covered a larger area and reflected more sunlight back to space than studies suggest they will in the future.
+
+Difficulty in quantifying the pattern effect stems from uncertainties in observed surface temperature trends, the magnitude of ocean heat uptake, and the short observational record of Earth’s energy budget.
+
+Importantly, the measurement and magnitude of the observed pattern effect are still debated and uncertain. The current best estimate is that the radiative feedback or damping under idealized, long-term carbon dioxide forcing is 0.5 ± 0.5 watt per square meter per kelvin weaker than the radiative feedback seen since the late 1800s [Andrews et al., 2022]; 0.5 watt per square meter per kelvin is similar in magnitude to the single radiative feedbacks that the pattern effect modifies. The wide range of uncertainty opens two contrasting possibilities: The pattern effect might have acted to retard global warming fairly strongly—in other words, mean global warming might have been much higher by now if the recent surface warming had come about in a different spatial pattern. This possibility implies that the pattern effect has the potential to influence future near-term warming rates strongly as the surface warming pattern evolves. The other end of the uncertainty range implies that the pattern effect might have been negligible over the past century and that it might apply only over shorter timescales or in drastically different climate states.
+
+Difficulty in quantifying the pattern effect stems from uncertainties in observed surface temperature trends, the magnitude of ocean heat uptake, and the short observational record of Earth’s energy budget. Our incomplete quantitative understanding of how clouds react to their environment and how these dependences are represented in the highly parameterized climate models further limits our ability to quantify the full range of the possible and recently realized pattern effect.
+
+Pressing, fundamental questions for climate dynamics concern how surface temperature patterns come about, how Earth’s radiation budget depends on the details of the surface temperature patterns, and the extent to which the two depend on each other. In other words, first, we need to improve our understanding of drivers of sea surface temperature patterns—decadal coupled variability; the pace and spatial structure of ocean heat uptake; and forcing by aerosols, greenhouse gases, and volcanoes—as well as the relative timing of these drivers. An important goal is to explain historical patterns quantitatively and to predict their likely future evolution. Second, we need to quantify the dependence of local and remote top-of-the-atmosphere radiative fluxes on the magnitude, spatial scale, and sign (positive or negative) of surface temperature changes. Third, we have to explain how ocean heat uptake and radiative feedback are connected on various timescales, both globally and regionally.
+
+Interpreting Paleorecords Requires Caution
+
+In the same way that the historical evolution of surface warming and the planet’s radiation budget inform Earth’s future only to a limited extent, analyses of paleorecords for recent and deep time intervals must account for the pattern effect to be applicable to climate projections of the future. For example, the cooling pattern during the Last Glacial Maximum (LGM) differed from the warming pattern observed currently and from those expected for the next couple of decades and expected in the equilibrium following a doubling of carbon dioxide, not only in sign but also in the spatial distribution of magnitudes. The LGM currently provides the best constraint on the upper bound of equilibrium climate sensitivity [Sherwood et al., 2020], and hence, the details of the pattern effect matter greatly.
+
+Outstanding questions concern how representative pattern changes in the past century, the past millennium, or quasi-equilibrated times millions of years ago are of expected future changes.
+
+In addition to our growing knowledge of the pattern effect, we also have learned that radiative feedbacks depend on global mean temperature itself: Warming Earth by 1 K from the LGM emphasizes different feedbacks (e.g., the sea ice albedo feedback) than warming by 1 K from a Miocene hothouse world or warming from 4 to 5 K in a high-emission scenario in a century or two from today (e.g., the water vapor feedback [Bloch-Johnson et al., 2021]). The pattern effect and the feedback temperature dependence add uncertainties to estimates of climate sensitivity based on the paleorecord, but quantifying their effects would make these records more relevant to constraining climate sensitivity and expected future warming.
+
+Outstanding questions concern how representative pattern changes in the past century, the past millennium, or quasi-equilibrated times millions of years ago are of expected future changes. The paleorecord could further be crucial for understanding the timescales and relative importance of internal variability, forced response, and extratropical forcing to rates of warming or cooling in the equatorial Pacific in nature and in climate models.
+
+Should We Trust Model Patterns in Climate Change Scenarios?
+
+Our understanding of the pattern effect raises the question of whether climate models can reproduce observed warming patterns. Coupled climate models simulate a freely evolving ocean surface and hence have their own expression of internal variability. For example, we would not expect a coupled model to simulate El Niño events at the same time as they happened in nature, except by chance. This feature complicates comparisons between models and observations, especially on decadal timescales and beyond, for which we know little about the spectrum of internal variability in the real world.
+
+Unfortunately, coupled climate models seem unable to simulate observed surface warming patterns across some key regions in which surface sensitivity modulates clouds, even when they account for internal variability. Most important, models do not re-create observed cooling in the equatorial and subtropical eastern Pacific and Southern Ocean (Figure 2, right), and it is concerning that all models have the same sign of error in the trend patterns [e.g., Wills et al., 2022]. In addition, models strongly disagree about the timescales over which future warming may occur in these regions.
+
+The advent of global coupled storm- and cloud-resolving models, which currently can simulate only a few months to years at a time, presents an exciting opportunity.
+
+Our limited knowledge of the drivers of surface warming pattern biases in climate models hampers our ability to evaluate these biases. We do not know whether these models’ inability to reproduce observed trends is due to biases in how they represent the spectrum of internal variability, aerosol forcing, ocean-atmosphere interactions, deep and shallow atmospheric convection, Southern Ocean cloud-radiative properties, ocean thermocline depth, and ocean circulation or something else entirely.
+
+The most pressing question is whether climate model simulations will be as far off from observations in the future as they have been relative to recent past conditions (compare Figure 2, left and right). If this turns out to be the case, how will model biases in surface warming trends be reflected in radiative feedbacks and global mean warming rates? We need to quantify whether coupled models compensate for their bias in the surface warming pattern and radiative feedbacks through erroneous ocean heat uptake rates or aerosol forcings.
+
+The advent of global coupled storm- and cloud-resolving models, which currently can simulate only a few months to years at a time, presents an exciting opportunity. How do we evaluate surface warming patterns and radiative feedbacks in these simulations and compare them meaningfully to observations and coarser resolution models, knowing that even several decades are not enough to robustly detect a forced trend in some regions? And most pressing for the communities relying on the coupled models’ climate change projections, To what extent are the remaining carbon budgets [Zhou et al., 2021] with respect to global warming targets, rates of near-term future warming, and detection and attribution efforts contingent on the pattern effect?
+
+A Collaborative Outlook
+
+Working to solve the problems outlined above at the intersection of different disciplines and with input from different research communities will likely benefit related research into, for example, the sensitivity of tropical cyclones and future rainfall changes in the southwestern United States or in South America to surface warming patterns.
+
+Promising new tools and observations are beginning to emerge. They include targeted model experiments and intercomparisons, extended global satellite observations of clouds and radiation, Argo floats sampling deep-ocean heat uptake, estimates of radiative imbalances before the year 2000, and new observational constraints on clouds’ sensitivity to environmental controlling factors. These developments encourage an optimistic outlook on our ability to quantify the pattern effect and its implications over the next couple of years.
+
+Acknowledgments
+
+The authors thank all participants of the US CLIVAR pattern effect workshop. M.Z.’s work was supported by the U.S. Department of Energy (DOE) Regional and Global Model Analysis program area and was performed under the auspices of DOE by Lawrence Livermore National Laboratory under contract DE-AC52-07NA27344. P.C. was supported by the UK Natural Environment Research Council, grants NE/T006250/1 and NE/V012045/1. T.A. was supported by the Met Office Hadley Centre Climate Programme funded by the Department of Business, Energy and Industrial Strategy and received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement 820829. M.R. was supported by NASA under grant 80NSSC21K1042.
+
+References
+
+Andrews, T., et al. (2022), On the effect of historical SST patterns on radiative feedback, J. Geophys. Res. Atmos., 127, e2022JD036675, https://doi.org/10.1029/2022JD036675.
+
+Bloch-Johnson, J., et al. (2021), Climate sensitivity increases under higher CO 2 levels due to feedback temperature dependence, Geophys. Res. Lett., 48, e2020GL089074, https://doi.org/10.1029/2020GL089074.
+
+Forster, P., et al. (2021), The Earth’s energy budget, climate feedbacks, and climate sensitivity, in Climate Change 2021: The Physical Science Basis. Working Group I Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, edited by V. Masson-Delmotte et al., pp. 923–1,054, Cambridge Univ. Press, New York, https://doi.org/10.1017/9781009157896.009.
+
+Gregory, J. M., et al. (2004), A new method for diagnosing radiative forcing and climate sensitivity, Geophys. Res. Lett., 31, L03205, https://doi.org/10.1029/2003GL018747.
+
+Gregory, J. M., et al. (2020), How accurately can the climate sensitivity to CO 2 be estimated from historical climate change?, Clim. Dyn., 54, 129–157, https://doi.org/10.1007/s00382-019-04991-y.
+
+Lin, Y., et al. (2021), The dominant contribution of Southern Ocean heat uptake to time-evolving radiative feedback in CESM, Geophys. Res. Lett., 48, e2021GL093302, https://doi.org/10.1029/2021GL093302.
+
+Rugenstein, M., et al. (2020), Equilibrium climate sensitivity estimated by equilibrating climate models, Geophys. Res. Lett., 47, e2019GL083898, https://doi.org/10.1029/2019GL083898.
+
+Senior, C. A., and J. F. B. Mitchell (2000), The time-dependence of climate sensitivity, Geophys. Res. Lett., 27, 2,685–2,688, https://doi.org/10.1029/2000GL011373.
+
+Sherwood, S. C., et al. (2020), An assessment of Earth’s climate sensitivity using multiple lines of evidence, Rev. Geophys., 58, e2019RG000678, https://doi.org/10.1029/2019RG000678.
+
+Winton, M., K. Takahashi, and I. M. Held (2010), Importance of ocean heat uptake efficacy to transient climate change, J. Clim., 23, 2,333–2,344, https://doi.org/10.1175/2009JCLI3139.1.
+
+Wills, R. C. J., et al. (2022), Systematic climate model biases in the large-scale patterns of recent sea-surface temperature and sea-level pressure change, Geophys. Res. Lett., 49, e2022GL100011, https://doi.org/10.1029/2022GL100011.
+
+Zhou, C., et al. (2021), Greater committed warming after accounting for the pattern effect, Nat. Clim. Change, 11, 132–136, https://doi.org/10.1038/s41558-020-00955-x.
+
+Author Information
+
+Maria Rugenstein (maria.rugenstein@colostate.edu), Colorado State University, Fort Collins; Mark Zelinka, Lawrence Livermore National Laboratory, Livermore, Calif.; Kristopher B. Karnauskas, University of Colorado Boulder; Paulo Ceppi, Imperial College London, London; and Timothy Andrews, Met Office Hadley Centre, Exeter, U.K.
+
+Citation: Rugenstein, M., M. Zelinka, K. B. Karnauskas, P. Ceppi, and T. Andrews (2023), Patterns of surface warming matter for climate sensitivity, Eos, 104, https://doi.org/10.1029/2023EO230411. Published on 31 October 2023.
+
+Text © 2023. The authors. CC BY-NC-ND 3.0
+
+Except where otherwise noted, images are subject to copyright. Any reuse without express permission from the copyright owner is prohibited.

@@ -1,0 +1,93 @@
+Senior political figures in Washington are becoming increasingly interested in the impact of AI on the law.
+
+On Wednesday (November 29), US Senate Majority Leader Chuck Schumer held an Artificial Intelligence (AI) Insight Forum to discuss the importance and role of creative copyright and intellectual property in the development of AI.
+
+Dennis Kooker, Sony Music Entertainment‘s President of Global Digital Business & US Sales, delivered a speech at the Forum, outlining the major music company’s position on AI and copyright law.
+
+Kooker’s public statements on the topic arrive a week after MBW pointed out that there was a notable lack of endorsement from SME, and its artists, of YouTube‘s new experimental AI project called ‘Dream Track’ that lets creators clone the vocals of successful musicians.
+
+The initial cohort of stars involved in the project, as we noted last week, include recording artists signed to Warner Music Group and Universal Music Group – or labels within each of those two majors, but no Sony Music artists.
+
+(In our report, MBW suggested that YouTube parent Google‘s recent submission to The United States Copyright Office (USCO) – in response to a request for written submissions as part of a study around copyright law and policy issues raised by AI systems – may have influenced Sony’s absence from Dream Track.)
+
+Google was just one of various tech giants and AI companies that submitted responses to the USCO, amongst them, Anthropic and Stability AI.
+
+Anthropic, in its submission to the USCO, also argued that training (large language models) LLM’s on copyrighted material is fair use.
+
+Stability AI made a similar argument. Its position on the issue of “Fair Use” concerning AI and copyrighted content resulted in the resignation of prominent generative AI executive Ed Newton-Rex from the company.
+
+As reported by MBW last week, Universal Music Group submitted its response to the USCO. Unsurprisingly, amongst the highlights of UMG’s submission was the rejection of the notion that using copyrighted material to train LLMs is “fair use”.
+
+In his speech on Wednesday, Kooker commented directly on the flurry of submissions to the USCO from the tech industry at the end of October.
+
+In what may have been a nod to Google’s filing and “fair use” position, Kooker told Senators that “based on recent Copyright Office filings it is clear that the technology industry and speculative financial investors would like governments to believe in a very distorted view of copyright”.
+
+He added: “[That view is] one in which music is considered fair use for training purposes and in which certain companies are permitted to appropriate the entire value produced by the creative sector without permission, and to build huge businesses based on it without paying anything to the creators concerned.”
+
+Kooker also openly discussed Sony Music’s efforts to get unauthorized AI content removed from platforms online – including the fact that the firm has already issued close to 10,000 separate takedowns.
+
+Kooker further discussed Sony Music’s optimism about AI’s potential for enhancing creativity, as well as key principles the company has adopted around generative AI.
+
+Here are three things that stood out from Kooker’s speech…
+
+1. Sony Music has issued close to 10,000 takedowns for unauthorized deep fakes of artists
+
+Kooker argued in his speech that, while “the music industry sees great potential with various forms of AI technology in this early phase of AI,” so far, “the available generative AI products are not delivering on the expected promise of new products in creative industries”.
+
+He clarified that point by explaining that some generative AI platforms “are not expanding the business model or enhancing human creativity”.
+
+Kooker suggested that the “more dire outputs of early generative AI technology are deep fakes and unauthorized voice clones” of artists and that in the United States, “artists are not adequately protected from these deepfakes”.
+
+“An artist literally makes their livelihood from their voice,” he said. “Deep fakes intentionally exploit an artist’s talent and reputation to steal that income stream.
+
+“Every stream of a deep fake takes streams and royalty payments away from the legitimate artist. Deepfakes are also misleading and confusing to consumers and music fans who are not typically interested in supporting fake versions of their favorite artist.”
+
+“Every stream of a deep fake takes streams and royalty payments away from the legitimate artist.” Dennis Kooker, Sony Music
+
+Kooker reported that to date, Sony Music Entertainment has sent “close to 10,000 takedowns to a variety of platforms hosting unauthorized deepfakes that SME artists asked us to take down.”
+
+He added that “platforms are quick to point to the loopholes in the law as an excuse to drag their feet or to not take the deepfakes down when requested.”
+
+Kooker commended the No FAKES Act policy drafted by senators earlier this year, which he explained “would create a federal property right in one’s voice or visual likeness and protect against unauthorized AI-generated replicas”.
+
+2. Sony has ‘roughly 200 active conversations taking place’ with AI startups that “include potential equity investments”
+
+Kooker explained that despite the negative impacts of AI, including unauthorized clones and low-quality AI music, there are still “many positive and optimistic developments to highlight”.
+
+He highlighted legitimate AI startups and established firms “with music ideas that want to partner with the industry”.
+
+According to Kooker, Sony Music has “roughly 200 active conversations taking place with startups and established players” right now about building new AI-related products and tools.
+
+These products range from tools for “creative or marketing assistance”, to tools that “potentially give us the ability to better protect artist content or find it when used in an unauthorized fashion” as well as “brand new products that have never been launched before”.
+
+Kooker said that some of these conversations “also include potential equity investments which would accelerate the development of these companies”.
+
+The Sony Music exec cited, as an example, a recent generative AI-powered project around a reissue and remix of an album. Although Kooker didn’t name it specifically, SME did recently announce a generative AI project with The Orb and David Gilmour, which was a partnership between Sony Music Entertainment, Legacy Recordings AI company Vermillio
+
+“These artists are known for their cutting-edge experimentation in music,” said Kooker.
+
+“About the time that we started the discussion with this artist, we had begun informal talks with a generative AI start-up company whose business model focused on working with IP rightsholders the ‘right way’.
+
+“In other words, they respect intellectual property rights and want to work with rights holders in ways that enhance and protect the copyrighted works.”
+
+3. SME has asked Congress to embrace a set of principles around generative AI
+
+Kooker told the lawmakers during his speech on Wednesday that “if copyrights are protected and enforced appropriately, we are at the beginning of a multi-decade marathon that will change the creative and commercial landscape for music”.
+
+With that in mind, Kooker explained that Sony Music has established a set of principles to guide the company’s decision-making around generative AI.
+
+“If copyrights are protected and enforced appropriately, we are at the beginning of a multi-decade marathon that will change the creative and commercial landscape for music.” Dennis Kooker, Sony Music
+
+Kooker added later in the speech: “Music is a tremendous driver for AI technology, and AI technology presents a tremendous opportunity for the creative development of music.
+
+“But these opportunities must be grounded by the human creators’ vision with the machine assisting, not with the machine replacing the human creator.”
+
+To achieve this, Kooker said that SME wants Congress to embrace the following principals:
+
+Assure Consent, Compensation, and Credit. “New products and businesses built with music must be developed with the consent of the owner and appropriate compensation and credit. It is essential to understand why the training of AI models is being done, what products will be developed as a result, and what the business model is that will monetize the use of the artist’s work. Congress and the agencies should assure that creators’ rights are recognized and respected.” Confirm That Copying Music to Train AI Models is Not Fair Use. “Even worse are those that argue that copyrighted content should automatically be considered fair use so that protected works are never compensated for usage and creators have no say in the products or business models that are developed around them and their work. Congress should assure and agencies should presume that reproducing music to train AI models, in itself, is not a fair use.” Prevent the Cloning of Artists’ Voices and Likenesses Without Express Permission. “We cannot allow an artist’s voice or likeness to be cloned for use without the express permission of the artist. This is a very personal decision for the artist. Congress should pass into law effective federal protections for name, image, and likeness.” Incentivize Accurate Recordkeeping. “Correct attribution will be a critical element to artists being paid fairly and correctly for new works that are created. In addition, rights can only be enforced around the training of AI when there are accurate records about what is being copied. Otherwise, the inability to enforce rights in the AI marketplace equates to a lack of rights at all, producing a dangerous imbalance that prevents a thriving ecosystem. This requires strong and accurate record keeping by the generative AI platforms, a requirement that urgently needs legislative support to ensure incentives are in place so that it happens consistently and correctly.” Assure Transparency for Consumers and Artists. “Transparency is necessary to clearly distinguish human-created works from AI-created works. The public should know, when they are listening to music, whether that music was created by a human being or a machine.”
+
+Added Kooker: “While these principles are simple and basic, they require a new level of commitment and investment from generative AI platforms.
+
+“If established early on, they will result in an even playing field for all participants so there will not be an unfair competitive advantage for a few at the expense of future innovators.
+
+“The principles will ensure that intellectual property businesses can succeed in this new world alongside tech partners, further advancing investment and expanding economic opportunities. “Music Business Worldwide

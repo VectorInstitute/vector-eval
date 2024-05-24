@@ -1,0 +1,83 @@
+Live your life healthier and happier with our free Living Well newsletter, packed with wellness advice, practical tips and nutritious recipes Live your life healthier and happier with our free weekly Living Well newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Living Well email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Winter is coming, as the clocks go backwards one hour at 2am on Sunday 29 October.
+
+This will give us an extra hour in bed as we prepare for the colder months when the sun sets earlier and days get significantly shorter.
+
+The clocks won’t go forward again until Sunday 31 March 2024.
+
+Even so, the debate as to whether we should continue to comply with Daylight Saving Time (DST) protocols continues to run rife.
+
+Many academics, scientists and campaigners have called for the abolition of the clock turning-tradition, citing improvements to mental and physical health, public safety and wellbeing.
+
+But what are the advantages of such a decision? We speak to the experts to get the low-down on the issue.
+
+Annual energy savings of £400
+
+Professor Aoife Foley from Queen’s University Belfast has calculated that household consumers could save more than £400 per year from their electricity bill depending on their tariff if the government scrapped DST at the end of October.
+
+Dr Foley, who specialises in clean energy research, estimates that we could save £1.20 a day and dramatically reduce demand on the National Grid.
+
+“By simply foregoing the winter DST in October, we save energy because it is brighter in the evening during winter, so we reduce commercial and residential electrical demand as people leave work earlier, and go home earlier, meaning less lighting and heating is needed,” she said.
+
+Many people are concerned about spiking energy bills this winter (Getty/iStock)
+
+During winter, evening energy demand peaks between 5pm and 7pm, with UK households potentially facing three-hour power cuts this winter, the National Grid has warned, due to a shortage of gas.
+
+“We are no longer in an energy crisis in Europe but an energy war and, dependent on weather conditions this winter, it is very likely we may need to start rationing energy very seriously to avoid bigger energy issues in December and January when gas reserves start to run low,” adds Professor Foley.
+
+“There is no doubt that by foregoing the DST in winter we would save a lot of energy, reduce our bills and carbon emissions during this energy war, especially during a cost of living crisis.”
+
+Fewer road accidents
+
+The Royal Society for the Prevention of Accidents (RoSPA) has called for the abolition of DST, arguing that turning the clocks back increases the risk of road accidents, due to more people driving during darker winter months.
+
+The Society has urged the UK government to adopt British Summer Time on a permanent basis.
+
+“RoSPA is in favour of this proposal, and is calling for the government to adopt British Summer Time (GMT+1) all year,” the society states.
+
+Dark, icy roads can be dangerous (Getty)
+
+“This would mean road users will no longer experience the sudden onset of darkness during their autumn commutes, potentially saving many lives.”
+
+And they’re not alone. The Royal Society for the Prevention of Accidents also supports the call to abolish DST, citing figures from the RAC Foundation which state that road traffic collisions increase by 19 per cent in the fortnight after putting the clocks back one hour from British Summer Time, reducing by 11 per cent when we put the clocks forward.
+
+Increased immunity
+
+Getting a good night’s sleep during the winter months is essential in protecting us against the seasonal increase in colds and flu. Research shows that even a small reduction in sleep has been shown to impact your immune system, however.
+
+Making the move from daylight saving time interferes with your natural circadian rhythm, the 24-hour biological cycle that is influenced by morning light and evening darkness, however.
+
+“It’s hard to understate the importance of a good night’s sleep,” says Giulia Guerrini, lead pharmacist of digital pharmacy Medino. “Having too much or too little sleep can have adverse side effects, so you should aim to get between seven and eight hours of sleep as consistently as possible.”
+
+Never underestimate the value of a good night’s sleep (Getty)
+
+“One of the biggest disruptors to our sleep is when UK clocks go forward one hour at 1am on the last Sunday in March and go back one hour at 2am on the last Sunday in October, which is rapidly approaching on 30 October.
+
+“One of the most important aspects of a healthy sleep schedule is waking up around the same time each morning, so try to limit yourself to a one-hour window if you need to adjust when you get up in the morning and when you go to sleep at night. One hour sounds like an insignificant amount of time, but it can completely throw our circadian rhythm, or more simply known as internal clock, off balance,” he says.
+
+Despite this, a spokesperson for Sleep School, a science-based sleep education and therapy service, told The Independent that it is “impartial” on the extent to which the clocks changing impacts sleep, arguing that the important factor is the duration of time asleep and a consistent schedule.
+
+Fewer depressive episodes
+
+A Danish study from 2017 of more than 185,000 people over 15 years found that the transition from summer time to standard time was associated with an 11 per cent rise in depressive episodes. Conversely, the switch from winter to summer time was found to have no effect.
+
+People frequently report an increase in SAD and depressive symptoms in winter (Getty/iStock)
+
+“This study shows that the transition from summer time to standard time was associated with an increase in the incidence rate of unipolar depressive episodes,” the study authors concluded. “Distress associated with the sudden advancement of sunset, marking the coming of a long period of short days, may explain this finding.”
+
+A drop in heart attacks
+
+Not everyone is convinced, however. Charlie Morley, author of Wake Up to Sleep, cites a 2014 study by the College of Cardiology, which reported a significant drop in heart attacks in the 24 hours immediately following turning back the clocks.
+
+“Fascinatingly, each year when the clocks go back for Daylight Saving and 1.6 billion people across 70 countries gain an extra hour in bed, there is a 21 per cent decrease in heart attacks the next day,” he says. “There’s also a big drop in suicides and car crashes worldwide. That all adds up to tens of thousands of fewer deaths around the world from just one extra hour of sleep.”
+
+When did Daylight Saving Time begin?
+
+The UK first introduced Daylight Saving Time in 1916 when the government introduced British Summer Time (BST) to encourage people to spend more time outdoors in daylight.
+
+The change hasn’t always proved popular, however, with the European parliament voting in favour of scrapping DST in 2019, a change that was due to take effect for the first time in 2021, but plans have been stalled.
+
+A 2019 YouGov poll found that the majority of Brits were marginally in favour of keeping DST, however, with 44 per cent electing to keep the current system, while 39 per cent voted in favour of ditching the change.

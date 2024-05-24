@@ -1,0 +1,29 @@
+Scalable Capital, a Munich startup that aims to make investing in financial markets accessible to a wider range of consumers, is putting more fuel in its tank to drive deeper into Europe. The company has raised €60 million in equity ($65 million at today’s rates). It will be using the funds to build out its business in the six countries — Germany, Austria, Italy, France, Spain and Netherlands — where it is already active and to expand into more. Balderton is leading the round, with participation from HV Capital out of its new growth fund and other unnamed existing backers.
+
+Contrary to the startup’s name, this round is coming in at a flat valuation of $1.4 billion. This was the same valuation Scalable Capital had the last time it raised money — $180 million in 2021, a round led by Tencent, with BlackRock, HV and Tengelmann participating. That is despite the fact that the startup is now “four or five times bigger” than it was two years ago, according to co-CEO Erik Podzuweit, who co-founded the company with Florian Prucker.
+
+Today, Scalable Capital, which started as a digital wealth management platform, now describes itself as a full-service brokerage. It has 1.2 million savings plans on the platform, which it tells me works out to over 600,000 customers, and close to €17 billion under management, with products covering ETFs, stocks, funds, bonds, cryptocurrencies and derivatives, and loans. It gives users access to investing in 8,000 stocks, 2,500 ETFs and 3,500 funds among other products; ETFs are the most popular today.
+
+That speaks a lot to the ongoing pressure on startups amid a very tight market for finance at the moment in the region. (More on that theme in the latest annual, barometric report from Atomico.)
+
+“Yes, we are four or five times bigger than we were at the last round,” Podzuweit said in an interview. “So like for like, obviously it’s a very attractive deal for the investor. But in the current market environment, I think it’s really cool that we managed to get to pull this off.” He confirmed that the company still has “the majority of the money from the last funding round” in the bank, but this extra injection means it can be a little more aggressive in its approach. “We can do a bit more marketing, we can hire the top people but we also have a much bigger equity cushion,” he said. The company has now raised more than $345 million, it said.
+
+Indeed, the fundraise may be coming at a tight time for startup finance, but one likely reason that Scalable took the money now is that, for neobrokers, the landscape is getting more competitive and crowded.
+
+Late last month, Robinhood — the tech company best known for democratizing investing in the U.S. — finally took its first step into international (and European) territories, opening an office in the U.K. (and just today launching crypto trading in the EU on the back of that). Other players out of the U.K. market with clear European ambitions include Freetrade and Lightyear.
+
+And just yesterday, Scalable Capital’s biggest rival among startups, Trade Republic, secured a full banking license from the European Central Bank. The latter, backed by Sequoia among others and last valued at $5.3 billion back in June 2022 (via PitchBook), said it will use the new license to launch more savings and investment products — a move that will lay the gauntlet down for Scalable to figure out if, and how, it will level up.
+
+For now, Scalable Capital is holding steady and not pursuing a license itself, said Podzuweit.
+
+“It’s leaner, obviously,” he said, likening it to how some e-commerce companies might invest in building out their own logistics, and some work with third parties (Scalable’s banking partners, in lieu of a license, include ING). “Maybe I wouldn’t rule [getting a license] out forever. But right now we’re focusing on building products and launching new markets and we are faster doing it our way.”
+
+The other big forces that are playing in the market include the looming presence of AI and how it will be used both to manage investing platforms, but also investments themselves; and the general state of the economy: Generally, markets have been in the doldrums, with inflation, and unfavorable interest rates bringing a chilling effect to consumers’ inclination to take risks and invest money that could be used more immediately elsewhere.
+
+Scalable’s positioning, as it is with others like it, is that it leaves the door open for smaller and more incremental buy-ins from its customers. On top of this, Podzuweit points out that the startup’s average user age is 35, a person perhaps with more disposable income than some of the younger consumers that other neobrokers have courted.
+
+The focus on ramping up at a time when the market looks like it has cooled is also very much in line with the ethos of investing, where people often put down their money at lower points if they believe that it will represent a great deal in the longer run. Of course, only time will tell whether that firm belief in growth longer term will play out as hoped.
+
+Balderton general partner Rana Yared is joining the board with this round. “Scalable’s one-stop, digital-first, wealth building and generating platform brings a suite of top-class financial products to individuals across Europe, and is unparalleled in the market,” she said in a statement. “We’ve been impressed by Erik, Florian and team’s vision and execution to date and are delighted to be supporting them in this next chapter.” We’re hopefully hearing from Yared directly later today and will update this more after that.
+
+Updated to correct the amount raised in 2021 to $180 million, not $140 million; and to specify the number of customers and the total raised, after the numbers were provided by the company post-publication.

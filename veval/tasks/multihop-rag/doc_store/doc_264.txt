@@ -1,0 +1,105 @@
+WHAT’S HAPPENED?
+
+MBW Explains is a series of analytical features in which we explore the context behind major music industry talking points – and suggest what might happen next. MBW Explains is supported by JKBX , a technology platform that offers consumers access to music royalties as an asset class.
+
+The drama at Hipgnosis Songs Fund isn’t letting up for the Holidays, it seems.
+
+This morning (December 19), the company’s board – now led by Chairman, Rob Naylor – issued a statement announcing that HSF would no longer, as previously expected, be issuing its latest financial results today.
+
+Instead, the results (covering the six months to end of September 2023) are now expected to be published sometime before the close of December 31.
+
+The reason for the delay? According to UK-listed HSF, it’s all to do with a recently-updated company valuation from HSF’s official independent valuer, US-headquartered Citrin Cooperman (CC).
+
+The HSF board says this valuation from CC was “materially higher than the valuation implied by proposed and recent transactions in the sector”.
+
+HSF’s board particularly points to two transactions/would-be transactions as evidence:
+
+The proposed sale earlier this year of assets to Blackstone-backed Hipgnosis Songs Capital for USD $440 million (pre-costs) – or $417.5 million (post-costs) – a proposal that was ultimately rejected by HSF shareholders; The sale of 20,000 “non-core” songs from HSF’s portfolio to an unnamed buyer (possibly Kobalt Music Group) for $23.1 million, as announced on December 11. That price, according to HSF’s board, represented a 14.2% discount on Citrin Cooperman’s valuation of this portfolio as of September 30 (something we’ll come back to).
+
+As part of its announcement this morning, the HSF board took something of a swipe at its investment adviser, Merck Mercuriadis‘ Hipgnosis Song Management.
+
+After seeing Citrin Cooperman’s latest valuation and believing it to be too high, said HSF, it then “sought advice from Hipgnosis Song Management… which is majority owned by funds managed and/or advised by Blackstone, on their opinion on the independent valuer’s valuation.”
+
+HSF’s board added: “Hipgnosis Song Management… eventually provided an opinion, which was heavily caveated, such that the Board has concerns as to the valuation of the Company’s assets in its interim results.”
+
+In response, Hipgnosis Song Management issued its own statement today: “Hipgnosis Song Management has fulfilled its duties to [HSF] with respect to both the independent valuation and preparation of the interim results in a timely and efficient manner.
+
+“Notwithstanding the Board’s decision to delay publication of the interim financial statements, [we] will continue to work in a constructive manner to support the interests of the Company and its shareholders.”
+
+The oddest thing about all of this? Citrin Cooperman’s valuation of Hipgnosis Songs Fund is, according to HSF’s own company documentation, appointed and overseen… by the HSF board.
+
+See this line, in every annual and interim report from HSF so far (bolding MBW’s own): “Portfolio Independent Valuer… Citrin Cooperman Advisors LLC, formerly Massarsky Consulting, Inc., [is] appointed by the Board to independently value the Company’s Catalogues within the Portfolio.”
+
+Not to mention this line in various HSF company reports to date: “The [HSF] Board is ultimately and solely responsible for overseeing the valuation of the Company’s investments in music catalogues and has appointed [Citrin Cooperman] to perform this specialist work.”
+
+WHAT’S really going on?
+
+It’s a fair bet that Hipgnosis Songs Fund’s board – which last week appointed activist investor Christopher Mills as a non-exec Director – is making something of a ‘hidden’ statement to shareholders with today’s announcement.
+
+It may be a coded attempt by HSF’s board to gnash teeth towards HSM/Mercuriadis’ ‘call option’ – which, as MBW has pointed out before, leaves the exec with the exclusive power to sweep in and acquire HSF’s portfolio under several different circumstances.
+
+There are a few clues in HSF’s latest public statement to this end, perhaps including its rare – not to mention conspicuous – mention of HSM being “majority-owned by funds managed and/or advised by Blackstone“.
+
+In addition, today’s statement is also a clear signal from the HSF board that it has understandable concerns over the now-infamous ‘discount rate’ used by Citrin Cooperman to value HSF’s portfolio (as MBW covered in depth through here).
+
+Citrin Cooperman continues to stick to an 8.5% discount rate in its valuations, despite interest rate rises over the past 12-18 months – and has long refused to move this 8.5% figure upwards to, say, 9% or 9.5%.
+
+If Citrin Cooperman ever did raise this discount rate, the independent valuation of Hipgnosis Songs Fund’s portfolio would, in turn, instantly fall.
+
+Worth remembering: The HSF board has known about Citrin Cooperman’s latest valuation (as of September 30) for at least the past eight days.
+
+We know this because, as mentioned, on December 11, HSF announced that the $23.1 million price of an agreed HSF ‘non-core’ asset sale represented a 14.2% discount vs. Citrin Cooperman’s latest valuation of the portfolio (i.e. the HSF board had seen this latest valuation).
+
+Yet it took until today (December 19) for HSF to alert its investors to its dissatisfaction with this valuation.
+
+WHAT does JP Morgan make of it all?
+
+One of the closest watchers of Hipgnosis Songs Fund in recent years has been JP Morgan and its analyst Christopher Brown.
+
+In a rather damning note issued today covering the delay in the publication of HSF’s results, Brown wrote: “This is an early blow to the credibility of the new [Hipgnosis Songs Fund] Board, and casts further doubt over the credibility of the independent valuer, Citrin Cooperman.”
+
+Brown added that he was “surprised” to see that a second valuation expert had not been drafted in to value the HSF portfolio for the latest interim results, especially as Kroll was appointed to consider the “reasonableness” of Citrin Cooperman’s assumptions for HSF’s previous set of results (to end of March 2023).
+
+Added Brown: “We think the easiest solution now for the [HSF] Board is to apply an additional discount rate to the [Citrin Cooperman] valuation to reflect current market uncertainty, on the basis that it is probably too late to employ another valuer.”
+
+Brown noted that a 0.5% rise in Citrin Cooperman’s discount rate (i.e. raising it from 8.5% to 9.0%) would “reduce the fair value of the [HSF] portfolio by 7.9%, which on a leveraged basis is [approximately a] 10% reduction in NAV [Net Asset Value]”.
+
+Should HSF’s board go down this route, he noted, he expected “the [HSF] shares to weaken… given that this represents another ‘unforced error’”.
+
+“This is an early blow to the credibility of the new [Hipgnosis Songs Fund] Board, and casts further doubt over the credibility of the independent valuer, Citrin Cooperman.” Christopher Brown, JP Morgan, on the HSF board statement today (December 19)
+
+In addition, Brown expressed his surprise that HSF asked HSM to “opine on the valuation given [HSM’s] conflict of interest”.
+
+His point: If HSM turned around and said, “yep, HSF’s valuation is 25% too high, better bring it down”, then it would produce a new valuation for HSF that may allow Blackstone (or the Blackstone-controlled Hipgnosis Song Capital) to launch an acquisition bid for the HSF portfolio. (Or, at least, a part of that portfolio.)
+
+The likely price for this hypothetical Blackstone bid would be smaller than the failed $440 million ($418.5 million post-costs) bid that HSC (via HSM) made for a chunk of the HSF portfolio earlier this year.
+
+“[It] is up to the [Hipgnosis Songs Fund] Board to satisfy itself that the independent valuer, whom it hires, is up to the job, rather than try and pin the blame on [Hipgnosis Songs Management].” Christopher Brown, JP Morgan
+
+Concluded Brown: “[It] is up to the [Hipgnosis Songs Fund] Board to satisfy itself that the independent valuer, whom it hires, is up to the job, rather than try and pin the blame on [Hipgnosis Songs Management].
+
+“Our view is that a breakdown in the relationship between Board and manager would not be optimal for maximising shareholder value.”
+
+Brown further noted that JP Morgan would “not be surprised to see Citrin Cooperman resign, having been very publicly undermined by the [HSF] Board today”.
+
+JP Morgan retained its ‘overweight’ rating against HSF’s share price “in spite of yet another [HSF] own goal”.
+
+A Final thought…
+
+As mentioned in the opening sentence of this article, there is plenty of drama surrounding HSF right now – from the ‘discontinuation vote’ we saw at the company in October, through to a recent lawsuit launched against Hipgnosis Songs Fund by a former business partner of Merck Mercuriadis.
+
+Yet, amongst all of the noise, what will likely most interest HSF’s investors (including the likes of Investec Wealth & Investment, Aviva Investors, and BlackRock) is the ongoing underlying commercial performance of the firm’s copyrights.
+
+How are Hipgnosis Songs Fund’s assets performing vs. the market? How is the company’s ‘premium-only’ acquisition strategy holding up against its promise of growth “uncorrelated” to other industries? And what does all of this suggest about the ongoing growth potential of the HSF portfolio vs. the multiples that Merck Mercuriadis paid to acquire it?
+
+Such questions will only be answered when Hipgnosis Songs Fund’s board elects to release the company’s six-monthly financial results to end of September 30.
+
+The most important KPI within those results, in MBW’s view: the company’s Pro-Forma Revenue, and how it compares, like-for-like, vs. the previous year’s equivalent period.
+
+In the meantime, back in the ‘real world’ of the music biz, HSF is actually enjoying quite a fanciable Q4.
+
+The company is benefitting from its cuts on hit albums including Taylor Swift’s 1989 (Taylor’s Version), via its acquired Jack Antonoff catalog, as well as Swift’s Lover (via its acquired Joel Little catalog).
+
+HSF’s investments in seasonal Christmas ‘evergreens’ continue to pay off too, with cuts on Michael Buble’s Christmas album and – most famously – a share of Mariah Carey’s perennial megahit, All I Want For Christmas Is You.
+
+JKBX (pronounced "Jukebox") unlocks shared value from things people love by offering consumers access to music as an asset class — it calls them Royalty Shares. In short: JKBX makes it possible for you to invest in music the same way you invest in stocks and other securities.Music Business Worldwide

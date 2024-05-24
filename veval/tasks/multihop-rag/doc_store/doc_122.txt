@@ -1,0 +1,77 @@
+Sure, Sam Bankman-Fried’s trial has revealed that FTX was basically a seething mass of scams. But it has also revealed how Bankman-Fried blew up the lives of the people who are closest to him.
+
+Of course everyone who had money trapped on the FTX exchange when it collapsed — as the result of Bankman-Fried’s trading firm Alameda Research purloining its customers’ funds — had their lives altered. Even if they are made whole by the bankruptcy proceedings, that’s still money that they should have had access to at any time they wanted it. That may mean houses that weren’t purchased, medical procedures that were left undone, and life savings lost.
+
+There is a simultaneous drama of ruined lives playing out in the courtroom
+
+Bankman-Fried is charged with seven counts: two counts of wire fraud and five conspiracy charges. As we near the end of the prosecution’s case, I have been struck by how bizarre it all is. All the co-conspirators seem oddly younger than their years, as though they got stuck in the “math camp forever” environment Bankman-Fried created for them and simply failed to grow up.
+
+The prosecution has made a strong case that Bankman-Fried presided over the various forms of fraud that played out at Alameda Research and FTX, orchestrating some of it and engaging in some of it directly. In the process of making this case, there is a simultaneous drama of ruined lives playing out in the courtroom.
+
+Everyone who loved Bankman-Fried most in the world is now caught up in the case. We have:
+
+Adam Yedidia, Bankman-Fried’s college roommate, who testified with immunity because he was concerned he may have unknowingly worked on code that contributed to the fraud. “I love you Sam,” he texted at one point. “I’m not going anywhere.” That was before he realized FTX had stolen customer funds — at which point, he resigned.
+
+Gary Wang, the co-founder of FTX and Alameda Research and another college roommate. He took the stand after Yedidia and sang like a canary about the secret privileges he’d created for Alameda in the FTX code.
+
+Nishad Singh, a longtime family friend, who copped to what sounded an awful lot like classic embezzlement. He said he’d backdated transactions on FTX to help create doctored balance sheets to show to investors. He pleaded guilty to six charges, including wire fraud, money laundering, and conspiracy counts around his political donations.
+
+Caroline Ellison, Bankman-Fried’s ex-girlfriend. She told us about the seven phony balance sheets she’d created. She was clear: Alameda took customer funds; Bankman-Fried knew about it and even invested them against her advice.
+
+Joe Bankman, Bankman-Fried’s father. He is among the people included in the “small group chat,” the Signal group where the FTX inner circle strategized during the exchange’s last days.
+
+Barbara Fried’s political action committee, Mind the Gap. It is among the entities that received FTX customer money as political donations. Fried and Bankman lived together in a Bahamas house purchased for them using FTX investor funds, according to a financial expert called by the prosecution; in a lawsuit filed by FTX’s bankruptcy estate, Bankman and Fried are alleged to have been given $10 million of FTX customer funds.
+
+Gabe Bankman-Fried’s nonprofit, Guarding Against Pandemics, which got millions from FTX. He was also in a Signal group chat, Donations Processing, that Singh says was used to coordinate the transfer of FTX and Alameda money to various political causes. In that chat, he can be seen recommending some donations be made “in the dark” to avoid public relations headaches. Singh also said Gabe had an assistant fly to the Bahamas with a stack of blank checks for Singh to sign.
+
+Wang, Singh, and Ellison are now felons. Even if they never do time — and they may very well be imprisoned or subjected to house arrest — their lives are irrevocably changed, not least by whatever restitution requirements they are subjected to. They are barred from taking certain kinds of jobs. And of course, there is the publicity. Bankman, Fried, and Gabe Bankman-Fried’s reputations are tarnished; in the political arenas where they once operated, they are suddenly undesirable.
+
+It is a Greek tragedy, precipitated by one man’s character flaw: the arrogance of Sam Bankman-Fried.
+
+The general sense I got, from the testimony of Bankman-Fried’s former friends, was that things just kept escalating
+
+During Yedidia’s testimony, we were shown a photograph in court: former President Bill Clinton and former Prime Minister Tony Blair onstage in suits next to Bankman-Fried, in a rumpled T-shirt and cargo shorts. Sure, dressing down is a staple of Silicon Valley startup culture — and a sign of its swagger. The defense counsel tried to elicit testimony from Yedidia that the cargo shorts were evidence of Bankman-Fried’s humility, but the photograph seemed to signify just the opposite: that the man in cargo shorts is so important, he doesn’t need to dress up, even to meet former world leaders.
+
+Now, in court, Bankman-Fried is wearing a suit.
+
+In 2019, just months after FTX was founded, Wang oversaw code called “allow_negative” that let Alameda Research avoid being liquidated by FTX’s risk management. It was turned on in July. No other customer trading on FTX had “allow_negative” privileges — only Alameda. Wang’s testimony suggests that the fraud at FTX started very early since the same day that allow_negative was switched on, Bankman-Fried tweeted that Alameda’s account “was like everyone else’s.”
+
+The general sense I got, from the testimony of Bankman-Fried’s former friends, was that things just kept escalating. For instance, Alameda Research first had a negative balance in late 2019, Wang testified. Wang testified that he heard Bankman-Fried tell another trader that it was okay to continue withdrawing money from the account as long as the amount was less than FTX’s total trading revenue. A little later, Wang discovered that Alameda was negative by $50 million more than FTX’s revenue. Bankman-Fried told him it was fine, and it just didn’t account for the FTT token that the two of them had launched. Wang trusted him.
+
+Wang also set Alameda Research up with an enormous line of credit, unmatched by anyone else on FTX. Ultimately, the number was $65 billion — the result of repeated increases as Alameda Research repeatedly ran up against its credit limit. This line of capital wasn’t visible to auditors, Ellison testified. That credit line was used primarily for trading because it “allowed us to make profitable trades we couldn’t have made otherwise,” Ellison testified.
+
+“Over time, it was something I became more comfortable with.”
+
+Wang’s testimony revealed how the fraud got bigger, little by little. First, it was okay to dip into FTX’s profits. Then, it was okay to take more. Then, it was okay to take even more. First, it was a little line of credit just to provide liquidity. Then a bigger one. Then an effectively limitless one.
+
+Ellison testified to something similar, choking back tears: “When I started working at Alameda, I don’t think I would have believed you if you told me I would be sending false balance sheets to our lenders or taking customer money, but over time, it was something I became more comfortable with.”
+
+Ellison’s tenure as CEO of Alameda Research was an exercise in optics, she testified. Alameda Research was, by then, FTX’s sin-eater. When FTX took a loss in the hundreds of million dollars because a trader had exploited its system, Wang moved that loss onto Alameda’s balance sheet. FTX’s “insurance fund,” meant to keep traders from getting stuck with other traders’ losses, was totally made up — Alameda simply picked up the tab.
+
+Even that wasn’t good enough. Singh testified to sprucing up FTX’s balance sheet with backdated transactions in December 2021 to push FTX’s revenue “over the line” to $1 billion. By the time Singh found out about the use of customer money, in 2022, he was already compromised.
+
+At every turn, the scams at FTX and Alameda led back to making Bankman-Fried more important
+
+In Singh’s case, it wasn’t just balance sheets he was fiddling with — it was also the American political system. By coordinating with Gabe Bankman-Fried, Singh had funneled money to a number of political causes. That money came from “loans,” which weren’t really loans since he hadn’t signed any term sheets.
+
+What was the goal here? What was accomplished? Singh testified to more than a billion dollars spent on celebrity endorsements, which made FTX very famous — even though the futures platform didn’t operate in the US. The political donations gave Bankman-Fried influence in the highest echelons of power. Ellison testified to Bankman-Fried’s venture investments, which gave him more dominance in the tech world. At every turn, the scams at FTX and Alameda led back to making Bankman-Fried more important.
+
+The pie chart that accompanied expert witness Peter Easton’s testimony. Image: The prosecution’s exhibit 1045
+
+This was backed up by expert testimony from Notre Dame accounting professor Peter Easton, who’d also assisted in investigating Enron and WorldCom. In a pie chart that showed how he’d traced funds for the $11.3 billion liability that Ellison, Singh, Wang, and Bankman-Fried had known about in June 2022, we saw that $1.2 billion was a loan repayment to crypto lender Genesis. A substantial chunk had been spent on various investments, including in the celebrity-connected venture firm K5, trading firm Modulo (co-founded by one of Bankman-Fried’s ex-girlfriends), and AI company Anthropic.
+
+Another $413 million had gone directly to Bankman-Fried himself, through his wholly-owned company Paper Bird. “Outflows to insiders,” which suggested Singh’s not-quite-loans were included, was $192 million; real estate was another $228 million; and the donations to Gabe Bankman-Fried’s Guarding Against Pandemics, combined with the philanthropy from the FTX Foundation, totaled less than $40 million.
+
+It is easy to lie with words and harder to lie with money. Bankman-Fried went around telling people that he wanted to make a lot of money to give it away, an idea of the Effective Altruism movement that Bankman-Fried affiliated himself with — but the amount of money he funneled to his Paper Bird vehicle alone was ten times the size of his philanthropic spending as outlined by Easton. And it was all vastly outweighed by his investments — the places where he could prove he was very smart by investing in the right companies early.
+
+And in brief, explosive testimony, former FTX lawyer Can Sun demonstrated what Bankman-Fried’s tactic was. During the days in November when the exchange imploded, Bankman-Fried was trying to raise money from Apollo, the private equity group. Apollo wanted an explanation for what had happened, and so Bankman-Fried came to Sun to ask him to come up with justifications for the missing funds.
+
+The defense has struggled to shake the credibility of witnesses such as Yedidia, Wang, and Ellison
+
+That “basically confirmed my suspicions that had been rising all day” that Bankman-Fried had purloined the funds, Sun said. He ran Bankman-Fried through possible explanations, including a margin loan program, and explained that none of them could fit the actual situation — for instance, Alameda had borrowed more from FTX than had ever been in the margin loan program. He said Bankman-Fried acknowledged their conversation with a “yup, yup.” “I was expecting a bigger response, but it was very muted,” Sun said.
+
+After that, Singh spilled the beans: Alameda had withdrawn assets that included the customer funds, Sun testified. He quit the next day. Like Yedidia, Sun testified with immunity.
+
+In the courtroom, we were treated to a Good Morning America appearance by Bankman-Fried on December 1st, 2022. In it, Bankman-Fried tried to justify the missing funds through the margin loan program. It was such a flimsy excuse that even George Stephanopoulos could see through it.
+
+Did Bankman-Fried really think he could get away with it all? He must still think so, or he would not be dragging his closest companions’ names through the mud in a jury trial. Throughout the entire prosecution’s case, the defense has struggled to shake the credibility of witnesses such as Yedidia, Wang, and Ellison. The hits the defense made on Singh didn’t make me doubt the overall truth of his story — they just made me think that Singh was kind of self-serving and trying to secure himself a lenient sentence.

@@ -1,0 +1,43 @@
+The United States has long had an affordable housing crisis, but it’s been exacerbated as of late by a surge in mortgage interest rates and low inventory.
+
+The problem is especially acute for lower-income families.
+
+One Portland, Maine-based startup is out to help address the problem by buying single-family homes in blighted neighborhoods, renovating them and then renting them out to very low-income families, the elderly and the disabled (or Section-8 voucher holders). That startup, Simply Homes, has recently secured $22 million in funding to further its efforts.
+
+“We’re helping to solve the affordability crisis for people who struggle with housing stability the most,” said CEO and co-founder Brian Bagdasarian. “While there are groups that have attempted to tackle programmatic buying of homes in the past — to varying degrees of success — the reality is no one is operating in our market, providing well-maintained affordable homes to the people most in need.”
+
+Indeed, most iBuyers are focused on buying, renovating and either selling or renting homes in middle to upper class neighborhoods. And most home builders are “out of touch and building homes that no one who needs affordable housing could ever afford,” Bagdasarian told TechCrunch in an interview.
+
+The opportunity to help people overcome poverty and improve their chances for social and economic mobility was what attracted Bagdasarian and co-founder and CFO Robert Kavanagh to build Simply Homes’ model.
+
+“Children that are able to move into lower-poverty neighborhoods can see a 31% increase in lifetime earnings,” Bagdasarian said.
+
+And the pair are firm believers that you can still make money and do good at the same time.
+
+Founded in 2020, Simply Homes spent its first couple of years developing its platform and associated models before buying its first home in January of this year. By the end of this month, the startup is expected to have 108 units, or homes, in its portfolio. Since its first-quarter launch, it’s seen its revenue grow by more than 50% quarter over quarter.
+
+Over 80% of Simply Homes’ tenant base are single parents who would need to work an estimated 150 hours a week to afford market-rate rent on a home, notes Bagdasarian. Utilizing HUD’s HCV program through Simply Homes, these families are paying no more than 30% of their income for rent, claims Bagdasarian.
+
+Currently, Simply Homes operates in Pittsburgh, Pennsylvania and Cleveland, Ohio. Its goal is to expand into Baltimore, Maryland and parts of the Midwest, including additional markets throughout Ohio and in St. Louis, Missouri, among other cities. The company looks for stable markets that aren’t susceptible to wild fluctuations in the housing industry.
+
+Simply Homes operates in an operating company/property company structure, with the operational company using its technology platform and operational teams to source, acquire, renovate and manage the properties. The property management company holds them long term.
+
+Many proptech companies have struggled, or outright shut down, this year, in large part due to the sky-high interest rates. But Simply Homes, according to Bagdasarian, factored in the possibility of high interest rates very early on in its model so it has been less affected by the macro environment.
+
+“Everything is underwritten to a worst-case scenario. A lot of first generation ibuyers never underwrote interest rate risk. But we started with that,” Bagdasarian said. “We made sure our large return rates were inclusive of high interest rates that still allowed us to operate profitably. The other piece of that is we have highly stable income — because the way that Housing Choice Voucher works is that the tenant pays 30% of their adjusted monthly income. The voucher covers the balance. So it’s highly predictable income.”
+
+Initially, the company set out to solve the automated underwriting part of the process for third parties, and then for itself by leveraging Bagdasarian’s AI background and Kavanagh’s real estate experience. Bagdasarian has two decades of experience in human process automation and machine learning, and previously was with HubSpot, having joined as part of the founding team of Motion. Kavanagh previously led the acquisition of Ireland’s largest social housing portfolio, and spent 10 years as an investment banker at Jefferies and Cantor Fitzgerald in New York and London, specializing in infrastructure and ESG assets.
+
+“We know what we can rent the homes for because the housing authority (or HUD) gives us that information. This means we can underwrite — using that data and machine learning — very accurately, very effectively and very rapidly,” Bagdasarian said. “This eliminates a lot of the friction that has kept other institutions out of the space and gives us this sort of first-mover advantage.”
+
+Simply Homes collects the rent on its properties, which helps cover the cost of managing the properties. It takes a transaction fee, and a 3% fee on an ongoing basis to manage the portfolio.
+
+Besides expanding into new markets, the company plans to use its new capital in part toward developing a series of AI-powered virtual analysts that “rapidly” interpret massive amounts of data that Simply Homes aggregates and leverages to make its acquisitions.
+
+Gutter Capital and Watchung Capital co-led the company’s recent $22 million funding round, which included participation from Village Global, Ambush Capital, RavenOne Ventures, Neil Parikh, Gabe Flateman, Luke Sherwin and others.
+
+James Gettinger, managing partner at Gutter Capital, told TechCrunch that he believes Simply Homes is doing something “that very sorely needs to be done.”
+
+“By rejuvenating the aging housing stock, they’re able to make homes available to people who are affected by the affordability crisis the most,” he said. “One facet of the housing shortage that I think doesn’t get enough attention, frankly, is the fact that starter homes are no longer built. The average size of new construction homes has gone from something like 1,400 square feet 50 years ago to 2,200 square feet today. The downstream consequence of that is…basically, none of the new homes that are coming on market are affordable to the majority of Americans..”
+
+“I haven’t seen anyone who’s addressing affordability for the bottom end of the market like this,” he added.

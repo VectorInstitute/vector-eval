@@ -1,0 +1,61 @@
+If your startup doesn’t seem impossible at first, it’s not hard enough
+
+Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday.
+
+Startups exist to solve complex problems, not to be a quick moneymaking scheme, and their success lies in their unique value proposition. The harder the problem a startup is tackling, the stronger their competitive advantage and the more indispensable they become in their industry. Simple solutions are easily replicated, risking the startup’s position and success.
+
+The key to a successful startup lies in its team and their ability to answer pivotal questions about the startup’s purpose and challenges. Working on a difficult startup problem can bring industry recognition, ease sales and marketing efforts, and open the door to charging more for your premium product. In short: If startup seems like an easy win, the founders are likely overlooking something, I argue in my most recent column. Solve something that could at first seem impossible, and you may be on the right path. If there isn’t a very real chance of failure, you’re doing it wrong.
+
+On that lighthearted rant, here’s what’s been cookin’ in the world of startups at TechCrunch this week!
+
+Someone call security
+
+If you haven’t been paying attention to what our cybersecurity team has been covering, you have been missing out. Zack, Lorenzo, and Carly are absolutely crushing it. Allow me to make an impassioned plea for not missing their work.
+
+When you think “essential services,” you might think water, electricity, and hospitals — but internet connectivity is increasingly important as the infrastructure that ties together the fabric of society. As the conflict between Israel and Hamas continues, internet connectivity in Gaza took a severe hit. Palestinian internet service provider NetStream reportedly collapsed due to a severe shortage of fuel supplies, while other providers such as Paltel and Mada Al Arab are also facing serious connectivity issues. Although the situation remains precarious, connectivity eventually was partially restored. There are indications that the U.S. government is putting pressure on Israel to restore internet connectivity in Gaza.
+
+Meanwhile in India, Apple has notified several prominent Indian lawmakers and journalists of potential state-sponsored attacks on their iPhones, just months ahead of the country’s general elections. The individuals targeted include opposition leader Rahul Gandhi, key Congress party figure Shashi Tharoor, and leaders from several other influential political parties.
+
+Atlassian issued a warning about a critical security flaw that could result in significant data loss for its customers. Notably, this product was recently the target of Chinese state-sponsored hackers. Atlassian has not yet detailed how the flaw can lead to data loss but has urged customers to patch against the flaw immediately.
+
+There’s more:
+
+About flippin’ time, too: Apple has recently fixed a longstanding vulnerability in its iOS software that undermined a privacy feature. Security researchers found that the feature, introduced in iOS 14, was not working as intended.
+
+$400 million security acquisition: At a time when the tech industry in Israel is disrupted due to political events, Palo Alto Networks is acquiring Israeli tech company Dig Security for an estimated $400 million. This acquisition will bolster Palo Alto’s cloud security-focused Prisma business.
+
+I guess we gotta pay up: Paying off hackers in the event of a ransomware attack is pretty common practice, but it comes with a ton of pitfalls: You are trusting anonymous criminals to do what they promised, and you may potentially be violating U.S. sanctions laws along the way.
+
+What’s brewing on the silicon farm?
+
+Apple’s “Scary Fast” October event saw the announcement of their new M3 chip lineup that includes M3, M3 Pro, and M3 Max. These chips, which were the highlight of the event, will be integrated into the new 24-inch iMac and the new MacBook Pros. The focus of the M3 chips is enhanced graphical capabilities. Compared to the previous M1 chip, Apple asserts that the M3 renders at 2.5 times the speed and has a CPU that is 30% faster. The event’s videos looked great (of course they did — they were produced by Apple), but one delightful quirk was that they were all shot on iPhones, showing off that the phones are becoming more and more capable, even for professional work.
+
+Magic Leap, an augmented reality hardware company, has replaced its CEO Peggy Johnson with Ross Rosenberg, marking the completion of its enterprise pivot. Johnson joined Magic Leap in August 2020 and led the shift in business strategy. Her successor previously served as executive at Belden and First Solar, and will now guide the company through its next period, as the company faces the daunting challenge of achieving profitability.
+
+More from hardware land:
+
+Is it a bird? Is it a plane?: Shield AI, a startup specializing in autonomous flying systems for the U.S. military, has raised $200 million in a new funding round, reaching a valuation of $2.7 billion.
+
+Eero grows up, with best-in-class Wi-Fi: Amazon’s Eero has launched its most advanced mesh Wi-Fi router yet, the Eero Max 7.
+
+Boksing claver: Danish startup Soundboks released its fourth-generation Bluetooth speaker that has been a hit in Europe’s festival scene but has yet to gain a strong foothold in the U.S. market.
+
+Highs and lows in the world of startups
+
+The current bear market in cloud stocks has led to a reversal of revenue multiples from earlier this year, making it difficult for late-stage startups to accrue value, Alex writes on TC+. However, early-stage startups that are growing rapidly may still be able to raise funds and demand for a better valuation. The trend points toward a favorable environment for startups prioritizing growth over cash preservation.
+
+At the same time, we wouldn’t be surprised if WeWork ends up filing for bankruptcy (TC+). The company has been grappling with significant challenges. WeWork’s stock hit a new low, dropping over 47% after hours to just $1.21, which brings the company’s market cap down to a mere $121 million. This is a drastic fall from the $47 billion valuation it achieved after its SoftBank-led Series H round in early 2019.
+
+Hope for the best, prepare for the worst: Startup co-founders don’t always make it, and in her fantastic TC+ piece, Rebecca explores what you can do to prepare today, should a co-founder breakup be on your startup journey’s path.
+
+Bumper banking backing in Brazil: Brazilian startup QI Tech, a banking-as-a-service platform, has raised $200 million in a Series B funding round, marking the largest raise in Brazil this year across all sectors. The latest funding round brings QI Tech’s total capital raised to $262 million.
+
+New Web Summit CEO appointed: Former Wikimedia Foundation CEO Katherine Maher has been appointed as the new CEO of Web Summit, following the controversial departure of its previous leader, Paddy Cosgrave. Maher’s appointment comes as the tech conference faces a challenge to rebuild relationships and trust within the tech community.
+
+Top reads on TechCrunch this week
+
+Shinier, smarter maps: Google is rolling out a variety of updates for Maps, incorporating AI technology to enhance user experience. The feature is currently available in France, Germany, Japan, the U.K. and the U.S., with plans for further expansion.
+
+From stop-and-start to charging ahead: Over on TC+, Tim has had it with U.S. automakers hesitating on EVs, as Ford and GM are showing signs of backing away from their commitment to electric vehicles. Cowards.
+
+A swan song from the bird sanctuary: X has marked its value at $19 billion, according to internal documents, marking a 56% decrease in value since Elon Musk’s purchase last year. Bad for shareholders and Musk, but potentially good for executives and employees, Amanda explains.

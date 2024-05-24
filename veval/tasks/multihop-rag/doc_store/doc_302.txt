@@ -1,0 +1,53 @@
+E-commerce search startup Deft is releasing a multimodal search function for users to get better results. The company, which opened its service to beta users in May, has rolled out the new search experience so users don’t have to describe the item in words.
+
+The company is trying to solve the problem of finding the right item without spending hours looking for a product. Often users end up with subpar results while searching for products because their search query description won’t match the details of listed items. The startup is relying on different techniques, including building its own parser and knowledge graph combined with large language models (LLMs) and multimodal search.
+
+Deft was founded in 2019 by Alex Gunnarson and Zach Hudson. Gunnarson started working on the idea after he couldn’t find a specific type of couch online even after putting in different parameters and descriptions. It took him hours to find a perfect result for his search, so Gunnarson decided to build a solution with Hudson.
+
+Users can go to Deft and search for things like “wooden lamps with three legs under $400” or upload an image, and modify their search to “lamps under $400 that look like this.” While it’s hard to know you can do this if someone doesn’t tell you that it works, users can also paste the image directly into the search bar. The company is working on highlighting the image search feature better.
+
+The company said that it doesn’t just look at the listing and description for search results. It also looks at materials, reviews, photos and more. This way, when someone searches for a “pet-friendly” couch, Deft can return results with stain and scratch-resistant material.
+
+“You have companies like Google and Amazon that continue to push the most relevant listings down so they can make more advertising dollars.” Zach Hudson
+
+Deft is currently focusing on furniture and home décor search but aims to expand to different categories along the way. The company has built its own scraping tech to add products to its search results. It shows results from Target, Pottery Barn and other places on the web. The company hasn’t added searches from Amazon yet because it feels there are a lot of “junk” listings on the site and it will take some work to clean up that data.
+
+Hudson told TechCrunch that there are a few plaguing problems with the traditional search experience that prevent users from finding a suitable item.
+
+“You have companies like Google and Amazon that continue to push the most relevant listings down so they can make more advertising dollars. Some easy searches are now hard because marketers have learned how to game these search engines. Plus, now you have AI content that is putting the burden on users to separate fact from fiction,” he said.
+
+The company raised $1.8 million in a seed round from Hustle Fund, Frontier VC, Vitalize, Long Ecommerce Ventures, 43 Ventures and angel investors.
+
+The startup said it is on track to hit 50,000 monthly active users by the end of this year. While co-founders didn’t reveal the exact search volume the product is catering to, they said Deft is seeing “tens of thousands” of searches every week. They added that people using Deft for the second time do more searches than their first visit.
+
+The team also noted that it has a conversion rate that is five times higher — a measure of people buying the product versus seeing it — compared to the standard e-commerce rate, which is around 2-3%, according to various estimates.
+
+Deft doesn’t show ads on its platform. Rather, it relies on affiliate commissions to generate revenue. However, the startup wants subscriptions to be its primary revenue driver. Deft is currently testing two paid tiers: a $10 a month plan, which will offer better search customization to filter out some brands, and a $20 per month plan, which will enable personal shopping service, that will continue to look for suitable products even after you stop searching manually.
+
+Up next, Deft aims to release a browser extension that helps users search for products by the end of this year or early next year. In the next three years, the company wants to build and release search APIs that other e-commerce sites could use.
+
+Challenges of building a search startup
+
+Given that it’s building a search solution for e-commerce, Deft already faces challenges from Amazon and Google. In September, Amazon updated its visual search feature that lets users snap a photo of a product and search for similar items on the platform. Google released its multi-search feature last year that lets users fuse images and text. Separately, Deft will also face competition from other startups like Objective, a Matrix Partners-backed startup building an API platform for multimodal search.
+
+Caroline Casson, a partner at Vitalize Venture Capital and an investor in Deft, believes the startup has an edge because of its knowledge graph for products.
+
+“Building a robust e-commerce search engine is incredibly complex on the backend. The extensive knowledge graph that Deft has built combined with AI search capabilities makes for a high-quality user experience. We were excited about early iterations of the product when we invested and we continue to be impressed with each product enhancement,” Casson told TechCrunch over email.
+
+Adii Pienaar, another investor, and co-founder of WooCommerce, which was acquired by Automattic, told TechCrunch over a call that he sees Deft as solving user experience problems.
+
+“Over the last couple of years, consumers have been trying out new ways to interact with and purchase products. I see Deft as creating a new kind of UX for purchasing,” he said.
+
+Startups like Neeva — which was founded by former Google execs — tried to convince people to switch to paid and private search with additional features. However, earlier this year, the startup shut down its consumer efforts and eventually got acquired by Snowflake.
+
+Pienaar said that Deft has to give compelling reasons to users to switch to its service.
+
+“Users’ natural behavior for search is to follow the path of least resistance, i.e. most people just pick up their phone and just use the default search engine. For Deft to change that behavior, they will need to create a high-value proposition,” he said.
+
+Amir Konigsberg, an investor and founder of e-commerce search startup Twiggle (which shut down), said his startup wanted to solve ChatGPT-type interactions in the shopping world. He said that the main problem for startups in this space is the go-to-market strategy and fundraising.
+
+“The problem with competing with e-commerce players is not just about user experience, it’s also about logistics infrastructure and supply chain. So a startup catering to consumer search has to invest a lot of money into making it a viable business,” Konigsberg told TechCrunch.
+
+He also added that it will be difficult for a startup like Deft to build user loyalty while competing against Google and Amazon.
+
+Both Pienaar and Konigsberg said that Deft will have to involve retailers in the mix either as partners or as customers of their search product. Either way, it’s going to be interesting to see if Deft can build a user base on its own or sell its search feature to e-commerce retailers.

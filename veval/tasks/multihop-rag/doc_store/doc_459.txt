@@ -1,0 +1,29 @@
+Access to education in Bangladesh is filled with inequalities, say the founders of edtech 10 Minute School. Many rural areas don’t have good learning centers and as a result, students travel to capital Dhaka to prepare for their university admission exams. That option, however, is only available to families who have the financial means.
+
+Originally created as a YouTube channel, 10 Minute School (shortened to 10MS) wants to democratize access to supplementary education for K12 students throughout the country. The startup, which says it is the largest edtech company in Bangladesh, announced today it has raised a pre-Series A of $5.5 million, the highest seed-stage funding so far for a Bangladeshi startup. This brings 10MS total raised to $7.5 million.
+
+10MS offers live-streamed classes for K12 students, pre-recorded lessons, university admission test prep and personalized quizzes, among other content, that can be accessed through a smartphone app. So far, it has 35,000 recorded video lessons and over 82,000 quizzes, along with resources like model tests, ebooks and lecture notes that cover the entire national curriculum. 52% of its students are from rural and semi-urban areas outside of Dhaka, and 34% are girls (one of 10MS’s goals is to address gender inequalities in education).
+
+The company’s new round comes from a combination of private and government investors. The funding was led by Conjunction Capital, with participation from returning investor Peak XV’s Surge (formerly Sequoia Capital India), the Bangladesh government’s sovereign venture fund, Startup Bangladesh Limited, CRED founder and CEO Kunal Shah, MyAsiaVC managing partner Sajid Rahman and several local angel investors.
+
+Co-founder Ayman Sadiq started 10MS as a YouTube channel in 2015. Sadiq, who has taught since 2012, was previously a teacher at a leading coaching center in Dhaka. During that time, he realized many of his students faced two obstacles: the cost of tuition and of traveling to Dhaka from their hometowns, which didn’t have coaching centers.
+
+“That’s when the naive idea came into being that I could record all the videos and upload them onto YouTube for free, so no one needed to come to the capital city and no one needed to pay anything,” Sadiq says. He was also heavily inspired by online learning platforms like Khan Academy and edX. After hitting a following of 100,000 people on YouTube, Sadiq said he realized the idea was scalable.
+
+Between 2015 and 2019, the YouTube channel took on sponsors, including telecom operators, electronics companies and FMCG brands, and produced more than 25,000 videos covering the entire K12 syllabus. Then the pandemic hit and sponsors began dropping out. Sadiq realized that in order to make his project sustainable, he would have to create a paid version. So 10MS produced its first premium product, a paid book and course.
+
+“Interestingly, that paid book and course individually had more than 100,000 paid users,” he said. “So that instantly gave us an idea of, okay, we can actually monetize some of our offerings and solutions and make a sustainable business out of it.”
+
+The fledging company started looking for investors, and in 2022, it raised $2 million in seed funding led by Surge, Sequoia India’s (now Peak XV) scale-up program.
+
+Now that 10MS has raised its pre-Series A, it plans to invest in its tech capabilities, content and operations, says co-founder and COO Mirza Salman Hossain Beg. He added that 10MS’ goal is to provide personalized learning experiences for students by using AI and it will bring in more engineers and product managers to support its tech development.
+
+Another major area of investment for 10MS is content that fits with Bangladesh’s evolving K12 curriculum. “The government in Bangladesh right now is going through a lot of massive changes in the national curriculum, and as a result of that, there will be a lot of new content to be created to support the new curriculum,” Beg says.
+
+10MS is also currently exploring a hybrid online/offline model, with centers for after school education, and creating a new vertical for its English material by building a separate sales team.
+
+Interestingly enough, the last Bangladesh startup to raise the highest seed-stage funding in the country was also an edtech. Shikho, which focuses on elementary school learners, raised a total of $5.3 million in seed funding as of March 2022. Shikho is one of 10MS’s competitors, but Beg says 10MS has the advantage of being older and larger, and teaching a wider range of grades.
+
+When asked what’s driving interest in edtech in Bangladesh, Beg said the country’s educational system faces many challenges. “We have a huge student base of 42 million enrolled in the K12 system and the majority of students don’t have access to quality teachers, quality content, because those who are actually living outside the capital city don’t have good teachers in their area,” he said. “The fundamental problem that needs to be solved is access to quality content and teachers in a very affordable manner.” Edtech has the opportunity to democratize access to education, reaching students on their phones wherever they are.
+
+In an investor quote, Conjunction Capital managing partner Kirill Kozhevnikov said, “This marks our first venture into the Bangladesh market, and we are confident that this partnership will redefine the education landscape in the country.”

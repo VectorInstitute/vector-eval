@@ -1,0 +1,61 @@
+Days after a privacy complaint was lodged against Meta in the European Union over its latest controversial shift of legal basis claimed for processing people’s data for ads, consumer groups across the region are filing their own complaints about what the tracking giant is up to.
+
+A coalition of almost 20 consumer protection organizations is united in the view that Meta’s switch to railroading users into agreeing to being tracked and profiled so it can keep profiting from microtargeting them is “unfair” and “illegal” — breaching EU consumer protection law “on several counts”.
+
+Starting this month, EU users of Meta’s social networks, Facebook and Instagram, are being offered the ‘choice’ of agreeing to being tracked and profiled by the behavioral ads business in order to continue/get free access to its products — or else they must pay it a monthly subscription (of at least €9.99pm) for an ad-free version of its mainstream social networks. So Meta’s updated offer to EU users is either hand over your privacy or hand over your hard earned cash.
+
+“This is an unfair choice for users, which runs afoul of EU consumer law on several counts and must be stopped,” said the European Consumer Organisation (BEUC) in a press release announcing the complaint will be filed with the network of consumer protection authorities (CPC) today.
+
+BEUC has been joined in the complaint by 18 of its member organizations — a variety of consumer advocacy groups which are located in the following EU member states: Bulgaria, Czech Republic, Denmark, France, Greece, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Slovakia, Slovenia, Spain and Sweden.
+
+The groups are objecting both to how Meta has gone about implementing the “pay-or-consent model” — using what they assess as “unfair, deceptive and aggressive practices” — and to the model itself, which they dub “illegal”. They have also raised data protection concerns which are already the focus of the complaint sent to the Austrian data protection authority earlier this week by the privacy rights not-for-profit, noyb.
+
+Commenting in a statement, Ursula Pachl, deputy director general of BEUC, said:
+
+The choice the tech giant is currently providing to consumers is unfair and illegal — the millions of European users of Facebook and Instagram deserve far better than this. Meta is breaching EU consumer law by using unfair, deceptive and aggressive practices, including partially blocking consumers from using the services to force them to take a decision quickly, and providing misleading and incomplete information in the process. Consumer protection authorities in the EU must now spring into action and force the tech giant to stop this practice.
+
+Summarizing the issues identified with Meta’s model under consumer protection law BEUC writes:
+
+Meta is partially blocking the use of Facebook and Instagram until users have selected one option or the other, which constitutes an aggressive practice under European consumer law. Through persistence and by creating a sense of urgency, Meta pushes consumers into making a choice they might not want to take.
+
+In addition, many consumers likely think that, by opting for the paid subscription as it is presented, they get a privacy-friendly option involving less tracking and profiling. In fact, users are likely to continue to have their personal data collected and used, but for purposes other than ads.
+
+Meta provides misleading and incomplete information to consumers which does not allow them to make an informed choice. Meta is misleading them by presenting the choice as between a paying and a ‘free’ option, while the latter option is not ‘free’ because consumers pay Meta through the provision of their data, as past court rulings have already declared.
+
+Given the market power of Meta’s Facebook and Instagram services in the EU and the very strong network effects of social media platforms (since all your friends are on Facebook and Instagram), consumers do not have a real choice because if they quit the services they would lose all their contacts and interactions built over the years. The very high subscription fee for ‘ad-free’ services is also a deterrent for consumers, which means consumers do not have a real choice.
+
+“The company’s approach also raises concerns regarding the GDPR,” Pachl further noted. And a spokesman for BEUC told us it might, at a later stage, file a complaint about Meta’s data protection compliance with the relevant privacy authority, once it has completed its own assessment of the issues. Although he emphasized it’s too early to say whether or not it will take that step.
+
+Meta’s lead data protection authority in the EU, Ireland’s Data Protection Commission (DPC), has, for several months, been assessing its pay or consent offer. But it has yet to communicate a conclusion. In the meanwhile, Meta maintains that the model it has devised for obtaining users’ consent to its ads processing complies with the General Data Protection Regulation (GDPR). (Although the adtech giant also said that when it was claiming performance of a contract and then legitimate interests for the processing — both of which were subsequently found to be incompatible with the GDPR.)
+
+The ‘pay or okay’ model Meta is seeking to impose on EU users wasn’t actually its invention; it was ‘pioneered’ in Austria, by the daily newspaper Der Standard — after which copycat cookie paywalls quickly sprung up on a raft of news publishers in Germany and elsewhere in the EU.
+
+noyb has been challenging this ‘pay or okay’ approach to GDPR consent since 2021— filing complaints with a number of data protection authorities, arguing the model forces newspaper readers to “buy back their own data at exorbitant prices”.
+
+Some DPAs appear to have been sympathetic to local newspapers’ use of cookie walls, seeing it as a way to support the production of journalism. However when it comes to Meta, that argument evaporates as it’s definitely not in the journalism business. Moreover the adtech giant doesn’t even need to produce content to pump around its social networks; it gets all that filler for free from the self-same users it’s now demanding pay a fee if they want to use its services without being tracked and profiled for behavioral advertising. Which, well, makes Meta’s ‘pay or okay’ model feel like even more of a rip off.
+
+Back in April, a decision by Austria’s DPA on a noyb complaint about cookie paywalls said users must have the ability to say yes or no to specific data operations — meaning blanket consent is not an option. But the result left it unclear how cookie paywalls might be operated in a way that’s GDPR compliant and the privacy rights group vowed to fight the decision in court. “The final decision on ‘pay or okay’ may be made by the European Court of Justice (CJEU) in the long run,” noyb predicted at the time.
+
+Meta is likely banking on another multi year round of GDPR complaints, legal challenges and — finally — a referral to the CJEU, followed by another long wait before a ruling gets handed down, buying it several more years to run with its new legal basis fix and keep feeding its profits by doing what it likes with Europeans’ data.
+
+But the consumer protection challenge could complicate its usual playbook.
+
+The CPC has brought more coordinated action on consumer protection concerns in the EU in recent years, bringing multiple consumer groups together to tackle common concerns — helped by one or more national consumer protection authority which gets appointed to drive the effort. The process also loops in the European Commission to help facilitate dialogue, assess issues and bring pressure to bear on unfair practices.
+
+The CPC alert and mobilization process can be quicker than GDPR enforcement when it comes to forcing changes to unfair behaviors. Although it still typically takes months, plural, for the network to coordinate and arrive at a position to press on a trader they believe is infringing the law.
+
+The network also can’t impose fines itself. But if issues aren’t resolved through the dialogues and commitments process it shoots for, national consumer protection authorities can still pursue enforcement at a local level. So if, at the end of the day, these consumer advocacy groups aren’t happy with whatever the process of pressing Meta for changes will have achieved they can still press complaints to national authorities to urge them to take enforcement action (and those CPAs have the ability to impose penalties of up to 4% of global annual turnover).
+
+In recent times, a raft of complaints to the CPC about TikTok led — just last year — to the video sharing social network pledging to improve user reporting and disclosure requirements around ads/sponsored content; and to boost transparency around its digital coins and virtual gifts. Although BEUC was not ecstatic about the outcome, saying significant concerns remained unaddressed.
+
+Still, the CPC network may be able to extract some ‘quick win’ concessions from Meta — such as requiring it to amend how it presents the available ‘Hobson’s choice’ to users. Meta could also potentially face pressure to lower the subscription fee to make it more more affordable for users to deny tracking. (Just spitballing here but imagine if it were offering a choice of tracking ads vs paying €1 a year not to be tracked which wouldn’t look so evidently self-serving.)
+
+Asked whether the issue for consumer protection authorities is the ‘pay or consent’ choice Meta is offering or how it’s gone about implementing it, BEUC’s spokesman said the questions are hard to separate as they’re “closely interlinked”.
+
+“Under consumer law, you need an informed and fair choice to purchase such a subscription. The first question is also dependent on compliance with data protection law. If the practice infringes the GDPR, the fact that it infringes a law which aims to protect fundamental rights should in our opinion be considered unfair and illegal under consumer law too,” he told us, adding: “In any case, the choice is designed in a way that is unfair, aggressive and misleading.”
+
+The European Commission itself has an additional oversight role on Meta directly as the company is also subject to the EU’s shiny new Digital Markets Act (DMA) and Digital Services Act (DSA). In the latter case its social networks, Facebook and Instagram, were designated as very large online platforms (VLOPs) earlier this year. And, since late August, they’ve been expected to be compliant with that digital rulebook.
+
+Both pan-EU laws put restrictions on the use of personal data for advertising — explicitly requiring consent is obtained from users for such a purpose; and that consent must be as easy to withhold as to affirm. So one issue the Commission — which is the sole enforcer of the DSA on VLOPs — might weigh in in the coming months on is whether clicking accept vs digging out a credit card to pay a monthly charge are equivalently easy.
+
+The regulation also contains provisions which are intended to combat unfair/deceptive design, such as targeting choice interfaces that make it “more difficult or time-consuming” to pick one option over another. Although the DSA’s provisions against dark patterns are only intended to be applied where consumer protection and privacy laws, which also take aim against unfair choices, don’t.

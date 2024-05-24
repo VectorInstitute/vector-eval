@@ -1,0 +1,73 @@
+Earlier this year, the US International Trade Commission (ITC) ruled that Apple had infringed on two patents from medical device maker Masimo. As a result, the ITC said it would impose an import ban on the Apple Watch Series 9 and Ultra 2 starting December 26th. At the time it was hard to believe that this would actually come to pass: Apple gets sued all the time, and even when it loses, how often does it actually face dramatic consequences?
+
+Well, now would be one of those times. Experts say that, barring a Christmas miracle, it’s unlikely that Apple will find a way to escape the ban. Case in point, the company shocked everyone yesterday when it decided to preemptively pull the watches from its online store starting December 21st at 3PM ET. And after the 24th, they’ll disappear from Apple Stores, too.
+
+“I think Apple sees the writing on the wall and they’re preparing themselves,” says Ben Levi, a partner at Levi Snotherly & Schaumberg, which has experience litigating ITC disputes.
+
+It’s rare to see Big Tech lose — and with such tangible consequences at that. There are still ways that Apple can keep the watches on sale, but it’ll likely take a lot of waiting or a lot of money to make it happen.
+
+How Apple got here
+
+This ban is the result of a long-standing patent dispute between Apple and the medical device maker Masimo. The latter is known for its pulse oximetry tech, generally referred to as SpO2 or blood oxygen saturation in the wearable world, and it claims that Apple is using that patented technology without permission.
+
+This particular story started about 10 years ago when Apple reached out to Masimo about a potential partnership around blood oxygen features on its wearables. Soon after, Apple reportedly poached several Masimo engineers and its chief medical officer. And then in fall 2020, Apple released the Apple Watch Series 6 — its first Apple Watch to feature an SpO2 sensor to measure blood oxygen saturation levels.
+
+The SpO2 sensors measure blood oxygen levels and are at the heart of this patent dispute. Photo by Amelia Holowaty Krales / The Verge
+
+In 2020, Masimo filed a lawsuit in the US District Court in the Central District of California accusing Apple of stealing trade secrets and infringing on 10 of its patents. That case dragged on and on, so Masimo then filed a separate case with the ITC in 2021. Then last year, Apple sued Masimo back, claiming the company made an Apple Watch clone with its Masimo W1 Medical Watch. Clearly, there’s some bad blood here. But in this case, the important thing is that the ITC sided with Masimo. In January 2023, it ruled that Apple Watches did in fact infringe on Masimo patents.
+
+The ITC then issued an import ban in October, as well as an order to stop selling products infringing on Masimo’s patents that had already been imported. We’re currently nearing the end of a 60-day presidential review period, in which President Joe Biden or the US Trade Representative (USTR) has the opportunity to veto the ban. If there’s no veto by the time the review period ends, the ban will go into effect.
+
+But will Biden actually veto?
+
+Apple getting a presidential veto would be like lightning striking the same place twice.
+
+“It is extraordinarily rare for the President to overturn a decision from the International Trade Commission and in my view, [it’s] unlikely in this particular case,” says Andrei Iancu, co-chair of the Council for Innovation Promotion (C4IP) and partner at Sullivan & Cromwell LLP, who was also the director of the US Patent and Trademark Office from 2018 to 2021.
+
+To get a veto, a company usually has to show a public interest or health policy basis — and that isn’t the case here. “It’s unlikely that the import exclusion order will be disapproved by the USTR and the president,” says Smith Brittingham, partner at Finnegan, Henderson, Farabow, Garrett & Dunner, LLP. “The only real answer would be, ‘Well, it’s Apple.’”
+
+That said, Apple did manage to beat the system once. In 2013, then President Barack Obama vetoed an import ban on the iPhone. At the time, Samsung accused Apple of infringing on its cellular data patents. But in that case, according to Levi, Apple was able to make the argument that there were issues regarding fair, reasonable, and nondiscriminatory licensing (FRAND). The patents involved were considered standard and essential, and the Obama administration was concerned the import ban would give Samsung “undue leverage.” Plus, it only impacted the iPhone 4 and older models of the iPad. Newer iPhones didn’t use an infringing chipset. In the case of the Apple Watch, Apple doesn’t have any of these arguments.
+
+“In that case 10 years ago, Apple really rolled the dice and the pulled the rabbit out of the hat. It’s very unlikely for them to do that again,” says Levi.
+
+Where does Apple go from here?
+
+A hail mary veto is unlikely, but that doesn’t mean Apple is just going to accept an import ban on a $17 billion segment of its business. Apple spokesperson Nikki Rothberg told The Verge in a statement that the company was “pursuing a range of legal and technical options to ensure that Apple Watch is available to customers.” That means the watch is going back on sale one way or another — it’s just a question of what path Apple takes.
+
+Apple has already indicated that it plans to appeal, but appealing is a lengthy process that can take around 18 months. The company will also probably ask for a stay on the import ban, but Brittingham says that’s not likely to be granted because Apple would have to prove that it would be irreparably harmed. In other words, it’d have to make a convincing case that it would go out of business if it can’t sell the Apple Watch.
+
+Apple says it’s exploring both legal and technical options to get around this import ban. Photo by Amelia Holowaty Krales / The Verge
+
+While the Apple Watch is a popular product and makes up for roughly 30 percent of the smartwatch market, Apple won’t go under if the Apple Watch is out of commission in just the US. It’ll hurt to lose such an important market, but it can still sell all three of its Apple Watch models abroad. Similarly, the import ban wouldn’t affect every Apple Watch. The entry-level SE is unaffected by the ban as it doesn’t have blood oxygen sensing capabilities.
+
+The SE points to one way for Apple to sidestep the import ban altogether. According to both Brittingham and Levi, Apple could redesign its Apple Watch to avoid the infringed patents until the appeals process is done. Theoretically, all Apple has to do is push out a firmware update that disables the SpO2 sensor and then it could go right back to importing Apple Watches for sale.
+
+And there are indications that Apple is actively pursuing that option. Bloomberg reports that Apple engineers are scrambling to alter the blood oxygen algorithms on the watches. The report quotes an unnamed Apple spokesperson saying the company plans to submit a workaround to the US customs agency to get the product back on shelves.
+
+Do Apple’s SpO2 sensors even matter? Speaking as a wearables reviewer, removing the SpO2 sensors wouldn’t be the end of the world for Apple in the short term. Apple’s blood oxygen features are mostly for wellness and sleep tracking — and they’re not that useful beyond determining your nightly baseline. I’m willing to bet the average Apple Watch user forgets that the blood oxygen features even exist. In the case of the Apple Watch, it periodically takes SpO2 readings in the background, or you can actively take a spot check. However, Apple itself doesn’t really make wide use of these metrics. It’s not like how the watch uses its EKG capabilities to detect atrial fibrillation. On consumer wearables, SpO2 features generally have no medical use cases. They’re essentially for “entertainment” purposes, and we’ve repeatedly reported that you should never, ever use them as any sort of replacement for traditional pulse oximeters. The only real blow for Apple is if the rumors are correct and it’s working on sleep apnea detection. Losing the sensors in that instance would make developing this feature harder. However, that feature would require a lengthy FDA clearance process. That means more advanced health features like sleep apnea detection are more of a medium to long-term concern — and it’s very possible that Apple will have a workaround by the time such features are ready for consumers.
+
+That said, for this route to be successful, Iancu says it depends on the specific patent, ITC ruling, and what exactly Apple has planned as far as redesigning the product.
+
+“From a legal perspective, whatever change Apple makes has to be significant enough to avoid the patent, and it cannot be what’s called a ‘colorable’ difference. Minor changes will not be sufficient,” Iancu says.
+
+Basically, Apple can’t simply make a small tweak to the code and call it a day. Masimo claims that the patents are hardware related, so even completely disabling the sensor may not work depending on how the patent is written. Apple could remove it entirely from the design, but that would require mucking around with Apple’s meticulous supply chain and could take some time.
+
+Then there are the options that would cost Apple some money. Apple could sit down with Masimo and hammer out a licensing deal for the infringed patents. In a New York Times interview, Masimo CEO Joe Kiani said Apple “had not engaged in licensing negotiations.” It’s an easy-seeming fix, so why not do it? For starters, both parties have to want to settle.
+
+“Apple is a tough nut to crack,” says Brittingham, noting that Apple is one of the most sued companies in Silicon Valley. The company’s large cash reserves also make taking Apple to court a costly endeavor. Masimo, for example, has reportedly spent $60 million litigating the issue thus far. “I think they tend to hold out as long as possible in order to make it less appetizing to sue Apple.”
+
+The other option is for Apple to avoid the import ban altogether. Iancu says Apple could simply decide to manufacture the watches within the US instead of overseas — but that’s a significant supply chain change that’s unlikely to happen any time soon.
+
+Does this set a precedent?
+
+This import ban isn’t the only one Apple is facing. In February, the Biden administration also declined to veto another ITC import ban and cease-and-desist order stemming from a dispute with AliveCor over the Apple Watch’s EKG features. Like Masimo, AliveCor argued that Apple stole its tech to develop the wearable EKG feature, thereby infringing on its patents. However, while the two cases look similar, the result of one doesn’t speak to how the other will play out.
+
+“Every case is different, every patent is different,” says Levi. “Different complainants who bring up a case have got their own businesses, their own products, and those implicate a whole different set of facts.”
+
+The Apple Watch SE will remain unaffected because it doesn’t have a blood oxygen sensor. Photo by Amelia Holowaty Krales / The Verge
+
+Case in point, while the ITC granted AliveCor’s import ban, it hasn’t had any impact because the Patent Trial and Appeal Board ruled that AliveCor’s EKG tech isn’t actually patentable. AliveCor would have to win its appeal to that ruling before any Apple Watches with EKG features would be pulled from the market for that reason.
+
+Even so, Iancu says everything is working as it ought to. “The takeaway is that the system is working as originally intended. If Apple wants to have products imported into the US, it should make sure that it comes up with its original inventions and does not infringe on other people’s patented technology.”
+
+Ultimately, if this import ban goes through — which it’s looking a lot like it will — that doesn’t mean you’ll never be able to buy another Apple Watch in the US. As mentioned, the SE remains completely unaffected. In the short term, the ban also doesn’t forbid third-party resellers from selling their inventory of Series 9 or Ultra 2. Once they run out, only then it may pose a problem if they can’t buy more units from Apple.
