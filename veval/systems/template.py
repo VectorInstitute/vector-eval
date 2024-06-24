@@ -1,9 +1,18 @@
 import abc
-
 from dataclasses import dataclass
-from typing import Any, Dict, List, Optional
+from typing import Any, Callable, Dict, List, Optional
+
+from inspect_ai.solver import Generate, Solver, TaskState, Tool, solver, tool
+from inspect_ai.solver._tool.tool import ToolResult
+from inspect_ai.util import concurrency
 
 from .config import DEFAULT_SYSTEM_CONFIG
+
+RAG_SOLVER_TEMPLATE = """\
+{previous_prompt}
+
+Context: {rag_context}
+"""
 
 
 @dataclass
@@ -102,3 +111,71 @@ class System(abc.ABC):
         if self._cfg is None:
             raise ValueError("System config not set.")
         return self._cfg.as_dict()
+
+    def get_inspect_tool(
+        self,
+        documents: list[str],
+        max_concurrency: int = 1,
+    ) -> Callable[..., Tool]:
+        """
+        Return tool interface compatible with inspect_ai.
+
+        Adapted from the inspect_ai web search tool.
+        """
+
+        @tool(
+            prompt="""Please use retrieval-augmented generation to assist in answering the question."""
+        )
+        def document_search():
+            async def execute(query: str) -> tuple[ToolResult, dict[str, Any]]:
+                """
+                Tool for searching the local knowledgebase.
+
+                Args:
+                    query (str): Search query.
+                """
+                async with concurrency("document_search", max_concurrency):
+                    response = self.invoke(query, documents)
+
+                return response.answer, {
+                    "document_search": {
+                        "query": query,
+                        "answer": response.answer,
+                        "results": response.context,
+                    }
+                }
+
+            return execute
+
+        return document_search
+
+    def get_inspect_solver(
+        self,
+        documents: list[str],
+        max_concurrency: int = 1,
+    ) -> Callable[..., Solver]:
+        """
+        Return solver compatible with inspect_ai.
+
+        Example: insert RAG context into prompt before invoking model.
+
+        Entire input would be sent to RAG pipeline as query.
+        """
+
+        @solver("RAG")
+        def _rag_solver() -> Solver:
+            async def solve(state: TaskState, generate: Generate) -> TaskState:
+                query = state.user_prompt.text
+                async with concurrency("document_search", max_concurrency):
+                    response = self.invoke(query, documents)
+
+                state.user_prompt.text = RAG_SOLVER_TEMPLATE.format(
+                    previous_prompt=query,
+                    rag_context=response.answer,
+                )
+                state.metadata["rag"] = response
+                return state
+
+            return solve
+
+        return _rag_solver

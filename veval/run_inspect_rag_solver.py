@@ -1,0 +1,56 @@
+from inspect_ai import Task, task
+from inspect_ai.dataset import FieldSpec, hf_dataset
+from inspect_ai.scorer import model_graded_fact
+from inspect_ai.solver import chain_of_thought, generate, self_critique
+
+from veval.systems.basic_rag import BasicRag
+
+from veval.tasks.template import Task as _Task
+from veval.utils.io_utils import load_from_yaml
+
+limit = 10
+model_name = "command-light"
+
+multihop_rag_dataset = hf_dataset(
+    "yixuantt/MultiHopRAG",
+    split="train",  # "train" is the only split in the dataset.
+    name="MultiHopRAG",
+    sample_fields=FieldSpec(
+        input="query", target="answer", metadata=["evidence_list", "question_type"]
+    ),
+    limit=limit,
+)
+
+task_cfg = load_from_yaml("tasks/multihop-rag/multihop-rag.yaml")
+task_obj = _Task(config=task_cfg, limit=limit)
+task_obj.build()
+assert len(task_obj.doc_store.documents) > 0
+
+retrieval_system = BasicRag(
+    sys_name="basic_rag",
+    llm_name="cohere-{}".format(model_name),
+    embed_model_name="BAAI/bge-small-en-v1.5",
+)
+document_search_solver = retrieval_system.get_inspect_solver(
+    task_obj.doc_store.documents,
+    max_concurrency=1,
+)
+
+print("task_obj.doc_store.documents", len(task_obj.doc_store.documents))
+print("retrieval_system.faiss_dim", retrieval_system.faiss_dim)
+output = retrieval_system.invoke("Google", task_obj.doc_store.documents[:10])
+print(output)
+
+
+@task
+def multihop_rag():
+    return Task(
+        dataset=multihop_rag_dataset,
+        plan=[
+            document_search_solver(),
+            chain_of_thought(),
+            generate(),
+            self_critique(),
+        ],
+        scorer=model_graded_fact(),
+    )
