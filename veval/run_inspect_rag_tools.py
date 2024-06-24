@@ -2,12 +2,12 @@ from inspect_ai import Task, task
 from inspect_ai.dataset import FieldSpec, hf_dataset
 from inspect_ai.scorer import model_graded_fact
 from inspect_ai.solver import chain_of_thought, generate, self_critique, use_tools
-from inspect_ai.model import ToolFunction
 
 from veval.systems.basic_rag import BasicRag
 
 from veval.tasks.template import Task as _Task
 from veval.utils.io_utils import load_from_yaml
+from veval.metrics.template import get_inspect_scorer
 
 limit = 10
 model_name = "command-light"
@@ -21,6 +21,7 @@ multihop_rag_dataset = hf_dataset(
     ),
     limit=limit,
 )
+ragas_scorer = get_inspect_scorer("openai-gpt-3.5-turbo")
 
 task_cfg = load_from_yaml("tasks/multihop-rag/multihop-rag.yaml")
 task_obj = _Task(config=task_cfg, limit=limit)
@@ -53,5 +54,5 @@ def multihop_rag():
             generate(),
             self_critique(),
         ],
-        scorer=model_graded_fact(),
+        scorer=ragas_scorer(),
     )

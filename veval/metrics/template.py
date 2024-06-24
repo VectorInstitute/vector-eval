@@ -1,15 +1,21 @@
-from typing import List, Optional
+from typing import TYPE_CHECKING, Callable, List
 
 from datasets import Dataset
+from inspect_ai.scorer import Score, Scorer, Target, bootstrap_std, scorer
+from inspect_ai.solver import TaskState
+from inspect_ai.util import concurrency
 from ragas import evaluate
 from ragas.metrics import (
-    answer_relevancy, 
-    faithfulness, 
-    context_relevancy, 
     answer_correctness,
+    answer_relevancy,
+    context_relevancy,
+    faithfulness,
 )
 
 from utils.model_utils import LangChainLLM
+
+if TYPE_CHECKING:
+    from systems.template import SystemResponse
 
 
 def relevance_query_answer(
@@ -181,3 +187,44 @@ class LLMJudgeMetrics:
             llm=self._judge_llm,
         )
         return score.get("answer_correctness")
+
+
+def get_inspect_scorer(
+    judge_llm_name: str,
+    max_concurrency: int = 1,
+) -> Callable[..., Scorer]:
+    """
+    Return scorer compatible with AISI Inspect.
+
+    This scorer runs on one example at a time and does not support batching.
+    """
+
+    _judge_llm = LangChainLLM(lm_name=judge_llm_name)
+
+    @scorer(metrics=[bootstrap_std()])
+    def _scorer() -> Scorer:
+        async def score(state: TaskState, target: Target) -> Score:
+            rag_response: SystemResponse | None = state.metadata.get(
+                "document_search", {}
+            ).get("response")
+            context = (
+                list(rag_response.context.values()) if rag_response is not None else []
+            )
+
+            data = Dataset.from_dict(
+                {
+                    "question": [state.input_text],
+                    "answer": [state.output.completion],
+                    "ground_truth": [target.text],
+                    "contexts": context,
+                }
+            )
+
+            async with concurrency("ragas", max_concurrency):
+                metrics = evaluate(dataset=data, llm=_judge_llm)
+
+            return Score(value=metrics)
+
+        return score
+
+    return _scorer

@@ -138,11 +138,7 @@ class System(abc.ABC):
                     response = self.invoke(query, documents)
 
                 return response.answer, {
-                    "document_search": {
-                        "query": query,
-                        "answer": response.answer,
-                        "results": response.context,
-                    }
+                    "document_search": {"query": query, "response": response},
                 }
 
             return execute
@@ -173,7 +169,10 @@ class System(abc.ABC):
                     previous_prompt=query,
                     rag_context=response.answer,
                 )
-                state.metadata["rag"] = response
+                state.metadata["document_search"] = {
+                    "query": query,
+                    "response": response
+                }
                 return state
 
             return solve
