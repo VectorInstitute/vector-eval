@@ -1,7 +1,17 @@
+from collections import defaultdict
 from typing import TYPE_CHECKING, Callable, List
 
 from datasets import Dataset
-from inspect_ai.scorer import Score, Scorer, Target, bootstrap_std, scorer
+from inspect_ai.scorer import (
+    Metric,
+    Score,
+    Scorer,
+    Target,
+    bootstrap_std,
+    mean,
+    metric,
+    scorer,
+)
 from inspect_ai.solver import TaskState
 from inspect_ai.util import concurrency
 from ragas import evaluate
@@ -16,6 +26,14 @@ from utils.model_utils import LangChainLLM
 
 if TYPE_CHECKING:
     from systems.template import SystemResponse
+
+
+RAGAS_FEATURE_NAMES = [
+    "answer_relevancy",
+    "context_precision",
+    "faithfulness",
+    "context_recall",
+]
 
 
 def relevance_query_answer(
@@ -155,16 +173,17 @@ class LLMJudgeMetrics:
             llm=self._judge_llm,
         )
         return score.get("context_relevancy")
-    
+
+
     def correctness_answer(
-            self, 
-            query: List[str], 
-            answer: List[str], 
-            gt_answer: List[str],
-        ) -> float:
+        self,
+        query: List[str],
+        answer: List[str],
+        gt_answer: List[str],
+    ) -> float:
         """
         Calculate answer correctness score based on both factual and semantic similarity.
-        Reference: 
+        Reference:
         1. https://docs.ragas.io/en/stable/concepts/metrics/answer_correctness.html
         2. https://docs.ragas.io/en/stable/concepts/metrics/semantic_similarity.html
 
@@ -176,17 +195,49 @@ class LLMJudgeMetrics:
         Returns:
             float: The answer correctness score.
         """
-        data = Dataset.from_dict({
-            "question": query,
-            "answer": answer,
-            "ground_truth": gt_answer
-        })
+        data = Dataset.from_dict(
+            {"question": query, "answer": answer, "ground_truth": gt_answer}
+        )
         score = evaluate(
             dataset=data,
             metrics=[answer_correctness],
             llm=self._judge_llm,
         )
         return score.get("answer_correctness")
+
+
+def get_average_metric(
+    ragas_feature_name: str,
+    output_metric_name: str,
+    metric_function: Metric,
+) -> Callable[..., Metric]:
+    """
+    Average across scores, applied separately to each key of a dictionary.
+    """
+
+    @metric(name=output_metric_name)
+    def _dict_average() -> Metric:
+        def metric(scores: list[Score]) -> float:
+            # Transpose list[Score[dict[str, float]]]
+            # to dict[str, list[Score]]
+            scores_transposed: dict[str, list[Score]] = defaultdict(list)
+            for score in scores:
+                metrics_dict = score.value
+                assert isinstance(metrics_dict, dict)
+                for key, value in metrics_dict.items():
+                    assert isinstance(value, float)
+                    scores_transposed[key].append(Score(value=value))
+
+            # Calculate scores using bootstrap from inspect
+            output: dict[str, float] = {}
+            for key, metric_scores in scores_transposed.items():
+                output[key] = metric_function(metric_scores)
+
+            return output[ragas_feature_name]
+
+        return metric
+
+    return _dict_average
 
 
 def get_inspect_scorer(
@@ -201,7 +252,20 @@ def get_inspect_scorer(
 
     _judge_llm = LangChainLLM(lm_name=judge_llm_name)
 
-    @scorer(metrics=[bootstrap_std()])
+    @scorer(
+        metrics=[
+            get_average_metric(
+                ragas_feature_name=ragas_feature_name,
+                output_metric_name=f"{ragas_feature_name}/{inspect_metric_name}",
+                metric_function=inspect_metric_fn,
+            )()
+            for ragas_feature_name in RAGAS_FEATURE_NAMES
+            for (inspect_metric_name, inspect_metric_fn) in [
+                ("mean", mean()),
+                ("bootstrap_std", bootstrap_std()),
+            ]
+        ]
+    )
     def _scorer() -> Scorer:
         async def score(state: TaskState, target: Target) -> Score:
             rag_response: SystemResponse | None = state.metadata.get(
