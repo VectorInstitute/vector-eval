@@ -21,7 +21,6 @@ multihop_rag_dataset = hf_dataset(
     ),
     limit=limit,
 )
-ragas_scorer = get_inspect_scorer("openai-gpt-3.5-turbo")
 
 task_cfg = load_from_yaml("tasks/multihop-rag/multihop-rag.yaml")
 task_obj = _Task(config=task_cfg, limit=limit)
@@ -37,6 +36,11 @@ document_search = retrieval_system.get_inspect_tool(
     task_obj.doc_store.documents,
     max_concurrency=1,
 )
+ragas_scorer = get_inspect_scorer(
+    "openai-gpt-3.5-turbo",
+    ragas_feature_names=[row["metric"] for row in task_cfg["metric_list"]],
+)
+
 
 print("task_obj.doc_store.documents", len(task_obj.doc_store.documents))
 print("retrieval_system.faiss_dim", retrieval_system.faiss_dim)

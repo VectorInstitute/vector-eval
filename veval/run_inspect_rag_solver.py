@@ -36,7 +36,10 @@ document_search_solver = retrieval_system.get_inspect_solver(
     task_obj.doc_store.documents,
     max_concurrency=1,
 )
-ragas_scorer = get_inspect_scorer("openai-gpt-3.5-turbo")
+ragas_scorer = get_inspect_scorer(
+    "openai-gpt-3.5-turbo",
+    ragas_feature_names=[row["metric"] for row in task_cfg["metric_list"]],
+)
 
 print("task_obj.doc_store.documents", len(task_obj.doc_store.documents))
 print("retrieval_system.faiss_dim", retrieval_system.faiss_dim)

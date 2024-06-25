@@ -2,6 +2,8 @@ from collections import defaultdict
 from math import isnan
 from typing import TYPE_CHECKING, Callable, List
 
+import ragas.metrics
+import ragas.metrics.base
 from datasets import Dataset
 from inspect_ai.scorer import (
     Metric,
@@ -35,6 +37,13 @@ RAGAS_FEATURE_NAMES = [
     "faithfulness",
     "context_recall",
 ]
+
+RAGAS_METRIC_NAME_LOOKUP: dict[str, str] = {
+    "relevance_query_answer": "answer_relevancy",
+    "groundedness_context_answer": "faithfulness",
+    "relevance_query_context": "context_relevancy",
+    "correctness_answer": "answer_correctness",
+}
 
 
 def relevance_query_answer(
@@ -247,6 +256,7 @@ def get_average_metric(
 
 def get_inspect_scorer(
     judge_llm_name: str,
+    ragas_feature_names: list[str] = RAGAS_FEATURE_NAMES,
     max_concurrency: int = 1,
 ) -> Callable[..., Scorer]:
     """
@@ -256,15 +266,23 @@ def get_inspect_scorer(
     """
 
     _judge_llm = LangChainLLM(lm_name=judge_llm_name)
+    ragas_metric_names: list[str] = [
+        RAGAS_METRIC_NAME_LOOKUP[ragas_feature_name]
+        for ragas_feature_name in ragas_feature_names
+    ]
+    ragas_metrics: list[ragas.metrics.base.Metric] = [
+        getattr(ragas.metrics, ragas_metric_name)
+        for ragas_metric_name in ragas_metric_names
+    ]
 
     @scorer(
         metrics=[
             get_average_metric(
-                ragas_feature_name=ragas_feature_name,
-                output_metric_name=f"{ragas_feature_name}/{inspect_metric_name}",
+                ragas_feature_name=ragas_metric_name,
+                output_metric_name=f"{ragas_metric_name}/{inspect_metric_name}",
                 metric_function=inspect_metric_fn,
             )()
-            for ragas_feature_name in RAGAS_FEATURE_NAMES
+            for ragas_metric_name in ragas_metric_names
             for (inspect_metric_name, inspect_metric_fn) in [
                 ("mean", mean()),
                 ("bootstrap_std", bootstrap_std()),
@@ -290,7 +308,11 @@ def get_inspect_scorer(
             )
 
             async with concurrency("ragas", max_concurrency):
-                metrics = evaluate(dataset=data, llm=_judge_llm)
+                metrics = evaluate(
+                    dataset=data,
+                    llm=_judge_llm,
+                    metrics=ragas_metrics,
+                )
 
             return Score(value=metrics)
 
