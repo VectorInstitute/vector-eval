@@ -1,7 +1,6 @@
 from inspect_ai import Task, task
 from inspect_ai.dataset import FieldSpec, hf_dataset
-from inspect_ai.scorer import model_graded_fact
-from inspect_ai.solver import chain_of_thought, generate, self_critique, use_tools
+from inspect_ai.solver import generate, use_tools
 
 from veval.systems.basic_rag import BasicRag
 
@@ -54,9 +53,7 @@ def multihop_rag():
         dataset=multihop_rag_dataset,
         plan=[
             use_tools(document_search()),
-            chain_of_thought(),
             generate(),
-            self_critique(),
         ],
         scorer=ragas_scorer(),
     )
