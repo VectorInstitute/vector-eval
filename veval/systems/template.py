@@ -167,7 +167,7 @@ class System(abc.ABC):
 
                 state.user_prompt.text = RAG_SOLVER_TEMPLATE.format(
                     previous_prompt=query,
-                    rag_context=response.answer,
+                    rag_context="\n".join(response.context["vector_retriever"]),
                 )
                 state.metadata["document_search"] = {
                     "query": query,

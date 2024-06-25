@@ -1,4 +1,5 @@
 from collections import defaultdict
+from math import isnan
 from typing import TYPE_CHECKING, Callable, List
 
 from datasets import Dataset
@@ -231,7 +232,11 @@ def get_average_metric(
             # Calculate scores using bootstrap from inspect
             output: dict[str, float] = {}
             for key, metric_scores in scores_transposed.items():
-                output[key] = metric_function(metric_scores)
+                reduced_metric_value = metric_function(metric_scores)
+                if isnan(reduced_metric_value):
+                    reduced_metric_value = -1.0
+
+                output[key] = reduced_metric_value
 
             return output[ragas_feature_name]
 
