@@ -1,6 +1,6 @@
 from collections import defaultdict
 from math import isnan
-from typing import TYPE_CHECKING, Callable, List
+from typing import TYPE_CHECKING, Callable, List, Dict
 
 import ragas.metrics
 import ragas.metrics.base
@@ -38,7 +38,7 @@ RAGAS_FEATURE_NAMES = [
     "context_recall",
 ]
 
-RAGAS_METRIC_NAME_LOOKUP: dict[str, str] = {
+RAGAS_METRIC_NAME_LOOKUP: Dict[str, str] = {
     "relevance_query_answer": "answer_relevancy",
     "groundedness_context_answer": "faithfulness",
     "relevance_query_context": "context_relevancy",
@@ -227,10 +227,10 @@ def get_average_metric(
 
     @metric(name=output_metric_name)
     def _dict_average() -> Metric:
-        def metric(scores: list[Score]) -> float:
-            # Transpose list[Score[dict[str, float]]]
-            # to dict[str, list[Score]]
-            scores_transposed: dict[str, list[Score]] = defaultdict(list)
+        def metric(scores: List[Score]) -> float:
+            # Transpose List[Score[dict[str, float]]]
+            # to dict[str, List[Score]]
+            scores_transposed: dict[str, List[Score]] = defaultdict(list)
             for score in scores:
                 metrics_dict = score.value
                 assert isinstance(metrics_dict, dict)
@@ -256,7 +256,7 @@ def get_average_metric(
 
 def get_inspect_scorer(
     judge_llm_name: str,
-    ragas_feature_names: list[str] = RAGAS_FEATURE_NAMES,
+    ragas_feature_names: List[str] = RAGAS_FEATURE_NAMES,
     max_concurrency: int = 1,
 ) -> Callable[..., Scorer]:
     """
@@ -266,11 +266,11 @@ def get_inspect_scorer(
     """
 
     _judge_llm = LangChainLLM(lm_name=judge_llm_name)
-    ragas_metric_names: list[str] = [
+    ragas_metric_names: List[str] = [
         RAGAS_METRIC_NAME_LOOKUP[ragas_feature_name]
         for ragas_feature_name in ragas_feature_names
     ]
-    ragas_metrics: list[ragas.metrics.base.Metric] = [
+    ragas_metrics: List[ragas.metrics.base.Metric] = [
         getattr(ragas.metrics, ragas_metric_name)
         for ragas_metric_name in ragas_metric_names
     ]
