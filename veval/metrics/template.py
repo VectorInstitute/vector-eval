@@ -303,7 +303,7 @@ def get_inspect_scorer(
                     "question": [state.input_text],
                     "answer": [state.output.completion],
                     "ground_truth": [target.text],
-                    "contexts": context,
+                    "contexts": [context],
                 }
             )
 
