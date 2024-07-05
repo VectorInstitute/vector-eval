@@ -237,11 +237,10 @@ def get_embedding_model(
    if model_type == "openai":
       model = OpenAIEmbedding(model=model_name)
    elif model_type == "cohere":
-      model = CohereEmbedding(model_name=model_name)
+      model = CohereEmbedding(model_name=model_name, api_key=os.environ.get("CO_API_KEY"))
    else:
       try:
-         local_model_path = os.path.join(local_model_dir, model_name)
-         model = HuggingFaceEmbedding(model_name=local_model_path)
+         model = HuggingFaceEmbedding(model_name=model_name)
       except FileNotFoundError as e:
          print(f"Directory not found: {e}")
          raise ValueError(f"Local model {model_name} not found.")

@@ -5,9 +5,14 @@ from dataclasses import dataclass
 from typing import List, Optional
 
 from llama_index.core import (
-    Document, ServiceContext, StorageContext, VectorStoreIndex, PromptTemplate, 
-    get_response_synthesizer, load_index_from_storage
-    )
+    Document,
+    ServiceContext,
+    StorageContext,
+    VectorStoreIndex,
+    PromptTemplate,
+    get_response_synthesizer,
+    load_index_from_storage,
+)
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.retrievers import VectorIndexRetriever
@@ -91,26 +96,29 @@ class BasicRag(System):
         # Load or create vector index
         if os.path.exists(self._index_dir):
             storage_context = StorageContext.from_defaults(
-                vector_store=self.vector_store, persist_dir=self._index_dir)
+                vector_store=FaissVectorStore.from_persist_dir(self._index_dir),
+                persist_dir=self._index_dir,
+            )
             vector_index = load_index_from_storage(storage_context)
         else:
             os.makedirs(self._index_dir)
             storage_context = StorageContext.from_defaults(
-                vector_store=self.vector_store)
+                vector_store=self.vector_store
+            )
             vector_index = VectorStoreIndex.from_documents(
-                documents=all_docs, 
+                documents=all_docs,
                 storage_context=storage_context,
                 service_context=self.service_context,
+                show_progress=True,
             )
-            vector_index.storage_context.persist(
-                persist_dir=self._index_dir
-            )
+            vector_index.storage_context.persist(self._index_dir)
 
         # Build query engine
         retriever = VectorIndexRetriever(
             index=vector_index,
             similarity_top_k=self.similarity_top_k,
             service_context=self.service_context,
+            embed_model=self.embed_model,
         )
         node_postprocessor = None
         response_synthesizer = get_response_synthesizer(
