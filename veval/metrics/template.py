@@ -291,11 +291,11 @@ def get_inspect_scorer(
     )
     def _scorer() -> Scorer:
         async def score(state: TaskState, target: Target) -> Score:
-            rag_response: SystemResponse | None = state.metadata.get(
+            rag_context: List | None = state.metadata.get(
                 "document_search", {}
-            ).get("response")
+            ).get("context")
             context = (
-                list(rag_response.context.values()) if rag_response is not None else []
+                rag_context if rag_context is not None else []
             )
 
             data = Dataset.from_dict(

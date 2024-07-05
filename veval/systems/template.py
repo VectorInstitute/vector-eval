@@ -148,6 +148,7 @@ class System(abc.ABC):
     def get_inspect_solver(
         self,
         documents: List[str],
+        rag_prompt_template: str,
         max_concurrency: int = 1,
     ) -> Callable[..., Solver]:
         """
@@ -165,13 +166,13 @@ class System(abc.ABC):
                 async with concurrency("document_search", max_concurrency):
                     response = self.invoke(query, documents)
 
-                state.user_prompt.text = RAG_SOLVER_TEMPLATE.format(
-                    previous_prompt=query,
-                    rag_context="\n".join(response.context["vector_retriever"]),
+                state.user_prompt.text = rag_prompt_template.format(
+                    query=query,
+                    context="\n".join(response.context["vector_retriever"]),
                 )
                 state.metadata["document_search"] = {
                     "query": query,
-                    "response": response
+                    "context": response.context["vector_retriever"]
                 }
                 return state
 
