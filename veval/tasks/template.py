@@ -194,12 +194,13 @@ class Task(abc.ABC):
             List[str]: A list of document strings.
         """
         docs = []
+        docs_dir = os.path.join(os.getcwd(), self.config.docs_path)
         for filename in tqdm(
-            os.listdir(self.config.docs_path), 
+            os.listdir(docs_dir), 
             desc="Reading documents"
         ):
             if filename.endswith(".txt"):
-                filepath = os.path.join(self.config.docs_path, filename)
+                filepath = os.path.join(docs_dir, filename)
                 with open(filepath, 'r') as f:
                     docs.append(f.read().strip().strip('\n'))
         return docs

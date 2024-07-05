@@ -4,7 +4,7 @@ dataset_name: MultiHopRAG
 dataset_kwargs:
   trust_remote_code: True
 validation_split: train
-docs_path: veval/tasks/multihop-rag/doc_store
+docs_path: tasks/multihop-rag/doc_store
 data_instance_map:
   query: query
   gt_answer: answer
