@@ -89,6 +89,8 @@ class BasicRag(System):
         # Template for formatting the input to the language model, including placeholders for the question and references.
         self.prompt_template = self._cfg.prompt_template
 
+        self.retriever_only = kwargs.get("retriever_only", False)
+
     # TODO - Think of docs from a general framework perspective
     def invoke(self, query: str, docs: List[str]) -> SystemResponse:
         all_docs = [Document(text=doc) for doc in docs]
@@ -132,21 +134,26 @@ class BasicRag(System):
             response_synthesizer=response_synthesizer,
         )
         
-        try:
-            result = query_engine.query(query)
-            retrieved_context = [elm.node.get_content() for elm in result.source_nodes]
-            result = result.response
-        except IndexError as e:
-            print(f"Cannot obtain response: {e}")
-            result = "I don't know"
-            retrieved_context = ['']
+        if self.retriever_only:
+            retrieved_nodes = retriever.retrieve(query)
+            retrieved_context = [node.get_content() for node in retrieved_nodes]
+            answer = "<NA>" # dummy answer
+        else:
+            try:
+                result = query_engine.query(query)
+                retrieved_context = [elm.node.get_content() for elm in result.source_nodes]
+                result = result.response
+            except IndexError as e:
+                print(f"Cannot obtain response: {e}")
+                result = "I don't know"
+                retrieved_context = ['']
 
-        try:
-            # Extract the answer from the generated text.
-            answer = result.split("### Answer\n")[-1]
-        except IndexError:
-            # If the model fails to generate an answer, return a default response.
-            answer = "I don't know"
+            try:
+                # Extract the answer from the generated text.
+                answer = result.split("### Answer\n")[-1]
+            except IndexError:
+                # If the model fails to generate an answer, return a default response.
+                answer = "I don't know"
 
         sys_response = SystemResponse(
             query=query,
