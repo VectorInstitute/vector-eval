@@ -1,6 +1,6 @@
 import abc
 from dataclasses import dataclass
-from typing import Any, Callable, Dict, List, Optional
+from typing import Any, Callable, Dict, List, Optional, Tuple
 
 from inspect_ai.solver import Generate, Solver, TaskState, Tool, solver, tool
 from inspect_ai.solver._tool.tool import ToolResult
@@ -114,7 +114,7 @@ class System(abc.ABC):
 
     def get_inspect_tool(
         self,
-        documents: list[str],
+        documents: List[str],
         max_concurrency: int = 1,
     ) -> Callable[..., Tool]:
         """
@@ -127,7 +127,7 @@ class System(abc.ABC):
             prompt="""Please use retrieval-augmented generation to assist in answering the question."""
         )
         def document_search():
-            async def execute(query: str) -> tuple[ToolResult, dict[str, Any]]:
+            async def execute(query: str) -> Tuple[ToolResult, Dict[str, Any]]:
                 """
                 Tool for searching the local knowledgebase.
 
@@ -147,7 +147,7 @@ class System(abc.ABC):
 
     def get_inspect_solver(
         self,
-        documents: list[str],
+        documents: List[str],
         max_concurrency: int = 1,
     ) -> Callable[..., Solver]:
         """
