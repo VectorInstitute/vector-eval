@@ -133,7 +133,6 @@ dmypy.json
 
 # log files
 logs
-
-/logs/
 .index_store*
 /env
+logs/
