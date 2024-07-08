@@ -168,7 +168,7 @@ class System(abc.ABC):
 
                 state.user_prompt.text = rag_prompt_template.format(
                     query=query,
-                    context="\n".join(response.context["vector_retriever"]),
+                    context="\n".join([(f"{(idx+1)}. " + elm.strip("\n")) for idx, elm in enumerate(response.context["vector_retriever"])]),
                 )
                 state.metadata["document_search"] = {
                     "query": query,
