@@ -21,7 +21,7 @@ except Exception as err:
     print(f"Could not read your OpenAI API key: {err}")
 
 
-limit = 10
+limit = None
 
 RAG_PROMPT_TEMPLATE = """
 Provide an answer to the following QUESTION. You are allowed to use the CONTEXT given below for answering the QUESTION.
@@ -56,7 +56,7 @@ retrieval_system = BasicRag(
 document_search_solver = retrieval_system.get_inspect_solver(
     documents=task_obj.doc_store.documents,
     rag_prompt_template=RAG_PROMPT_TEMPLATE,
-    max_concurrency=1,
+    max_concurrency=20,
 )
 ragas_scorer = get_inspect_scorer(
     "openai-gpt-4o",
