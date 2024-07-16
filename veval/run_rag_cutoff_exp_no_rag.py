@@ -3,7 +3,7 @@ from pathlib import Path
 
 from inspect_ai import Task, task
 from inspect_ai.dataset import FieldSpec, hf_dataset
-from inspect_ai.solver import generate
+from inspect_ai.solver import generate, prompt_template
 
 from veval.systems.basic_rag import BasicRag
 
@@ -22,15 +22,11 @@ except Exception as err:
 
 
 limit = 100
-max_concurrency = 1
 
-RAG_PROMPT_TEMPLATE = """
-Provide an answer to the following QUESTION. You are allowed to use the CONTEXT given below for answering the QUESTION.
+BASIC_PROMPT_TEMPLATE = """
+Provide an answer to the following QUESTION.
 
-QUESTION: {query}
-
-CONTEXT:
-{context}
+QUESTION: {prompt}
 """
 
 multihop_rag_dataset = hf_dataset(
@@ -48,21 +44,21 @@ task_obj = _Task(config=task_cfg, limit=limit)
 task_obj.build()
 assert len(task_obj.doc_store.documents) > 0
 
-retrieval_system = BasicRag(
-    sys_name="basic_rag",
-    llm_name="openai-gpt-3.5-turbo", # NOTE: Not used since retriever_only is True
-    embed_model_name="openai-text-embedding-3-small",
-    retriever_only=True,
-)
-document_search_solver = retrieval_system.get_inspect_solver(
-    documents=task_obj.doc_store.documents,
-    rag_prompt_template=RAG_PROMPT_TEMPLATE,
-    max_concurrency=max_concurrency,
-)
+# retrieval_system = BasicRag(
+#     sys_name="basic_rag",
+#     llm_name="openai-gpt-3.5-turbo", # NOTE: Not used since retriever_only is True
+#     embed_model_name="openai-text-embedding-3-small",
+#     retriever_only=True,
+# )
+# document_search_solver = retrieval_system.get_inspect_solver(
+#     documents=task_obj.doc_store.documents,
+#     rag_prompt_template=RAG_PROMPT_TEMPLATE,
+#     max_concurrency=1,
+# )
+
 ragas_scorer = get_inspect_scorer(
     "openai-gpt-4o",
     ragas_feature_names=["correctness_answer"],
-    max_concurrency=max_concurrency,
 )
 
 
@@ -71,7 +67,7 @@ def multihop_rag():
     return Task(
         dataset=multihop_rag_dataset,
         plan=[
-            document_search_solver(),
+            prompt_template(template=BASIC_PROMPT_TEMPLATE),
             generate(),
         ],
         scorer=ragas_scorer(),
