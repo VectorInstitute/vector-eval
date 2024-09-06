@@ -1,6 +1,7 @@
 import abc
 import datasets
 import os
+import ast
 
 from collections import defaultdict
 from dataclasses import dataclass
@@ -181,6 +182,11 @@ class Task(abc.ABC):
         for idx, elm in tqdm(enumerate(data), desc="Creating document store"):
             filepath = os.path.join(self.config.docs_path, f'doc_{idx+1}.txt')
             context = elm[self.data_instance_map.get("gt_context")]
+            # Convert to list if context is a list in the form of a string
+            try:
+                context = ast.literal_eval(context)
+            except SyntaxError:
+                print("Context is a regular string, doesn't require conversion.")
             if isinstance(context, list):
                 context = "\n".join(context)
             with open(filepath, 'w') as f:
