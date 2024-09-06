@@ -136,3 +136,6 @@ logs
 .index_store*
 /env
 logs/
+
+# data
+data
