@@ -21,7 +21,7 @@ except Exception as err:
     print(f"Could not read your OpenAI API key: {err}")
 
 
-limit = 100
+limit = 50
 max_concurrency = 1
 
 RAG_PROMPT_TEMPLATE = """
@@ -34,16 +34,15 @@ CONTEXT:
 """
 
 multihop_rag_dataset = hf_dataset(
-    "yixuantt/MultiHopRAG",
+    "vector-institute/MultiHopRAG-syn-data-50",
     split="train",  # "train" is the only split in the dataset.
-    name="MultiHopRAG",
     sample_fields=FieldSpec(
-        input="query", target="answer", metadata=["evidence_list", "question_type"]
+        input="question", target="ground_truth", metadata=["contexts", "evolution_type", "metadata"]
     ),
     limit=limit,
 )
 
-task_cfg = load_from_yaml("tasks/multihop-rag/multihop-rag.yaml")
+task_cfg = load_from_yaml("tasks/multihop-rag-syn/multihop-rag-syn.yaml")
 task_obj = _Task(config=task_cfg, limit=limit)
 task_obj.build()
 assert len(task_obj.doc_store.documents) > 0
@@ -60,7 +59,7 @@ document_search_solver = retrieval_system.get_inspect_solver(
     max_concurrency=max_concurrency,
 )
 ragas_scorer = get_inspect_scorer(
-    "openai-gpt-4o",
+    "openai-gpt-4o-2024-08-06",
     ragas_feature_names=["correctness_answer"],
     max_concurrency=max_concurrency,
 )
