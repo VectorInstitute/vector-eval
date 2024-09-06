@@ -2,8 +2,9 @@ import abc
 from dataclasses import dataclass
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
-from inspect_ai.solver import Generate, Solver, TaskState, Tool, solver, tool
-from inspect_ai.solver._tool.tool import ToolResult
+from inspect_ai.solver import Generate, Solver, TaskState, solver, tool
+from inspect_ai.tool._tool import ToolResult
+from inspect_ai.tool import Tool
 from inspect_ai.util import concurrency
 
 from .config import DEFAULT_SYSTEM_CONFIG
