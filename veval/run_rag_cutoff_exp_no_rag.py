@@ -18,10 +18,10 @@ try:
     os.environ["OPENAI_API_KEY"] = f.read().rstrip("\n")
     f.close()
 except Exception as err:
-    print(f"Could not read your OpenAI API key: {err}"d)
+    print(f"Could not read your OpenAI API key: {err}")
 
 
-limit = 50
+limit = 88
 
 BASIC_PROMPT_TEMPLATE = """
 Provide an answer to the following QUESTION.
@@ -30,7 +30,7 @@ QUESTION: {prompt}
 """
 
 multihop_rag_dataset = hf_dataset(
-    "vector-institute/MultiHopRAG-syn-data-50",
+    "vector-institute/MultiHopRAG-syn-data-ctx_len-4096-100",
     split="train",  # "train" is the only split in the dataset.
     sample_fields=FieldSpec(
         input="question", target="ground_truth", metadata=["contexts", "evolution_type", "metadata"]
@@ -38,22 +38,10 @@ multihop_rag_dataset = hf_dataset(
     limit=limit,
 )
 
-task_cfg = load_from_yaml("tasks/multihop-rag-syn/multihop-rag-syn.yaml")
+task_cfg = load_from_yaml("tasks/multihop-rag-syn-ctx-4096-100/multihop-rag-syn.yaml")
 task_obj = _Task(config=task_cfg, limit=limit)
 task_obj.build()
 assert len(task_obj.doc_store.documents) > 0
-
-# retrieval_system = BasicRag(
-#     sys_name="basic_rag",
-#     llm_name="openai-gpt-3.5-turbo", # NOTE: Not used since retriever_only is True
-#     embed_model_name="openai-text-embedding-3-small",
-#     retriever_only=True,
-# )
-# document_search_solver = retrieval_system.get_inspect_solver(
-#     documents=task_obj.doc_store.documents,
-#     rag_prompt_template=RAG_PROMPT_TEMPLATE,
-#     max_concurrency=1,
-# )
 
 ragas_scorer = get_inspect_scorer(
     "openai-gpt-4o-2024-08-06",
