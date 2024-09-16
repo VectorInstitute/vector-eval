@@ -1,0 +1,17 @@
+task_name: multihoprag-syn-100
+dataset_path: vector-institute/MultiHopRAG-syn-data-100
+dataset_name: default
+dataset_kwargs:
+  trust_remote_code: True
+validation_split: train
+docs_path: tasks/multihop-rag-syn/doc_store
+data_instance_map:
+  query: question
+  gt_answer: ground_truth
+  gt_context: contexts
+metric_list:
+  - metric: correctness_answer
+    args:
+      - query
+      - answer
+      - gt_answer
