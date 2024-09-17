@@ -1,0 +1,70 @@
+model: /model-weights/Meta-Llama-3-8B/
+enable_wandb_logging: True
+
+wandb_config:
+  project: rag-knowledge-cutoff
+  name: test-Meta-Llama-3-8B
+
+train_parameters:
+  output_dir: /fs01/projects/ind_bias/rag-knowledge-cutoff
+  max_seq_len: 4096
+  epochs: 1
+  seed: 37
+
+  # Sharding strategy
+  sharding_strategy: NO_SHARD
+
+  # Memory
+  use_mp: True
+  use_activation_checkpointing: True
+  use_flash_attention: True
+  low_cpu_mem_usage: True
+
+  # LoRA config: uncomment the block below to enable LoRA
+  
+  lora_peft_config:
+    task_type: CAUSAL_LM
+    inference_mode: False
+    r: 8
+    lora_alpha: 32
+    lora_dropout: 0.1
+
+  # Gradient norm clipping
+  max_grad_norm: 1
+  gradient_accumulation_steps: 4
+
+  # Optimizer
+  optimizer:
+    lr: 2.0e-5
+    weight_decay: 0.1
+    betas: [0.9, 0.95]
+    eps: 1.0e-5
+
+  # Scheduler
+  lr_scheduler_type: cosine
+  warmup_ratio: 0.05
+
+  # Checkpointing
+  checkpointing_enabled: True
+  logging_steps: 500
+  save_frequency: 0.25
+
+dataset:
+  ignore_index: -100
+  eval_bs: 4
+  train_bs: 4
+  train_ds: data/multi_hop_rag/train
+  eval_ds: data/multi_hop_rag/val
+
+dataset_preprocess:
+  ignore_index: -100
+  dataset_format: hf
+  data_field: body
+  packing_type: partial
+  add_bos_eos_tokens: True
+  from_disk: False
+  load_path: yixuantt/MultiHopRAG
+  split: train
+  subset: corpus
+  save_path: data/multi_hop_rag
+  truncate: False
