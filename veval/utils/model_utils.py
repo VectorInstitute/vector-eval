@@ -223,8 +223,7 @@ def call_api(
 
 
 def get_embedding_model(
-   model_name: str,
-   local_model_dir: str = DEFAULT_LOCAL_EMBED_MODEL_DIR
+   model_name: str = DEFAULT_LOCAL_EMBED_MODEL_DIR,
 ) -> Union[OpenAIEmbedding, CohereEmbedding, HuggingFaceEmbedding]:
 
    model_type = model_name.split("-")[0]
@@ -240,7 +239,7 @@ def get_embedding_model(
       model = CohereEmbedding(model_name=model_name, api_key=os.environ.get("CO_API_KEY"))
    else:
       try:
-         model = HuggingFaceEmbedding(model_name=model_name)
+         model = HuggingFaceEmbedding(model_name=model_name, trust_remote_code=True)
       except FileNotFoundError as e:
          print(f"Directory not found: {e}")
          raise ValueError(f"Local model {model_name} not found.")
