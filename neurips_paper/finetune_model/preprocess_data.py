@@ -13,6 +13,9 @@ from transformers import AutoTokenizer, PreTrainedTokenizer
 
 from vectorlm.utils.data_utils import Config
 
+from collections import Counter
+import random
+
 
 def parse_args() -> Namespace:
     """Parse the command-line arguments.
@@ -47,9 +50,7 @@ def validate_config(config: Config) -> None:
         msg = "`truncate` and `packing_type` cannot both be set."
         raise ValueError(msg)
 
-    if (
-        not preprocess_args.get("truncate")
-    ) and (
+    if (not preprocess_args.get("truncate")) and (
         not preprocess_args.get("packing_type")
     ):
         print(
@@ -109,7 +110,7 @@ def tokenize_dataset(
         if not separator:
             tokenized = tokenizer.encode(prompt, add_special_tokens=False)
             if truncate and len(tokenized) > tokenizer.model_max_length:
-                tokenized = tokenized[:tokenizer.model_max_length - 1]
+                tokenized = tokenized[: tokenizer.model_max_length - 1]
                 tokenized.append(tokenizer.eos_token_id)
             all_labels.append(deepcopy(tokenized))
         else:
@@ -119,14 +120,16 @@ def tokenize_dataset(
             separation_idx = prompt.find(separator) + len(separator)
             prefix, postfix = prompt[:separation_idx], prompt[separation_idx:]
             tokenized_prefix = tokenizer.encode(
-                prefix, add_special_tokens=False,
+                prefix,
+                add_special_tokens=False,
             )
             tokenized_postfix = tokenizer.encode(
-                postfix, add_special_tokens=False,
+                postfix,
+                add_special_tokens=False,
             )
             tokenized = tokenized_prefix + tokenized_postfix
             if truncate and len(tokenized) > tokenizer.model_max_length:
-                tokenized = tokenized[:tokenizer.model_max_length - 1]
+                tokenized = tokenized[: tokenizer.model_max_length - 1]
                 tokenized.append(tokenizer.eos_token_id)
             # We need to address this separately, because labels need to
             # backprop on bos/eos tokens
@@ -137,13 +140,10 @@ def tokenize_dataset(
                     + deepcopy(tokenized_postfix)
                 )
             else:
-                label = (
-                    [-100] * len(tokenized_prefix)
-                    + deepcopy(tokenized_postfix)
-                )
+                label = [-100] * len(tokenized_prefix) + deepcopy(tokenized_postfix)
             # If truncated, labels should be the same.
             if truncate and len(label) > tokenizer.model_max_length:
-                label = label[:tokenizer.model_max_length - 1]
+                label = label[: tokenizer.model_max_length - 1]
                 label.append(tokenizer.eos_token_id)
             all_labels.append(label)
         all_input_ids.append(tokenized)
@@ -198,18 +198,16 @@ def pack_examples(
             value_chunked_lst = []
             for i in range(0, total_length, stride):
                 if k != "attention_mask":
-                    value_chunked_lst.append(bos + v[i:i + chunk_size] + eos)
+                    value_chunked_lst.append(bos + v[i : i + chunk_size] + eos)
                 else:
                     if add_bos_eos:
                         # Need to do this explicitly because attention mask
                         # is just 1s or 0s.
-                        value_chunked_lst.append(
-                            [1] + v[i:i + chunk_size] + [1]
-                        )
+                        value_chunked_lst.append([1] + v[i : i + chunk_size] + [1])
                     else:
-                        value_chunked_lst.append(v[i:i + chunk_size])
+                        value_chunked_lst.append(v[i : i + chunk_size])
     elif packing_type == "partial":
-        result = {k:[] for k in examples}
+        result = {k: [] for k in examples}
         _key = all_keys[0]
         for idx in range(len(examples[_key])):
             total_length = len(examples[_key][idx])
@@ -217,17 +215,15 @@ def pack_examples(
                 for i in range(0, total_length, stride):
                     if key != "attention_mask":
                         sliced_example = [
-                            bos + examples[key][idx][i:i + chunk_size] + eos
+                            bos + examples[key][idx][i : i + chunk_size] + eos
                         ]
                     else:
                         if add_bos_eos:
                             sliced_example = [
-                                [1] + examples[key][idx][i:i + chunk_size] + [1]
+                                [1] + examples[key][idx][i : i + chunk_size] + [1]
                             ]
                         else:
-                            sliced_example = [
-                                examples[key][idx][i:i + chunk_size]
-                            ]
+                            sliced_example = [examples[key][idx][i : i + chunk_size]]
                     result[key].extend(sliced_example)
     else:
         msg = "`packing_type` needs to either be `full` or `partial`."
@@ -254,6 +250,51 @@ def add_indices(
     return dataset.add_column("id", indices)
 
 
+def apply_template(examples: dict[str, Any], prompt_template: str) -> dict[str, Any]:
+    """Apply the prompt template to the dataset.
+
+    Args:
+    ----
+        examples: The dataset examples.
+
+    Returns:
+    -------
+        The dataset with the template applied.
+    """
+    final_text = []
+    for input, output in zip(examples["input"], examples["output"]):
+        final_text.append(
+            prompt_template.format(
+                instruction=input,
+                response=output,
+            )
+        )
+    return {"text": final_text}
+
+
+def custom_train_test_split(ds, id_col, test_size=0.1, shuffle=True, seed=37):
+    random.seed(seed)
+    id_count = [elm[id_col] for elm in ds]
+    id_count = dict(Counter(id_count))
+    all_ids = list(id_count.keys())
+    test_count = np.ceil(test_size * len(ds))
+    test_ids = []
+    curr_count = 0
+    while curr_count < test_count:
+        curr_id = random.choice(list(id_count.keys()))
+        test_ids.append(curr_id)
+        curr_count += id_count[curr_id]
+        _ = id_count.pop(curr_id)
+
+    train_ids = list(set(all_ids) - set(test_ids))
+    assert len(set.intersection(set(train_ids), set(test_ids))) == 0
+
+    return {
+        "train": ds.filter(lambda x: x[id_col] in train_ids),
+        "test": ds.filter(lambda x: x[id_col] in test_ids),
+    }
+
+
 def main(config: Config) -> None:
     """Definition of main function.
 
@@ -275,23 +316,42 @@ def main(config: Config) -> None:
         ds = datasets.load_dataset(
             preprocess_args.load_path,
             split=preprocess_args.get("split"),
-            name=preprocess_args.get("subset"),
+            name=preprocess_args.get("subset", None),
         )
-    
+
     print("data loaded.")
+    print(f"# examples: {len(ds)}\n")
+
+    # using alpaca template from here:
+    # https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing#scrollTo=vITh0KVJ10qX
+    prompt_template = {
+        "template": """Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:\n{response}""",
+        "separator": "### Response:\n",
+    }
+    # apply prompt template to the dataset
+    ds = ds.map(
+        lambda examples: apply_template(examples, prompt_template["template"]),
+        batched=True,
+        batch_size=250,
+        num_proc=32,
+    )
+
+    print("prompt template applied.")
     print(f"# examples: {len(ds)}\n")
 
     # train-val split
     TEST_SIZE = 0.1
-    ds = ds.train_test_split(test_size=TEST_SIZE, shuffle=True, seed=37)
+    # ds = ds.train_test_split(test_size=TEST_SIZE, shuffle=True, seed=37)
+    ds = custom_train_test_split(
+        ds, id_col="source_id", test_size=TEST_SIZE, shuffle=True, seed=37
+    )
 
     print(f"data split into train and val set ({TEST_SIZE} test).")
     print(f"# examples (train): {len(ds['train'])}")
     print(f"# examples (val): {len(ds['test'])}\n")
 
     for subset, ds in ds.items():
-
-        subset = "val" if subset=="test" else subset
+        subset = "val" if subset == "test" else subset
 
         will_pack = False
         if preprocess_args.get("packing_type"):
@@ -299,9 +359,11 @@ def main(config: Config) -> None:
 
         if preprocess_args.get("add_bos_eos_tokens", True):
             special_tokens_created = isinstance(
-                tokenizer.bos_token_id, int,
+                tokenizer.bos_token_id,
+                int,
             ) and isinstance(
-                tokenizer.eos_token_id, int,
+                tokenizer.eos_token_id,
+                int,
             )
             if not special_tokens_created:
                 msg = (
@@ -317,7 +379,8 @@ def main(config: Config) -> None:
                 preprocess_args.data_field,
                 preprocess_args.get("pre_pend"),
                 preprocess_args.get("truncate", False),
-                preprocess_args.get("seperator"),
+                # preprocess_args.get("seperator"),
+                prompt_template["separator"],  # this changes for non-instruct data
                 # Note that if packing, we add the special tokens after packing.
                 not will_pack and preprocess_args.get("add_bos_eos_tokens", True),
             ),
@@ -349,12 +412,12 @@ def main(config: Config) -> None:
                 num_proc=8,
             )
 
-        print(f"{subset} data packed.")
-        input_ids = ds["input_ids"]
-        print(f"# examples: {len(input_ids)}")
-        num_tokens = [len(elm) for elm in input_ids]
-        print(f"# tokens (mean): {np.mean(num_tokens)}")
-        print(f"# tokens (total): {np.sum(num_tokens)}\n")
+            print(f"{subset} data packed.")
+            input_ids = ds["input_ids"]
+            print(f"# examples: {len(input_ids)}")
+            num_tokens = [len(elm) for elm in input_ids]
+            print(f"# tokens (mean): {np.mean(num_tokens)}")
+            print(f"# tokens (total): {np.sum(num_tokens)}\n")
 
         ds = add_indices(ds)
         ds.save_to_disk(os.path.join(preprocess_args.save_path, subset), max_shard_size="1GB")

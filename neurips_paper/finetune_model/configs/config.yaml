@@ -1,18 +1,18 @@
-model: /model-weights/Meta-Llama-3-8B/
+model: /model-weights/Meta-Llama-3-70B/
 enable_wandb_logging: True
 
 wandb_config:
   project: rag-knowledge-cutoff
-  name: test-Meta-Llama-3-8B
+  name: mhr-llama-3-70B-epoch-1
 
 train_parameters:
-  output_dir: /fs01/projects/ind_bias/rag-knowledge-cutoff
+  output_dir: models
   max_seq_len: 4096
   epochs: 1
   seed: 37
 
   # Sharding strategy
-  sharding_strategy: NO_SHARD
+  sharding_strategy: FULL_SHARD
 
   # Memory
   use_mp: True
@@ -46,25 +46,23 @@ train_parameters:
 
   # Checkpointing
   checkpointing_enabled: True
-  logging_steps: 500
+  logging_steps: 10
   save_frequency: 0.25
 
 dataset:
   ignore_index: -100
   eval_bs: 4
   train_bs: 4
-  train_ds: data/multi_hop_rag/train
-  eval_ds: data/multi_hop_rag/val
+  train_ds: data/multi_hop_rag_instruct/train
+  eval_ds: data/multi_hop_rag_instruct/val
 
 dataset_preprocess:
   ignore_index: -100
   dataset_format: hf
-  data_field: body
-  packing_type: partial
+  data_field: text
   add_bos_eos_tokens: True
   from_disk: False
-  load_path: yixuantt/MultiHopRAG
+  load_path: vector-institute/MultiHopRAG-instruct-tune-data
   split: train
-  subset: corpus
-  save_path: data/multi_hop_rag
-  truncate: False
+  save_path: data/multi_hop_rag_instruct
+  truncate: True
