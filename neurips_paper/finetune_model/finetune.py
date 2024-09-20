@@ -51,7 +51,7 @@ def parse_args() -> Namespace:
 def main(config: Config) -> None:
     """Define the main calling function."""
     training_args = config.train_parameters
-    model_out_dir = os.path.join(training_args.output_dir, config.wandb_config.name)
+    training_args.output_dir = os.path.join(training_args.output_dir, config.wandb_config.name)
 
     # set a seed
     set_seed(training_args.seed)
@@ -88,12 +88,12 @@ def main(config: Config) -> None:
         is_lora_enabled = True
         peft_adapter_path = None
         # Restore peft adapter from filesystem if available.
-        if checkpoint_exists(model_out_dir):
+        if checkpoint_exists(training_args.output_dir):
             peft_adapter_path = os.path.join(
-                model_out_dir,
+                training_args.output_dir,
                 "checkpoints",
                 get_latest_checkpoint_dir(
-                    os.path.join(model_out_dir, "checkpoints"),
+                    os.path.join(training_args.output_dir, "checkpoints"),
                 ),
             )
             is_peft_adapter_restored = True
@@ -157,7 +157,7 @@ def main(config: Config) -> None:
 
     # Checkpoint check. Always call before training.
     # If no checkpoint, it returns 0.
-    checkpointed_epoch = trainer.find_checkpoint(model_out_dir)
+    checkpointed_epoch = trainer.find_checkpoint(training_args.output_dir)
 
     print(f"===== LoRA enabled: {is_lora_enabled} ======")
 
@@ -173,10 +173,10 @@ def main(config: Config) -> None:
             trainer.step(batch, epoch)
 
         if epoch == training_args.epochs - 1:
-            hf_save_dir = os.path.join(model_out_dir, "final-model")
+            hf_save_dir = os.path.join(training_args.output_dir, "final-model")
         else:
             hf_save_dir = os.path.join(
-                model_out_dir,
+                training_args.output_dir,
                 "checkpoints",
                 f"epoch_{epoch}",
                 "end-epoch-model",
