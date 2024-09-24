@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 from inspect_ai import Task, task
-from inspect_ai.dataset import FieldSpec, hf_dataset
+from inspect_ai.dataset import FieldSpec, hf_dataset, csv_dataset
 from inspect_ai.solver import generate, prompt_template
 
 
@@ -31,23 +31,34 @@ def create_few_shot_exemplars(dataset, num_exemplars=5, seed=42):
     return "\n\n".join(exemplars_str)
 
 
-limit = 88
+limit = 67
 
-NUM_EXEMPLARS = 5
+# NUM_EXEMPLARS = 5
 
-# ZERO_SHOT_PROMPT_TEMPLATE = {
-#     "base": """QUESTION: {prompt}\nANSWER:""",
-#     "chat": """Provide an answer to the following QUESTION.\n\nQUESTION: {prompt}\nANSWER:""",
-# }
-
-FEW_SHOT_PROMPT_TEMPLATE = {
-    "base": """{exemplars}\n\nQUESTION: {prompt}\nANSWER:""",
-    "chat": """Provide an answer to the following QUESTION. Some examples are provided below.\n\n{exemplars}\n\nQUESTION: {prompt}\nANSWER:""",
+ZERO_SHOT_PROMPT_TEMPLATE = {
+    "base": """QUESTION: {prompt}\nANSWER:""",
+    "chat": """Provide an answer to the following QUESTION.\n\nQUESTION: {prompt}\nANSWER:""",
 }
 
-multihop_rag_dataset = hf_dataset(
-    "vector-institute/MultiHopRAG-syn-data-ctx_len-4096-100",
-    split="train",  # "train" is the only split in the dataset.
+# FEW_SHOT_PROMPT_TEMPLATE = {
+#     "base": """{exemplars}\n\nQUESTION: {prompt}\nANSWER:""",
+#     "chat": """Provide an answer to the following QUESTION. Some examples are provided below.\n\n{exemplars}\n\nQUESTION: {prompt}\nANSWER:""",
+# }
+
+task_cfg = load_from_yaml("tasks/legal-data-syn-120-v1/config.yaml")
+
+# qa_dataset = hf_dataset(
+#     task_cfg.dataset_path,
+#     split="train",  # "train" is the only split in the dataset.
+#     sample_fields=FieldSpec(
+#         input="question",
+#         target="ground_truth",
+#         metadata=["contexts", "evolution_type", "metadata"],
+#     ),
+#     limit=limit,
+# )
+qa_dataset = csv_dataset(
+    task_cfg["dataset_path"],
     sample_fields=FieldSpec(
         input="question",
         target="ground_truth",
@@ -55,18 +66,18 @@ multihop_rag_dataset = hf_dataset(
     ),
     limit=limit,
 )
+print(len(qa_dataset))
 
-FEW_SHOT_PROMPT_TEMPLATE = {
-    k: v.format(
-        exemplars=create_few_shot_exemplars(
-            deepcopy(multihop_rag_dataset), num_exemplars=NUM_EXEMPLARS
-        ),
-        prompt="{prompt}",
-    )
-    for k, v in FEW_SHOT_PROMPT_TEMPLATE.items()
-}
+# FEW_SHOT_PROMPT_TEMPLATE = {
+#     k: v.format(
+#         exemplars=create_few_shot_exemplars(
+#             deepcopy(qa_dataset), num_exemplars=NUM_EXEMPLARS
+#         ),
+#         prompt="{prompt}",
+#     )
+#     for k, v in FEW_SHOT_PROMPT_TEMPLATE.items()
+# }
 
-task_cfg = load_from_yaml("tasks/multihop-rag-syn-ctx-4096-100/multihop-rag-syn.yaml")
 task_obj = _Task(config=task_cfg, limit=limit)
 task_obj.build()
 assert len(task_obj.doc_store.documents) > 0
@@ -80,9 +91,9 @@ ragas_scorer = get_inspect_scorer(
 @task
 def multihop_rag():
     return Task(
-        dataset=multihop_rag_dataset,
+        dataset=qa_dataset,
         plan=[
-            prompt_template(template=FEW_SHOT_PROMPT_TEMPLATE["chat"]),
+            prompt_template(template=ZERO_SHOT_PROMPT_TEMPLATE["chat"]),
             generate(),
         ],
         scorer=ragas_scorer(),
