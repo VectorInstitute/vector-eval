@@ -92,6 +92,9 @@ retrieval_system = BasicRag(
     llm_name="openai-gpt-3.5-turbo",  # NOTE: Not used since retriever_only is True
     embed_model_name="/fs01/projects/opt_test/rag-knowledge-cutoff-embed-models/bge-large-en-v1.5",  # bge-large-en-v1.5 # NV-Embed-v1
     retriever_only=True,
+    chunk_size=256,
+    chunk_overlap=0,
+    similarity_top_k=3,
 )
 
 # RAG_FEW_SHOT_PROMPT_TEMPLATE = {
