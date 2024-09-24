@@ -144,11 +144,19 @@ class Task(abc.ABC):
             dataset_kwargs (Optional[Dict[str, Any]]): 
                 Additional keyword arguments to be passed.
         """
-        self.dataset = datasets.load_dataset(
-            path=self.config.dataset_path,
-            name=self.config.dataset_name,
-            **dataset_kwargs if dataset_kwargs is not None else {},
-        )
+        file_ext = self.config.dataset_path.split(".")[-1]
+        if file_ext == "csv":
+            self.dataset = datasets.load_dataset(
+                "csv",
+                data_files=self.config.dataset_path,
+                **dataset_kwargs if dataset_kwargs is not None else {}
+            )
+        else:
+            self.dataset = datasets.load_dataset(
+                path=self.config.dataset_path,
+                name=self.config.dataset_name,
+                **dataset_kwargs if dataset_kwargs is not None else {},
+            )
 
     def construct_instance(self, elm: Dict) -> Instance:
         """
