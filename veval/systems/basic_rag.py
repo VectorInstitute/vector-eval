@@ -6,7 +6,8 @@ from typing import List, Optional
 
 from llama_index.core import (
     Document,
-    ServiceContext,
+    # ServiceContext,
+    Settings,
     StorageContext,
     VectorStoreIndex,
     PromptTemplate,
@@ -65,12 +66,15 @@ class BasicRag(System):
             **self._cfg.llm_gen_args,
         )
 
-        # Configure service context
-        self.service_context = ServiceContext.from_defaults(
-            node_parser=self.node_parser,
-            embed_model=self.embed_model,
-            llm=self.llm,
-        )
+        # # Configure service context
+        # self.service_context = ServiceContext.from_defaults(
+        #     node_parser=self.node_parser,
+        #     embed_model=self.embed_model,
+        #     llm=self.llm,
+        # )
+        Settings.llm = self.llm
+        Settings.embed_model = self.embed_model
+        Settings.node_parser = self.node_parser
 
         # Configure vector store
         self.faiss_dim = get_embed_model_dim(self.embed_model)
@@ -110,7 +114,7 @@ class BasicRag(System):
             vector_index = VectorStoreIndex.from_documents(
                 documents=all_docs,
                 storage_context=storage_context,
-                service_context=self.service_context,
+                # service_context=self.service_context,
                 show_progress=True,
             )
             vector_index.storage_context.persist(self._index_dir)
@@ -119,14 +123,14 @@ class BasicRag(System):
         retriever = VectorIndexRetriever(
             index=vector_index,
             similarity_top_k=self.similarity_top_k,
-            service_context=self.service_context,
+            # service_context=self.service_context,
             embed_model=self.embed_model,
         )
         node_postprocessor = None
         response_synthesizer = get_response_synthesizer(
             response_mode=self.response_mode,
             text_qa_template=PromptTemplate(self.prompt_template),
-            service_context=self.service_context,
+            # service_context=self.service_context,
         )
         query_engine = RetrieverQueryEngine(
             retriever=retriever,
